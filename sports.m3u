@@ -152,7 +152,7 @@ http://74.91.26.218:82/live/cctv13hd.m3u8
 #EXTINF:-1 tvg-id="CCTV14" tvg-chno="2015" tvg-name="CCTV14" tvg-group="央视" group-title="央视",CCTV14
 http://74.91.26.218:82/live/cctv14hd.m3u8
 #EXTINF:-1 tvg-id="CCTV15" tvg-chno="2016" tvg-name="CCTV15" tvg-group="央视" group-title="央视",CCTV15
-http://204.12.221.218:8181/3m1080p/cctv15.m3u8
+http://198.204.228.26/live/cctv15hd.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-chno="2017" tvg-name="CCTV16" tvg-group="央视" group-title="央视",CCTV16
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-chno="2101" tvg-name="北京卫视" tvg-group="卫视" group-title="卫视",北京卫视
@@ -181,7 +181,9 @@ http://8.138.7.223/tv/bj.php?id=0005
 http://120.76.248.139/live/bfgd/4200000113.m3u8
 #EXTINF:-1 tvg-id="香港卫视" tvg-chno="2301" tvg-name="香港卫视" tvg-group="香港" group-title="香港",香港卫视
 http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-chno="2302" tvg-name="凤凰资讯" tvg-group="香港" group-title="香港",凤凰资讯
+#EXTINF:-1 tvg-id="明珠台" tvg-chno="2302" tvg-name="明珠台" tvg-group="香港" group-title="香港",明珠台
+http://r.jdshipin.com/jUx8K
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-chno="2303" tvg-name="凤凰资讯" tvg-group="香港" group-title="香港",凤凰资讯
 http://173.208.234.146/live/fhzx.m3u8
 #EXTINF:-1 tvg-id="TVBS亚洲" tvg-chno="2401" tvg-name="TVBS亚洲" tvg-group="台湾" group-title="台湾",TVBS亚洲
 http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
@@ -195,20 +197,20 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1 tvg-id="中视新闻" tvg-chno="2406" tvg-name="中视新闻" tvg-group="台湾" group-title="台湾",中视新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-#EXTINF:-1 tvg-id="民视" tvg-chno="2407" tvg-name="民视" tvg-group="台湾" group-title="台湾",民视
-http://183.239.108.37:1698/hls/133/index.m3u8
-#EXTINF:-1 tvg-id="民视新闻台" tvg-chno="2408" tvg-name="民视新闻台" tvg-group="台湾" group-title="台湾",民视新闻台
+#EXTINF:-1 tvg-id="民视新闻台" tvg-chno="2407" tvg-name="民视新闻台" tvg-group="台湾" group-title="台湾",民视新闻台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-#EXTINF:-1 tvg-id="东森财经新闻台" tvg-chno="2409" tvg-name="东森财经新闻台" tvg-group="台湾" group-title="台湾",东森财经新闻台
+#EXTINF:-1 tvg-id="东森财经新闻台" tvg-chno="2408" tvg-name="东森财经新闻台" tvg-group="台湾" group-title="台湾",东森财经新闻台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-#EXTINF:-1 tvg-id="东森超视" tvg-chno="2410" tvg-name="东森超视" tvg-group="台湾" group-title="台湾",东森超视
+#EXTINF:-1 tvg-id="东森超视" tvg-chno="2409" tvg-name="东森超视" tvg-group="台湾" group-title="台湾",东森超视
 http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-#EXTINF:-1 tvg-id="华视" tvg-chno="2411" tvg-name="华视" tvg-group="台湾" group-title="台湾",华视
+#EXTINF:-1 tvg-id="华视" tvg-chno="2410" tvg-name="华视" tvg-group="台湾" group-title="台湾",华视
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
-#EXTINF:-1 tvg-id="龙华戏剧" tvg-chno="2412" tvg-name="龙华戏剧" tvg-group="台湾" group-title="台湾",龙华戏剧
+#EXTINF:-1 tvg-id="靖天戏剧台" tvg-chno="2411" tvg-name="靖天戏剧台" tvg-group="台湾" group-title="台湾",靖天戏剧台
+http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058
+#EXTINF:-1 tvg-id="靖天映画" tvg-chno="2412" tvg-name="靖天映画" tvg-group="台湾" group-title="台湾",靖天映画
+http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055
+#EXTINF:-1 tvg-id="龙华戏剧" tvg-chno="2413" tvg-name="龙华戏剧" tvg-group="台湾" group-title="台湾",龙华戏剧
 https://8.fast.hidns.vip/163189/lhxj
-#EXTINF:-1 tvg-id="龙华经典" tvg-chno="2413" tvg-name="龙华经典" tvg-group="台湾" group-title="台湾",龙华经典
-http://8.fast.hidns.vip/163189/lhjd
 #EXTINF:-1 tvg-id="台视" tvg-chno="2414" tvg-name="台视" tvg-group="台湾" group-title="台湾",台视
 http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1 tvg-id="东森美洲卫视" tvg-chno="2415" tvg-name="东森美洲卫视" tvg-group="台湾" group-title="台湾",东森美洲卫视
