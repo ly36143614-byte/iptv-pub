@@ -55,11 +55,13 @@ http://192.168.5.35:44635/play/9f674678b844c456235b6ca2f7b12f8556d6517c
 http://192.168.5.35:44635/play/812ce791a4d9626d4ace3d48d87b55a5ec4b81e3
 #EXTINF:-1 tvg-id="索斯诺维茨女篮 vs 戈尔佐夫女篮" tvg-chno="1121" tvg-name="索斯诺维茨女篮 vs 戈尔佐夫女篮" tvg-group="篮球" group-title="篮球",索斯诺维茨女篮 vs 戈尔佐夫女篮
 http://192.168.5.35:44635/play/ce4f48b8b0c5e361d7f27813e46ef15cdbb2a8ab
-#EXTINF:-1 tvg-id="青岛 vs 天津" tvg-chno="1122" tvg-name="青岛 vs 天津" tvg-group="篮球" group-title="篮球",青岛 vs 天津
-http://192.168.5.35:44635/play/f979a85f0a1b2272c15bd260bd020fb45f43a2e2
+#EXTINF:-1 tvg-id="绍莱U21 vs 巴黎U21" tvg-chno="1122" tvg-name="绍莱U21 vs 巴黎U21" tvg-group="篮球" group-title="篮球",绍莱U21 vs 巴黎U21
+http://192.168.5.35:44635/play/42f9774aacc95d3469903bbeeb67936d32bf9c6b
 #EXTINF:-1 tvg-id="青岛 vs 天津" tvg-chno="1123" tvg-name="青岛 vs 天津" tvg-group="篮球" group-title="篮球",青岛 vs 天津
+http://192.168.5.35:44635/play/f979a85f0a1b2272c15bd260bd020fb45f43a2e2
+#EXTINF:-1 tvg-id="青岛 vs 天津" tvg-chno="1124" tvg-name="青岛 vs 天津" tvg-group="篮球" group-title="篮球",青岛 vs 天津
 http://192.168.5.35:44635/play/a006570e1d52ab2ed3cd30ace694ecd17191bdba
-#EXTINF:-1 tvg-id="鲁维巴 vs NA侯赛因德" tvg-chno="1124" tvg-name="鲁维巴 vs NA侯赛因德" tvg-group="篮球" group-title="篮球",鲁维巴 vs NA侯赛因德
+#EXTINF:-1 tvg-id="鲁维巴 vs NA侯赛因德" tvg-chno="1125" tvg-name="鲁维巴 vs NA侯赛因德" tvg-group="篮球" group-title="篮球",鲁维巴 vs NA侯赛因德
 http://192.168.5.35:44635/play/c98bf4155fce42e233e331657e7dfd4ea44bdd00
 #EXTINF:-1 tvg-id="休尔坦古佐 vs 努库斯咸海" tvg-chno="1201" tvg-name="休尔坦古佐 vs 努库斯咸海" tvg-group="足球" group-title="足球",休尔坦古佐 vs 努库斯咸海
 http://192.168.5.35:44635/play/0d8fce2caf5cd69af0b383a2bc9acc98f47fa2ba
@@ -77,29 +79,21 @@ http://192.168.5.35:44635/play/a49ac2ed1adc5e660b958c0b1f42d41d14e0bf94
 http://192.168.5.35:44635/play/f55b996c130f01bbc3f673ee0e6fdd2cc579736a
 #EXTINF:-1 tvg-id="土米斯拉 vs 萨拉热窝" tvg-chno="1208" tvg-name="土米斯拉 vs 萨拉热窝" tvg-group="足球" group-title="足球",土米斯拉 vs 萨拉热窝
 http://192.168.5.35:44635/play/75f286c2c851321ef0ff4c82b24cd5b6c3e2dd40
-#EXTINF:-1 tvg-id="埃斯托里尔U23 vs 辛达卡拉U23" tvg-chno="1209" tvg-name="埃斯托里尔U23 vs 辛达卡拉U23" tvg-group="足球" group-title="足球",埃斯托里尔U23 vs 辛达卡拉U23
-http://192.168.5.35:44635/play/550596c6c873ada5da1ec6ad053cfdb80279dd57
-#EXTINF:-1 tvg-id="埃斯托里尔U23 vs 辛达卡拉U23" tvg-chno="1210" tvg-name="埃斯托里尔U23 vs 辛达卡拉U23" tvg-group="足球" group-title="足球",埃斯托里尔U23 vs 辛达卡拉U23
-http://192.168.5.35:44635/play/8ec7ab9a2daaa702aea7576b2ec119391d2c5220
-#EXTINF:-1 tvg-id="拉夫沙安 vs 胡占德" tvg-chno="1211" tvg-name="拉夫沙安 vs 胡占德" tvg-group="足球" group-title="足球",拉夫沙安 vs 胡占德
+#EXTINF:-1 tvg-id="拉夫沙安 vs 胡占德" tvg-chno="1209" tvg-name="拉夫沙安 vs 胡占德" tvg-group="足球" group-title="足球",拉夫沙安 vs 胡占德
 http://192.168.5.35:44635/play/d902ee54b63580a11d760d7405358bf1fbb1156e
-#EXTINF:-1 tvg-id="拉夫沙安 vs 胡占德" tvg-chno="1212" tvg-name="拉夫沙安 vs 胡占德" tvg-group="足球" group-title="足球",拉夫沙安 vs 胡占德
+#EXTINF:-1 tvg-id="拉夫沙安 vs 胡占德" tvg-chno="1210" tvg-name="拉夫沙安 vs 胡占德" tvg-group="足球" group-title="足球",拉夫沙安 vs 胡占德
 http://192.168.5.35:44635/play/3b7d41b08049400eb4507bde78a86ad409790557
-#EXTINF:-1 tvg-id="拉查武里 vs 柏太阳神" tvg-chno="1213" tvg-name="拉查武里 vs 柏太阳神" tvg-group="足球" group-title="足球",拉查武里 vs 柏太阳神
+#EXTINF:-1 tvg-id="拉查武里 vs 柏太阳神" tvg-chno="1211" tvg-name="拉查武里 vs 柏太阳神" tvg-group="足球" group-title="足球",拉查武里 vs 柏太阳神
 http://192.168.5.35:44635/play/448227f7b615ae7040110e9dccd888bbcb238743
-#EXTINF:-1 tvg-id="拉查武里 vs 柏太阳神" tvg-chno="1214" tvg-name="拉查武里 vs 柏太阳神" tvg-group="足球" group-title="足球",拉查武里 vs 柏太阳神
+#EXTINF:-1 tvg-id="拉查武里 vs 柏太阳神" tvg-chno="1212" tvg-name="拉查武里 vs 柏太阳神" tvg-group="足球" group-title="足球",拉查武里 vs 柏太阳神
 http://192.168.5.35:44635/play/c2e40875eb1980bc28700d64d2a0549bd383cf0c
-#EXTINF:-1 tvg-id="法鲁人体育U23 vs 维塞乌U23" tvg-chno="1215" tvg-name="法鲁人体育U23 vs 维塞乌U23" tvg-group="足球" group-title="足球",法鲁人体育U23 vs 维塞乌U23
+#EXTINF:-1 tvg-id="法鲁人体育U23 vs 维塞乌U23" tvg-chno="1213" tvg-name="法鲁人体育U23 vs 维塞乌U23" tvg-group="足球" group-title="足球",法鲁人体育U23 vs 维塞乌U23
 http://192.168.5.35:44635/play/ce6bd8dac3d05dd072a30c75bd914e746df8c1db
-#EXTINF:-1 tvg-id="法鲁人体育U23 vs 维塞乌U23" tvg-chno="1216" tvg-name="法鲁人体育U23 vs 维塞乌U23" tvg-group="足球" group-title="足球",法鲁人体育U23 vs 维塞乌U23
+#EXTINF:-1 tvg-id="法鲁人体育U23 vs 维塞乌U23" tvg-chno="1214" tvg-name="法鲁人体育U23 vs 维塞乌U23" tvg-group="足球" group-title="足球",法鲁人体育U23 vs 维塞乌U23
 http://192.168.5.35:44635/play/19dde699a07a343564fbb816a801bd544ddd0744
-#EXTINF:-1 tvg-id="波尔蒂芒人U23 vs 马里迪莫U23" tvg-chno="1217" tvg-name="波尔蒂芒人U23 vs 马里迪莫U23" tvg-group="足球" group-title="足球",波尔蒂芒人U23 vs 马里迪莫U23
-http://192.168.5.35:44635/play/7419be0eed8efab7219906db1167a0364a9a7d78
-#EXTINF:-1 tvg-id="波尔蒂芒人U23 vs 马里迪莫U23" tvg-chno="1218" tvg-name="波尔蒂芒人U23 vs 马里迪莫U23" tvg-group="足球" group-title="足球",波尔蒂芒人U23 vs 马里迪莫U23
-http://192.168.5.35:44635/play/b22bb67ac41a69752b298b06944a3e17c957ed63
-#EXTINF:-1 tvg-id="莱茨纳 vs GKS卡托威斯" tvg-chno="1219" tvg-name="莱茨纳 vs GKS卡托威斯" tvg-group="足球" group-title="足球",莱茨纳 vs GKS卡托威斯
+#EXTINF:-1 tvg-id="莱茨纳 vs GKS卡托威斯" tvg-chno="1215" tvg-name="莱茨纳 vs GKS卡托威斯" tvg-group="足球" group-title="足球",莱茨纳 vs GKS卡托威斯
 http://192.168.5.35:44635/play/7cbf0054c209eaff4ad7b01008596ab931c35f9e
-#EXTINF:-1 tvg-id="莱茨纳 vs GKS卡托威斯" tvg-chno="1220" tvg-name="莱茨纳 vs GKS卡托威斯" tvg-group="足球" group-title="足球",莱茨纳 vs GKS卡托威斯
+#EXTINF:-1 tvg-id="莱茨纳 vs GKS卡托威斯" tvg-chno="1216" tvg-name="莱茨纳 vs GKS卡托威斯" tvg-group="足球" group-title="足球",莱茨纳 vs GKS卡托威斯
 http://192.168.5.35:44635/play/755d7ab5cbb589c9a003eb819a98d01bf591d8c5
 #EXTINF:-1 tvg-id="NFL Network" tvg-chno="1301" tvg-name="NFL Network" tvg-group="橄榄球" group-title="橄榄球",NFL Network
 http://198.58.104.90:8989/nfl/index.m3u8
