@@ -15,7 +15,6 @@
   <channel id="开拓者"><display-name>开拓者</display-name></channel>
   <channel id="快船"><display-name>快船</display-name></channel>
   <channel id="掘金"><display-name>掘金</display-name></channel>
-  <channel id="掘金 vs 勇士"><display-name>掘金 vs 勇士</display-name></channel>
   <channel id="森林狼"><display-name>森林狼</display-name></channel>
   <channel id="步行者"><display-name>步行者</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
@@ -141,10 +140,6 @@
   </programme>
   <programme start="20261029080000 +0800" stop="20261029104012 +0800" channel="掘金">
     <title>NBA：鹈鹕 vs 掘金</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261027100000 +0800" stop="20261027124012 +0800" channel="掘金 vs 勇士">
-    <title>Golden State Warriors at Denver Nuggets 已结束（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261029080000 +0800" stop="20261029104012 +0800" channel="森林狼">
@@ -331,8 +326,12 @@
     <title>NBA：快船 vs 湖人</title>
     <category>体育</category>
   </programme>
-  <programme start="20261029120000 +0800" stop="20261029140000 +0800" channel="赛程预告">
+  <programme start="20261029120000 +0800" stop="20261029150000 +0800" channel="赛程预告">
     <title>Dota2：CD vs ZENITH（EPL World SEA S19）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261029150000 +0800" stop="20261029170000 +0800" channel="赛程预告">
+    <title>Dota2：Resp vs RBear（EPL World SEA S19）</title>
     <category>体育</category>
   </programme>
   <programme start="20261029080000 +0800" stop="20261029104012 +0800" channel="雄鹿">
