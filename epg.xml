@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="wb-epg">
   <channel id="76人"><display-name>76人</display-name></channel>
-  <channel id="AI vs Team Legion"><display-name>AI vs Team Legion</display-name></channel>
   <channel id="CBS"><display-name>CBS</display-name></channel>
   <channel id="ESPN"><display-name>ESPN</display-name></channel>
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
@@ -36,10 +35,6 @@
   <channel id="黄蜂"><display-name>黄蜂</display-name></channel>
   <programme start="20261029070000 +0800" stop="20261029094012 +0800" channel="76人">
     <title>NBA：步行者 vs 76人</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261025034312 +0800" stop="20261025043136 +0800" channel="AI vs Team Legion">
-    <title>Astra Invicta vs LEGION（PARI UNIVERSE by FISSURE）</title>
     <category>体育</category>
   </programme>
   <programme start="20261102020000 +0800" stop="20261102051948 +0800" channel="CBS">
