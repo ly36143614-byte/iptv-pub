@@ -7,6 +7,7 @@
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="oveA vs Z10"><display-name>oveA vs Z10</display-name></channel>
+  <channel id="戈美尔B队 vs 特莫基明斯克B队"><display-name>戈美尔B队 vs 特莫基明斯克B队</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <programme start="20261025034312 +0800" stop="20261025043136 +0800" channel="AI vs Team Legion">
     <title>Astra Invicta vs LEGION（PARI UNIVERSE by FISSURE）</title>
@@ -78,6 +79,10 @@
   </programme>
   <programme start="20261027170000 +0800" stop="20261027193000 +0800" channel="oveA vs Z10">
     <title>Z10 vs oveA（EPC Season 3 - October 27）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261025011004 +0800" stop="20261025015548 +0800" channel="戈美尔B队 vs 特莫基明斯克B队">
+    <title>Dawn Bulls vs Yellow Submarine（EPL Masters 2026 ）</title>
     <category>体育</category>
   </programme>
   <programme start="20261027180000 +0800" stop="20261027200000 +0800" channel="赛程预告">
