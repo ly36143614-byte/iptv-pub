@@ -101,10 +101,6 @@ http://192.168.5.35:44635/play/b22bb67ac41a69752b298b06944a3e17c957ed63
 http://192.168.5.35:44635/play/7cbf0054c209eaff4ad7b01008596ab931c35f9e
 #EXTINF:-1 tvg-id="莱茨纳 vs GKS卡托威斯" tvg-chno="1220" tvg-name="莱茨纳 vs GKS卡托威斯" tvg-group="足球" group-title="足球",莱茨纳 vs GKS卡托威斯
 http://192.168.5.35:44635/play/755d7ab5cbb589c9a003eb819a98d01bf591d8c5
-#EXTINF:-1 tvg-id="贝卡麦克斯 vs 广宁" tvg-chno="1221" tvg-name="贝卡麦克斯 vs 广宁" tvg-group="足球" group-title="足球",贝卡麦克斯 vs 广宁
-http://192.168.5.35:44635/play/3e55260ae9ca18c11d3e7fe421edd9da5381c1c0
-#EXTINF:-1 tvg-id="贝卡麦克斯 vs 广宁" tvg-chno="1222" tvg-name="贝卡麦克斯 vs 广宁" tvg-group="足球" group-title="足球",贝卡麦克斯 vs 广宁
-http://192.168.5.35:44635/play/ac5154888c2f2820ff41517c9fad56551d59d745
 #EXTINF:-1 tvg-id="NFL Network" tvg-chno="1301" tvg-name="NFL Network" tvg-group="橄榄球" group-title="橄榄球",NFL Network
 http://198.58.104.90:8989/nfl/index.m3u8
 #EXTINF:-1 tvg-id="CBS" tvg-chno="1302" tvg-name="CBS" tvg-group="橄榄球" group-title="橄榄球",CBS
@@ -114,7 +110,7 @@ http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="Dota2中文·完美世界" tvg-chno="1401" tvg-name="Dota2中文·完美世界" tvg-group="DOTA2" group-title="DOTA2",Dota2中文·完美世界
 http://127.0.0.1:35455/douyu/6829849
 #EXTINF:-1 tvg-id="AI vs Team Legion" tvg-chno="1402" tvg-name="AI vs Team Legion" tvg-group="DOTA2" group-title="DOTA2",AI vs Team Legion
-http://192.168.5.35:44635/play/69b7017303512df93a336bc3cd5462417407f211
+http://192.168.5.35:44635/play/1911df14cd05b9aa49a39a8ad55e054a2c1303f5
 #EXTINF:-1 tvg-id="BB vs AI" tvg-chno="1403" tvg-name="BB vs AI" tvg-group="DOTA2" group-title="DOTA2",BB vs AI
 http://192.168.5.35:44635/play/9d87364ee2a30887467082407fc6af21d720db9a
 #EXTINF:-1 tvg-id="MENA Warriors vs Pibbles Corp" tvg-chno="1404" tvg-name="MENA Warriors vs Pibbles Corp" tvg-group="DOTA2" group-title="DOTA2",MENA Warriors vs Pibbles Corp
