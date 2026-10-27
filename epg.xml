@@ -21,7 +21,6 @@
   <channel id="活塞"><display-name>活塞</display-name></channel>
   <channel id="湖人"><display-name>湖人</display-name></channel>
   <channel id="火箭"><display-name>火箭</display-name></channel>
-  <channel id="火箭 vs 老鹰"><display-name>火箭 vs 老鹰</display-name></channel>
   <channel id="热火"><display-name>热火</display-name></channel>
   <channel id="爵士"><display-name>爵士</display-name></channel>
   <channel id="爵士 vs 灰熊"><display-name>爵士 vs 灰熊</display-name></channel>
@@ -175,10 +174,6 @@
   </programme>
   <programme start="20261029080000 +0800" stop="20261029104012 +0800" channel="火箭">
     <title>NBA：雄鹿 vs 火箭</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261027083000 +0800" stop="20261027111012 +0800" channel="火箭 vs 老鹰">
-    <title>Atlanta Hawks at Houston Rockets 已结束（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261029070000 +0800" stop="20261029094012 +0800" channel="热火">
