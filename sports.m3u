@@ -1,17 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="赛程预告" tvg-chno="1" tvg-name="赛程预告" tvg-group="赛程" group-title="赛程",赛程预告
 http://192.168.5.35:35455/schedule-placeholder.m3u8
-#EXTINF:-1 tvg-id="曼联" tvg-chno="1001" tvg-name="曼联" tvg-group="关注" group-title="关注",曼联｜赛程更新中
+#EXTINF:-1 tvg-id="曼联" tvg-chno="1001" tvg-name="曼联" tvg-group="关注" group-title="关注",曼联｜10-31 20:30 切尔西
 http://192.168.5.35:35456/team/%E6%9B%BC%E8%81%94
-#EXTINF:-1 tvg-id="曼城" tvg-chno="1002" tvg-name="曼城" tvg-group="关注" group-title="关注",曼城｜赛程更新中
+#EXTINF:-1 tvg-id="曼城" tvg-chno="1002" tvg-name="曼城" tvg-group="关注" group-title="关注",曼城｜10-29 03:30 布莱顿
 http://192.168.5.35:35456/team/%E6%9B%BC%E5%9F%8E
 #EXTINF:-1 tvg-id="拜仁" tvg-chno="1003" tvg-name="拜仁" tvg-group="关注" group-title="关注",拜仁｜10-28 03:00 巴萨
 http://192.168.5.35:35456/team/%E6%8B%9C%E4%BB%81
 #EXTINF:-1 tvg-id="皇马" tvg-chno="1004" tvg-name="皇马" tvg-group="关注" group-title="关注",皇马｜10-28 04:00 巴斯克
 http://192.168.5.35:35456/team/%E7%9A%87%E9%A9%AC
-#EXTINF:-1 tvg-id="北京首钢" tvg-chno="1005" tvg-name="北京首钢" tvg-group="关注" group-title="关注",北京首钢｜赛程更新中
+#EXTINF:-1 tvg-id="北京首钢" tvg-chno="1005" tvg-name="北京首钢" tvg-group="关注" group-title="关注",北京首钢｜直播中 vs 山东
 http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E9%A6%96%E9%92%A2
-#EXTINF:-1 tvg-id="北京国安" tvg-chno="1006" tvg-name="北京国安" tvg-group="关注" group-title="关注",北京国安｜赛程更新中
+#EXTINF:-1 tvg-id="北京国安" tvg-chno="1006" tvg-name="北京国安" tvg-group="关注" group-title="关注",北京国安｜直播中 vs 全北现代
 http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1101" tvg-name="NBA TV" tvg-group="篮球" group-title="篮球",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
@@ -85,17 +85,13 @@ http://192.168.5.35:44635/play/19dde699a07a343564fbb816a801bd544ddd0744
 http://192.168.5.35:44635/play/7419be0eed8efab7219906db1167a0364a9a7d78
 #EXTINF:-1 tvg-id="波尔蒂芒人U23 vs 马里迪莫U23" tvg-chno="1210" tvg-name="波尔蒂芒人U23 vs 马里迪莫U23" tvg-group="足球" group-title="足球",波尔蒂芒人U23 vs 马里迪莫U23
 http://192.168.5.35:44635/play/b22bb67ac41a69752b298b06944a3e17c957ed63
-#EXTINF:-1 tvg-id="皇家班加罗尔 vs 班加罗尔根源" tvg-chno="1211" tvg-name="皇家班加罗尔 vs 班加罗尔根源" tvg-group="足球" group-title="足球",皇家班加罗尔 vs 班加罗尔根源
-http://192.168.5.35:44635/play/580088f740b339db5fd751dd136b9a5b235bf31c
-#EXTINF:-1 tvg-id="皇家班加罗尔 vs 班加罗尔根源" tvg-chno="1212" tvg-name="皇家班加罗尔 vs 班加罗尔根源" tvg-group="足球" group-title="足球",皇家班加罗尔 vs 班加罗尔根源
-http://192.168.5.35:44635/play/466223c700fa75f8373e3d71d45f77a7e721932c
-#EXTINF:-1 tvg-id="莱茨纳 vs GKS卡托威斯" tvg-chno="1213" tvg-name="莱茨纳 vs GKS卡托威斯" tvg-group="足球" group-title="足球",莱茨纳 vs GKS卡托威斯
+#EXTINF:-1 tvg-id="莱茨纳 vs GKS卡托威斯" tvg-chno="1211" tvg-name="莱茨纳 vs GKS卡托威斯" tvg-group="足球" group-title="足球",莱茨纳 vs GKS卡托威斯
 http://192.168.5.35:44635/play/7cbf0054c209eaff4ad7b01008596ab931c35f9e
-#EXTINF:-1 tvg-id="莱茨纳 vs GKS卡托威斯" tvg-chno="1214" tvg-name="莱茨纳 vs GKS卡托威斯" tvg-group="足球" group-title="足球",莱茨纳 vs GKS卡托威斯
+#EXTINF:-1 tvg-id="莱茨纳 vs GKS卡托威斯" tvg-chno="1212" tvg-name="莱茨纳 vs GKS卡托威斯" tvg-group="足球" group-title="足球",莱茨纳 vs GKS卡托威斯
 http://192.168.5.35:44635/play/755d7ab5cbb589c9a003eb819a98d01bf591d8c5
-#EXTINF:-1 tvg-id="贝卡麦克斯 vs 广宁" tvg-chno="1215" tvg-name="贝卡麦克斯 vs 广宁" tvg-group="足球" group-title="足球",贝卡麦克斯 vs 广宁
+#EXTINF:-1 tvg-id="贝卡麦克斯 vs 广宁" tvg-chno="1213" tvg-name="贝卡麦克斯 vs 广宁" tvg-group="足球" group-title="足球",贝卡麦克斯 vs 广宁
 http://192.168.5.35:44635/play/3e55260ae9ca18c11d3e7fe421edd9da5381c1c0
-#EXTINF:-1 tvg-id="贝卡麦克斯 vs 广宁" tvg-chno="1216" tvg-name="贝卡麦克斯 vs 广宁" tvg-group="足球" group-title="足球",贝卡麦克斯 vs 广宁
+#EXTINF:-1 tvg-id="贝卡麦克斯 vs 广宁" tvg-chno="1214" tvg-name="贝卡麦克斯 vs 广宁" tvg-group="足球" group-title="足球",贝卡麦克斯 vs 广宁
 http://192.168.5.35:44635/play/ac5154888c2f2820ff41517c9fad56551d59d745
 #EXTINF:-1 tvg-id="NFL Network" tvg-chno="1301" tvg-name="NFL Network" tvg-group="橄榄球" group-title="橄榄球",NFL Network
 http://198.58.104.90:8989/nfl/index.m3u8
