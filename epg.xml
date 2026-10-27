@@ -1,44 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="wb-epg">
-  <channel id="76人"><display-name>76人</display-name></channel>
   <channel id="AI vs Team Legion"><display-name>AI vs Team Legion</display-name></channel>
   <channel id="CBS"><display-name>CBS</display-name></channel>
   <channel id="Dota2中文·完美世界"><display-name>Dota2中文·完美世界</display-name></channel>
   <channel id="ESPN"><display-name>ESPN</display-name></channel>
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
-  <channel id="公牛"><display-name>公牛</display-name></channel>
-  <channel id="凯尔特人"><display-name>凯尔特人</display-name></channel>
-  <channel id="勇士"><display-name>勇士</display-name></channel>
-  <channel id="国王"><display-name>国王</display-name></channel>
-  <channel id="奇才"><display-name>奇才</display-name></channel>
-  <channel id="尼克斯"><display-name>尼克斯</display-name></channel>
-  <channel id="开拓者"><display-name>开拓者</display-name></channel>
-  <channel id="快船"><display-name>快船</display-name></channel>
-  <channel id="掘金"><display-name>掘金</display-name></channel>
-  <channel id="森林狼"><display-name>森林狼</display-name></channel>
-  <channel id="步行者"><display-name>步行者</display-name></channel>
-  <channel id="活塞"><display-name>活塞</display-name></channel>
-  <channel id="湖人"><display-name>湖人</display-name></channel>
-  <channel id="火箭"><display-name>火箭</display-name></channel>
-  <channel id="热火"><display-name>热火</display-name></channel>
-  <channel id="爵士"><display-name>爵士</display-name></channel>
-  <channel id="独行侠"><display-name>独行侠</display-name></channel>
-  <channel id="猛龙"><display-name>猛龙</display-name></channel>
-  <channel id="篮网"><display-name>篮网</display-name></channel>
-  <channel id="老鹰"><display-name>老鹰</display-name></channel>
+  <channel id="oveA vs Z10"><display-name>oveA vs Z10</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
-  <channel id="雄鹿"><display-name>雄鹿</display-name></channel>
-  <channel id="雷霆"><display-name>雷霆</display-name></channel>
-  <channel id="马刺"><display-name>马刺</display-name></channel>
-  <channel id="骑士"><display-name>骑士</display-name></channel>
-  <channel id="魔术"><display-name>魔术</display-name></channel>
-  <channel id="鹈鹕"><display-name>鹈鹕</display-name></channel>
-  <channel id="黄蜂"><display-name>黄蜂</display-name></channel>
-  <programme start="20261029070000 +0800" stop="20261029094012 +0800" channel="76人">
-    <title>NBA：步行者 vs 76人</title>
-    <category>体育</category>
-  </programme>
   <programme start="20261025034312 +0800" stop="20261025043136 +0800" channel="AI vs Team Legion">
     <title>Astra Invicta vs LEGION（PARI UNIVERSE by FISSURE）</title>
     <category>体育</category>
@@ -107,96 +76,8 @@
     <title>Philadelphia Eagles at Washington Commanders（NFL）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261029080000 +0800" stop="20261029104012 +0800" channel="公牛">
-    <title>NBA：公牛 vs 尼克斯</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261028073000 +0800" stop="20261028101012 +0800" channel="凯尔特人">
-    <title>NBA：凯尔特人 vs 篮网</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261029080000 +0800" stop="20261029104012 +0800" channel="勇士">
-    <title>NBA：森林狼 vs 勇士</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261028080000 +0800" stop="20261028104012 +0800" channel="国王">
-    <title>NBA：马刺 vs 国王</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261029070000 +0800" stop="20261029094012 +0800" channel="奇才">
-    <title>NBA：骑士 vs 奇才</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261028080000 +0800" stop="20261028104012 +0800" channel="尼克斯">
-    <title>NBA：尼克斯 vs 活塞</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261029080000 +0800" stop="20261029104012 +0800" channel="尼克斯">
-    <title>NBA：公牛 vs 尼克斯</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261028110000 +0800" stop="20261028134012 +0800" channel="开拓者">
-    <title>NBA：湖人 vs 开拓者</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261029103000 +0800" stop="20261029131012 +0800" channel="快船">
-    <title>NBA：快船 vs 湖人</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261029080000 +0800" stop="20261029104012 +0800" channel="掘金">
-    <title>NBA：鹈鹕 vs 掘金</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261029080000 +0800" stop="20261029104012 +0800" channel="森林狼">
-    <title>NBA：森林狼 vs 勇士</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261029070000 +0800" stop="20261029094012 +0800" channel="步行者">
-    <title>NBA：步行者 vs 76人</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261028080000 +0800" stop="20261028104012 +0800" channel="活塞">
-    <title>NBA：尼克斯 vs 活塞</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261029070000 +0800" stop="20261029094012 +0800" channel="活塞">
-    <title>NBA：活塞 vs 黄蜂</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261028110000 +0800" stop="20261028134012 +0800" channel="湖人">
-    <title>NBA：湖人 vs 开拓者</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261029103000 +0800" stop="20261029131012 +0800" channel="湖人">
-    <title>NBA：快船 vs 湖人</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261029080000 +0800" stop="20261029104012 +0800" channel="火箭">
-    <title>NBA：雄鹿 vs 火箭</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261029070000 +0800" stop="20261029094012 +0800" channel="热火">
-    <title>NBA：老鹰 vs 热火</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261029090000 +0800" stop="20261029114012 +0800" channel="爵士">
-    <title>NBA：爵士 vs 马刺</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261029093000 +0800" stop="20261029121012 +0800" channel="独行侠">
-    <title>NBA：独行侠 vs 雷霆</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261029073000 +0800" stop="20261029101012 +0800" channel="猛龙">
-    <title>NBA：猛龙 vs 魔术</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261028073000 +0800" stop="20261028101012 +0800" channel="篮网">
-    <title>NBA：凯尔特人 vs 篮网</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261029070000 +0800" stop="20261029094012 +0800" channel="老鹰">
-    <title>NBA：老鹰 vs 热火</title>
+  <programme start="20261027170000 +0800" stop="20261027193000 +0800" channel="oveA vs Z10">
+    <title>Z10 vs oveA（EPC Season 3 - October 27）</title>
     <category>体育</category>
   </programme>
   <programme start="20261027180000 +0800" stop="20261027200000 +0800" channel="赛程预告">
@@ -337,38 +218,6 @@
   </programme>
   <programme start="20261029180000 +0800" stop="20261029200000 +0800" channel="赛程预告">
     <title>Dota2：Nem.A vs Db（EPL World SEA S19）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261029080000 +0800" stop="20261029104012 +0800" channel="雄鹿">
-    <title>NBA：雄鹿 vs 火箭</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261029093000 +0800" stop="20261029121012 +0800" channel="雷霆">
-    <title>NBA：独行侠 vs 雷霆</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261028080000 +0800" stop="20261028104012 +0800" channel="马刺">
-    <title>NBA：马刺 vs 国王</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261029090000 +0800" stop="20261029114012 +0800" channel="马刺">
-    <title>NBA：爵士 vs 马刺</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261029070000 +0800" stop="20261029094012 +0800" channel="骑士">
-    <title>NBA：骑士 vs 奇才</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261029073000 +0800" stop="20261029101012 +0800" channel="魔术">
-    <title>NBA：猛龙 vs 魔术</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261029080000 +0800" stop="20261029104012 +0800" channel="鹈鹕">
-    <title>NBA：鹈鹕 vs 掘金</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261029070000 +0800" stop="20261029094012 +0800" channel="黄蜂">
-    <title>NBA：活塞 vs 黄蜂</title>
     <category>体育</category>
   </programme>
 </tv>
