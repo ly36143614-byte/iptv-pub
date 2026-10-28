@@ -105,8 +105,6 @@ https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1309" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1310" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
-https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="AB vs LVLUP Academy" tvg-chno="1401" tvg-name="AB vs LVLUP Academy" tvg-group="DOTA2" group-title="DOTA2",AB vs LVLUP Academy
 http://192.168.5.35:44635/play/a00d6e563953d295ad58dc5f7e0642dfa82e50f7
 #EXTINF:-1 tvg-id="AB vs LVLUP Academy" tvg-chno="1402" tvg-name="AB vs LVLUP Academy" tvg-group="DOTA2" group-title="DOTA2",AB vs LVLUP Academy
