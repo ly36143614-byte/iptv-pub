@@ -93,11 +93,9 @@ http://192.168.5.35:44635/play/1432b79302522ad5cf9b6a30feca3f72265cfbf0
 http://192.168.5.35:44635/play/184f0f78aa9e42ed62be7ed29f0c89b6a0b043d6
 #EXTINF:-1 tvg-id="斯亚卡 vs 波兹南莱赫" tvg-chno="1208" tvg-name="斯亚卡 vs 波兹南莱赫" tvg-group="足球" group-title="足球",斯亚卡 vs 波兹南莱赫
 http://192.168.5.35:44635/play/eb681f1985e9c26968d6247710d543be5038db10
-#EXTINF:-1 tvg-id="欧兹德绍约沃什杰 vs 尼尔吉哈萨" tvg-chno="1209" tvg-name="欧兹德绍约沃什杰 vs 尼尔吉哈萨" tvg-group="足球" group-title="足球",欧兹德绍约沃什杰 vs 尼尔吉哈萨
-http://192.168.5.35:44635/play/be386c00c18ffa9882891822482090d14a8f167d
-#EXTINF:-1 tvg-id="茨维耶兹达 vs 莫斯塔尔维列兹" tvg-chno="1210" tvg-name="茨维耶兹达 vs 莫斯塔尔维列兹" tvg-group="足球" group-title="足球",茨维耶兹达 vs 莫斯塔尔维列兹
+#EXTINF:-1 tvg-id="茨维耶兹达 vs 莫斯塔尔维列兹" tvg-chno="1209" tvg-name="茨维耶兹达 vs 莫斯塔尔维列兹" tvg-group="足球" group-title="足球",茨维耶兹达 vs 莫斯塔尔维列兹
 http://192.168.5.35:44635/play/78510840d14f46df7ce635f51d616b252d8544bc
-#EXTINF:-1 tvg-id="茨维耶兹达 vs 莫斯塔尔维列兹" tvg-chno="1211" tvg-name="茨维耶兹达 vs 莫斯塔尔维列兹" tvg-group="足球" group-title="足球",茨维耶兹达 vs 莫斯塔尔维列兹
+#EXTINF:-1 tvg-id="茨维耶兹达 vs 莫斯塔尔维列兹" tvg-chno="1210" tvg-name="茨维耶兹达 vs 莫斯塔尔维列兹" tvg-group="足球" group-title="足球",茨维耶兹达 vs 莫斯塔尔维列兹
 http://192.168.5.35:44635/play/069dfa872e7ce53045b16199bba98eeaea8f93fd
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1301" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
