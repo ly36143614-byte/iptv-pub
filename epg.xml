@@ -125,12 +125,16 @@
     <title>德国杯：帕德博恩 vs 斯图加特；沙尔克04：德累斯顿迪纳摩 vs 沙尔克04；弗赖堡：弗赖堡 vs 沃尔夫斯堡</title>
     <category>体育</category>
   </programme>
-  <programme start="20261029013000 +0800" stop="20261029020000 +0800" channel="赛程预告">
+  <programme start="20261029013000 +0800" stop="20261029014500 +0800" channel="赛程预告">
     <title>意甲：威尼斯 vs 国际米兰；AC米兰 vs 博洛尼亚；帕尔马 vs 乌迪内斯</title>
     <category>体育</category>
   </programme>
+  <programme start="20261029014500 +0800" stop="20261029020000 +0800" channel="赛程预告">
+    <title>荷兰杯：鹿斯巴达 vs 福图纳</title>
+    <category>体育</category>
+  </programme>
   <programme start="20261029020000 +0800" stop="20261029033000 +0800" channel="赛程预告">
-    <title>Dota2：GL vs LEGION（PARI Universe）；Z10 vs Rvnnt（NEXUS SERIES II）；Rott vs LVLUP.A（EPC Season 3）</title>
+    <title>瑞超：布鲁马波 vs 赫根；Dota2：GL vs LEGION（PARI Universe）；Dota2：Z10 vs Rvnnt（NEXUS SERIES II）；Dota2：Rott vs LVLUP.A（EPC Season 3）</title>
     <category>体育</category>
   </programme>
   <programme start="20261029033000 +0800" stop="20261029034500 +0800" channel="赛程预告">
@@ -154,7 +158,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261029063000 +0800" stop="20261029070000 +0800" channel="赛程预告">
-    <title>巴甲：桑托斯 vs 帕尔梅拉斯</title>
+    <title>巴甲：弗鲁米嫩 vs 巴西国际；桑托斯 vs 帕尔梅拉斯</title>
     <category>体育</category>
   </programme>
   <programme start="20261029070000 +0800" stop="20261029073000 +0800" channel="赛程预告">
@@ -162,7 +166,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261029073000 +0800" stop="20261029080000 +0800" channel="赛程预告">
-    <title>迈阿密国际：迈阿密国际 vs 辛辛那提FC；NBA：猛龙 vs 魔术</title>
+    <title>美职：迈国际 vs 辛辛那提；迈阿密国际：迈阿密国际 vs 辛辛那提FC；NBA：猛龙 vs 魔术</title>
     <category>体育</category>
   </programme>
   <programme start="20261029080000 +0800" stop="20261029090000 +0800" channel="赛程预告">
