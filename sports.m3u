@@ -117,6 +117,8 @@ http://192.168.5.35:44635/play/c866aee7cda80ee316594616b09ba4858e954c36
 http://192.168.5.35:44635/play/5d0474967884ed98bda52263499518a1745b8fc6
 #EXTINF:-1 tvg-id="雷利赞竞技U20 vs 雷姆治U20" tvg-chno="1226" tvg-name="雷利赞竞技U20 vs 雷姆治U20" tvg-group="足球" group-title="足球",雷利赞竞技U20 vs 雷姆治U20
 http://192.168.5.35:44635/play/0317a62fb30bd817385a5b7111675c069c903cb7
+#EXTINF:-1 tvg-id="马亚克萨尔内 vs 哈尔科夫冶金" tvg-chno="1227" tvg-name="马亚克萨尔内 vs 哈尔科夫冶金" tvg-group="足球" group-title="足球",马亚克萨尔内 vs 哈尔科夫冶金
+http://192.168.5.35:44635/play/c87f35765a76eb9df411b1b97932e48a4bef5c85
 #EXTINF:-1 tvg-id="NFL Network" tvg-chno="1301" tvg-name="NFL Network" tvg-group="橄榄球" group-title="橄榄球",NFL Network
 http://198.58.104.90:8989/nfl/index.m3u8
 #EXTINF:-1 tvg-id="CBS" tvg-chno="1302" tvg-name="CBS" tvg-group="橄榄球" group-title="橄榄球",CBS
