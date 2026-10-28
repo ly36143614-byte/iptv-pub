@@ -76,8 +76,10 @@ http://192.168.5.35:44635/play/8281c3e3f3a2828e1682459903d4efe47fc852ec
 #EXTINF:-1 tvg-id="艾斯特女篮 vs 幸运克莱佩达女篮" tvg-chno="1130" tvg-name="艾斯特女篮 vs 幸运克莱佩达女篮" tvg-group="篮球" group-title="篮球",艾斯特女篮 vs 幸运克莱佩达女篮
 http://192.168.5.35:44635/play/ec908c973c37e93cb3703a9a406a8c93e135aad6
 #EXTINF:-1 tvg-id="莫斯科迪纳摩女篮 vs 弗拉基米尔大学VlGU女篮" tvg-chno="1131" tvg-name="莫斯科迪纳摩女篮 vs 弗拉基米尔大学VlGU女篮" tvg-group="篮球" group-title="篮球",莫斯科迪纳摩女篮 vs 弗拉基米尔大学VlGU女篮
-http://192.168.5.35:44635/play/89ed9cb40c5126954b7aaae58afd04b9cd168bf5
-#EXTINF:-1 tvg-id="萨格女篮 vs 斯比尼卡女篮" tvg-chno="1132" tvg-name="萨格女篮 vs 斯比尼卡女篮" tvg-group="篮球" group-title="篮球",萨格女篮 vs 斯比尼卡女篮
+http://192.168.5.35:44635/play/e2deb75cd739c6cbd75f04f4bfa786a59bccd585
+#EXTINF:-1 tvg-id="莫斯科迪纳摩女篮 vs 弗拉基米尔大学VlGU女篮" tvg-chno="1132" tvg-name="莫斯科迪纳摩女篮 vs 弗拉基米尔大学VlGU女篮" tvg-group="篮球" group-title="篮球",莫斯科迪纳摩女篮 vs 弗拉基米尔大学VlGU女篮
+http://192.168.5.35:44635/play/c24303ee37480b0d494431bd6c10718c03c8159c
+#EXTINF:-1 tvg-id="萨格女篮 vs 斯比尼卡女篮" tvg-chno="1133" tvg-name="萨格女篮 vs 斯比尼卡女篮" tvg-group="篮球" group-title="篮球",萨格女篮 vs 斯比尼卡女篮
 http://192.168.5.35:44635/play/42b1c6be6845c81d1b2addf6ecd9ed4921af8bbc
 #EXTINF:-1 tvg-id="仁川现代女足 vs 康津天鹅女足" tvg-chno="1201" tvg-name="仁川现代女足 vs 康津天鹅女足" tvg-group="足球" group-title="足球",仁川现代女足 vs 康津天鹅女足
 http://192.168.5.35:44635/play/582f93dcb36a2d915c427d8f1d16b7b5fcc31e03
@@ -99,57 +101,49 @@ http://192.168.5.35:44635/play/421d47044057bfe5840fbe55d6793a4252e17c72
 http://192.168.5.35:44635/play/8e7232c936e513953391bce231a7bcd80d0ceb0b
 #EXTINF:-1 tvg-id="名古屋鲸鱼 vs 浦和红钻" tvg-chno="1210" tvg-name="名古屋鲸鱼 vs 浦和红钻" tvg-group="足球" group-title="足球",名古屋鲸鱼 vs 浦和红钻
 http://192.168.5.35:44635/play/66c478cb0ce005eced25cb1019210d70ee06f034
-#EXTINF:-1 tvg-id="哈普斯古巴 vs 沙马基" tvg-chno="1211" tvg-name="哈普斯古巴 vs 沙马基" tvg-group="足球" group-title="足球",哈普斯古巴 vs 沙马基
-http://192.168.5.35:44635/play/5e74fe68f65cf81453fa58f6ba5a36d72b550cac
-#EXTINF:-1 tvg-id="哈普斯古巴 vs 沙马基" tvg-chno="1212" tvg-name="哈普斯古巴 vs 沙马基" tvg-group="足球" group-title="足球",哈普斯古巴 vs 沙马基
-http://192.168.5.35:44635/play/d3111782ebd87752956fccedc5249142b145ba8e
-#EXTINF:-1 tvg-id="大阪钢巴 vs 武里南联" tvg-chno="1213" tvg-name="大阪钢巴 vs 武里南联" tvg-group="足球" group-title="足球",大阪钢巴 vs 武里南联
+#EXTINF:-1 tvg-id="大阪钢巴 vs 武里南联" tvg-chno="1211" tvg-name="大阪钢巴 vs 武里南联" tvg-group="足球" group-title="足球",大阪钢巴 vs 武里南联
 http://192.168.5.35:44635/play/95dc4d32613b9435952aabefec6b3a8cf4fc3e98
-#EXTINF:-1 tvg-id="大阪钢巴 vs 武里南联" tvg-chno="1214" tvg-name="大阪钢巴 vs 武里南联" tvg-group="足球" group-title="足球",大阪钢巴 vs 武里南联
+#EXTINF:-1 tvg-id="大阪钢巴 vs 武里南联" tvg-chno="1212" tvg-name="大阪钢巴 vs 武里南联" tvg-group="足球" group-title="足球",大阪钢巴 vs 武里南联
 http://192.168.5.35:44635/play/76f0bfd14b28b986ca3a41390111578bda2b9959
-#EXTINF:-1 tvg-id="庆州KHNP女足 vs 首尔市厅女足" tvg-chno="1215" tvg-name="庆州KHNP女足 vs 首尔市厅女足" tvg-group="足球" group-title="足球",庆州KHNP女足 vs 首尔市厅女足
+#EXTINF:-1 tvg-id="庆州KHNP女足 vs 首尔市厅女足" tvg-chno="1213" tvg-name="庆州KHNP女足 vs 首尔市厅女足" tvg-group="足球" group-title="足球",庆州KHNP女足 vs 首尔市厅女足
 http://192.168.5.35:44635/play/216ad857802bef89f43237e29ef1c5a0f076a460
-#EXTINF:-1 tvg-id="庆州KHNP女足 vs 首尔市厅女足" tvg-chno="1216" tvg-name="庆州KHNP女足 vs 首尔市厅女足" tvg-group="足球" group-title="足球",庆州KHNP女足 vs 首尔市厅女足
+#EXTINF:-1 tvg-id="庆州KHNP女足 vs 首尔市厅女足" tvg-chno="1214" tvg-name="庆州KHNP女足 vs 首尔市厅女足" tvg-group="足球" group-title="足球",庆州KHNP女足 vs 首尔市厅女足
 http://192.168.5.35:44635/play/95bf679ea21963193528ed1bccfeaec801ce39bb
-#EXTINF:-1 tvg-id="横滨水手 vs 广岛三箭" tvg-chno="1217" tvg-name="横滨水手 vs 广岛三箭" tvg-group="足球" group-title="足球",横滨水手 vs 广岛三箭
+#EXTINF:-1 tvg-id="横滨水手 vs 广岛三箭" tvg-chno="1215" tvg-name="横滨水手 vs 广岛三箭" tvg-group="足球" group-title="足球",横滨水手 vs 广岛三箭
 http://192.168.5.35:44635/play/ce8ca3605b7b46d70faa56cfb4129a3d40d6a73e
-#EXTINF:-1 tvg-id="横滨水手 vs 广岛三箭" tvg-chno="1218" tvg-name="横滨水手 vs 广岛三箭" tvg-group="足球" group-title="足球",横滨水手 vs 广岛三箭
+#EXTINF:-1 tvg-id="横滨水手 vs 广岛三箭" tvg-chno="1216" tvg-name="横滨水手 vs 广岛三箭" tvg-group="足球" group-title="足球",横滨水手 vs 广岛三箭
 http://192.168.5.35:44635/play/cc4c74e30f85c596ebb600a8486869e0a24637bb
-#EXTINF:-1 tvg-id="水原FC女足 vs 闻庆尚武女足" tvg-chno="1219" tvg-name="水原FC女足 vs 闻庆尚武女足" tvg-group="足球" group-title="足球",水原FC女足 vs 闻庆尚武女足
+#EXTINF:-1 tvg-id="水原FC女足 vs 闻庆尚武女足" tvg-chno="1217" tvg-name="水原FC女足 vs 闻庆尚武女足" tvg-group="足球" group-title="足球",水原FC女足 vs 闻庆尚武女足
 http://192.168.5.35:44635/play/24d5bb6705a9e6dbc54a02cb9bc8236ac096bd9c
-#EXTINF:-1 tvg-id="水原FC女足 vs 闻庆尚武女足" tvg-chno="1220" tvg-name="水原FC女足 vs 闻庆尚武女足" tvg-group="足球" group-title="足球",水原FC女足 vs 闻庆尚武女足
+#EXTINF:-1 tvg-id="水原FC女足 vs 闻庆尚武女足" tvg-chno="1218" tvg-name="水原FC女足 vs 闻庆尚武女足" tvg-group="足球" group-title="足球",水原FC女足 vs 闻庆尚武女足
 http://192.168.5.35:44635/play/b1e4426e5a2bf12b8c5d530ba598a222a46a45c1
-#EXTINF:-1 tvg-id="水户蜀葵 vs 大阪樱花" tvg-chno="1221" tvg-name="水户蜀葵 vs 大阪樱花" tvg-group="足球" group-title="足球",水户蜀葵 vs 大阪樱花
+#EXTINF:-1 tvg-id="水户蜀葵 vs 大阪樱花" tvg-chno="1219" tvg-name="水户蜀葵 vs 大阪樱花" tvg-group="足球" group-title="足球",水户蜀葵 vs 大阪樱花
 http://192.168.5.35:44635/play/2d7a0085e14f3192f83d4441f4fa9fce132bad9d
-#EXTINF:-1 tvg-id="水户蜀葵 vs 大阪樱花" tvg-chno="1222" tvg-name="水户蜀葵 vs 大阪樱花" tvg-group="足球" group-title="足球",水户蜀葵 vs 大阪樱花
+#EXTINF:-1 tvg-id="水户蜀葵 vs 大阪樱花" tvg-chno="1220" tvg-name="水户蜀葵 vs 大阪樱花" tvg-group="足球" group-title="足球",水户蜀葵 vs 大阪樱花
 http://192.168.5.35:44635/play/118ddab28f9cf22f1ea2cec249af146e825a6ff2
-#EXTINF:-1 tvg-id="江苏常晋 vs 广东晨星创尔特" tvg-chno="1223" tvg-name="江苏常晋 vs 广东晨星创尔特" tvg-group="足球" group-title="足球",江苏常晋 vs 广东晨星创尔特
+#EXTINF:-1 tvg-id="江苏常晋 vs 广东晨星创尔特" tvg-chno="1221" tvg-name="江苏常晋 vs 广东晨星创尔特" tvg-group="足球" group-title="足球",江苏常晋 vs 广东晨星创尔特
 http://192.168.5.35:44635/play/8200c1d3149d0a5a6bad3a29c00fd843f6ed29f1
-#EXTINF:-1 tvg-id="江苏常晋 vs 广东晨星创尔特" tvg-chno="1224" tvg-name="江苏常晋 vs 广东晨星创尔特" tvg-group="足球" group-title="足球",江苏常晋 vs 广东晨星创尔特
+#EXTINF:-1 tvg-id="江苏常晋 vs 广东晨星创尔特" tvg-chno="1222" tvg-name="江苏常晋 vs 广东晨星创尔特" tvg-group="足球" group-title="足球",江苏常晋 vs 广东晨星创尔特
 http://192.168.5.35:44635/play/3a2dc415b066f1ed9c94f018ba906f4a30f97ea5
-#EXTINF:-1 tvg-id="浦和红钻女足 vs 广岛三箭女足" tvg-chno="1225" tvg-name="浦和红钻女足 vs 广岛三箭女足" tvg-group="足球" group-title="足球",浦和红钻女足 vs 广岛三箭女足
+#EXTINF:-1 tvg-id="浦和红钻女足 vs 广岛三箭女足" tvg-chno="1223" tvg-name="浦和红钻女足 vs 广岛三箭女足" tvg-group="足球" group-title="足球",浦和红钻女足 vs 广岛三箭女足
 http://192.168.5.35:44635/play/cf220586799afff1faf56ba2958c81d76fc6414e
-#EXTINF:-1 tvg-id="浦和红钻女足 vs 广岛三箭女足" tvg-chno="1226" tvg-name="浦和红钻女足 vs 广岛三箭女足" tvg-group="足球" group-title="足球",浦和红钻女足 vs 广岛三箭女足
+#EXTINF:-1 tvg-id="浦和红钻女足 vs 广岛三箭女足" tvg-chno="1224" tvg-name="浦和红钻女足 vs 广岛三箭女足" tvg-group="足球" group-title="足球",浦和红钻女足 vs 广岛三箭女足
 http://192.168.5.35:44635/play/7c7f12b43dfee12ecddafcc857e88d04cccbd27b
-#EXTINF:-1 tvg-id="胡志明市 vs 归仁联" tvg-chno="1227" tvg-name="胡志明市 vs 归仁联" tvg-group="足球" group-title="足球",胡志明市 vs 归仁联
+#EXTINF:-1 tvg-id="胡志明市 vs 归仁联" tvg-chno="1225" tvg-name="胡志明市 vs 归仁联" tvg-group="足球" group-title="足球",胡志明市 vs 归仁联
 http://192.168.5.35:44635/play/27f1580f7004af4b4980205c39be4fa460f29a54
-#EXTINF:-1 tvg-id="胡志明市 vs 归仁联" tvg-chno="1228" tvg-name="胡志明市 vs 归仁联" tvg-group="足球" group-title="足球",胡志明市 vs 归仁联
+#EXTINF:-1 tvg-id="胡志明市 vs 归仁联" tvg-chno="1226" tvg-name="胡志明市 vs 归仁联" tvg-group="足球" group-title="足球",胡志明市 vs 归仁联
 http://192.168.5.35:44635/play/ca6b2b14cb9858353e577060e6f64dd4135eb4ee
-#EXTINF:-1 tvg-id="莫克 vs 古萨尔" tvg-chno="1229" tvg-name="莫克 vs 古萨尔" tvg-group="足球" group-title="足球",莫克 vs 古萨尔
-http://192.168.5.35:44635/play/b34d2cb406125ead0359b7a1167b6d2670542c3c
-#EXTINF:-1 tvg-id="莫克 vs 古萨尔" tvg-chno="1230" tvg-name="莫克 vs 古萨尔" tvg-group="足球" group-title="足球",莫克 vs 古萨尔
-http://192.168.5.35:44635/play/e2281b779ee86c3066af3b50c3e242b35e2f44a6
-#EXTINF:-1 tvg-id="长野帕塞罗女足 vs RB大宫松鼠女足" tvg-chno="1231" tvg-name="长野帕塞罗女足 vs RB大宫松鼠女足" tvg-group="足球" group-title="足球",长野帕塞罗女足 vs RB大宫松鼠女足
+#EXTINF:-1 tvg-id="长野帕塞罗女足 vs RB大宫松鼠女足" tvg-chno="1227" tvg-name="长野帕塞罗女足 vs RB大宫松鼠女足" tvg-group="足球" group-title="足球",长野帕塞罗女足 vs RB大宫松鼠女足
 http://192.168.5.35:44635/play/5a71d1195fcbd3931cfe53697bf40888b293d5ec
-#EXTINF:-1 tvg-id="长野帕塞罗女足 vs RB大宫松鼠女足" tvg-chno="1232" tvg-name="长野帕塞罗女足 vs RB大宫松鼠女足" tvg-group="足球" group-title="足球",长野帕塞罗女足 vs RB大宫松鼠女足
+#EXTINF:-1 tvg-id="长野帕塞罗女足 vs RB大宫松鼠女足" tvg-chno="1228" tvg-name="长野帕塞罗女足 vs RB大宫松鼠女足" tvg-group="足球" group-title="足球",长野帕塞罗女足 vs RB大宫松鼠女足
 http://192.168.5.35:44635/play/8c116641e023a24c9234e51ae57adb0755ef6790
-#EXTINF:-1 tvg-id="鸟栖砂岩 vs 川崎前锋" tvg-chno="1233" tvg-name="鸟栖砂岩 vs 川崎前锋" tvg-group="足球" group-title="足球",鸟栖砂岩 vs 川崎前锋
+#EXTINF:-1 tvg-id="鸟栖砂岩 vs 川崎前锋" tvg-chno="1229" tvg-name="鸟栖砂岩 vs 川崎前锋" tvg-group="足球" group-title="足球",鸟栖砂岩 vs 川崎前锋
 http://192.168.5.35:44635/play/f49b1d9abf47bc22e811b70a3243abf4b19367db
-#EXTINF:-1 tvg-id="鸟栖砂岩 vs 川崎前锋" tvg-chno="1234" tvg-name="鸟栖砂岩 vs 川崎前锋" tvg-group="足球" group-title="足球",鸟栖砂岩 vs 川崎前锋
+#EXTINF:-1 tvg-id="鸟栖砂岩 vs 川崎前锋" tvg-chno="1230" tvg-name="鸟栖砂岩 vs 川崎前锋" tvg-group="足球" group-title="足球",鸟栖砂岩 vs 川崎前锋
 http://192.168.5.35:44635/play/a36e7b21c769fc746a7429fcf2398c0f036e44e8
-#EXTINF:-1 tvg-id="鹿岛鹿角 vs 浦项铁人" tvg-chno="1235" tvg-name="鹿岛鹿角 vs 浦项铁人" tvg-group="足球" group-title="足球",鹿岛鹿角 vs 浦项铁人
+#EXTINF:-1 tvg-id="鹿岛鹿角 vs 浦项铁人" tvg-chno="1231" tvg-name="鹿岛鹿角 vs 浦项铁人" tvg-group="足球" group-title="足球",鹿岛鹿角 vs 浦项铁人
 http://192.168.5.35:44635/play/39081eab552ee9b16df27c9041bf3fc3b5f0e2b0
-#EXTINF:-1 tvg-id="鹿岛鹿角 vs 浦项铁人" tvg-chno="1236" tvg-name="鹿岛鹿角 vs 浦项铁人" tvg-group="足球" group-title="足球",鹿岛鹿角 vs 浦项铁人
+#EXTINF:-1 tvg-id="鹿岛鹿角 vs 浦项铁人" tvg-chno="1232" tvg-name="鹿岛鹿角 vs 浦项铁人" tvg-group="足球" group-title="足球",鹿岛鹿角 vs 浦项铁人
 http://192.168.5.35:44635/play/6188c023ef80a9483a9b03b581839661532a9fe1
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1301" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
