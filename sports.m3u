@@ -93,22 +93,14 @@ http://192.168.5.35:44635/play/943cf92e037ad2eb5914e793e488ee6366fc9622
 http://192.168.5.35:44635/play/c5a67748bd074d259f77a43e6c3b8aa17422b1ae
 #EXTINF:-1 tvg-id="勒那因阿尔查赫 vs 舒拉克" tvg-chno="1208" tvg-name="勒那因阿尔查赫 vs 舒拉克" tvg-group="足球" group-title="足球",勒那因阿尔查赫 vs 舒拉克
 http://192.168.5.35:44635/play/69ebf2eecffc46e1eb4c03dac6a09ada9a7e9232
-#EXTINF:-1 tvg-id="博布鲁伊斯克 vs 明斯克迪纳摩" tvg-chno="1209" tvg-name="博布鲁伊斯克 vs 明斯克迪纳摩" tvg-group="足球" group-title="足球",博布鲁伊斯克 vs 明斯克迪纳摩
-http://192.168.5.35:44635/play/b7c13c08e0ad858b331a22471ce04aa7a2b2c4ed
-#EXTINF:-1 tvg-id="博布鲁伊斯克 vs 明斯克迪纳摩" tvg-chno="1210" tvg-name="博布鲁伊斯克 vs 明斯克迪纳摩" tvg-group="足球" group-title="足球",博布鲁伊斯克 vs 明斯克迪纳摩
-http://192.168.5.35:44635/play/b9bf9819f020d7d3f4e751957557e82e97282584
-#EXTINF:-1 tvg-id="斯亚卡 vs 波兹南莱赫" tvg-chno="1211" tvg-name="斯亚卡 vs 波兹南莱赫" tvg-group="足球" group-title="足球",斯亚卡 vs 波兹南莱赫
+#EXTINF:-1 tvg-id="斯亚卡 vs 波兹南莱赫" tvg-chno="1209" tvg-name="斯亚卡 vs 波兹南莱赫" tvg-group="足球" group-title="足球",斯亚卡 vs 波兹南莱赫
 http://192.168.5.35:44635/play/184f0f78aa9e42ed62be7ed29f0c89b6a0b043d6
-#EXTINF:-1 tvg-id="斯亚卡 vs 波兹南莱赫" tvg-chno="1212" tvg-name="斯亚卡 vs 波兹南莱赫" tvg-group="足球" group-title="足球",斯亚卡 vs 波兹南莱赫
+#EXTINF:-1 tvg-id="斯亚卡 vs 波兹南莱赫" tvg-chno="1210" tvg-name="斯亚卡 vs 波兹南莱赫" tvg-group="足球" group-title="足球",斯亚卡 vs 波兹南莱赫
 http://192.168.5.35:44635/play/eb681f1985e9c26968d6247710d543be5038db10
-#EXTINF:-1 tvg-id="普莱西亚 vs 新罗兹迪尔" tvg-chno="1213" tvg-name="普莱西亚 vs 新罗兹迪尔" tvg-group="足球" group-title="足球",普莱西亚 vs 新罗兹迪尔
+#EXTINF:-1 tvg-id="普莱西亚 vs 新罗兹迪尔" tvg-chno="1211" tvg-name="普莱西亚 vs 新罗兹迪尔" tvg-group="足球" group-title="足球",普莱西亚 vs 新罗兹迪尔
 http://192.168.5.35:44635/play/0aeb49b20a8f7cec618bf06ef27e6abd80be34a9
-#EXTINF:-1 tvg-id="普莱西亚 vs 新罗兹迪尔" tvg-chno="1214" tvg-name="普莱西亚 vs 新罗兹迪尔" tvg-group="足球" group-title="足球",普莱西亚 vs 新罗兹迪尔
+#EXTINF:-1 tvg-id="普莱西亚 vs 新罗兹迪尔" tvg-chno="1212" tvg-name="普莱西亚 vs 新罗兹迪尔" tvg-group="足球" group-title="足球",普莱西亚 vs 新罗兹迪尔
 http://192.168.5.35:44635/play/0e0e3fb5daa9ef840261a82dba918e449f08281b
-#EXTINF:-1 tvg-id="普莱西亚U19 vs 鲁克维尼基U19" tvg-chno="1215" tvg-name="普莱西亚U19 vs 鲁克维尼基U19" tvg-group="足球" group-title="足球",普莱西亚U19 vs 鲁克维尼基U19
-http://192.168.5.35:44635/play/e221cc164cd7a988cf4baea08d7036b0627ef699
-#EXTINF:-1 tvg-id="普莱西亚U19 vs 鲁克维尼基U19" tvg-chno="1216" tvg-name="普莱西亚U19 vs 鲁克维尼基U19" tvg-group="足球" group-title="足球",普莱西亚U19 vs 鲁克维尼基U19
-http://192.168.5.35:44635/play/ccc12ab5e0b73ccb55ab50dbda0b19cfbb28880a
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1301" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1302" tvg-name="ESPN" tvg-group="体育综合" group-title="体育综合",ESPN
@@ -119,8 +111,8 @@ http://198.58.104.90:8989/nfl/index.m3u8
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NBC" tvg-chno="1305" tvg-name="NBC" tvg-group="体育综合" group-title="体育综合",NBC
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
-#EXTINF:-1 tvg-id="F1·Formula" tvg-chno="1306" tvg-name="F1·Formula" tvg-group="体育综合" group-title="体育综合",F1·Formula
-https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
+#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1306" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1307" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1308" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
