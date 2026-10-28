@@ -90,10 +90,6 @@
     <title>NBA：活塞 vs 黄蜂</title>
     <category>体育</category>
   </programme>
-  <programme start="20261028180000 +0800" stop="20261028180500 +0800" channel="赛程预告">
-    <title>亚冠精英：大阪钢巴 vs 武里南联</title>
-    <category>体育</category>
-  </programme>
   <programme start="20261028180500 +0800" stop="20261028190000 +0800" channel="赛程预告">
     <title>Dota2：Kinetix vs RBear（EPL World SEA S19）</title>
     <category>体育</category>
@@ -232,6 +228,10 @@
   </programme>
   <programme start="20261030180000 +0800" stop="20261030200000 +0800" channel="赛程预告">
     <title>Dota2：Nem.A vs RBear（EPL World SEA S19）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261030200000 +0800" stop="20261030220000 +0800" channel="赛程预告">
+    <title>Dota2：potn9k vs Synapse（EPC Season 3）</title>
     <category>体育</category>
   </programme>
 </tv>
