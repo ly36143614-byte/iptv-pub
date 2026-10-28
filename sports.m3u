@@ -121,6 +121,8 @@ http://192.168.5.35:44635/play/fdc4dfe957126e2b2f7a1f9b76a7dcf408c48f46
 http://192.168.5.35:44635/play/37e627a045c43a87cfaed128012f8146c9bc273c
 #EXTINF:-1 tvg-id="雪兰莪U20 vs 吉隆坡U20" tvg-chno="1222" tvg-name="雪兰莪U20 vs 吉隆坡U20" tvg-group="足球" group-title="足球",雪兰莪U20 vs 吉隆坡U20
 http://192.168.5.35:44635/play/279a0f8b7b8fed6ffbdd02e7d7226d9117742c29
+#EXTINF:-1 tvg-id="韩国U17 vs 越南U17" tvg-chno="1223" tvg-name="韩国U17 vs 越南U17" tvg-group="足球" group-title="足球",韩国U17 vs 越南U17
+http://192.168.5.35:44635/play/ad20ed5c48c3f9ee0b3be492a1c842335e4b17d7
 #EXTINF:-1 tvg-id="NFL Network" tvg-chno="1301" tvg-name="NFL Network" tvg-group="橄榄球" group-title="橄榄球",NFL Network
 http://198.58.104.90:8989/nfl/index.m3u8
 #EXTINF:-1 tvg-id="CBS" tvg-chno="1302" tvg-name="CBS" tvg-group="橄榄球" group-title="橄榄球",CBS
