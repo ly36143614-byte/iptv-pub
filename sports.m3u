@@ -79,22 +79,42 @@ http://192.168.5.35:44635/play/9e3f4c717c4942b9c14956903969e39b206b985d
 http://192.168.5.35:44635/play/8b682f7fbea357cfdb47235dda6defca1267799e
 #EXTINF:-1 tvg-id="鲁森比洛克女篮 vs 沙特尔女篮" tvg-chno="1132" tvg-name="鲁森比洛克女篮 vs 沙特尔女篮" tvg-group="篮球" group-title="篮球",鲁森比洛克女篮 vs 沙特尔女篮
 http://192.168.5.35:44635/play/80e4190faa7ce3f53f35d5204ad38de75b9edff7
-#EXTINF:-1 tvg-id="伊斯洛奇 vs ML麦克斯林" tvg-chno="1201" tvg-name="伊斯洛奇 vs ML麦克斯林" tvg-group="足球" group-title="足球",伊斯洛奇 vs ML麦克斯林
+#EXTINF:-1 tvg-id="万隆 vs 墨尔本胜利" tvg-chno="1201" tvg-name="万隆 vs 墨尔本胜利" tvg-group="足球" group-title="足球",万隆 vs 墨尔本胜利
+http://192.168.5.35:44635/play/520016654cf539a427569f0444bccde30d97ea9f
+#EXTINF:-1 tvg-id="万隆 vs 墨尔本胜利" tvg-chno="1202" tvg-name="万隆 vs 墨尔本胜利" tvg-group="足球" group-title="足球",万隆 vs 墨尔本胜利
+http://192.168.5.35:44635/play/4c354ddac29545407b4bd4fb730b219234de9c6d
+#EXTINF:-1 tvg-id="伊斯洛奇 vs ML麦克斯林" tvg-chno="1203" tvg-name="伊斯洛奇 vs ML麦克斯林" tvg-group="足球" group-title="足球",伊斯洛奇 vs ML麦克斯林
 http://192.168.5.35:44635/play/10b0781df606b0e7c3988c7419eed4dfbe1a2ef9
-#EXTINF:-1 tvg-id="伊斯洛奇 vs ML麦克斯林" tvg-chno="1202" tvg-name="伊斯洛奇 vs ML麦克斯林" tvg-group="足球" group-title="足球",伊斯洛奇 vs ML麦克斯林
+#EXTINF:-1 tvg-id="伊斯洛奇 vs ML麦克斯林" tvg-chno="1204" tvg-name="伊斯洛奇 vs ML麦克斯林" tvg-group="足球" group-title="足球",伊斯洛奇 vs ML麦克斯林
 http://192.168.5.35:44635/play/95b2ca6c5cacf5ae69c262eef0d6e54155120e50
-#EXTINF:-1 tvg-id="克拉伊纳察津 vs 巴尼亚卢卡战士" tvg-chno="1203" tvg-name="克拉伊纳察津 vs 巴尼亚卢卡战士" tvg-group="足球" group-title="足球",克拉伊纳察津 vs 巴尼亚卢卡战士
+#EXTINF:-1 tvg-id="克拉伊纳察津 vs 巴尼亚卢卡战士" tvg-chno="1205" tvg-name="克拉伊纳察津 vs 巴尼亚卢卡战士" tvg-group="足球" group-title="足球",克拉伊纳察津 vs 巴尼亚卢卡战士
 http://192.168.5.35:44635/play/f3526b2e0e6c5eb8feefdc1cbfc2a2196218e6e1
-#EXTINF:-1 tvg-id="克拉伊纳察津 vs 巴尼亚卢卡战士" tvg-chno="1204" tvg-name="克拉伊纳察津 vs 巴尼亚卢卡战士" tvg-group="足球" group-title="足球",克拉伊纳察津 vs 巴尼亚卢卡战士
+#EXTINF:-1 tvg-id="克拉伊纳察津 vs 巴尼亚卢卡战士" tvg-chno="1206" tvg-name="克拉伊纳察津 vs 巴尼亚卢卡战士" tvg-group="足球" group-title="足球",克拉伊纳察津 vs 巴尼亚卢卡战士
 http://192.168.5.35:44635/play/076984430d7380bd6f0d30ff1113921d108a091c
-#EXTINF:-1 tvg-id="巴库萨法 vs 阿格斯塔法甘克拉里" tvg-chno="1205" tvg-name="巴库萨法 vs 阿格斯塔法甘克拉里" tvg-group="足球" group-title="足球",巴库萨法 vs 阿格斯塔法甘克拉里
+#EXTINF:-1 tvg-id="塞门德里亚1924 vs 托波拉" tvg-chno="1207" tvg-name="塞门德里亚1924 vs 托波拉" tvg-group="足球" group-title="足球",塞门德里亚1924 vs 托波拉
+http://192.168.5.35:44635/play/12b8e37a4ced17d880313192c83024b53b250cc1
+#EXTINF:-1 tvg-id="塞门德里亚1924 vs 托波拉" tvg-chno="1208" tvg-name="塞门德里亚1924 vs 托波拉" tvg-group="足球" group-title="足球",塞门德里亚1924 vs 托波拉
+http://192.168.5.35:44635/play/297171ee194a01df9637c29c8493f56b101a0154
+#EXTINF:-1 tvg-id="巴库萨法 vs 阿格斯塔法甘克拉里" tvg-chno="1209" tvg-name="巴库萨法 vs 阿格斯塔法甘克拉里" tvg-group="足球" group-title="足球",巴库萨法 vs 阿格斯塔法甘克拉里
 http://192.168.5.35:44635/play/c6c893dc0725d03e6ae4eb74e956d5e28fa59463
-#EXTINF:-1 tvg-id="巴库萨法 vs 阿格斯塔法甘克拉里" tvg-chno="1206" tvg-name="巴库萨法 vs 阿格斯塔法甘克拉里" tvg-group="足球" group-title="足球",巴库萨法 vs 阿格斯塔法甘克拉里
+#EXTINF:-1 tvg-id="巴库萨法 vs 阿格斯塔法甘克拉里" tvg-chno="1210" tvg-name="巴库萨法 vs 阿格斯塔法甘克拉里" tvg-group="足球" group-title="足球",巴库萨法 vs 阿格斯塔法甘克拉里
 http://192.168.5.35:44635/play/1432b79302522ad5cf9b6a30feca3f72265cfbf0
-#EXTINF:-1 tvg-id="茨维耶兹达 vs 莫斯塔尔维列兹" tvg-chno="1207" tvg-name="茨维耶兹达 vs 莫斯塔尔维列兹" tvg-group="足球" group-title="足球",茨维耶兹达 vs 莫斯塔尔维列兹
+#EXTINF:-1 tvg-id="格拉菲卡 vs IMT新贝尔格莱德" tvg-chno="1211" tvg-name="格拉菲卡 vs IMT新贝尔格莱德" tvg-group="足球" group-title="足球",格拉菲卡 vs IMT新贝尔格莱德
+http://192.168.5.35:44635/play/5fcc21c45f9254df0dc604ddfa0602a973eeb1e4
+#EXTINF:-1 tvg-id="格拉菲卡 vs IMT新贝尔格莱德" tvg-chno="1212" tvg-name="格拉菲卡 vs IMT新贝尔格莱德" tvg-group="足球" group-title="足球",格拉菲卡 vs IMT新贝尔格莱德
+http://192.168.5.35:44635/play/8edff9368c6b7c271eb6729dd29b61d8164617d6
+#EXTINF:-1 tvg-id="维尔沙克 vs OFK贝尔格莱德" tvg-chno="1213" tvg-name="维尔沙克 vs OFK贝尔格莱德" tvg-group="足球" group-title="足球",维尔沙克 vs OFK贝尔格莱德
+http://192.168.5.35:44635/play/643857341c85d2c59b0c855f1a07ff6c82aabb93
+#EXTINF:-1 tvg-id="维尔沙克 vs OFK贝尔格莱德" tvg-chno="1214" tvg-name="维尔沙克 vs OFK贝尔格莱德" tvg-group="足球" group-title="足球",维尔沙克 vs OFK贝尔格莱德
+http://192.168.5.35:44635/play/70a2d3f53193838f1dae48d5613e21428f91c5fa
+#EXTINF:-1 tvg-id="茨维耶兹达 vs 莫斯塔尔维列兹" tvg-chno="1215" tvg-name="茨维耶兹达 vs 莫斯塔尔维列兹" tvg-group="足球" group-title="足球",茨维耶兹达 vs 莫斯塔尔维列兹
 http://192.168.5.35:44635/play/78510840d14f46df7ce635f51d616b252d8544bc
-#EXTINF:-1 tvg-id="茨维耶兹达 vs 莫斯塔尔维列兹" tvg-chno="1208" tvg-name="茨维耶兹达 vs 莫斯塔尔维列兹" tvg-group="足球" group-title="足球",茨维耶兹达 vs 莫斯塔尔维列兹
+#EXTINF:-1 tvg-id="茨维耶兹达 vs 莫斯塔尔维列兹" tvg-chno="1216" tvg-name="茨维耶兹达 vs 莫斯塔尔维列兹" tvg-group="足球" group-title="足球",茨维耶兹达 vs 莫斯塔尔维列兹
 http://192.168.5.35:44635/play/069dfa872e7ce53045b16199bba98eeaea8f93fd
+#EXTINF:-1 tvg-id="越电信体工 vs FC首尔" tvg-chno="1217" tvg-name="越电信体工 vs FC首尔" tvg-group="足球" group-title="足球",越电信体工 vs FC首尔
+http://192.168.5.35:44635/play/1d53310eeff8dd5d4582ef60d089938f30efee3f
+#EXTINF:-1 tvg-id="越电信体工 vs FC首尔" tvg-chno="1218" tvg-name="越电信体工 vs FC首尔" tvg-group="足球" group-title="足球",越电信体工 vs FC首尔
+http://192.168.5.35:44635/play/6a7b569bb09fb065e5bfe7581d5502e8a76e4663
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1301" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1302" tvg-name="ESPN" tvg-group="体育综合" group-title="体育综合",ESPN
