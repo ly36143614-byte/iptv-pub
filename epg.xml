@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="wb-epg">
   <channel id="CBS"><display-name>CBS</display-name></channel>
+  <channel id="Dota2中文·完美世界"><display-name>Dota2中文·完美世界</display-name></channel>
   <channel id="ESPN"><display-name>ESPN</display-name></channel>
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="PARIVISION vs Liquid"><display-name>PARIVISION vs Liquid</display-name></channel>
-  <channel id="SOLID vs Synapse"><display-name>SOLID vs Synapse</display-name></channel>
-  <channel id="TSpirit vs OG"><display-name>TSpirit vs OG</display-name></channel>
   <channel id="Team Kinetix vs RB"><display-name>Team Kinetix vs RB</display-name></channel>
   <channel id="oveA vs MENA Warriors"><display-name>oveA vs MENA Warriors</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
@@ -35,6 +34,10 @@
     <title>New England Patriots at Miami Dolphins（NFL）</title>
     <category>体育</category>
   </programme>
+  <programme start="20261028184534 +0800" stop="20261028224534 +0800" channel="Dota2中文·完美世界">
+    <title>PGL布加勒斯特大师赛2026</title>
+    <category>体育</category>
+  </programme>
   <programme start="20261029070000 +0800" stop="20261029094012 +0800" channel="ESPN">
     <title>Philadelphia 76ers at Indiana Pacers（NBA）</title>
     <category>体育</category>
@@ -59,20 +62,20 @@
     <title>Oklahoma City Thunder at Houston Rockets（NBA）</title>
     <category>体育</category>
   </programme>
+  <programme start="20261028080000 +0800" stop="20261028104012 +0800" channel="NBC">
+    <title>Detroit Pistons at New York Knicks 已结束（NBA）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261028110000 +0800" stop="20261028134012 +0800" channel="NBC">
+    <title>Portland Trail Blazers at Los Angeles Lakers 已结束（NBA）</title>
+    <category>体育</category>
+  </programme>
   <programme start="20261102092000 +0800" stop="20261102123948 +0800" channel="NBC">
     <title>Philadelphia Eagles at Washington Commanders（NFL）</title>
     <category>体育</category>
   </programme>
   <programme start="20261028170500 +0800" stop="20261028193500 +0800" channel="PARIVISION vs Liquid">
     <title>PARI vs Liquid（PARI Universe - Playoffs）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261028230000 +0800" stop="20261029013000 +0800" channel="SOLID vs Synapse">
-    <title>SOLID vs Synapse（NEXUS SERIES II - Playoffs）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261028230000 +0800" stop="20261029013000 +0800" channel="TSpirit vs OG">
-    <title>TSpirit vs OG（PARI Universe - Playoffs）</title>
     <category>体育</category>
   </programme>
   <programme start="20261028180500 +0800" stop="20261028203500 +0800" channel="Team Kinetix vs RB">
