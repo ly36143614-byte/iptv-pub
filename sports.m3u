@@ -48,7 +48,7 @@ http://192.168.5.35:44635/play/73fafbc715961633c938900575e1c10fb2b47fc5
 #EXTINF:-1 tvg-id="桃园领航猿 vs 琉球黄金帝王" tvg-chno="1117" tvg-name="桃园领航猿 vs 琉球黄金帝王" tvg-group="篮球" group-title="篮球",桃园领航猿 vs 琉球黄金帝王
 http://192.168.5.35:44635/play/d74c5124df1dc23a8bd99e62a5f18c03486b2674
 #EXTINF:-1 tvg-id="檀国大学女篮 vs 光州大学女篮" tvg-chno="1118" tvg-name="檀国大学女篮 vs 光州大学女篮" tvg-group="篮球" group-title="篮球",檀国大学女篮 vs 光州大学女篮
-http://192.168.5.35:44635/play/bb23a611a025ab133f499fd979566a34d91314cf
+http://192.168.5.35:44635/play/24d31bef3a354f7034c91ce3300e62a072fd0a19
 #EXTINF:-1 tvg-id="永康 vs 丽水" tvg-chno="1119" tvg-name="永康 vs 丽水" tvg-group="篮球" group-title="篮球",永康 vs 丽水
 http://192.168.5.35:44635/play/ce1c82744f03faf27bcfb3df6d4e90845dde22be
 #EXTINF:-1 tvg-id="汉都亚 vs 孟加拉骑士" tvg-chno="1120" tvg-name="汉都亚 vs 孟加拉骑士" tvg-group="篮球" group-title="篮球",汉都亚 vs 孟加拉骑士
@@ -96,14 +96,16 @@ http://192.168.5.35:44635/play/0ff73eb289f492749a2390c06301f648c36ccddd
 #EXTINF:-1 tvg-id="辛迪泰哥维斯特女足 vs 奥林比亚女足" tvg-chno="1216" tvg-name="辛迪泰哥维斯特女足 vs 奥林比亚女足" tvg-group="足球" group-title="足球",辛迪泰哥维斯特女足 vs 奥林比亚女足
 http://192.168.5.35:44635/play/d38a2b1ec7f3e35f0edb5a15ccf88b019fe60b77
 #EXTINF:-1 tvg-id="阿姆塔特FC vs 克布多" tvg-chno="1217" tvg-name="阿姆塔特FC vs 克布多" tvg-group="足球" group-title="足球",阿姆塔特FC vs 克布多
-http://192.168.5.35:44635/play/d03392b13318dcacc5779f959942191c9a9b0e68
-#EXTINF:-1 tvg-id="隆安 vs TNG太原" tvg-chno="1218" tvg-name="隆安 vs TNG太原" tvg-group="足球" group-title="足球",隆安 vs TNG太原
-http://192.168.5.35:44635/play/fdc4dfe957126e2b2f7a1f9b76a7dcf408c48f46
+http://192.168.5.35:44635/play/517ce194362a241ce1904278a0044a78cb52c26f
+#EXTINF:-1 tvg-id="阿姆塔特FC vs 克布多" tvg-chno="1218" tvg-name="阿姆塔特FC vs 克布多" tvg-group="足球" group-title="足球",阿姆塔特FC vs 克布多
+http://192.168.5.35:44635/play/c2059123d6f06c4ff1d62ec4e2f92e3d0d43fce7
 #EXTINF:-1 tvg-id="隆安 vs TNG太原" tvg-chno="1219" tvg-name="隆安 vs TNG太原" tvg-group="足球" group-title="足球",隆安 vs TNG太原
+http://192.168.5.35:44635/play/fdc4dfe957126e2b2f7a1f9b76a7dcf408c48f46
+#EXTINF:-1 tvg-id="隆安 vs TNG太原" tvg-chno="1220" tvg-name="隆安 vs TNG太原" tvg-group="足球" group-title="足球",隆安 vs TNG太原
 http://192.168.5.35:44635/play/37e627a045c43a87cfaed128012f8146c9bc273c
-#EXTINF:-1 tvg-id="雪兰莪U20 vs 吉隆坡U20" tvg-chno="1220" tvg-name="雪兰莪U20 vs 吉隆坡U20" tvg-group="足球" group-title="足球",雪兰莪U20 vs 吉隆坡U20
+#EXTINF:-1 tvg-id="雪兰莪U20 vs 吉隆坡U20" tvg-chno="1221" tvg-name="雪兰莪U20 vs 吉隆坡U20" tvg-group="足球" group-title="足球",雪兰莪U20 vs 吉隆坡U20
 http://192.168.5.35:44635/play/279a0f8b7b8fed6ffbdd02e7d7226d9117742c29
-#EXTINF:-1 tvg-id="韩国U17 vs 越南U17" tvg-chno="1221" tvg-name="韩国U17 vs 越南U17" tvg-group="足球" group-title="足球",韩国U17 vs 越南U17
+#EXTINF:-1 tvg-id="韩国U17 vs 越南U17" tvg-chno="1222" tvg-name="韩国U17 vs 越南U17" tvg-group="足球" group-title="足球",韩国U17 vs 越南U17
 http://192.168.5.35:44635/play/ad20ed5c48c3f9ee0b3be492a1c842335e4b17d7
 #EXTINF:-1 tvg-id="NFL Network" tvg-chno="1301" tvg-name="NFL Network" tvg-group="橄榄球" group-title="橄榄球",NFL Network
 http://198.58.104.90:8989/nfl/index.m3u8
