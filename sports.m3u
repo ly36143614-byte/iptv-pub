@@ -11,63 +11,61 @@ http://192.168.5.35:35456/team/%E6%8B%9C%E4%BB%81
 http://192.168.5.35:35456/team/%E7%9A%87%E9%A9%AC
 #EXTINF:-1 tvg-id="北京首钢" tvg-chno="1005" tvg-name="北京首钢" tvg-group="关注" group-title="关注",北京首钢｜10-29 19:35 青岛
 http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E9%A6%96%E9%92%A2
-#EXTINF:-1 tvg-id="北京国安" tvg-chno="1006" tvg-name="北京国安" tvg-group="关注" group-title="关注",北京国安｜11-03 20:15 泰港
+#EXTINF:-1 tvg-id="活塞" tvg-chno="1006" tvg-name="活塞" tvg-group="关注" group-title="关注",活塞｜10-29 07:00 黄蜂
+http://192.168.5.35:35456/team/%E6%B4%BB%E5%A1%9E
+#EXTINF:-1 tvg-id="北京国安" tvg-chno="1007" tvg-name="北京国安" tvg-group="关注" group-title="关注",北京国安｜11-03 20:15 泰港
 http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89
-#EXTINF:-1 tvg-id="NBA TV" tvg-chno="1101" tvg-name="NBA TV" tvg-group="篮球" group-title="篮球",NBA TV
-http://23.237.104.106:8080/USA_NBA/index.m3u8
-#EXTINF:-1 tvg-id="ESPN" tvg-chno="1102" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
-http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="ADU猎鹰 vs 远东大学矮水牛" tvg-chno="1103" tvg-name="ADU猎鹰 vs 远东大学矮水牛" tvg-group="篮球" group-title="篮球",ADU猎鹰 vs 远东大学矮水牛
+#EXTINF:-1 tvg-id="ADU猎鹰 vs 远东大学矮水牛" tvg-chno="1101" tvg-name="ADU猎鹰 vs 远东大学矮水牛" tvg-group="篮球" group-title="篮球",ADU猎鹰 vs 远东大学矮水牛
 http://192.168.5.35:44635/play/3e3193513a7e3bb132913b4034a2364a96ffb1bb
-#EXTINF:-1 tvg-id="ADU猎鹰 vs 远东大学矮水牛" tvg-chno="1104" tvg-name="ADU猎鹰 vs 远东大学矮水牛" tvg-group="篮球" group-title="篮球",ADU猎鹰 vs 远东大学矮水牛
+#EXTINF:-1 tvg-id="ADU猎鹰 vs 远东大学矮水牛" tvg-chno="1102" tvg-name="ADU猎鹰 vs 远东大学矮水牛" tvg-group="篮球" group-title="篮球",ADU猎鹰 vs 远东大学矮水牛
 http://192.168.5.35:44635/play/128c7c2ba8b652d81821a34abdf6f0e023c014de
-#EXTINF:-1 tvg-id="ADU猎鹰女篮 vs FEU水牛女篮" tvg-chno="1105" tvg-name="ADU猎鹰女篮 vs FEU水牛女篮" tvg-group="篮球" group-title="篮球",ADU猎鹰女篮 vs FEU水牛女篮
+#EXTINF:-1 tvg-id="ADU猎鹰女篮 vs FEU水牛女篮" tvg-chno="1103" tvg-name="ADU猎鹰女篮 vs FEU水牛女篮" tvg-group="篮球" group-title="篮球",ADU猎鹰女篮 vs FEU水牛女篮
 http://192.168.5.35:44635/play/d83bd9e75f590df4737dcc1a54c4bc5f5940159b
-#EXTINF:-1 tvg-id="凤凰燃料大师 vs 公路勇士" tvg-chno="1106" tvg-name="凤凰燃料大师 vs 公路勇士" tvg-group="篮球" group-title="篮球",凤凰燃料大师 vs 公路勇士
+#EXTINF:-1 tvg-id="凤凰燃料大师 vs 公路勇士" tvg-chno="1104" tvg-name="凤凰燃料大师 vs 公路勇士" tvg-group="篮球" group-title="篮球",凤凰燃料大师 vs 公路勇士
 http://192.168.5.35:44635/play/2b6b510875f8f631524a8036ddf45ad853c86889
-#EXTINF:-1 tvg-id="卡夫卡西亚 vs 约纳瓦" tvg-chno="1107" tvg-name="卡夫卡西亚 vs 约纳瓦" tvg-group="篮球" group-title="篮球",卡夫卡西亚 vs 约纳瓦
+#EXTINF:-1 tvg-id="卡夫卡西亚 vs 约纳瓦" tvg-chno="1105" tvg-name="卡夫卡西亚 vs 约纳瓦" tvg-group="篮球" group-title="篮球",卡夫卡西亚 vs 约纳瓦
 http://192.168.5.35:44635/play/9173e1aacad57a23a9ab48c0f9610ef2b0736714
-#EXTINF:-1 tvg-id="台州 vs 杭州" tvg-chno="1108" tvg-name="台州 vs 杭州" tvg-group="篮球" group-title="篮球",台州 vs 杭州
+#EXTINF:-1 tvg-id="台州 vs 杭州" tvg-chno="1106" tvg-name="台州 vs 杭州" tvg-group="篮球" group-title="篮球",台州 vs 杭州
 http://192.168.5.35:44635/play/48209d3817ec446e96677e2646588d62774b5ac0
-#EXTINF:-1 tvg-id="叶尼塞女篮 vs 新西伯利亚迪纳摩女篮" tvg-chno="1109" tvg-name="叶尼塞女篮 vs 新西伯利亚迪纳摩女篮" tvg-group="篮球" group-title="篮球",叶尼塞女篮 vs 新西伯利亚迪纳摩女篮
+#EXTINF:-1 tvg-id="叶尼塞女篮 vs 新西伯利亚迪纳摩女篮" tvg-chno="1107" tvg-name="叶尼塞女篮 vs 新西伯利亚迪纳摩女篮" tvg-group="篮球" group-title="篮球",叶尼塞女篮 vs 新西伯利亚迪纳摩女篮
 http://192.168.5.35:44635/play/ee4274b1836c3e6fa8299cc6e4d9ea5430fb6d3a
-#EXTINF:-1 tvg-id="圣胡安骑士 vs 坎卡洛" tvg-chno="1110" tvg-name="圣胡安骑士 vs 坎卡洛" tvg-group="篮球" group-title="篮球",圣胡安骑士 vs 坎卡洛
+#EXTINF:-1 tvg-id="圣胡安骑士 vs 坎卡洛" tvg-chno="1108" tvg-name="圣胡安骑士 vs 坎卡洛" tvg-group="篮球" group-title="篮球",圣胡安骑士 vs 坎卡洛
 http://192.168.5.35:44635/play/24733299a40547fc3a6bf7db71674cd500c92008
-#EXTINF:-1 tvg-id="大邱石油公社飞马 vs 原州东浦新世代" tvg-chno="1111" tvg-name="大邱石油公社飞马 vs 原州东浦新世代" tvg-group="篮球" group-title="篮球",大邱石油公社飞马 vs 原州东浦新世代
+#EXTINF:-1 tvg-id="大邱石油公社飞马 vs 原州东浦新世代" tvg-chno="1109" tvg-name="大邱石油公社飞马 vs 原州东浦新世代" tvg-group="篮球" group-title="篮球",大邱石油公社飞马 vs 原州东浦新世代
 http://192.168.5.35:44635/play/5ed6ef1a433516514058db21cb32fd34241a0343
-#EXTINF:-1 tvg-id="大邱石油公社飞马 vs 原州东浦新世代" tvg-chno="1112" tvg-name="大邱石油公社飞马 vs 原州东浦新世代" tvg-group="篮球" group-title="篮球",大邱石油公社飞马 vs 原州东浦新世代
+#EXTINF:-1 tvg-id="大邱石油公社飞马 vs 原州东浦新世代" tvg-chno="1110" tvg-name="大邱石油公社飞马 vs 原州东浦新世代" tvg-group="篮球" group-title="篮球",大邱石油公社飞马 vs 原州东浦新世代
 http://192.168.5.35:44635/play/cc4136536f4e149e64708fdc61a14cf441fe8278
-#EXTINF:-1 tvg-id="巴库石油工人 vs 奥雷迪" tvg-chno="1113" tvg-name="巴库石油工人 vs 奥雷迪" tvg-group="篮球" group-title="篮球",巴库石油工人 vs 奥雷迪
+#EXTINF:-1 tvg-id="巴库石油工人 vs 奥雷迪" tvg-chno="1111" tvg-name="巴库石油工人 vs 奥雷迪" tvg-group="篮球" group-title="篮球",巴库石油工人 vs 奥雷迪
 http://192.168.5.35:44635/play/31807711af687939f2481f0c3d59f406a390736e
-#EXTINF:-1 tvg-id="巴库石油工人 vs 奥雷迪" tvg-chno="1114" tvg-name="巴库石油工人 vs 奥雷迪" tvg-group="篮球" group-title="篮球",巴库石油工人 vs 奥雷迪
+#EXTINF:-1 tvg-id="巴库石油工人 vs 奥雷迪" tvg-chno="1112" tvg-name="巴库石油工人 vs 奥雷迪" tvg-group="篮球" group-title="篮球",巴库石油工人 vs 奥雷迪
 http://192.168.5.35:44635/play/224c71348067b184e31a16dc6bece15499af0cae
-#EXTINF:-1 tvg-id="帕赛航海者 vs 阿布拉韦弗斯" tvg-chno="1115" tvg-name="帕赛航海者 vs 阿布拉韦弗斯" tvg-group="篮球" group-title="篮球",帕赛航海者 vs 阿布拉韦弗斯
+#EXTINF:-1 tvg-id="帕赛航海者 vs 阿布拉韦弗斯" tvg-chno="1113" tvg-name="帕赛航海者 vs 阿布拉韦弗斯" tvg-group="篮球" group-title="篮球",帕赛航海者 vs 阿布拉韦弗斯
 http://192.168.5.35:44635/play/d9500dfd4e1fbe5fb079f4be14973db85bd8a6bb
-#EXTINF:-1 tvg-id="帕赛航海者 vs 阿布拉韦弗斯" tvg-chno="1116" tvg-name="帕赛航海者 vs 阿布拉韦弗斯" tvg-group="篮球" group-title="篮球",帕赛航海者 vs 阿布拉韦弗斯
+#EXTINF:-1 tvg-id="帕赛航海者 vs 阿布拉韦弗斯" tvg-chno="1114" tvg-name="帕赛航海者 vs 阿布拉韦弗斯" tvg-group="篮球" group-title="篮球",帕赛航海者 vs 阿布拉韦弗斯
 http://192.168.5.35:44635/play/e0f52c609d3d7bf40e08d6b850123c72ddc8eb8e
-#EXTINF:-1 tvg-id="昊骏 vs 长崎维尔卡" tvg-chno="1117" tvg-name="昊骏 vs 长崎维尔卡" tvg-group="篮球" group-title="篮球",昊骏 vs 长崎维尔卡
+#EXTINF:-1 tvg-id="昊骏 vs 长崎维尔卡" tvg-chno="1115" tvg-name="昊骏 vs 长崎维尔卡" tvg-group="篮球" group-title="篮球",昊骏 vs 长崎维尔卡
 http://192.168.5.35:44635/play/7bf149441b82f425e2e17b9480e527405400f2d7
-#EXTINF:-1 tvg-id="昊骏 vs 长崎维尔卡" tvg-chno="1118" tvg-name="昊骏 vs 长崎维尔卡" tvg-group="篮球" group-title="篮球",昊骏 vs 长崎维尔卡
+#EXTINF:-1 tvg-id="昊骏 vs 长崎维尔卡" tvg-chno="1116" tvg-name="昊骏 vs 长崎维尔卡" tvg-group="篮球" group-title="篮球",昊骏 vs 长崎维尔卡
 http://192.168.5.35:44635/play/273d330e6abb699190b23ae98e191aea32866392
-#EXTINF:-1 tvg-id="桃园领航猿 vs 琉球黄金帝王" tvg-chno="1119" tvg-name="桃园领航猿 vs 琉球黄金帝王" tvg-group="篮球" group-title="篮球",桃园领航猿 vs 琉球黄金帝王
+#EXTINF:-1 tvg-id="桃园领航猿 vs 琉球黄金帝王" tvg-chno="1117" tvg-name="桃园领航猿 vs 琉球黄金帝王" tvg-group="篮球" group-title="篮球",桃园领航猿 vs 琉球黄金帝王
 http://192.168.5.35:44635/play/73fafbc715961633c938900575e1c10fb2b47fc5
-#EXTINF:-1 tvg-id="桃园领航猿 vs 琉球黄金帝王" tvg-chno="1120" tvg-name="桃园领航猿 vs 琉球黄金帝王" tvg-group="篮球" group-title="篮球",桃园领航猿 vs 琉球黄金帝王
+#EXTINF:-1 tvg-id="桃园领航猿 vs 琉球黄金帝王" tvg-chno="1118" tvg-name="桃园领航猿 vs 琉球黄金帝王" tvg-group="篮球" group-title="篮球",桃园领航猿 vs 琉球黄金帝王
 http://192.168.5.35:44635/play/d74c5124df1dc23a8bd99e62a5f18c03486b2674
-#EXTINF:-1 tvg-id="永康 vs 丽水" tvg-chno="1121" tvg-name="永康 vs 丽水" tvg-group="篮球" group-title="篮球",永康 vs 丽水
+#EXTINF:-1 tvg-id="永康 vs 丽水" tvg-chno="1119" tvg-name="永康 vs 丽水" tvg-group="篮球" group-title="篮球",永康 vs 丽水
 http://192.168.5.35:44635/play/ce1c82744f03faf27bcfb3df6d4e90845dde22be
-#EXTINF:-1 tvg-id="汉都亚 vs 孟加拉骑士" tvg-chno="1122" tvg-name="汉都亚 vs 孟加拉骑士" tvg-group="篮球" group-title="篮球",汉都亚 vs 孟加拉骑士
+#EXTINF:-1 tvg-id="汉都亚 vs 孟加拉骑士" tvg-chno="1120" tvg-name="汉都亚 vs 孟加拉骑士" tvg-group="篮球" group-title="篮球",汉都亚 vs 孟加拉骑士
 http://192.168.5.35:44635/play/1ffcee015f307587f86eb2be7c98081d14c61744
-#EXTINF:-1 tvg-id="珀斯野猫 vs 悉尼国王" tvg-chno="1123" tvg-name="珀斯野猫 vs 悉尼国王" tvg-group="篮球" group-title="篮球",珀斯野猫 vs 悉尼国王
+#EXTINF:-1 tvg-id="珀斯野猫 vs 悉尼国王" tvg-chno="1121" tvg-name="珀斯野猫 vs 悉尼国王" tvg-group="篮球" group-title="篮球",珀斯野猫 vs 悉尼国王
 http://192.168.5.35:44635/play/f8982e49baa4b8e201902a8ae20dfb3044ce4bf6
-#EXTINF:-1 tvg-id="珀斯野猫 vs 悉尼国王" tvg-chno="1124" tvg-name="珀斯野猫 vs 悉尼国王" tvg-group="篮球" group-title="篮球",珀斯野猫 vs 悉尼国王
+#EXTINF:-1 tvg-id="珀斯野猫 vs 悉尼国王" tvg-chno="1122" tvg-name="珀斯野猫 vs 悉尼国王" tvg-group="篮球" group-title="篮球",珀斯野猫 vs 悉尼国王
 http://192.168.5.35:44635/play/1eefd18cd27567ed0561cbe00693fe3108d77505
-#EXTINF:-1 tvg-id="石油人女篮 vs 能源女篮" tvg-chno="1125" tvg-name="石油人女篮 vs 能源女篮" tvg-group="篮球" group-title="篮球",石油人女篮 vs 能源女篮
+#EXTINF:-1 tvg-id="石油人女篮 vs 能源女篮" tvg-chno="1123" tvg-name="石油人女篮 vs 能源女篮" tvg-group="篮球" group-title="篮球",石油人女篮 vs 能源女篮
 http://192.168.5.35:44635/play/efe839523cc3d5896b51b751283df8cb5a2108d1
-#EXTINF:-1 tvg-id="莫斯科迪纳摩女篮 vs 弗拉基米尔大学VlGU女篮" tvg-chno="1126" tvg-name="莫斯科迪纳摩女篮 vs 弗拉基米尔大学VlGU女篮" tvg-group="篮球" group-title="篮球",莫斯科迪纳摩女篮 vs 弗拉基米尔大学VlGU女篮
+#EXTINF:-1 tvg-id="莫斯科迪纳摩女篮 vs 弗拉基米尔大学VlGU女篮" tvg-chno="1124" tvg-name="莫斯科迪纳摩女篮 vs 弗拉基米尔大学VlGU女篮" tvg-group="篮球" group-title="篮球",莫斯科迪纳摩女篮 vs 弗拉基米尔大学VlGU女篮
 http://192.168.5.35:44635/play/89ed9cb40c5126954b7aaae58afd04b9cd168bf5
-#EXTINF:-1 tvg-id="菲律宾电信TNT vs 麦诺尼亚热点" tvg-chno="1127" tvg-name="菲律宾电信TNT vs 麦诺尼亚热点" tvg-group="篮球" group-title="篮球",菲律宾电信TNT vs 麦诺尼亚热点
+#EXTINF:-1 tvg-id="菲律宾电信TNT vs 麦诺尼亚热点" tvg-chno="1125" tvg-name="菲律宾电信TNT vs 麦诺尼亚热点" tvg-group="篮球" group-title="篮球",菲律宾电信TNT vs 麦诺尼亚热点
 http://192.168.5.35:44635/play/b122ffcdb201fbf78370b9b704e0f2fa505616bd
-#EXTINF:-1 tvg-id="菲律宾电信TNT vs 麦诺尼亚热点" tvg-chno="1128" tvg-name="菲律宾电信TNT vs 麦诺尼亚热点" tvg-group="篮球" group-title="篮球",菲律宾电信TNT vs 麦诺尼亚热点
+#EXTINF:-1 tvg-id="菲律宾电信TNT vs 麦诺尼亚热点" tvg-chno="1126" tvg-name="菲律宾电信TNT vs 麦诺尼亚热点" tvg-group="篮球" group-title="篮球",菲律宾电信TNT vs 麦诺尼亚热点
 http://192.168.5.35:44635/play/a7a86c1e1d2f20d6a53f5bbc402ad57dba117219
 #EXTINF:-1 tvg-id="东京日视美人女足 vs 大阪樱花女足" tvg-chno="1201" tvg-name="东京日视美人女足 vs 大阪樱花女足" tvg-group="足球" group-title="足球",东京日视美人女足 vs 大阪樱花女足
 http://192.168.5.35:44635/play/a649abdfbab3478897ef4c23a510e5e0162dc81e
@@ -89,22 +87,32 @@ http://192.168.5.35:44635/play/b5c7dc94a7b468e4d3f351a408981d44d9023c16
 http://192.168.5.35:44635/play/9b33a62228665472fa72b6b88eb686de070bdf8d
 #EXTINF:-1 tvg-id="帕里克玛 vs 卡纳塔卡启动" tvg-chno="1210" tvg-name="帕里克玛 vs 卡纳塔卡启动" tvg-group="足球" group-title="足球",帕里克玛 vs 卡纳塔卡启动
 http://192.168.5.35:44635/play/0ab6036fd6256e41f50b1201172c0834f3dd82f0
-#EXTINF:-1 tvg-id="特伦辛U19 vs 塔特拉U19" tvg-chno="1211" tvg-name="特伦辛U19 vs 塔特拉U19" tvg-group="足球" group-title="足球",特伦辛U19 vs 塔特拉U19
-http://192.168.5.35:44635/play/5590450509fd9b2b92e76a5ba94b35a737d3c435
-#EXTINF:-1 tvg-id="隆安 vs TNG太原" tvg-chno="1212" tvg-name="隆安 vs TNG太原" tvg-group="足球" group-title="足球",隆安 vs TNG太原
+#EXTINF:-1 tvg-id="隆安 vs TNG太原" tvg-chno="1211" tvg-name="隆安 vs TNG太原" tvg-group="足球" group-title="足球",隆安 vs TNG太原
 http://192.168.5.35:44635/play/fdc4dfe957126e2b2f7a1f9b76a7dcf408c48f46
-#EXTINF:-1 tvg-id="隆安 vs TNG太原" tvg-chno="1213" tvg-name="隆安 vs TNG太原" tvg-group="足球" group-title="足球",隆安 vs TNG太原
+#EXTINF:-1 tvg-id="隆安 vs TNG太原" tvg-chno="1212" tvg-name="隆安 vs TNG太原" tvg-group="足球" group-title="足球",隆安 vs TNG太原
 http://192.168.5.35:44635/play/37e627a045c43a87cfaed128012f8146c9bc273c
-#EXTINF:-1 tvg-id="马亚克萨尔内 vs 哈尔科夫冶金" tvg-chno="1214" tvg-name="马亚克萨尔内 vs 哈尔科夫冶金" tvg-group="足球" group-title="足球",马亚克萨尔内 vs 哈尔科夫冶金
+#EXTINF:-1 tvg-id="马亚克萨尔内 vs 哈尔科夫冶金" tvg-chno="1213" tvg-name="马亚克萨尔内 vs 哈尔科夫冶金" tvg-group="足球" group-title="足球",马亚克萨尔内 vs 哈尔科夫冶金
 http://192.168.5.35:44635/play/726a70f3831f39a778c0e81a3572c7cb7bf65c5b
-#EXTINF:-1 tvg-id="马亚克萨尔内 vs 哈尔科夫冶金" tvg-chno="1215" tvg-name="马亚克萨尔内 vs 哈尔科夫冶金" tvg-group="足球" group-title="足球",马亚克萨尔内 vs 哈尔科夫冶金
+#EXTINF:-1 tvg-id="马亚克萨尔内 vs 哈尔科夫冶金" tvg-chno="1214" tvg-name="马亚克萨尔内 vs 哈尔科夫冶金" tvg-group="足球" group-title="足球",马亚克萨尔内 vs 哈尔科夫冶金
 http://192.168.5.35:44635/play/2c6c1fddb62cb7e546fadcb4d6686cd29cbc6fbb
-#EXTINF:-1 tvg-id="NFL Network" tvg-chno="1301" tvg-name="NFL Network" tvg-group="橄榄球" group-title="橄榄球",NFL Network
+#EXTINF:-1 tvg-id="NBA TV" tvg-chno="1301" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
+http://23.237.104.106:8080/USA_NBA/index.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-chno="1302" tvg-name="ESPN" tvg-group="体育综合" group-title="体育综合",ESPN
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+#EXTINF:-1 tvg-id="NFL Network" tvg-chno="1303" tvg-name="NFL Network" tvg-group="体育综合" group-title="体育综合",NFL Network
 http://198.58.104.90:8989/nfl/index.m3u8
-#EXTINF:-1 tvg-id="CBS" tvg-chno="1302" tvg-name="CBS" tvg-group="橄榄球" group-title="橄榄球",CBS
+#EXTINF:-1 tvg-id="CBS" tvg-chno="1304" tvg-name="CBS" tvg-group="体育综合" group-title="体育综合",CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
-#EXTINF:-1 tvg-id="NBC" tvg-chno="1303" tvg-name="NBC" tvg-group="橄榄球" group-title="橄榄球",NBC
+#EXTINF:-1 tvg-id="NBC" tvg-chno="1305" tvg-name="NBC" tvg-group="体育综合" group-title="体育综合",NBC
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
+#EXTINF:-1 tvg-id="F1·Formula" tvg-chno="1306" tvg-name="F1·Formula" tvg-group="体育综合" group-title="体育综合",F1·Formula
+https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
+#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1307" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1308" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1309" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="AB vs LVLUP Academy" tvg-chno="1401" tvg-name="AB vs LVLUP Academy" tvg-group="DOTA2" group-title="DOTA2",AB vs LVLUP Academy
 http://192.168.5.35:44635/play/a00d6e563953d295ad58dc5f7e0642dfa82e50f7
 #EXTINF:-1 tvg-id="AB vs LVLUP Academy" tvg-chno="1402" tvg-name="AB vs LVLUP Academy" tvg-group="DOTA2" group-title="DOTA2",AB vs LVLUP Academy
