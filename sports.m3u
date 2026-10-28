@@ -121,6 +121,8 @@ http://192.168.5.35:44635/play/d03392b13318dcacc5779f959942191c9a9b0e68
 http://192.168.5.35:44635/play/c2a9cf59efc1219e4f194ab51b15493dd7fffe84
 #EXTINF:-1 tvg-id="阿根廷青年人 vs 门多萨独立" tvg-chno="1224" tvg-name="阿根廷青年人 vs 门多萨独立" tvg-group="足球" group-title="足球",阿根廷青年人 vs 门多萨独立
 http://192.168.5.35:44635/play/5ee35cbcdfb8faad1791e2bc8090851916d59c4a
+#EXTINF:-1 tvg-id="隆安 vs TNG太原" tvg-chno="1225" tvg-name="隆安 vs TNG太原" tvg-group="足球" group-title="足球",隆安 vs TNG太原
+http://192.168.5.35:44635/play/5d0474967884ed98bda52263499518a1745b8fc6
 #EXTINF:-1 tvg-id="NFL Network" tvg-chno="1301" tvg-name="NFL Network" tvg-group="橄榄球" group-title="橄榄球",NFL Network
 http://198.58.104.90:8989/nfl/index.m3u8
 #EXTINF:-1 tvg-id="CBS" tvg-chno="1302" tvg-name="CBS" tvg-group="橄榄球" group-title="橄榄球",CBS
