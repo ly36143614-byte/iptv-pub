@@ -5,6 +5,7 @@
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="PARIVISION vs Liquid"><display-name>PARIVISION vs Liquid</display-name></channel>
+  <channel id="Team Kinetix vs RB"><display-name>Team Kinetix vs RB</display-name></channel>
   <channel id="oveA vs MENA Warriors"><display-name>oveA vs MENA Warriors</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <programme start="20261102020000 +0800" stop="20261102051948 +0800" channel="CBS">
@@ -69,6 +70,10 @@
   </programme>
   <programme start="20261028170000 +0800" stop="20261028193000 +0800" channel="PARIVISION vs Liquid">
     <title>PARI vs Liquid（PARI Universe - Playoffs）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261028180000 +0800" stop="20261028203000 +0800" channel="Team Kinetix vs RB">
+    <title>Kinetix vs RBear（EPL World SEA S19 - October 28）</title>
     <category>体育</category>
   </programme>
   <programme start="20261028170000 +0800" stop="20261028193000 +0800" channel="oveA vs MENA Warriors">
