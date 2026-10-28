@@ -212,8 +212,12 @@
     <title>佛罗伦萨：佛罗伦萨 vs 亚特兰大；埃弗顿：埃弗顿 vs 纽卡斯尔联</title>
     <category>体育</category>
   </programme>
-  <programme start="20261030044500 +0800" stop="20261030064500 +0800" channel="赛程预告">
+  <programme start="20261030044500 +0800" stop="20261030080000 +0800" channel="赛程预告">
     <title>本菲卡：本菲卡 vs 维森特</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261030080000 +0800" stop="20261030100000 +0800" channel="赛程预告">
+    <title>NBA：老鹰 vs 骑士；鹈鹕 vs 国王</title>
     <category>体育</category>
   </programme>
   <programme start="20261028080000 +0800" stop="20261028104012 +0800" channel="马刺 vs 国王">
