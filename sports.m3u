@@ -91,15 +91,13 @@ http://192.168.5.35:44635/play/b5c7dc94a7b468e4d3f351a408981d44d9023c16
 http://192.168.5.35:44635/play/9b33a62228665472fa72b6b88eb686de070bdf8d
 #EXTINF:-1 tvg-id="帕里克玛 vs 卡纳塔卡启动" tvg-chno="1212" tvg-name="帕里克玛 vs 卡纳塔卡启动" tvg-group="足球" group-title="足球",帕里克玛 vs 卡纳塔卡启动
 http://192.168.5.35:44635/play/0ab6036fd6256e41f50b1201172c0834f3dd82f0
-#EXTINF:-1 tvg-id="荷兰U16 vs 苏格兰U16" tvg-chno="1213" tvg-name="荷兰U16 vs 苏格兰U16" tvg-group="足球" group-title="足球",荷兰U16 vs 苏格兰U16
-http://192.168.5.35:44635/play/63d53d39b344d46cf03257eeb5bd022ff632b451
-#EXTINF:-1 tvg-id="隆安 vs TNG太原" tvg-chno="1214" tvg-name="隆安 vs TNG太原" tvg-group="足球" group-title="足球",隆安 vs TNG太原
+#EXTINF:-1 tvg-id="隆安 vs TNG太原" tvg-chno="1213" tvg-name="隆安 vs TNG太原" tvg-group="足球" group-title="足球",隆安 vs TNG太原
 http://192.168.5.35:44635/play/fdc4dfe957126e2b2f7a1f9b76a7dcf408c48f46
-#EXTINF:-1 tvg-id="隆安 vs TNG太原" tvg-chno="1215" tvg-name="隆安 vs TNG太原" tvg-group="足球" group-title="足球",隆安 vs TNG太原
+#EXTINF:-1 tvg-id="隆安 vs TNG太原" tvg-chno="1214" tvg-name="隆安 vs TNG太原" tvg-group="足球" group-title="足球",隆安 vs TNG太原
 http://192.168.5.35:44635/play/37e627a045c43a87cfaed128012f8146c9bc273c
-#EXTINF:-1 tvg-id="马亚克萨尔内 vs 哈尔科夫冶金" tvg-chno="1216" tvg-name="马亚克萨尔内 vs 哈尔科夫冶金" tvg-group="足球" group-title="足球",马亚克萨尔内 vs 哈尔科夫冶金
+#EXTINF:-1 tvg-id="马亚克萨尔内 vs 哈尔科夫冶金" tvg-chno="1215" tvg-name="马亚克萨尔内 vs 哈尔科夫冶金" tvg-group="足球" group-title="足球",马亚克萨尔内 vs 哈尔科夫冶金
 http://192.168.5.35:44635/play/726a70f3831f39a778c0e81a3572c7cb7bf65c5b
-#EXTINF:-1 tvg-id="马亚克萨尔内 vs 哈尔科夫冶金" tvg-chno="1217" tvg-name="马亚克萨尔内 vs 哈尔科夫冶金" tvg-group="足球" group-title="足球",马亚克萨尔内 vs 哈尔科夫冶金
+#EXTINF:-1 tvg-id="马亚克萨尔内 vs 哈尔科夫冶金" tvg-chno="1216" tvg-name="马亚克萨尔内 vs 哈尔科夫冶金" tvg-group="足球" group-title="足球",马亚克萨尔内 vs 哈尔科夫冶金
 http://192.168.5.35:44635/play/2c6c1fddb62cb7e546fadcb4d6686cd29cbc6fbb
 #EXTINF:-1 tvg-id="NFL Network" tvg-chno="1301" tvg-name="NFL Network" tvg-group="橄榄球" group-title="橄榄球",NFL Network
 http://198.58.104.90:8989/nfl/index.m3u8
