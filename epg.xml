@@ -4,7 +4,6 @@
   <channel id="ESPN"><display-name>ESPN</display-name></channel>
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
-  <channel id="凯尔特人 vs 篮网"><display-name>凯尔特人 vs 篮网</display-name></channel>
   <channel id="尼克斯 vs 活塞"><display-name>尼克斯 vs 活塞</display-name></channel>
   <channel id="湖人 vs 开拓者"><display-name>湖人 vs 开拓者</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
@@ -67,10 +66,6 @@
   </programme>
   <programme start="20261102092000 +0800" stop="20261102123948 +0800" channel="NBC">
     <title>Philadelphia Eagles at Washington Commanders（NFL）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261028073000 +0800" stop="20261028101012 +0800" channel="凯尔特人 vs 篮网">
-    <title>Brooklyn Nets at Boston Celtics 已结束（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261028080000 +0800" stop="20261028104012 +0800" channel="尼克斯 vs 活塞">
@@ -227,6 +222,10 @@
   </programme>
   <programme start="20261030100000 +0800" stop="20261030120000 +0800" channel="赛程预告">
     <title>NBA：开拓者 vs 灰熊</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261030120000 +0800" stop="20261030140000 +0800" channel="赛程预告">
+    <title>Dota2：KS vs CHero（Sber Tournament）；Z10 vs 4iki（Sber Tournament）；ZENITH vs YG（EPL World SEA S19）</title>
     <category>体育</category>
   </programme>
   <programme start="20261028080000 +0800" stop="20261028104012 +0800" channel="马刺 vs 国王">
