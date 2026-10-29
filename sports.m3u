@@ -35,12 +35,12 @@ http://192.168.5.35:44635/play/5165526b1feac1cf8dd4fb6f43cd3fa983d01902
 http://192.168.5.35:44635/play/654f1d38fb1388d910cc8ee55886021a82fb1994
 #EXTINF:-1 tvg-id="尤格拉 vs 特维尔理工" tvg-chno="1110" tvg-name="尤格拉 vs 特维尔理工" tvg-group="篮球" group-title="篮球",尤格拉 vs 特维尔理工
 http://192.168.5.35:44635/play/ede264363a77bd3e459e49cd6d2253bbb1f0f386
-#EXTINF:-1 tvg-id="帕斯科尔德斯坦 vs 格努尔伊斯法罕" tvg-chno="1111" tvg-name="帕斯科尔德斯坦 vs 格努尔伊斯法罕" tvg-group="篮球" group-title="篮球",帕斯科尔德斯坦 vs 格努尔伊斯法罕
+#EXTINF:-1 tvg-id="希卢泰 vs 维迪斯" tvg-chno="1111" tvg-name="希卢泰 vs 维迪斯" tvg-group="篮球" group-title="篮球",希卢泰 vs 维迪斯
+http://192.168.5.35:44635/play/3d004330a2f21217588c1b2b19b06d141c89bfd3
+#EXTINF:-1 tvg-id="帕斯科尔德斯坦 vs 格努尔伊斯法罕" tvg-chno="1112" tvg-name="帕斯科尔德斯坦 vs 格努尔伊斯法罕" tvg-group="篮球" group-title="篮球",帕斯科尔德斯坦 vs 格努尔伊斯法罕
 http://192.168.5.35:44635/play/d3753521803756d9fdf345905eebeaeda11f0273
-#EXTINF:-1 tvg-id="广东 vs 江苏" tvg-chno="1112" tvg-name="广东 vs 江苏" tvg-group="篮球" group-title="篮球",广东 vs 江苏
-http://192.168.5.35:44635/play/814ca7703c9383fb0b32695ae5e400551fc34a74
 #EXTINF:-1 tvg-id="广东 vs 江苏" tvg-chno="1113" tvg-name="广东 vs 江苏" tvg-group="篮球" group-title="篮球",广东 vs 江苏
-http://192.168.5.35:44635/play/874e27a0cec813a3946c4594cb818eb67e4396ae
+http://192.168.5.35:44635/play/7b280145e0c35941403c2e45125ec22f8dc12153
 #EXTINF:-1 tvg-id="新疆 vs 同曦" tvg-chno="1114" tvg-name="新疆 vs 同曦" tvg-group="篮球" group-title="篮球",新疆 vs 同曦
 http://192.168.5.35:44635/play/ec7e9d701c18bbc0b02a9892f3c66e480507f4c7
 #EXTINF:-1 tvg-id="新疆 vs 同曦" tvg-chno="1115" tvg-name="新疆 vs 同曦" tvg-group="篮球" group-title="篮球",新疆 vs 同曦
@@ -49,16 +49,16 @@ http://192.168.5.35:44635/play/5c5d1dba695a0dada7bde783bfeb2d146b97336a
 http://192.168.5.35:44635/play/81b884c74bd9bcd57c3d38e76433a3330af47e00
 #EXTINF:-1 tvg-id="纳夫特加奇萨兰 vs 阿巴丹炼油厂" tvg-chno="1117" tvg-name="纳夫特加奇萨兰 vs 阿巴丹炼油厂" tvg-group="篮球" group-title="篮球",纳夫特加奇萨兰 vs 阿巴丹炼油厂
 http://192.168.5.35:44635/play/679025c69c1ce2af02c772eb838234a74f7aa1d8
-#EXTINF:-1 tvg-id="萨拉基利斯B队 vs 欧米茄金牛座" tvg-chno="1118" tvg-name="萨拉基利斯B队 vs 欧米茄金牛座" tvg-group="篮球" group-title="篮球",萨拉基利斯B队 vs 欧米茄金牛座
+#EXTINF:-1 tvg-id="维尔卡维斯基奥佩拉斯 vs 瑞塔斯B" tvg-chno="1118" tvg-name="维尔卡维斯基奥佩拉斯 vs 瑞塔斯B" tvg-group="篮球" group-title="篮球",维尔卡维斯基奥佩拉斯 vs 瑞塔斯B
+http://192.168.5.35:44635/play/3e6a7fa23488bc40162b6dbb5143c403e7c70e60
+#EXTINF:-1 tvg-id="萨拉基利斯B队 vs 欧米茄金牛座" tvg-chno="1119" tvg-name="萨拉基利斯B队 vs 欧米茄金牛座" tvg-group="篮球" group-title="篮球",萨拉基利斯B队 vs 欧米茄金牛座
 http://192.168.5.35:44635/play/9a8c5a96979b0851c3c6faf7597c9553f59e2d5d
-#EXTINF:-1 tvg-id="里弗莫尔斯女篮 vs 勇者女篮" tvg-chno="1119" tvg-name="里弗莫尔斯女篮 vs 勇者女篮" tvg-group="篮球" group-title="篮球",里弗莫尔斯女篮 vs 勇者女篮
+#EXTINF:-1 tvg-id="里弗莫尔斯女篮 vs 勇者女篮" tvg-chno="1120" tvg-name="里弗莫尔斯女篮 vs 勇者女篮" tvg-group="篮球" group-title="篮球",里弗莫尔斯女篮 vs 勇者女篮
 http://192.168.5.35:44635/play/4358a0172b27ce667198b023e4e1efdf87a2b15a
-#EXTINF:-1 tvg-id="阿利图斯爱国者 vs 帕兰加库尔希艾" tvg-chno="1120" tvg-name="阿利图斯爱国者 vs 帕兰加库尔希艾" tvg-group="篮球" group-title="篮球",阿利图斯爱国者 vs 帕兰加库尔希艾
+#EXTINF:-1 tvg-id="阿利图斯爱国者 vs 帕兰加库尔希艾" tvg-chno="1121" tvg-name="阿利图斯爱国者 vs 帕兰加库尔希艾" tvg-group="篮球" group-title="篮球",阿利图斯爱国者 vs 帕兰加库尔希艾
 http://192.168.5.35:44635/play/841ed542066654cf06fab09c80f42c77371f377a
-#EXTINF:-1 tvg-id="青岛 vs 北京" tvg-chno="1121" tvg-name="青岛 vs 北京" tvg-group="篮球" group-title="篮球",青岛 vs 北京
-http://192.168.5.35:44635/play/24293afb9e2edfe404add74512badf4cc3b9cc2b
 #EXTINF:-1 tvg-id="青岛 vs 北京" tvg-chno="1122" tvg-name="青岛 vs 北京" tvg-group="篮球" group-title="篮球",青岛 vs 北京
-http://192.168.5.35:44635/play/925e98c96a633f59a3416a41c7a97a18ad494ed9
+http://192.168.5.35:44635/play/a6247a655575ee18b604c5b2d71f78a1b70d8454
 #EXTINF:-1 tvg-id="香港永伦 vs 满贯" tvg-chno="1123" tvg-name="香港永伦 vs 满贯" tvg-group="篮球" group-title="篮球",香港永伦 vs 满贯
 http://192.168.5.35:44635/play/0d92bfe56c9c7185cd83bf22ed58dc051b5eba9b
 #EXTINF:-1 tvg-id="香港永伦 vs 满贯" tvg-chno="1124" tvg-name="香港永伦 vs 满贯" tvg-group="篮球" group-title="篮球",香港永伦 vs 满贯
@@ -123,7 +123,9 @@ https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1308" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1309" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1309" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1310" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="Dota2中文·完美世界" tvg-chno="1401" tvg-name="Dota2中文·完美世界" tvg-group="DOTA2" group-title="DOTA2",Dota2中文·完美世界
 http://127.0.0.1:35455/douyu/6829849
