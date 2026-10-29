@@ -5,6 +5,7 @@
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="公牛 vs 尼克斯"><display-name>公牛 vs 尼克斯</display-name></channel>
+  <channel id="森林狼 vs 勇士"><display-name>森林狼 vs 勇士</display-name></channel>
   <channel id="步行者 vs 76人"><display-name>步行者 vs 76人</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
   <channel id="活塞 vs 黄蜂"><display-name>活塞 vs 黄蜂</display-name></channel>
@@ -67,6 +68,10 @@
   </programme>
   <programme start="20261029080000 +0800" stop="20261029104012 +0800" channel="公牛 vs 尼克斯">
     <title>New York Knicks at Chicago Bulls（NBA）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261029080000 +0800" stop="20261029104012 +0800" channel="森林狼 vs 勇士">
+    <title>Golden State Warriors at Minnesota Timberwolves（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261029070000 +0800" stop="20261029094012 +0800" channel="步行者 vs 76人">
