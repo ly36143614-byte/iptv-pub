@@ -9,6 +9,7 @@
   <channel id="步行者 vs 76人"><display-name>步行者 vs 76人</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
   <channel id="活塞 vs 黄蜂"><display-name>活塞 vs 黄蜂</display-name></channel>
+  <channel id="爵士 vs 马刺"><display-name>爵士 vs 马刺</display-name></channel>
   <channel id="猛龙 vs 魔术"><display-name>猛龙 vs 魔术</display-name></channel>
   <channel id="老鹰 vs 热火"><display-name>老鹰 vs 热火</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
@@ -89,6 +90,10 @@
   </programme>
   <programme start="20261029070000 +0800" stop="20261029094012 +0800" channel="活塞 vs 黄蜂">
     <title>Charlotte Hornets at Detroit Pistons（NBA）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261029090000 +0800" stop="20261029114012 +0800" channel="爵士 vs 马刺">
+    <title>San Antonio Spurs at Utah Jazz（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261029073000 +0800" stop="20261029101012 +0800" channel="猛龙 vs 魔术">
