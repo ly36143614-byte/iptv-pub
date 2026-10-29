@@ -7,7 +7,6 @@
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="快船 vs 湖人"><display-name>快船 vs 湖人</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
-  <channel id="独行侠 vs 雷霆"><display-name>独行侠 vs 雷霆</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <programme start="20261102020000 +0800" stop="20261102051948 +0800" channel="CBS">
     <title>Baltimore Ravens at Buffalo Bills（NFL）</title>
@@ -73,12 +72,8 @@
     <title>NBA：篮网 vs 活塞</title>
     <category>体育</category>
   </programme>
-  <programme start="20261029093000 +0800" stop="20261029121012 +0800" channel="独行侠 vs 雷霆">
-    <title>Oklahoma City Thunder at Dallas Mavericks 已结束（NBA）</title>
-    <category>体育</category>
-  </programme>
   <programme start="20261029141500 +0800" stop="20261029150000 +0800" channel="赛程预告">
-    <title>马来西亚U15：马来西亚U15 vs 中国U15男足</title>
+    <title>足球：马来西亚U15 vs 中国U15男足</title>
     <category>体育</category>
   </programme>
   <programme start="20261029150000 +0800" stop="20261029170000 +0800" channel="赛程预告">
