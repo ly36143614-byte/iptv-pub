@@ -110,10 +110,6 @@
     <title>Miami Heat at Atlanta Hawks 已结束（NBA）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261029090000 +0800" stop="20261029093000 +0800" channel="赛程预告">
-    <title>NBA：爵士 vs 马刺</title>
-    <category>体育</category>
-  </programme>
   <programme start="20261029093000 +0800" stop="20261029103000 +0800" channel="赛程预告">
     <title>NBA：独行侠 vs 雷霆</title>
     <category>体育</category>
@@ -143,15 +139,19 @@
     <category>体育</category>
   </programme>
   <programme start="20261029201500 +0800" stop="20261029230000 +0800" channel="赛程预告">
-    <title>亚冠二级：上海申花 vs 町田泽维亚</title>
+    <title>亚冠乙：上海申花 vs 町田泽维；亚冠二级：上海申花 vs 町田泽维亚</title>
     <category>体育</category>
   </programme>
-  <programme start="20261029230000 +0800" stop="20261030013000 +0800" channel="赛程预告">
+  <programme start="20261029230000 +0800" stop="20261030000000 +0800" channel="赛程预告">
     <title>足球：中国U17女足 vs 法国女足U17；Dota2：PARI vs Yandex（PARI Universe）；Dota2：LVLUP.A vs RH（EPC Season 3）</title>
     <category>体育</category>
   </programme>
+  <programme start="20261030000000 +0800" stop="20261030013000 +0800" channel="赛程预告">
+    <title>芬超：国际图尔 vs 赫尔辛基</title>
+    <category>体育</category>
+  </programme>
   <programme start="20261030013000 +0800" stop="20261030020000 +0800" channel="赛程预告">
-    <title>意甲：弗洛西诺内 vs 莱切</title>
+    <title>意甲：弗洛西诺 vs 莱切；瑞超：哈马比 vs 天狼星；意甲：弗洛西诺内 vs 莱切</title>
     <category>体育</category>
   </programme>
   <programme start="20261030020000 +0800" stop="20261030034500 +0800" channel="赛程预告">
@@ -159,15 +159,19 @@
     <category>体育</category>
   </programme>
   <programme start="20261030034500 +0800" stop="20261030044500 +0800" channel="赛程预告">
-    <title>佛罗伦萨：佛罗伦萨 vs 亚特兰大；埃弗顿：埃弗顿 vs 纽卡斯尔联</title>
+    <title>英联赛杯：埃弗顿 vs 纽卡斯尔；意甲：佛罗伦萨 vs 亚特兰大；埃弗顿：埃弗顿 vs 纽卡斯尔联</title>
     <category>体育</category>
   </programme>
   <programme start="20261030044500 +0800" stop="20261030080000 +0800" channel="赛程预告">
     <title>本菲卡：本菲卡 vs 维森特</title>
     <category>体育</category>
   </programme>
-  <programme start="20261030080000 +0800" stop="20261030100000 +0800" channel="赛程预告">
+  <programme start="20261030080000 +0800" stop="20261030083000 +0800" channel="赛程预告">
     <title>NBA：老鹰 vs 骑士；鹈鹕 vs 国王</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261030083000 +0800" stop="20261030100000 +0800" channel="赛程预告">
+    <title>巴甲：格雷米奥 vs 巴竞技</title>
     <category>体育</category>
   </programme>
   <programme start="20261030100000 +0800" stop="20261030120000 +0800" channel="赛程预告">
