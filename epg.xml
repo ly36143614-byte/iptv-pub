@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="wb-epg">
   <channel id="CBS"><display-name>CBS</display-name></channel>
+  <channel id="CD vs Zenith"><display-name>CD vs Zenith</display-name></channel>
   <channel id="ESPN"><display-name>ESPN</display-name></channel>
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
@@ -9,7 +10,6 @@
   <channel id="森林狼 vs 勇士"><display-name>森林狼 vs 勇士</display-name></channel>
   <channel id="步行者 vs 76人"><display-name>步行者 vs 76人</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
-  <channel id="活塞 vs 黄蜂"><display-name>活塞 vs 黄蜂</display-name></channel>
   <channel id="爵士 vs 马刺"><display-name>爵士 vs 马刺</display-name></channel>
   <channel id="独行侠 vs 雷霆"><display-name>独行侠 vs 雷霆</display-name></channel>
   <channel id="猛龙 vs 魔术"><display-name>猛龙 vs 魔术</display-name></channel>
@@ -40,6 +40,10 @@
   </programme>
   <programme start="20261102052500 +0800" stop="20261102084448 +0800" channel="CBS">
     <title>New England Patriots at Miami Dolphins（NFL）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261029120000 +0800" stop="20261029143000 +0800" channel="CD vs Zenith">
+    <title>CD vs ZENITH（EPL World SEA S19 - October 29）</title>
     <category>体育</category>
   </programme>
   <programme start="20261029070000 +0800" stop="20261029094012 +0800" channel="ESPN">
@@ -90,10 +94,6 @@
     <title>NBA：篮网 vs 活塞</title>
     <category>体育</category>
   </programme>
-  <programme start="20261029070000 +0800" stop="20261029094012 +0800" channel="活塞 vs 黄蜂">
-    <title>Charlotte Hornets at Detroit Pistons 已结束（NBA）</title>
-    <category>体育</category>
-  </programme>
   <programme start="20261029090000 +0800" stop="20261029114012 +0800" channel="爵士 vs 马刺">
     <title>San Antonio Spurs at Utah Jazz（NBA）</title>
     <category>体育</category>
@@ -108,10 +108,6 @@
   </programme>
   <programme start="20261029070000 +0800" stop="20261029094012 +0800" channel="老鹰 vs 热火">
     <title>Miami Heat at Atlanta Hawks 已结束（NBA）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261029093000 +0800" stop="20261029103000 +0800" channel="赛程预告">
-    <title>NBA：独行侠 vs 雷霆</title>
     <category>体育</category>
   </programme>
   <programme start="20261029103000 +0800" stop="20261029120000 +0800" channel="赛程预告">
