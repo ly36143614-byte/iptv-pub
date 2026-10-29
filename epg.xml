@@ -8,15 +8,12 @@
   <channel id="公牛 vs 尼克斯"><display-name>公牛 vs 尼克斯</display-name></channel>
   <channel id="快船 vs 湖人"><display-name>快船 vs 湖人</display-name></channel>
   <channel id="森林狼 vs 勇士"><display-name>森林狼 vs 勇士</display-name></channel>
-  <channel id="步行者 vs 76人"><display-name>步行者 vs 76人</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
   <channel id="爵士 vs 马刺"><display-name>爵士 vs 马刺</display-name></channel>
   <channel id="独行侠 vs 雷霆"><display-name>独行侠 vs 雷霆</display-name></channel>
   <channel id="猛龙 vs 魔术"><display-name>猛龙 vs 魔术</display-name></channel>
-  <channel id="老鹰 vs 热火"><display-name>老鹰 vs 热火</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <channel id="雄鹿 vs 火箭"><display-name>雄鹿 vs 火箭</display-name></channel>
-  <channel id="骑士 vs 奇才"><display-name>骑士 vs 奇才</display-name></channel>
   <channel id="鹈鹕 vs 掘金"><display-name>鹈鹕 vs 掘金</display-name></channel>
   <programme start="20261102020000 +0800" stop="20261102051948 +0800" channel="CBS">
     <title>Baltimore Ravens at Buffalo Bills（NFL）</title>
@@ -86,16 +83,12 @@
     <title>Golden State Warriors at Minnesota Timberwolves 已结束（NBA）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261029070000 +0800" stop="20261029094012 +0800" channel="步行者 vs 76人">
-    <title>Philadelphia 76ers at Indiana Pacers 已结束（NBA）</title>
-    <category>体育</category>
-  </programme>
   <programme start="20261031073000 +0800" stop="20261031101012 +0800" channel="活塞">
     <title>NBA：篮网 vs 活塞</title>
     <category>体育</category>
   </programme>
   <programme start="20261029090000 +0800" stop="20261029114012 +0800" channel="爵士 vs 马刺">
-    <title>San Antonio Spurs at Utah Jazz（NBA）</title>
+    <title>San Antonio Spurs at Utah Jazz 已结束（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261029093000 +0800" stop="20261029121012 +0800" channel="独行侠 vs 雷霆">
@@ -104,10 +97,6 @@
   </programme>
   <programme start="20261029073000 +0800" stop="20261029101012 +0800" channel="猛龙 vs 魔术">
     <title>Orlando Magic at Toronto Raptors 已结束（NBA）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261029070000 +0800" stop="20261029094012 +0800" channel="老鹰 vs 热火">
-    <title>Miami Heat at Atlanta Hawks 已结束（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261029103000 +0800" stop="20261029120000 +0800" channel="赛程预告">
@@ -232,10 +221,6 @@
   </programme>
   <programme start="20261029080000 +0800" stop="20261029104012 +0800" channel="雄鹿 vs 火箭">
     <title>Houston Rockets at Milwaukee Bucks 已结束（NBA）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261029070000 +0800" stop="20261029094012 +0800" channel="骑士 vs 奇才">
-    <title>Washington Wizards at Cleveland Cavaliers 已结束（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261029080000 +0800" stop="20261029104012 +0800" channel="鹈鹕 vs 掘金">
