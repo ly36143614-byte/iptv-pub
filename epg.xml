@@ -14,6 +14,7 @@
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <channel id="雄鹿 vs 火箭"><display-name>雄鹿 vs 火箭</display-name></channel>
   <channel id="骑士 vs 奇才"><display-name>骑士 vs 奇才</display-name></channel>
+  <channel id="鹈鹕 vs 掘金"><display-name>鹈鹕 vs 掘金</display-name></channel>
   <programme start="20261102020000 +0800" stop="20261102051948 +0800" channel="CBS">
     <title>Baltimore Ravens at Buffalo Bills（NFL）</title>
     <category>体育</category>
@@ -228,6 +229,10 @@
   </programme>
   <programme start="20261029070000 +0800" stop="20261029094012 +0800" channel="骑士 vs 奇才">
     <title>Washington Wizards at Cleveland Cavaliers（NBA）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261029080000 +0800" stop="20261029104012 +0800" channel="鹈鹕 vs 掘金">
+    <title>Denver Nuggets at New Orleans Pelicans（NBA）</title>
     <category>体育</category>
   </programme>
 </tv>
