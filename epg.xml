@@ -11,7 +11,6 @@
   <channel id="活塞"><display-name>活塞</display-name></channel>
   <channel id="爵士 vs 马刺"><display-name>爵士 vs 马刺</display-name></channel>
   <channel id="独行侠 vs 雷霆"><display-name>独行侠 vs 雷霆</display-name></channel>
-  <channel id="猛龙 vs 魔术"><display-name>猛龙 vs 魔术</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <channel id="雄鹿 vs 火箭"><display-name>雄鹿 vs 火箭</display-name></channel>
   <channel id="鹈鹕 vs 掘金"><display-name>鹈鹕 vs 掘金</display-name></channel>
@@ -93,10 +92,6 @@
   </programme>
   <programme start="20261029093000 +0800" stop="20261029121012 +0800" channel="独行侠 vs 雷霆">
     <title>Oklahoma City Thunder at Dallas Mavericks（NBA）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261029073000 +0800" stop="20261029101012 +0800" channel="猛龙 vs 魔术">
-    <title>Orlando Magic at Toronto Raptors 已结束（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261029103000 +0800" stop="20261029120000 +0800" channel="赛程预告">
@@ -217,6 +212,10 @@
   </programme>
   <programme start="20261031100000 +0800" stop="20261031120000 +0800" channel="赛程预告">
     <title>NBA：勇士 vs 湖人；太阳 vs 掘金</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261031120000 +0800" stop="20261031140000 +0800" channel="赛程预告">
+    <title>Dota2：Db vs RBear（EPL World SEA S19）</title>
     <category>体育</category>
   </programme>
   <programme start="20261029080000 +0800" stop="20261029104012 +0800" channel="雄鹿 vs 火箭">
