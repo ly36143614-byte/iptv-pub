@@ -129,9 +129,7 @@ http://192.168.5.35:44635/play/e13af7e4d68073b7d8963bf24332078dcc1c5f5f
 http://192.168.5.35:44635/play/cb3b1a7f525c432251bd77e180aebc3622f45fca
 #EXTINF:-1 tvg-id="阿德莱德联 vs 狮城水手" tvg-chno="1235" tvg-name="阿德莱德联 vs 狮城水手" tvg-group="足球" group-title="足球",阿德莱德联 vs 狮城水手·腾讯Q⑥
 https://hlsz.yjjcfw.com/live/00590523.m3u8?expire=1793280272&sign=db551a13f30123151813f1f35c2a091d
-#EXTINF:-1 tvg-id="顿涅茨克矿工青年队 vs 奥布隆U21" tvg-chno="1236" tvg-name="顿涅茨克矿工青年队 vs 奥布隆U21" tvg-group="足球" group-title="足球",顿涅茨克矿工青年队 vs 奥布隆U21
-http://192.168.5.35:44635/play/671f8e93ea5837adc62558168823692985e6ccfc
-#EXTINF:-1 tvg-id="马塔雷联 vs 图斯科" tvg-chno="1237" tvg-name="马塔雷联 vs 图斯科" tvg-group="足球" group-title="足球",马塔雷联 vs 图斯科
+#EXTINF:-1 tvg-id="马塔雷联 vs 图斯科" tvg-chno="1236" tvg-name="马塔雷联 vs 图斯科" tvg-group="足球" group-title="足球",马塔雷联 vs 图斯科
 http://192.168.5.35:44635/play/39ebabf3cf3de9d7596191f0c3d42f9d8cc20bd8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1301" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
