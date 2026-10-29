@@ -125,18 +125,18 @@ http://192.168.5.35:44635/play/4f880e12664355b4e1cd56b636ebb3142faa5816
 http://192.168.5.35:44635/play/e13af7e4d68073b7d8963bf24332078dcc1c5f5f
 #EXTINF:-1 tvg-id="阿德莱德联 vs 狮城水手" tvg-chno="1234" tvg-name="阿德莱德联 vs 狮城水手" tvg-group="足球" group-title="足球",阿德莱德联 vs 狮城水手
 http://192.168.5.35:44635/play/cb3b1a7f525c432251bd77e180aebc3622f45fca
-#EXTINF:-1 tvg-id="阿祖尔 vs FA共和国B队" tvg-chno="1235" tvg-name="阿祖尔 vs FA共和国B队" tvg-group="足球" group-title="足球",阿祖尔 vs FA共和国B队
-http://192.168.5.35:44635/play/5efb737c14112f68c9f83a7abb656db556c59afb
+#EXTINF:-1 tvg-id="阿德莱德联 vs 狮城水手" tvg-chno="1235" tvg-name="阿德莱德联 vs 狮城水手" tvg-group="足球" group-title="足球",阿德莱德联 vs 狮城水手·腾讯Q⑥
+https://hdl2.mxxfly.com/live/28576003.m3u8?auth_key=1793203320-8789ea4b637344f2bceb9f40c06230ef-0-01cc7987a835d4730421fece6b63b0cd
 #EXTINF:-1 tvg-id="阿祖尔 vs FA共和国B队" tvg-chno="1236" tvg-name="阿祖尔 vs FA共和国B队" tvg-group="足球" group-title="足球",阿祖尔 vs FA共和国B队
+http://192.168.5.35:44635/play/5efb737c14112f68c9f83a7abb656db556c59afb
+#EXTINF:-1 tvg-id="阿祖尔 vs FA共和国B队" tvg-chno="1237" tvg-name="阿祖尔 vs FA共和国B队" tvg-group="足球" group-title="足球",阿祖尔 vs FA共和国B队
 http://192.168.5.35:44635/play/9811c6b40af0afec21f62e861759f8ba077491a2
-#EXTINF:-1 tvg-id="阿祖尔 vs FA共和国B队" tvg-chno="1237" tvg-name="阿祖尔 vs FA共和国B队" tvg-group="足球" group-title="足球",阿祖尔 vs FA共和国B队·腾讯Q⑥
+#EXTINF:-1 tvg-id="阿祖尔 vs FA共和国B队" tvg-chno="1238" tvg-name="阿祖尔 vs FA共和国B队" tvg-group="足球" group-title="足球",阿祖尔 vs FA共和国B队·腾讯Q⑥
 https://hdl2.mxxfly.com/live/63585909.m3u8?auth_key=1793203320-0906fa5018dc45e9b75ba9304ce8afc2-0-2e8674f5414cf473d7f0d7b9035d3cd1
-#EXTINF:-1 tvg-id="雷利赞竞技U20 vs 雷姆治U20" tvg-chno="1238" tvg-name="雷利赞竞技U20 vs 雷姆治U20" tvg-group="足球" group-title="足球",雷利赞竞技U20 vs 雷姆治U20
+#EXTINF:-1 tvg-id="雷利赞竞技U20 vs 雷姆治U20" tvg-chno="1239" tvg-name="雷利赞竞技U20 vs 雷姆治U20" tvg-group="足球" group-title="足球",雷利赞竞技U20 vs 雷姆治U20
 http://192.168.5.35:44635/play/0317a62fb30bd817385a5b7111675c069c903cb7
-#EXTINF:-1 tvg-id="马德拉斯工兵 vs 班加罗尔城" tvg-chno="1239" tvg-name="马德拉斯工兵 vs 班加罗尔城" tvg-group="足球" group-title="足球",马德拉斯工兵 vs 班加罗尔城
-http://192.168.5.35:44635/play/af238f3d5fcadf612961b26ebf4713f5195c1819
 #EXTINF:-1 tvg-id="马德拉斯工兵 vs 班加罗尔城" tvg-chno="1240" tvg-name="马德拉斯工兵 vs 班加罗尔城" tvg-group="足球" group-title="足球",马德拉斯工兵 vs 班加罗尔城
-http://192.168.5.35:44635/play/e852eba6803b39601945a6fa88ee8332f18cfc44
+http://192.168.5.35:44635/play/af238f3d5fcadf612961b26ebf4713f5195c1819
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1301" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1302" tvg-name="ESPN" tvg-group="体育综合" group-title="体育综合",ESPN
