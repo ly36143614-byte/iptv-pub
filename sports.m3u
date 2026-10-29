@@ -57,15 +57,17 @@ http://192.168.5.35:44635/play/414f5e57d9503f8418cb96af2ea07456cfb50cbc
 http://192.168.5.35:44635/play/434aeb86558885f55af395e4692f2fc9402f5f89
 #EXTINF:-1 tvg-id="纳夫特加奇萨兰 vs 阿巴丹炼油厂" tvg-chno="1121" tvg-name="纳夫特加奇萨兰 vs 阿巴丹炼油厂" tvg-group="篮球" group-title="篮球",纳夫特加奇萨兰 vs 阿巴丹炼油厂
 http://192.168.5.35:44635/play/679025c69c1ce2af02c772eb838234a74f7aa1d8
-#EXTINF:-1 tvg-id="青岛 vs 北京" tvg-chno="1122" tvg-name="青岛 vs 北京" tvg-group="篮球" group-title="篮球",青岛 vs 北京
-http://192.168.5.35:44635/play/24293afb9e2edfe404add74512badf4cc3b9cc2b
+#EXTINF:-1 tvg-id="里弗莫尔斯女篮 vs 勇者女篮" tvg-chno="1122" tvg-name="里弗莫尔斯女篮 vs 勇者女篮" tvg-group="篮球" group-title="篮球",里弗莫尔斯女篮 vs 勇者女篮
+http://192.168.5.35:44635/play/4358a0172b27ce667198b023e4e1efdf87a2b15a
 #EXTINF:-1 tvg-id="青岛 vs 北京" tvg-chno="1123" tvg-name="青岛 vs 北京" tvg-group="篮球" group-title="篮球",青岛 vs 北京
+http://192.168.5.35:44635/play/24293afb9e2edfe404add74512badf4cc3b9cc2b
+#EXTINF:-1 tvg-id="青岛 vs 北京" tvg-chno="1124" tvg-name="青岛 vs 北京" tvg-group="篮球" group-title="篮球",青岛 vs 北京
 http://192.168.5.35:44635/play/925e98c96a633f59a3416a41c7a97a18ad494ed9
-#EXTINF:-1 tvg-id="香港永伦 vs 满贯" tvg-chno="1124" tvg-name="香港永伦 vs 满贯" tvg-group="篮球" group-title="篮球",香港永伦 vs 满贯
+#EXTINF:-1 tvg-id="香港永伦 vs 满贯" tvg-chno="1125" tvg-name="香港永伦 vs 满贯" tvg-group="篮球" group-title="篮球",香港永伦 vs 满贯
 http://192.168.5.35:44635/play/9c864a4e64fcbd9a9aabe9ca2fe2faeb54d01ade
-#EXTINF:-1 tvg-id="马伦戈 vs 塔比亚特" tvg-chno="1125" tvg-name="马伦戈 vs 塔比亚特" tvg-group="篮球" group-title="篮球",马伦戈 vs 塔比亚特
+#EXTINF:-1 tvg-id="马伦戈 vs 塔比亚特" tvg-chno="1126" tvg-name="马伦戈 vs 塔比亚特" tvg-group="篮球" group-title="篮球",马伦戈 vs 塔比亚特
 http://192.168.5.35:44635/play/bed197c61892f9c21bc2145bbf5954e4fd60f7e2
-#EXTINF:-1 tvg-id="马钢城冶金 vs 布良斯克杰斯纳" tvg-chno="1126" tvg-name="马钢城冶金 vs 布良斯克杰斯纳" tvg-group="篮球" group-title="篮球",马钢城冶金 vs 布良斯克杰斯纳
+#EXTINF:-1 tvg-id="马钢城冶金 vs 布良斯克杰斯纳" tvg-chno="1127" tvg-name="马钢城冶金 vs 布良斯克杰斯纳" tvg-group="篮球" group-title="篮球",马钢城冶金 vs 布良斯克杰斯纳
 http://192.168.5.35:44635/play/a0f62493a1b184f617d0506018d14fd63c1bb016
 #EXTINF:-1 tvg-id="江原FC vs 古晋城" tvg-chno="1201" tvg-name="江原FC vs 古晋城" tvg-group="足球" group-title="足球",江原FC vs 古晋城
 https://hlsz.yjjcfw.com/live/00590521.m3u8?expire=1793291861&sign=b05d2468b8d9652acdff8ba24d9e9656
@@ -79,22 +81,22 @@ http://192.168.5.35:44635/play/c3ec4efc603c5f590d534564cf4f170e1f5f4eae
 http://192.168.5.35:44635/play/239d8a1065392db010ce5850eb37abdfb3185886
 #EXTINF:-1 tvg-id="卡拉巴格汉肯迪 vs 希伯来FK" tvg-chno="1206" tvg-name="卡拉巴格汉肯迪 vs 希伯来FK" tvg-group="足球" group-title="足球",卡拉巴格汉肯迪 vs 希伯来FK
 http://192.168.5.35:44635/play/58f6a87630a3cd1b1a9f8fc293be8963b334b00c
-#EXTINF:-1 tvg-id="大埔 vs 巴吞联" tvg-chno="1207" tvg-name="大埔 vs 巴吞联" tvg-group="足球" group-title="足球",大埔 vs 巴吞联
-http://192.168.5.35:44635/play/fa9b61ed23e09ea60e355f569d181c7e4ecf7719
+#EXTINF:-1 tvg-id="土耳其女足U17 vs 黑山女足U17" tvg-chno="1207" tvg-name="土耳其女足U17 vs 黑山女足U17" tvg-group="足球" group-title="足球",土耳其女足U17 vs 黑山女足U17
+http://192.168.5.35:44635/play/660275f5e2a2ff4855a790ad53eb147c3543e5ac
 #EXTINF:-1 tvg-id="大埔 vs 巴吞联" tvg-chno="1208" tvg-name="大埔 vs 巴吞联" tvg-group="足球" group-title="足球",大埔 vs 巴吞联
+http://192.168.5.35:44635/play/fa9b61ed23e09ea60e355f569d181c7e4ecf7719
+#EXTINF:-1 tvg-id="大埔 vs 巴吞联" tvg-chno="1209" tvg-name="大埔 vs 巴吞联" tvg-group="足球" group-title="足球",大埔 vs 巴吞联
 http://192.168.5.35:44635/play/1a2ecb26da0ef91b8380d93a3cb51a02c3ad6c12
-#EXTINF:-1 tvg-id="奥林匹亚埃里温 vs 阿拉拉特亚美尼亚" tvg-chno="1209" tvg-name="奥林匹亚埃里温 vs 阿拉拉特亚美尼亚" tvg-group="足球" group-title="足球",奥林匹亚埃里温 vs 阿拉拉特亚美尼亚
-http://192.168.5.35:44635/play/ca4d6d7d93e56fa7257cd7e6d4b9d8977ab65c55
 #EXTINF:-1 tvg-id="奥林匹亚埃里温 vs 阿拉拉特亚美尼亚" tvg-chno="1210" tvg-name="奥林匹亚埃里温 vs 阿拉拉特亚美尼亚" tvg-group="足球" group-title="足球",奥林匹亚埃里温 vs 阿拉拉特亚美尼亚
+http://192.168.5.35:44635/play/ca4d6d7d93e56fa7257cd7e6d4b9d8977ab65c55
+#EXTINF:-1 tvg-id="奥林匹亚埃里温 vs 阿拉拉特亚美尼亚" tvg-chno="1211" tvg-name="奥林匹亚埃里温 vs 阿拉拉特亚美尼亚" tvg-group="足球" group-title="足球",奥林匹亚埃里温 vs 阿拉拉特亚美尼亚
 http://192.168.5.35:44635/play/ce9b35849372fba3bd51c07e2ff01150a923462d
-#EXTINF:-1 tvg-id="威亚斯威德尼克 vs 拉多米亚克" tvg-chno="1211" tvg-name="威亚斯威德尼克 vs 拉多米亚克" tvg-group="足球" group-title="足球",威亚斯威德尼克 vs 拉多米亚克
-http://192.168.5.35:44635/play/f22ffab8ee638282f41c387b10be905956c772d6
 #EXTINF:-1 tvg-id="威亚斯威德尼克 vs 拉多米亚克" tvg-chno="1212" tvg-name="威亚斯威德尼克 vs 拉多米亚克" tvg-group="足球" group-title="足球",威亚斯威德尼克 vs 拉多米亚克
+http://192.168.5.35:44635/play/f22ffab8ee638282f41c387b10be905956c772d6
+#EXTINF:-1 tvg-id="威亚斯威德尼克 vs 拉多米亚克" tvg-chno="1213" tvg-name="威亚斯威德尼克 vs 拉多米亚克" tvg-group="足球" group-title="足球",威亚斯威德尼克 vs 拉多米亚克
 http://192.168.5.35:44635/play/78d5faba5f5d4528f2802fd487194e3480982257
-#EXTINF:-1 tvg-id="威亚斯威德尼克 vs 拉多米亚克" tvg-chno="1213" tvg-name="威亚斯威德尼克 vs 拉多米亚克" tvg-group="足球" group-title="足球",威亚斯威德尼克 vs 拉多米亚克·腾讯Q⑥
+#EXTINF:-1 tvg-id="威亚斯威德尼克 vs 拉多米亚克" tvg-chno="1214" tvg-name="威亚斯威德尼克 vs 拉多米亚克" tvg-group="足球" group-title="足球",威亚斯威德尼克 vs 拉多米亚克·腾讯Q⑥
 https://hdl2.mxxfly.com/live/68475862.m3u8?auth_key=1793260920-ee4666d73d834bf2bb56bc7c0cbb7271-0-983286fe657896370f558856d9140950
-#EXTINF:-1 tvg-id="德尔福SC vs 阿尔昆" tvg-chno="1214" tvg-name="德尔福SC vs 阿尔昆" tvg-group="足球" group-title="足球",德尔福SC vs 阿尔昆
-http://192.168.5.35:44635/play/e1d91220b0e28e51eb87f02b1256c9cb2158af54
 #EXTINF:-1 tvg-id="比特利斯1916 vs 开塞利体育" tvg-chno="1215" tvg-name="比特利斯1916 vs 开塞利体育" tvg-group="足球" group-title="足球",比特利斯1916 vs 开塞利体育
 http://192.168.5.35:44635/play/c6237bf82403c227b123f2b658827aa361146782
 #EXTINF:-1 tvg-id="比特利斯1916 vs 开塞利体育" tvg-chno="1216" tvg-name="比特利斯1916 vs 开塞利体育" tvg-group="足球" group-title="足球",比特利斯1916 vs 开塞利体育
