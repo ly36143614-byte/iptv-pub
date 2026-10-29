@@ -112,7 +112,7 @@ http://192.168.5.35:44635/play/83d3f96a9b3a0617d8f2cd3ea24500afcb367372
 #EXTINF:-1 tvg-id="江原FC vs 古晋城" tvg-chno="1224" tvg-name="江原FC vs 古晋城" tvg-group="足球" group-title="足球",江原FC vs 古晋城
 http://192.168.5.35:44635/play/a8d63a74110cadb34d78be14ea73880a1f7dac0f
 #EXTINF:-1 tvg-id="江原FC vs 古晋城" tvg-chno="1225" tvg-name="江原FC vs 古晋城" tvg-group="足球" group-title="足球",江原FC vs 古晋城·腾讯Q⑥
-https://hlsz.yjjcfw.com/live/00590521.m3u8?expire=1793284376&sign=f7f666bbcb74f4352053ab94984a1786
+https://hlsz.yjjcfw.com/live/00590521.m3u8?expire=1793285003&sign=faa761afed5547278625477213bfcce7
 #EXTINF:-1 tvg-id="沙巴纳足球俱乐部 vs 米格里青年队" tvg-chno="1226" tvg-name="沙巴纳足球俱乐部 vs 米格里青年队" tvg-group="足球" group-title="足球",沙巴纳足球俱乐部 vs 米格里青年队
 http://192.168.5.35:44635/play/5084e696687922ac2e716402f60a4575a98318db
 #EXTINF:-1 tvg-id="泰尼高FF vs ASC艾瑟" tvg-chno="1227" tvg-name="泰尼高FF vs ASC艾瑟" tvg-group="足球" group-title="足球",泰尼高FF vs ASC艾瑟
@@ -124,7 +124,7 @@ http://192.168.5.35:44635/play/56b0c310f13075520f7194ff44671013b1c4cece
 #EXTINF:-1 tvg-id="淡滨尼流浪者 vs 柴桢" tvg-chno="1230" tvg-name="淡滨尼流浪者 vs 柴桢" tvg-group="足球" group-title="足球",淡滨尼流浪者 vs 柴桢
 http://192.168.5.35:44635/play/4556e8bca508cb87a861f6cd9e810fdf68eac3d3
 #EXTINF:-1 tvg-id="淡滨尼流浪者 vs 柴桢" tvg-chno="1231" tvg-name="淡滨尼流浪者 vs 柴桢" tvg-group="足球" group-title="足球",淡滨尼流浪者 vs 柴桢·腾讯Q⑥
-https://hlsz.yjjcfw.com/live/00590522.m3u8?expire=1793284377&sign=86a8102085cddb9921dbbebe35bed820
+https://hlsz.yjjcfw.com/live/00590522.m3u8?expire=1793285009&sign=44bfa8ef05a954f9f51ec1f2baa469ba
 #EXTINF:-1 tvg-id="索尔亚 vs 克里夫巴斯" tvg-chno="1232" tvg-name="索尔亚 vs 克里夫巴斯" tvg-group="足球" group-title="足球",索尔亚 vs 克里夫巴斯
 http://192.168.5.35:44635/play/8204cd11b6be8d0198ff31348db5d37abcfebf21
 #EXTINF:-1 tvg-id="索尔亚 vs 克里夫巴斯" tvg-chno="1233" tvg-name="索尔亚 vs 克里夫巴斯" tvg-group="足球" group-title="足球",索尔亚 vs 克里夫巴斯
@@ -155,9 +155,13 @@ https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1308" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="卡塔库尔甘 vs 莫比乌兹奥林匹克" tvg-chno="1309" tvg-name="卡塔库尔甘 vs 莫比乌兹奥林匹克" tvg-group="体育综合" group-title="体育综合",卡塔库尔甘 vs 莫比乌兹奥林匹克
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1309" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1310" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
+#EXTINF:-1 tvg-id="卡塔库尔甘 vs 莫比乌兹奥林匹克" tvg-chno="1311" tvg-name="卡塔库尔甘 vs 莫比乌兹奥林匹克" tvg-group="体育综合" group-title="体育综合",卡塔库尔甘 vs 莫比乌兹奥林匹克
 http://192.168.5.35:44635/play/c9d5efd4831eb4f809eb5b25b28346fac6426c6f
-#EXTINF:-1 tvg-id="卡塔库尔甘 vs 莫比乌兹奥林匹克" tvg-chno="1310" tvg-name="卡塔库尔甘 vs 莫比乌兹奥林匹克" tvg-group="体育综合" group-title="体育综合",卡塔库尔甘 vs 莫比乌兹奥林匹克
+#EXTINF:-1 tvg-id="卡塔库尔甘 vs 莫比乌兹奥林匹克" tvg-chno="1312" tvg-name="卡塔库尔甘 vs 莫比乌兹奥林匹克" tvg-group="体育综合" group-title="体育综合",卡塔库尔甘 vs 莫比乌兹奥林匹克
 http://192.168.5.35:44635/play/8cd15579fb08926933d180ead6de2a29dfc09a18
 #EXTINF:-1 tvg-id="Dota2中文·完美世界" tvg-chno="1401" tvg-name="Dota2中文·完美世界" tvg-group="DOTA2" group-title="DOTA2",Dota2中文·完美世界
 http://127.0.0.1:35455/douyu/6829849
