@@ -229,8 +229,12 @@
     <title>Dota2：Xipto vs HN（EPC Season 3）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261031203000 +0800" stop="20261031223000 +0800" channel="赛程预告">
+  <programme start="20261031203000 +0800" stop="20261031210000 +0800" channel="赛程预告">
     <title>英超：切尔西 vs 曼联</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261031210000 +0800" stop="20261031230000 +0800" channel="赛程预告">
+    <title>西甲：莱万特 vs 马德里竞技</title>
     <category>体育</category>
   </programme>
 </tv>
