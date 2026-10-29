@@ -101,21 +101,17 @@ http://192.168.5.35:44635/play/8a28066794ff8750e9dc91b5414fe41179f85e33
 http://192.168.5.35:44635/play/8e1c843b3ad1bbd56f7a4b2a2b5230065ba10b7a
 #EXTINF:-1 tvg-id="桑托斯 vs 帕尔梅拉斯" tvg-chno="1216" tvg-name="桑托斯 vs 帕尔梅拉斯" tvg-group="足球" group-title="足球",桑托斯 vs 帕尔梅拉斯
 http://192.168.5.35:44635/play/32945706d6ec601424cf7e2f40a623ecbacc1181
-#EXTINF:-1 tvg-id="科尔多瓦中央后备队 vs 门多萨独立后备队" tvg-chno="1217" tvg-name="科尔多瓦中央后备队 vs 门多萨独立后备队" tvg-group="足球" group-title="足球",科尔多瓦中央后备队 vs 门多萨独立后备队
-http://192.168.5.35:44635/play/0bdb4c3cf6b09a5439f455079ba5155bf755cb23
-#EXTINF:-1 tvg-id="科尔多瓦中央后备队 vs 门多萨独立后备队" tvg-chno="1218" tvg-name="科尔多瓦中央后备队 vs 门多萨独立后备队" tvg-group="足球" group-title="足球",科尔多瓦中央后备队 vs 门多萨独立后备队
-http://192.168.5.35:44635/play/84df157549c6ee8c40cb04b309208eaf979e9ed8
-#EXTINF:-1 tvg-id="纽约城 vs 亚特兰大联" tvg-chno="1219" tvg-name="纽约城 vs 亚特兰大联" tvg-group="足球" group-title="足球",纽约城 vs 亚特兰大联
+#EXTINF:-1 tvg-id="纽约城 vs 亚特兰大联" tvg-chno="1217" tvg-name="纽约城 vs 亚特兰大联" tvg-group="足球" group-title="足球",纽约城 vs 亚特兰大联
 http://192.168.5.35:44635/play/093878c900a32324f0cb2fbfb7e617372d65c502
-#EXTINF:-1 tvg-id="纽约城 vs 亚特兰大联" tvg-chno="1220" tvg-name="纽约城 vs 亚特兰大联" tvg-group="足球" group-title="足球",纽约城 vs 亚特兰大联
+#EXTINF:-1 tvg-id="纽约城 vs 亚特兰大联" tvg-chno="1218" tvg-name="纽约城 vs 亚特兰大联" tvg-group="足球" group-title="足球",纽约城 vs 亚特兰大联
 http://192.168.5.35:44635/play/e49e154ff3535fe14b62640fd6853bd595b13900
-#EXTINF:-1 tvg-id="迈阿密国际 vs 辛辛那提FC" tvg-chno="1221" tvg-name="迈阿密国际 vs 辛辛那提FC" tvg-group="足球" group-title="足球",迈阿密国际 vs 辛辛那提FC
+#EXTINF:-1 tvg-id="迈阿密国际 vs 辛辛那提FC" tvg-chno="1219" tvg-name="迈阿密国际 vs 辛辛那提FC" tvg-group="足球" group-title="足球",迈阿密国际 vs 辛辛那提FC
 http://192.168.5.35:44635/play/71ddf93cedee1f12f67b59061db7004682fff283
-#EXTINF:-1 tvg-id="迈阿密国际 vs 辛辛那提FC" tvg-chno="1222" tvg-name="迈阿密国际 vs 辛辛那提FC" tvg-group="足球" group-title="足球",迈阿密国际 vs 辛辛那提FC
+#EXTINF:-1 tvg-id="迈阿密国际 vs 辛辛那提FC" tvg-chno="1220" tvg-name="迈阿密国际 vs 辛辛那提FC" tvg-group="足球" group-title="足球",迈阿密国际 vs 辛辛那提FC
 http://192.168.5.35:44635/play/24a1d8e889b3ed5b1c7c8927ef193ef37d9da0c2
-#EXTINF:-1 tvg-id="都市运动会 vs 阿卡里瓜葡萄牙人" tvg-chno="1223" tvg-name="都市运动会 vs 阿卡里瓜葡萄牙人" tvg-group="足球" group-title="足球",都市运动会 vs 阿卡里瓜葡萄牙人
+#EXTINF:-1 tvg-id="都市运动会 vs 阿卡里瓜葡萄牙人" tvg-chno="1221" tvg-name="都市运动会 vs 阿卡里瓜葡萄牙人" tvg-group="足球" group-title="足球",都市运动会 vs 阿卡里瓜葡萄牙人
 http://192.168.5.35:44635/play/0dba7ee65ff695738cb8d4e34ad6c1e9d8ad16c4
-#EXTINF:-1 tvg-id="都市运动会 vs 阿卡里瓜葡萄牙人" tvg-chno="1224" tvg-name="都市运动会 vs 阿卡里瓜葡萄牙人" tvg-group="足球" group-title="足球",都市运动会 vs 阿卡里瓜葡萄牙人
+#EXTINF:-1 tvg-id="都市运动会 vs 阿卡里瓜葡萄牙人" tvg-chno="1222" tvg-name="都市运动会 vs 阿卡里瓜葡萄牙人" tvg-group="足球" group-title="足球",都市运动会 vs 阿卡里瓜葡萄牙人
 http://192.168.5.35:44635/play/3bc611ce35e84d9ea72facf4549092bfcece16f1
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1301" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
