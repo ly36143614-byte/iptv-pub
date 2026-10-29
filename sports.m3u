@@ -102,14 +102,12 @@ http://192.168.5.35:44635/play/fc3b5eb6a82fa4b8470ee1526151472c5485fe4f
 #EXTINF:-1 tvg-id="奥胡斯费马 vs 哥本哈根" tvg-chno="1213" tvg-name="奥胡斯费马 vs 哥本哈根" tvg-group="足球" group-title="足球",奥胡斯费马 vs 哥本哈根
 http://192.168.5.35:44635/play/2dbc1fd6202d8c0650c2e978d7de189062356305
 #EXTINF:-1 tvg-id="威亚斯威德尼克 vs 拉多米亚克" tvg-chno="1214" tvg-name="威亚斯威德尼克 vs 拉多米亚克" tvg-group="足球" group-title="足球",威亚斯威德尼克 vs 拉多米亚克
-http://192.168.5.35:44635/play/f22ffab8ee638282f41c387b10be905956c772d6
-#EXTINF:-1 tvg-id="威亚斯威德尼克 vs 拉多米亚克" tvg-chno="1215" tvg-name="威亚斯威德尼克 vs 拉多米亚克" tvg-group="足球" group-title="足球",威亚斯威德尼克 vs 拉多米亚克
-http://192.168.5.35:44635/play/78d5faba5f5d4528f2802fd487194e3480982257
-#EXTINF:-1 tvg-id="根克勒比利吉 vs 卡拉科普鲁" tvg-chno="1216" tvg-name="根克勒比利吉 vs 卡拉科普鲁" tvg-group="足球" group-title="足球",根克勒比利吉 vs 卡拉科普鲁
+http://192.168.5.35:44635/play/38df6e329009872cb64c91130ac317c7b28af032
+#EXTINF:-1 tvg-id="根克勒比利吉 vs 卡拉科普鲁" tvg-chno="1215" tvg-name="根克勒比利吉 vs 卡拉科普鲁" tvg-group="足球" group-title="足球",根克勒比利吉 vs 卡拉科普鲁
 http://192.168.5.35:44635/play/3f95ac18586d1f70951d33bbea49603add846490
-#EXTINF:-1 tvg-id="根克勒比利吉 vs 卡拉科普鲁" tvg-chno="1217" tvg-name="根克勒比利吉 vs 卡拉科普鲁" tvg-group="足球" group-title="足球",根克勒比利吉 vs 卡拉科普鲁
+#EXTINF:-1 tvg-id="根克勒比利吉 vs 卡拉科普鲁" tvg-chno="1216" tvg-name="根克勒比利吉 vs 卡拉科普鲁" tvg-group="足球" group-title="足球",根克勒比利吉 vs 卡拉科普鲁
 http://192.168.5.35:44635/play/6b495a9ccceb71a4a69d812a4fc7307decc75ae6
-#EXTINF:-1 tvg-id="金边皇冠 vs 杰志" tvg-chno="1218" tvg-name="金边皇冠 vs 杰志" tvg-group="足球" group-title="足球",金边皇冠 vs 杰志
+#EXTINF:-1 tvg-id="金边皇冠 vs 杰志" tvg-chno="1217" tvg-name="金边皇冠 vs 杰志" tvg-group="足球" group-title="足球",金边皇冠 vs 杰志
 http://192.168.5.35:44635/play/f8fa14bd999ba1df0c8b369e15d401d9b029d008
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1301" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
@@ -123,9 +121,11 @@ http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="F1·Formula" tvg-chno="1306" tvg-name="F1·Formula" tvg-group="体育综合" group-title="体育综合",F1·Formula
 https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1307" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1307" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1308" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1308" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1309" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-id="Dota2中文·完美世界" tvg-chno="1401" tvg-name="Dota2中文·完美世界" tvg-group="DOTA2" group-title="DOTA2",Dota2中文·完美世界
 http://127.0.0.1:35455/douyu/6829849
@@ -149,21 +149,29 @@ http://192.168.5.35:44635/play/898ae2db32757706cda146337b494b547f88c8aa
 http://192.168.5.35:44635/play/6da881bfa710e0e0a2331dbd62ad72b36bb4a856
 #EXTINF:-1 tvg-id="LP vs NG" tvg-chno="1411" tvg-name="LP vs NG" tvg-group="DOTA2" group-title="DOTA2",LP vs NG
 http://192.168.5.35:44635/play/7aade5384c21535bf4be276a2e74e7637197f1d1
-#EXTINF:-1 tvg-id="Liquid vs AI" tvg-chno="1412" tvg-name="Liquid vs AI" tvg-group="DOTA2" group-title="DOTA2",Liquid vs AI
+#EXTINF:-1 tvg-id="LVLUP Academy vs RH" tvg-chno="1412" tvg-name="LVLUP Academy vs RH" tvg-group="DOTA2" group-title="DOTA2",LVLUP Academy vs RH
+http://192.168.5.35:44635/play/e27526eb705a5281f47760e12f3dbb5a6cc722c6
+#EXTINF:-1 tvg-id="LVLUP Academy vs RH" tvg-chno="1413" tvg-name="LVLUP Academy vs RH" tvg-group="DOTA2" group-title="DOTA2",LVLUP Academy vs RH
+http://192.168.5.35:44635/play/728621ab7bc885f48ae37639dd929cadc1a9d535
+#EXTINF:-1 tvg-id="Liquid vs AI" tvg-chno="1414" tvg-name="Liquid vs AI" tvg-group="DOTA2" group-title="DOTA2",Liquid vs AI
 http://192.168.5.35:44635/play/8d037c2b303a59b22a10f9da16a3857e54c10d8e
-#EXTINF:-1 tvg-id="Liquid vs AI" tvg-chno="1413" tvg-name="Liquid vs AI" tvg-group="DOTA2" group-title="DOTA2",Liquid vs AI
+#EXTINF:-1 tvg-id="Liquid vs AI" tvg-chno="1415" tvg-name="Liquid vs AI" tvg-group="DOTA2" group-title="DOTA2",Liquid vs AI
 http://192.168.5.35:44635/play/5858fcec434bdac8afd99a4ac361f5e8a64adc0b
-#EXTINF:-1 tvg-id="RG vs RB" tvg-chno="1414" tvg-name="RG vs RB" tvg-group="DOTA2" group-title="DOTA2",RG vs RB
+#EXTINF:-1 tvg-id="PARIVISION vs Yandex" tvg-chno="1416" tvg-name="PARIVISION vs Yandex" tvg-group="DOTA2" group-title="DOTA2",PARIVISION vs Yandex
+http://192.168.5.35:44635/play/0a869231cc910d3674a78a0e53dcc3fb9bf9f466
+#EXTINF:-1 tvg-id="PARIVISION vs Yandex" tvg-chno="1417" tvg-name="PARIVISION vs Yandex" tvg-group="DOTA2" group-title="DOTA2",PARIVISION vs Yandex
+http://192.168.5.35:44635/play/c3aefa9f2618e1d33bbdb4f402538003b162c413
+#EXTINF:-1 tvg-id="RG vs RB" tvg-chno="1418" tvg-name="RG vs RB" tvg-group="DOTA2" group-title="DOTA2",RG vs RB
 http://192.168.5.35:44635/play/11545d62a6fc3e48d4152de46e9984e41c594412
-#EXTINF:-1 tvg-id="RG vs RB" tvg-chno="1415" tvg-name="RG vs RB" tvg-group="DOTA2" group-title="DOTA2",RG vs RB
+#EXTINF:-1 tvg-id="RG vs RB" tvg-chno="1419" tvg-name="RG vs RB" tvg-group="DOTA2" group-title="DOTA2",RG vs RB
 http://192.168.5.35:44635/play/5a0229470a0a97d5af6105d04dc567e60456db89
-#EXTINF:-1 tvg-id="Rebeldes vs LP" tvg-chno="1416" tvg-name="Rebeldes vs LP" tvg-group="DOTA2" group-title="DOTA2",Rebeldes vs LP
+#EXTINF:-1 tvg-id="Rebeldes vs LP" tvg-chno="1420" tvg-name="Rebeldes vs LP" tvg-group="DOTA2" group-title="DOTA2",Rebeldes vs LP
 http://192.168.5.35:44635/play/7b9014faede001d9890610033c474b7d797c5168
-#EXTINF:-1 tvg-id="Rebeldes vs LP" tvg-chno="1417" tvg-name="Rebeldes vs LP" tvg-group="DOTA2" group-title="DOTA2",Rebeldes vs LP
+#EXTINF:-1 tvg-id="Rebeldes vs LP" tvg-chno="1421" tvg-name="Rebeldes vs LP" tvg-group="DOTA2" group-title="DOTA2",Rebeldes vs LP
 http://192.168.5.35:44635/play/d892e2c5e3212840ae6c8d5dab2e2d212c45d310
-#EXTINF:-1 tvg-id="TSpirit vs Team Legion" tvg-chno="1418" tvg-name="TSpirit vs Team Legion" tvg-group="DOTA2" group-title="DOTA2",TSpirit vs Team Legion
+#EXTINF:-1 tvg-id="TSpirit vs Team Legion" tvg-chno="1422" tvg-name="TSpirit vs Team Legion" tvg-group="DOTA2" group-title="DOTA2",TSpirit vs Team Legion
 http://192.168.5.35:44635/play/e9244918e94d1b11dc63a50824e6187be0d437f7
-#EXTINF:-1 tvg-id="TSpirit vs Team Legion" tvg-chno="1419" tvg-name="TSpirit vs Team Legion" tvg-group="DOTA2" group-title="DOTA2",TSpirit vs Team Legion
+#EXTINF:-1 tvg-id="TSpirit vs Team Legion" tvg-chno="1423" tvg-name="TSpirit vs Team Legion" tvg-group="DOTA2" group-title="DOTA2",TSpirit vs Team Legion
 http://192.168.5.35:44635/play/65049bca4d1f27bb08d5ba577223628b5eb86459
-#EXTINF:-1 tvg-id="oveA vs No Hoodwink" tvg-chno="1420" tvg-name="oveA vs No Hoodwink" tvg-group="DOTA2" group-title="DOTA2",oveA vs No Hoodwink
+#EXTINF:-1 tvg-id="oveA vs No Hoodwink" tvg-chno="1424" tvg-name="oveA vs No Hoodwink" tvg-group="DOTA2" group-title="DOTA2",oveA vs No Hoodwink
 http://192.168.5.35:44635/play/36a8c9ccfa0ad57e6bb70cd8932431ad58ed861f
