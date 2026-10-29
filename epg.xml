@@ -204,8 +204,12 @@
     <title>NBA：勇士 vs 湖人；太阳 vs 掘金</title>
     <category>体育</category>
   </programme>
-  <programme start="20261031120000 +0800" stop="20261031140000 +0800" channel="赛程预告">
+  <programme start="20261031120000 +0800" stop="20261031143000 +0800" channel="赛程预告">
     <title>Dota2：Db vs RBear（EPL World SEA S19）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261031143000 +0800" stop="20261031163000 +0800" channel="赛程预告">
+    <title>中甲：南京城市 vs 大连鲲城；佛山南狮 vs 宁波；定南赣联 vs 深圳青年人；广西恒宸 vs 无锡吴钩；梅州客家 vs 陕西联合；石家庄功夫 vs 广东广州豹；苏州东吴 vs 延边龙鼎；长春亚泰 vs 南通支云</title>
     <category>体育</category>
   </programme>
 </tv>
