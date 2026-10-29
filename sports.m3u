@@ -123,6 +123,8 @@ http://192.168.5.35:44635/play/0317a62fb30bd817385a5b7111675c069c903cb7
 http://192.168.5.35:44635/play/af238f3d5fcadf612961b26ebf4713f5195c1819
 #EXTINF:-1 tvg-id="马德拉斯工兵 vs 班加罗尔城" tvg-chno="1230" tvg-name="马德拉斯工兵 vs 班加罗尔城" tvg-group="足球" group-title="足球",马德拉斯工兵 vs 班加罗尔城
 http://192.168.5.35:44635/play/e852eba6803b39601945a6fa88ee8332f18cfc44
+#EXTINF:-1 tvg-id="马来西亚U15 vs 中国U15" tvg-chno="1231" tvg-name="马来西亚U15 vs 中国U15" tvg-group="足球" group-title="足球",马来西亚U15 vs 中国U15
+http://192.168.5.35:44635/play/4a6b3061e2b20d1e431cc61e58694bf6408e069c
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1301" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1302" tvg-name="ESPN" tvg-group="体育综合" group-title="体育综合",ESPN
