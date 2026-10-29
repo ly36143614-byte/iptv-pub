@@ -40,7 +40,7 @@ http://192.168.5.35:44635/play/70da02f7ed7a3fb67f268df58817bdc72a1c7107
 #EXTINF:-1 tvg-id="快船 vs 湖人" tvg-chno="1112" tvg-name="快船 vs 湖人" tvg-group="篮球" group-title="篮球",快船 vs 湖人
 http://192.168.5.35:44635/play/2cbb78917020a4eb6fbd30234ae977c6ef77bcac
 #EXTINF:-1 tvg-id="快船 vs 湖人" tvg-chno="1113" tvg-name="快船 vs 湖人" tvg-group="篮球" group-title="篮球",快船 vs 湖人·腾讯Q⑥
-https://hlsz.yjjcfw.com/live/00588315.m3u8?expire=1793265866&sign=628fd6e1e671e61315f699ac23ebf0b6
+https://hlsz.yjjcfw.com/live/00588315.m3u8?expire=1793266510&sign=4a8f5037ef8963d5197d8a26b2aeef92
 #EXTINF:-1 tvg-id="拉帕达凡伊斯法罕 vs 拉夫桑贾" tvg-chno="1114" tvg-name="拉帕达凡伊斯法罕 vs 拉夫桑贾" tvg-group="篮球" group-title="篮球",拉帕达凡伊斯法罕 vs 拉夫桑贾
 http://192.168.5.35:44635/play/78c8b03aaf7be56e49374b87f09840ac568a95b9
 #EXTINF:-1 tvg-id="独行侠 vs 雷霆" tvg-chno="1115" tvg-name="独行侠 vs 雷霆" tvg-group="篮球" group-title="篮球",独行侠 vs 雷霆
@@ -59,6 +59,10 @@ http://192.168.5.35:44635/play/65c8ca43be8ffd55081f5a56690be5bb61858b01
 http://192.168.5.35:44635/play/2ebc0635e37f7f0dd6f9c8d24fa11156b36217f8
 #EXTINF:-1 tvg-id="阿雷利亚诺大学酋长 vs CSJL骑士" tvg-chno="1122" tvg-name="阿雷利亚诺大学酋长 vs CSJL骑士" tvg-group="篮球" group-title="篮球",阿雷利亚诺大学酋长 vs CSJL骑士
 http://192.168.5.35:44635/play/f70775e7364cd24e86c30d178bf2a778ce488904
+#EXTINF:-1 tvg-id="雅加达明灯 vs 沙拉笛加" tvg-chno="1123" tvg-name="雅加达明灯 vs 沙拉笛加" tvg-group="篮球" group-title="篮球",雅加达明灯 vs 沙拉笛加
+http://192.168.5.35:44635/play/673ac53017e88bcbb51ff6ee39a4032d390efbf1
+#EXTINF:-1 tvg-id="雅加达明灯 vs 沙拉笛加" tvg-chno="1124" tvg-name="雅加达明灯 vs 沙拉笛加" tvg-group="篮球" group-title="篮球",雅加达明灯 vs 沙拉笛加
+http://192.168.5.35:44635/play/3dd18ce15b8780e2e62328d0ad7c9ad7f6f69d4a
 #EXTINF:-1 tvg-id="WAB锡塞迈勒特U20 vs 提亚雷特U20" tvg-chno="1201" tvg-name="WAB锡塞迈勒特U20 vs 提亚雷特U20" tvg-group="足球" group-title="足球",WAB锡塞迈勒特U20 vs 提亚雷特U20
 http://192.168.5.35:44635/play/6eff2ccfdc542d3bf2be95f49dc4201988f1e9b1
 #EXTINF:-1 tvg-id="乌兰巴托FC vs 德仁FC" tvg-chno="1202" tvg-name="乌兰巴托FC vs 德仁FC" tvg-group="足球" group-title="足球",乌兰巴托FC vs 德仁FC
