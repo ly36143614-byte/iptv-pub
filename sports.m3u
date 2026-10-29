@@ -62,7 +62,7 @@ http://192.168.5.35:44635/play/bed197c61892f9c21bc2145bbf5954e4fd60f7e2
 #EXTINF:-1 tvg-id="浙江杭州女足B队 vs 山西喜华女足" tvg-chno="1201" tvg-name="浙江杭州女足B队 vs 山西喜华女足" tvg-group="足球" group-title="足球",浙江杭州女足B队 vs 山西喜华女足
 https://hdl2.mxxfly.com/live/38133428.m3u8?auth_key=1793203320-52c9fb21b01c4362bccd18449b16a3c2-0-6b4de9f16f6371bc9ff9c4dcb3d7c649
 #EXTINF:-1 tvg-id="西拉贡 vs 肯德尔龙卷风" tvg-chno="1202" tvg-name="西拉贡 vs 肯德尔龙卷风" tvg-group="足球" group-title="足球",西拉贡 vs 肯德尔龙卷风
-https://hdl2.mxxfly.com/live/44668741.m3u8?auth_key=1793203320-86561b08b6b0468993e1dfc484b073b9-0-df69bba7d7611f3fe96f8dc2cb1c9595
+https://hdl2.mxxfly.com/live/44668741.m3u8?auth_key=1793260920-1f08e5f1516d47bbb588380457892ed4-0-0b01ece55dd312f7425da4edf80f61c7
 #EXTINF:-1 tvg-id="UST猛虎 vs FEU塔马" tvg-chno="1203" tvg-name="UST猛虎 vs FEU塔马" tvg-group="足球" group-title="足球",UST猛虎 vs FEU塔马
 http://192.168.5.35:44635/play/459482fd8201642330f32fed4b93b53dd13ba029
 #EXTINF:-1 tvg-id="乌兰巴托FC vs 德仁FC" tvg-chno="1204" tvg-name="乌兰巴托FC vs 德仁FC" tvg-group="足球" group-title="足球",乌兰巴托FC vs 德仁FC
@@ -84,7 +84,7 @@ http://192.168.5.35:44635/play/d2ba16e069e01872a0d3bfa2415ee77e488b5bdf
 #EXTINF:-1 tvg-id="堪培拉FC vs 南墨尔本" tvg-chno="1212" tvg-name="堪培拉FC vs 南墨尔本" tvg-group="足球" group-title="足球",堪培拉FC vs 南墨尔本
 http://192.168.5.35:44635/play/75e853fc1cfcff416fa70d76fcd76a2ff1b3ace5
 #EXTINF:-1 tvg-id="堪培拉FC vs 南墨尔本" tvg-chno="1213" tvg-name="堪培拉FC vs 南墨尔本" tvg-group="足球" group-title="足球",堪培拉FC vs 南墨尔本·腾讯Q⑥
-https://hdl2.mxxfly.com/live/86141720.m3u8?auth_key=1793174520-81c236be76a84ff3b1145a8f3d84347e-0-50294ecd0a7c9aecaf1d895d8ce18770
+https://hdl2.mxxfly.com/live/86141720.m3u8?auth_key=1793260920-19b10c1b303c464ebdac32523f860292-0-954facaf81752ea7265f2a94131fa800
 #EXTINF:-1 tvg-id="塔什干多斯特利克 vs 艾哈迈多夫" tvg-chno="1214" tvg-name="塔什干多斯特利克 vs 艾哈迈多夫" tvg-group="足球" group-title="足球",塔什干多斯特利克 vs 艾哈迈多夫
 http://192.168.5.35:44635/play/eabfa81bfc4cab4692e2cc55979e34dc385aeee5
 #EXTINF:-1 tvg-id="塔什干多斯特利克 vs 艾哈迈多夫" tvg-chno="1215" tvg-name="塔什干多斯特利克 vs 艾哈迈多夫" tvg-group="足球" group-title="足球",塔什干多斯特利克 vs 艾哈迈多夫
@@ -124,7 +124,7 @@ http://192.168.5.35:44635/play/e13af7e4d68073b7d8963bf24332078dcc1c5f5f
 #EXTINF:-1 tvg-id="阿德莱德联 vs 狮城水手" tvg-chno="1232" tvg-name="阿德莱德联 vs 狮城水手" tvg-group="足球" group-title="足球",阿德莱德联 vs 狮城水手
 http://192.168.5.35:44635/play/cb3b1a7f525c432251bd77e180aebc3622f45fca
 #EXTINF:-1 tvg-id="阿德莱德联 vs 狮城水手" tvg-chno="1233" tvg-name="阿德莱德联 vs 狮城水手" tvg-group="足球" group-title="足球",阿德莱德联 vs 狮城水手·腾讯Q⑥
-https://hdl2.mxxfly.com/live/28576003.m3u8?auth_key=1793203320-8789ea4b637344f2bceb9f40c06230ef-0-01cc7987a835d4730421fece6b63b0cd
+https://hlsz.yjjcfw.com/live/00590523.m3u8?expire=1793278257&sign=8424dbc0388c719cd13a819418a6dc6d
 #EXTINF:-1 tvg-id="雷利赞竞技U20 vs 雷姆治U20" tvg-chno="1234" tvg-name="雷利赞竞技U20 vs 雷姆治U20" tvg-group="足球" group-title="足球",雷利赞竞技U20 vs 雷姆治U20
 http://192.168.5.35:44635/play/0317a62fb30bd817385a5b7111675c069c903cb7
 #EXTINF:-1 tvg-id="马塔雷联 vs 图斯科" tvg-chno="1235" tvg-name="马塔雷联 vs 图斯科" tvg-group="足球" group-title="足球",马塔雷联 vs 图斯科
@@ -141,17 +141,15 @@ http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="F1·Formula" tvg-chno="1306" tvg-name="F1·Formula" tvg-group="体育综合" group-title="体育综合",F1·Formula
 https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
-#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1307" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
-https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1308" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1307" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1309" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1308" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1310" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1309" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="卡塔库尔甘 vs 莫比乌兹奥林匹克" tvg-chno="1311" tvg-name="卡塔库尔甘 vs 莫比乌兹奥林匹克" tvg-group="体育综合" group-title="体育综合",卡塔库尔甘 vs 莫比乌兹奥林匹克
+#EXTINF:-1 tvg-id="卡塔库尔甘 vs 莫比乌兹奥林匹克" tvg-chno="1310" tvg-name="卡塔库尔甘 vs 莫比乌兹奥林匹克" tvg-group="体育综合" group-title="体育综合",卡塔库尔甘 vs 莫比乌兹奥林匹克
 http://192.168.5.35:44635/play/c9d5efd4831eb4f809eb5b25b28346fac6426c6f
-#EXTINF:-1 tvg-id="卡塔库尔甘 vs 莫比乌兹奥林匹克" tvg-chno="1312" tvg-name="卡塔库尔甘 vs 莫比乌兹奥林匹克" tvg-group="体育综合" group-title="体育综合",卡塔库尔甘 vs 莫比乌兹奥林匹克
+#EXTINF:-1 tvg-id="卡塔库尔甘 vs 莫比乌兹奥林匹克" tvg-chno="1311" tvg-name="卡塔库尔甘 vs 莫比乌兹奥林匹克" tvg-group="体育综合" group-title="体育综合",卡塔库尔甘 vs 莫比乌兹奥林匹克
 http://192.168.5.35:44635/play/8cd15579fb08926933d180ead6de2a29dfc09a18
 #EXTINF:-1 tvg-id="Dota2中文·完美世界" tvg-chno="1401" tvg-name="Dota2中文·完美世界" tvg-group="DOTA2" group-title="DOTA2",Dota2中文·完美世界
 http://127.0.0.1:35455/douyu/6829849
