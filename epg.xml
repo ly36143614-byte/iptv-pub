@@ -6,7 +6,7 @@
   <channel id="Liquid vs AI"><display-name>Liquid vs AI</display-name></channel>
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
-  <channel id="TSpirit vs Team Legion"><display-name>TSpirit vs Team Legion</display-name></channel>
+  <channel id="PARIVISION vs Yandex"><display-name>PARIVISION vs Yandex</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <programme start="20261102020000 +0800" stop="20261102051948 +0800" channel="CBS">
@@ -34,15 +34,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261029150741 +0800" stop="20261029190741 +0800" channel="Dota2中文·完美世界">
-    <title>PGL布加勒斯特大师赛2026</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261029070000 +0800" stop="20261029094012 +0800" channel="ESPN">
-    <title>Philadelphia 76ers at Indiana Pacers 已结束（NBA）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261029093000 +0800" stop="20261029121012 +0800" channel="ESPN">
-    <title>Oklahoma City Thunder at Dallas Mavericks 已结束（NBA）</title>
+    <title>【预告】30日20点 PGL布加勒斯特</title>
     <category>体育</category>
   </programme>
   <programme start="20261103091500 +0800" stop="20261103123448 +0800" channel="ESPN">
@@ -69,48 +61,16 @@
     <title>Philadelphia Eagles at Washington Commanders（NFL）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261029200500 +0800" stop="20261029223500 +0800" channel="TSpirit vs Team Legion">
-    <title>TSpirit vs LEGION（PARI Universe - Playoffs）</title>
+  <programme start="20261030013937 +0800" stop="20261030022156 +0800" channel="PARIVISION vs Yandex">
+    <title>PARIVISION vs Team Yandex（PARI UNIVERSE by FISSURE）</title>
     <category>体育</category>
   </programme>
   <programme start="20261031073000 +0800" stop="20261031101012 +0800" channel="活塞">
     <title>NBA：篮网 vs 活塞</title>
     <category>体育</category>
   </programme>
-  <programme start="20261029230000 +0800" stop="20261030000000 +0800" channel="赛程预告">
-    <title>足球：中国U17女足 vs 法国女足U17；Dota2：PARI vs Yandex（PARI Universe）；Dota2：rbd vs Perros（NEXUS SERIES II）；Dota2：LVLUP.A vs RH（EPC Season 3）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261030000000 +0800" stop="20261030010000 +0800" channel="赛程预告">
-    <title>芬超：国际图尔 vs 赫尔辛基</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261030010000 +0800" stop="20261030013000 +0800" channel="赛程预告">
-    <title>Dota2：SOLID vs Rvnnt（NEXUS SERIES II）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261030013000 +0800" stop="20261030020000 +0800" channel="赛程预告">
-    <title>意甲：弗洛西诺 vs 莱切；瑞超：哈马比 vs 天狼星；意甲：弗洛西诺内 vs 莱切</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261030020000 +0800" stop="20261030034500 +0800" channel="赛程预告">
-    <title>利雅得胜利：利雅得胜利 vs 拉斯永恒；Dota2：OG vs GL（PARI Universe）；Dota2：Synapse vs Z10（NEXUS SERIES II）；Dota2：Rott vs RH（EPC Season 3）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261030034500 +0800" stop="20261030044500 +0800" channel="赛程预告">
-    <title>英联赛杯：埃弗顿 vs 纽卡斯尔；意甲：佛罗伦萨 vs 亚特兰大；埃弗顿：埃弗顿 vs 纽卡斯尔联</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261030044500 +0800" stop="20261030050000 +0800" channel="赛程预告">
-    <title>本菲卡：本菲卡 vs 维森特</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261030050000 +0800" stop="20261030080000 +0800" channel="赛程预告">
-    <title>Dota2：Chand vs Growth（NEXUS SERIES II）</title>
-    <category>体育</category>
-  </programme>
   <programme start="20261030080000 +0800" stop="20261030083000 +0800" channel="赛程预告">
-    <title>NBA：老鹰 vs 骑士；鹈鹕 vs 国王</title>
+    <title>NBA：老鹰 vs 骑士；NBA：鹈鹕 vs 国王；Dota2：Chand vs Growth（NEXUS SERIES II）</title>
     <category>体育</category>
   </programme>
   <programme start="20261030083000 +0800" stop="20261030100000 +0800" channel="赛程预告">
@@ -137,20 +97,24 @@
     <title>澳超：布里斯班 vs 奥克兰FC</title>
     <category>体育</category>
   </programme>
-  <programme start="20261030180000 +0800" stop="20261030200000 +0800" channel="赛程预告">
-    <title>Dota2：Nem.A vs RBear（EPL World SEA S19）</title>
+  <programme start="20261030180000 +0800" stop="20261030210000 +0800" channel="赛程预告">
+    <title>Dota2：PARI vs TSpirit（PARI Universe）；Nem.A vs RBear（EPL World SEA S19）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261030200000 +0800" stop="20261030214500 +0800" channel="赛程预告">
-    <title>Dota2：potn9k vs Synapse（EPC Season 3）</title>
+  <programme start="20261030210000 +0800" stop="20261030214500 +0800" channel="赛程预告">
+    <title>Dota2：OG vs Liquid（PARI Universe）；potn9k vs Synapse（EPC Season 3）</title>
     <category>体育</category>
   </programme>
   <programme start="20261030214500 +0800" stop="20261030230000 +0800" channel="赛程预告">
     <title>足球：艾卜哈 vs 吉达联合</title>
     <category>体育</category>
   </programme>
-  <programme start="20261030230000 +0800" stop="20261031013000 +0800" channel="赛程预告">
+  <programme start="20261030230000 +0800" stop="20261031010000 +0800" channel="赛程预告">
     <title>Dota2：oblood vs RH（EPC Season 3）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261031010000 +0800" stop="20261031013000 +0800" channel="赛程预告">
+    <title>足球：科尼亚体育 vs 加拉塔萨雷</title>
     <category>体育</category>
   </programme>
   <programme start="20261031013000 +0800" stop="20261031020000 +0800" channel="赛程预告">
@@ -177,8 +141,12 @@
     <title>法甲：里尔 vs 朗斯</title>
     <category>体育</category>
   </programme>
-  <programme start="20261031041500 +0800" stop="20261031070000 +0800" channel="赛程预告">
-    <title>葡超：卡萨皮亚 vs 里斯本</title>
+  <programme start="20261031041500 +0800" stop="20261031050000 +0800" channel="赛程预告">
+    <title>葡超：卡萨皮亚 vs 里斯本；卡萨皮亚 vs 葡萄牙体育</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261031050000 +0800" stop="20261031070000 +0800" channel="赛程预告">
+    <title>Dota2：Z10 vs rbd（NEXUS SERIES II）</title>
     <category>体育</category>
   </programme>
   <programme start="20261031070000 +0800" stop="20261031073000 +0800" channel="赛程预告">
@@ -226,11 +194,67 @@
     <category>体育</category>
   </programme>
   <programme start="20261031210000 +0800" stop="20261031220000 +0800" channel="赛程预告">
-    <title>西甲：莱万特 vs 马德里竞技</title>
+    <title>西甲：莱万特 vs 马德里竞技；Dota2：Yandex vs GL（PARI Universe）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261031220000 +0800" stop="20261101000000 +0800" channel="赛程预告">
+  <programme start="20261031220000 +0800" stop="20261031223000 +0800" channel="赛程预告">
     <title>意甲：博洛尼亚 vs 蒙扎</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261031223000 +0800" stop="20261031230000 +0800" channel="赛程预告">
+    <title>沙尔克04：沙尔克04 vs RB莱比锡；德甲：不莱梅 vs 霍芬海姆；德甲：门兴 vs 帕德博恩；德甲：奥格斯堡 vs 弗赖堡；德甲：勒沃库森 vs 斯图加特</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261031230000 +0800" stop="20261031231500 +0800" channel="赛程预告">
+    <title>英超：伯恩茅斯 vs 利兹联；布伦特福德：布伦特福德 vs 诺丁汉森林；英超：考文垂 vs 桑德兰；赫尔城：赫尔城 vs 伊普斯维奇；英超：曼城 vs 布莱顿；Dota2：Hokori vs potn9k（EPC Season 3）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261031231500 +0800" stop="20261031233000 +0800" channel="赛程预告">
+    <title>西甲：巴列卡诺 vs 塞尔塔</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261031233000 +0800" stop="20261101010000 +0800" channel="赛程预告">
+    <title>荷甲：费耶诺德 vs 福图纳锡塔德</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261101010000 +0800" stop="20261101013000 +0800" channel="赛程预告">
+    <title>意甲：乌迪内斯 vs 罗马</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261101013000 +0800" stop="20261101014500 +0800" channel="赛程预告">
+    <title>德甲：拜仁慕尼黑 vs 多特蒙德；西甲：皇家贝蒂斯 vs 马拉加；英超：热刺 vs 水晶宫</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261101014500 +0800" stop="20261101020000 +0800" channel="赛程预告">
+    <title>荷甲：埃因霍温 vs 威廉二世</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261101020000 +0800" stop="20261101030000 +0800" channel="赛程预告">
+    <title>足球：利雅得新月 vs 哈萨征服；Dota2：LVLUP.A vs oblood（EPC Season 3）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261101030000 +0800" stop="20261101034500 +0800" channel="赛程预告">
+    <title>NBA：爵士 vs 开拓者</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261101034500 +0800" stop="20261101040000 +0800" channel="赛程预告">
+    <title>法甲：特鲁瓦 vs 勒芒；意甲：AC米兰 vs 国际米兰</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261101040000 +0800" stop="20261101043000 +0800" channel="赛程预告">
+    <title>荷甲：阿贾克斯 vs 阿尔克马尔；西甲：巴塞罗那 vs 阿拉维斯；英超：阿斯顿维拉 vs 富勒姆</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261101043000 +0800" stop="20261101060000 +0800" channel="赛程预告">
+    <title>葡超：波尔图 vs 埃斯托里尔</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261101060000 +0800" stop="20261101070000 +0800" channel="赛程预告">
+    <title>NBA：黄蜂 vs 76人</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261101070000 +0800" stop="20261101090000 +0800" channel="赛程预告">
+    <title>NBA：鹈鹕 vs 老鹰</title>
     <category>体育</category>
   </programme>
 </tv>
