@@ -77,10 +77,6 @@
     <title>Oklahoma City Thunder at Dallas Mavericks 已结束（NBA）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261029120000 +0800" stop="20261029141500 +0800" channel="赛程预告">
-    <title>Dota2：CD vs ZENITH（EPL World SEA S19）</title>
-    <category>体育</category>
-  </programme>
   <programme start="20261029141500 +0800" stop="20261029150000 +0800" channel="赛程预告">
     <title>马来西亚U15：马来西亚U15 vs 中国U15男足</title>
     <category>体育</category>
@@ -97,8 +93,12 @@
     <title>Dota2：Nem.A vs Db（EPL World SEA S19）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261029201500 +0800" stop="20261029230000 +0800" channel="赛程预告">
+  <programme start="20261029201500 +0800" stop="20261029210000 +0800" channel="赛程预告">
     <title>亚冠乙：上海申花 vs 町田泽维；亚冠二级：上海申花 vs 町田泽维亚</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261029210000 +0800" stop="20261029230000 +0800" channel="赛程预告">
+    <title>卡塔尔/吉尔吉斯斯坦：卡塔尔/吉尔吉斯斯坦 vs 中国U15男足</title>
     <category>体育</category>
   </programme>
   <programme start="20261029230000 +0800" stop="20261030000000 +0800" channel="赛程预告">
@@ -141,8 +141,12 @@
     <title>Dota2：KS vs CHero（Sber Tournament）；Z10 vs 4iki（Sber Tournament）；ZENITH vs YG（EPL World SEA S19）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261030150000 +0800" stop="20261030180000 +0800" channel="赛程预告">
+  <programme start="20261030150000 +0800" stop="20261030170000 +0800" channel="赛程预告">
     <title>Dota2：Db vs Resp（EPL World SEA S19）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261030170000 +0800" stop="20261030180000 +0800" channel="赛程预告">
+    <title>澳超：布里斯班 vs 奥克兰FC</title>
     <category>体育</category>
   </programme>
   <programme start="20261030180000 +0800" stop="20261030200000 +0800" channel="赛程预告">
@@ -157,28 +161,40 @@
     <title>足球：艾卜哈 vs 吉达联合</title>
     <category>体育</category>
   </programme>
-  <programme start="20261030230000 +0800" stop="20261031020000 +0800" channel="赛程预告">
+  <programme start="20261030230000 +0800" stop="20261031013000 +0800" channel="赛程预告">
     <title>Dota2：oblood vs RH（EPC Season 3）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261031020000 +0800" stop="20261031033000 +0800" channel="赛程预告">
-    <title>足球：利雅得青年人 vs 吉达国民；法甲：勒阿弗尔 vs 巴黎圣日耳曼；法甲：尼斯 vs 雷恩；Dota2：Hokori vs HN（EPC Season 3）</title>
+  <programme start="20261031013000 +0800" stop="20261031020000 +0800" channel="赛程预告">
+    <title>德乙：科特布斯 vs 波鸿</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261031020000 +0800" stop="20261031030000 +0800" channel="赛程预告">
+    <title>法甲：尼斯 vs 雷恩；法甲：勒阿弗尔 vs 巴黎圣曼；挪超：博德闪耀 vs 维京；足球：利雅得青年人 vs 吉达国民；法甲：勒阿弗尔 vs 巴黎圣日耳曼；Dota2：Hokori vs HN（EPC Season 3）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261031030000 +0800" stop="20261031033000 +0800" channel="赛程预告">
+    <title>荷乙：福伦丹 vs 格拉夫</title>
     <category>体育</category>
   </programme>
   <programme start="20261031033000 +0800" stop="20261031040000 +0800" channel="赛程预告">
-    <title>埃尔沃斯堡：埃尔沃斯贝格 vs 美因茨</title>
+    <title>德甲：埃沃斯堡 vs 美因茨；埃尔沃斯堡：埃尔沃斯贝格 vs 美因茨</title>
     <category>体育</category>
   </programme>
   <programme start="20261031040000 +0800" stop="20261031040500 +0800" channel="赛程预告">
-    <title>西甲：比利亚雷亚尔 vs 西班牙人</title>
+    <title>英冠：谢菲联 vs 雷克斯；西甲：比利亚雷 vs 西班牙人；西甲：比利亚雷亚尔 vs 西班牙人</title>
     <category>体育</category>
   </programme>
-  <programme start="20261031040500 +0800" stop="20261031070000 +0800" channel="赛程预告">
-    <title>里尔：里尔 vs 朗斯</title>
+  <programme start="20261031040500 +0800" stop="20261031041500 +0800" channel="赛程预告">
+    <title>法甲：里尔 vs 朗斯</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261031041500 +0800" stop="20261031070000 +0800" channel="赛程预告">
+    <title>葡超：卡萨皮亚 vs 里斯本</title>
     <category>体育</category>
   </programme>
   <programme start="20261031070000 +0800" stop="20261031073000 +0800" channel="赛程预告">
-    <title>NBA：奇才 vs 黄蜂</title>
+    <title>巴甲：科林蒂安 vs 米拉索尔；NBA：奇才 vs 黄蜂</title>
     <category>体育</category>
   </programme>
   <programme start="20261031073000 +0800" stop="20261031080000 +0800" channel="赛程预告">
