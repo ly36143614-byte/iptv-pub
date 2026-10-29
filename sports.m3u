@@ -130,7 +130,9 @@ http://192.168.5.35:44635/play/af238f3d5fcadf612961b26ebf4713f5195c1819
 #EXTINF:-1 tvg-id="马德拉斯工兵 vs 班加罗尔城" tvg-chno="1236" tvg-name="马德拉斯工兵 vs 班加罗尔城" tvg-group="足球" group-title="足球",马德拉斯工兵 vs 班加罗尔城
 http://192.168.5.35:44635/play/e852eba6803b39601945a6fa88ee8332f18cfc44
 #EXTINF:-1 tvg-id="马来西亚U15 vs 中国U15" tvg-chno="1237" tvg-name="马来西亚U15 vs 中国U15" tvg-group="足球" group-title="足球",马来西亚U15 vs 中国U15
-http://192.168.5.35:44635/play/8891daac942d6d0e8415316673fc28cc01448651
+http://192.168.5.35:44635/play/39e5a5a5efedac3ca0623e18ca0b6ad307bb0217
+#EXTINF:-1 tvg-id="马来西亚U15 vs 中国U15" tvg-chno="1238" tvg-name="马来西亚U15 vs 中国U15" tvg-group="足球" group-title="足球",马来西亚U15 vs 中国U15
+http://192.168.5.35:44635/play/0392bfde791ff9dd27095df5b27b13d4b4dd5413
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1301" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1302" tvg-name="ESPN" tvg-group="体育综合" group-title="体育综合",ESPN
@@ -143,13 +145,15 @@ http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="F1·Formula" tvg-chno="1306" tvg-name="F1·Formula" tvg-group="体育综合" group-title="体育综合",F1·Formula
 https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1307" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1307" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1308" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1308" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1309" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="卡塔库尔甘 vs 莫比乌兹奥林匹克" tvg-chno="1309" tvg-name="卡塔库尔甘 vs 莫比乌兹奥林匹克" tvg-group="体育综合" group-title="体育综合",卡塔库尔甘 vs 莫比乌兹奥林匹克
-http://192.168.5.35:44635/play/c9d5efd4831eb4f809eb5b25b28346fac6426c6f
 #EXTINF:-1 tvg-id="卡塔库尔甘 vs 莫比乌兹奥林匹克" tvg-chno="1310" tvg-name="卡塔库尔甘 vs 莫比乌兹奥林匹克" tvg-group="体育综合" group-title="体育综合",卡塔库尔甘 vs 莫比乌兹奥林匹克
+http://192.168.5.35:44635/play/c9d5efd4831eb4f809eb5b25b28346fac6426c6f
+#EXTINF:-1 tvg-id="卡塔库尔甘 vs 莫比乌兹奥林匹克" tvg-chno="1311" tvg-name="卡塔库尔甘 vs 莫比乌兹奥林匹克" tvg-group="体育综合" group-title="体育综合",卡塔库尔甘 vs 莫比乌兹奥林匹克
 http://192.168.5.35:44635/play/8cd15579fb08926933d180ead6de2a29dfc09a18
 #EXTINF:-1 tvg-id="CD vs Zenith" tvg-chno="1401" tvg-name="CD vs Zenith" tvg-group="DOTA2" group-title="DOTA2",CD vs Zenith
 http://192.168.5.35:44635/play/1222883db207cdff95840c6e5b9956aee6508d02
