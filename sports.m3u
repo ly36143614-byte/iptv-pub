@@ -81,12 +81,12 @@ http://192.168.5.35:44635/play/24e817ec8ed65c57e3f62a4e9f34a048304bb43f
 http://192.168.5.35:44635/play/d9e8b9857bec7d9649645edf6f4cd51b4d7a3c46
 #EXTINF:-1 tvg-id="高阳索诺天枪 vs 首尔三星雷电" tvg-chno="1133" tvg-name="高阳索诺天枪 vs 首尔三星雷电" tvg-group="篮球" group-title="篮球",高阳索诺天枪 vs 首尔三星雷电
 http://192.168.5.35:44635/play/6b5b0af0a9e9bfe94255821b4532ec45ab2ec2e0
-#EXTINF:-1 tvg-id="上海海港U20 vs 山东泰山U20" tvg-chno="1201" tvg-name="上海海港U20 vs 山东泰山U20" tvg-group="足球" group-title="足球",上海海港U20 vs 山东泰山U20
-http://192.168.5.35:44635/play/570dd1b8f0462ae19a03217ecc25eb4b74a86bfc
+#EXTINF:-1 tvg-id="清化 vs 河静鸿岭" tvg-chno="1201" tvg-name="清化 vs 河静鸿岭" tvg-group="足球" group-title="足球",清化 vs 河静鸿岭
+https://hdl2.mxxfly.com/live/82095217.m3u8?auth_key=1793289720-c79991b854b14489b7c1b4675cdfbb4a-0-344337117b4d36b830baeae30fa591b5
 #EXTINF:-1 tvg-id="上海海港U20 vs 山东泰山U20" tvg-chno="1202" tvg-name="上海海港U20 vs 山东泰山U20" tvg-group="足球" group-title="足球",上海海港U20 vs 山东泰山U20
+http://192.168.5.35:44635/play/570dd1b8f0462ae19a03217ecc25eb4b74a86bfc
+#EXTINF:-1 tvg-id="上海海港U20 vs 山东泰山U20" tvg-chno="1203" tvg-name="上海海港U20 vs 山东泰山U20" tvg-group="足球" group-title="足球",上海海港U20 vs 山东泰山U20
 http://192.168.5.35:44635/play/33d90f4ca4b5ac70d2c1acfdeb46272624d44047
-#EXTINF:-1 tvg-id="上海海港U20 vs 山东泰山U20" tvg-chno="1203" tvg-name="上海海港U20 vs 山东泰山U20" tvg-group="足球" group-title="足球",上海海港U20 vs 山东泰山U20·腾讯Q⑥
-https://hdl2.mxxfly.com/live/13795214.m3u8?auth_key=1793289720-adafb437474141c6bb359a41f8161004-0-3eda91cf41383d7373ded4e39d058c95
 #EXTINF:-1 tvg-id="亚洲雄狮 vs 奈比多" tvg-chno="1204" tvg-name="亚洲雄狮 vs 奈比多" tvg-group="足球" group-title="足球",亚洲雄狮 vs 奈比多
 http://192.168.5.35:44635/play/0afd4543a537d6dcd4152759acb804f5f685d398
 #EXTINF:-1 tvg-id="亚洲雄狮 vs 奈比多" tvg-chno="1205" tvg-name="亚洲雄狮 vs 奈比多" tvg-group="足球" group-title="足球",亚洲雄狮 vs 奈比多
@@ -96,7 +96,7 @@ http://192.168.5.35:44635/play/b82573cb7111335b762fb7a28b134f7220d32282
 #EXTINF:-1 tvg-id="伊斯佩 vs 雅丹纳博" tvg-chno="1207" tvg-name="伊斯佩 vs 雅丹纳博" tvg-group="足球" group-title="足球",伊斯佩 vs 雅丹纳博
 http://192.168.5.35:44635/play/49f625a02a9b367ffba03101224e945a9a1c341f
 #EXTINF:-1 tvg-id="伊斯佩 vs 雅丹纳博" tvg-chno="1208" tvg-name="伊斯佩 vs 雅丹纳博" tvg-group="足球" group-title="足球",伊斯佩 vs 雅丹纳博·腾讯Q⑥
-https://hdl2.mxxfly.com/live/92598595.m3u8?auth_key=1793260920-79e76cdb55bd47d7b361b6c8424a15a1-0-86b5dbbfb34b915aa1e8c1f0ece780fb
+https://hdl2.mxxfly.com/live/92598595.m3u8?auth_key=1793347320-b26aef06b952449fab74e9778fce235e-0-b03a82c5dd016c67a783dfd75fc0123f
 #EXTINF:-1 tvg-id="伯斯古古杜斯 vs 波斯拉加班达亚齐" tvg-chno="1209" tvg-name="伯斯古古杜斯 vs 波斯拉加班达亚齐" tvg-group="足球" group-title="足球",伯斯古古杜斯 vs 波斯拉加班达亚齐
 http://192.168.5.35:44635/play/638f8c5531b43a8b3dbb6ad6c498e8474644ca81
 #EXTINF:-1 tvg-id="伯斯古古杜斯 vs 波斯拉加班达亚齐" tvg-chno="1210" tvg-name="伯斯古古杜斯 vs 波斯拉加班达亚齐" tvg-group="足球" group-title="足球",伯斯古古杜斯 vs 波斯拉加班达亚齐
@@ -118,7 +118,7 @@ http://192.168.5.35:44635/play/4f0a0e48000daebe20fd60614786ed8c7b9e6109
 #EXTINF:-1 tvg-id="布里斯班狮吼 vs 奥克兰FC" tvg-chno="1218" tvg-name="布里斯班狮吼 vs 奥克兰FC" tvg-group="足球" group-title="足球",布里斯班狮吼 vs 奥克兰FC
 http://192.168.5.35:44635/play/5c263758f593ef428136b1d7bcd9f62ebec7bb42
 #EXTINF:-1 tvg-id="布里斯班狮吼 vs 奥克兰FC" tvg-chno="1219" tvg-name="布里斯班狮吼 vs 奥克兰FC" tvg-group="足球" group-title="足球",布里斯班狮吼 vs 奥克兰FC·腾讯Q⑥
-https://hdl2.mxxfly.com/live/11336730.m3u8?auth_key=1793289720-92dc78ee768142a7b3cd15ba4a7ace88-0-6665a17f5b550b8d3b5fa0fd8d594dde
+https://hdl2.mxxfly.com/live/11336730.m3u8?auth_key=1793347320-bdccbdffd565474490754927233598e2-0-794ffccbd8e4bb60694bee6b0d8dc1f2
 #EXTINF:-1 tvg-id="文莱DPMM vs 森美兰" tvg-chno="1220" tvg-name="文莱DPMM vs 森美兰" tvg-group="足球" group-title="足球",文莱DPMM vs 森美兰
 http://192.168.5.35:44635/play/639af2a12572f90cb5c7c08a2f688014fcba1a5a
 #EXTINF:-1 tvg-id="文莱DPMM vs 森美兰" tvg-chno="1221" tvg-name="文莱DPMM vs 森美兰" tvg-group="足球" group-title="足球",文莱DPMM vs 森美兰
