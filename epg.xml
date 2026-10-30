@@ -6,6 +6,7 @@
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="PARIVISION vs TSpirit"><display-name>PARIVISION vs TSpirit</display-name></channel>
+  <channel id="乌法迪纳摩B队 vs 海参崴迪纳摩B队"><display-name>乌法迪纳摩B队 vs 海参崴迪纳摩B队</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <programme start="20261102020000 +0800" stop="20261102051948 +0800" channel="CBS">
@@ -58,6 +59,10 @@
   </programme>
   <programme start="20261030180000 +0800" stop="20261030203000 +0800" channel="PARIVISION vs TSpirit">
     <title>PARI vs TSpirit（PARI Universe - Playoffs）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261031120000 +0800" stop="20261031143000 +0800" channel="乌法迪纳摩B队 vs 海参崴迪纳摩B队">
+    <title>Db vs RBear（EPL World SEA S19 - October 31）</title>
     <category>体育</category>
   </programme>
   <programme start="20261031073000 +0800" stop="20261031101012 +0800" channel="活塞">
