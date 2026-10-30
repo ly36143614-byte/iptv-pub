@@ -102,7 +102,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261031020000 +0800" stop="20261031030000 +0800" channel="赛程预告">
-    <title>法甲：尼斯 vs 雷恩；法甲：勒阿弗尔 vs 巴黎圣曼；挪超：博德闪耀 vs 维京；足球：利雅得青年人 vs 吉达国民；法甲：勒阿弗尔 vs 巴黎圣日耳曼；Dota2：Chand vs SOLID（NEXUS SERIES II）；Dota2：Hokori vs HN（EPC Season 3）</title>
+    <title>法甲：尼斯 vs 雷恩；法甲：勒阿弗尔 vs 巴黎圣曼；挪超：博德闪耀 vs 维京；法甲：勒阿弗尔 vs 巴黎圣日耳曼；足球：利雅得青年人 vs 吉达国民；Dota2：Chand vs SOLID（NEXUS SERIES II）；Dota2：Hokori vs HN（EPC Season 3）</title>
     <category>体育</category>
   </programme>
   <programme start="20261031030000 +0800" stop="20261031033000 +0800" channel="赛程预告">
@@ -257,8 +257,12 @@
     <title>NBA：火箭 vs 雷霆</title>
     <category>体育</category>
   </programme>
-  <programme start="20261101130000 +0800" stop="20261101150000 +0800" channel="赛程预告">
+  <programme start="20261101130000 +0800" stop="20261101153000 +0800" channel="赛程预告">
     <title>日职：长崎航海 vs 东京绿茵</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261101153000 +0800" stop="20261101173000 +0800" channel="赛程预告">
+    <title>韩职：首尔FC vs 仁川联</title>
     <category>体育</category>
   </programme>
 </tv>
