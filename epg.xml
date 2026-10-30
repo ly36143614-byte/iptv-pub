@@ -264,8 +264,12 @@
     <title>Dota2：ZENITH vs RBear（EPL World SEA S19）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261101183000 +0800" stop="20261101203000 +0800" channel="赛程预告">
+  <programme start="20261101183000 +0800" stop="20261101191500 +0800" channel="赛程预告">
     <title>足球：北京城建女足 vs 卡雅女足</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261101191500 +0800" stop="20261101211500 +0800" channel="赛程预告">
+    <title>荷甲：兹沃勒 vs 海牙</title>
     <category>体育</category>
   </programme>
 </tv>
