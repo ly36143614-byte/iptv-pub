@@ -127,10 +127,6 @@ http://192.168.5.35:44635/play/645a9bc345250a5c850292b6450ec19150382e28
 http://192.168.5.35:44635/play/ef2691daa455594cbd485b905531a335218013e0
 #EXTINF:-1 tvg-id="清化 vs 河静鸿岭" tvg-chno="1222" tvg-name="清化 vs 河静鸿岭" tvg-group="足球" group-title="足球",清化 vs 河静鸿岭·腾讯Q⑥
 https://hdl2.mxxfly.com/live/82095217.m3u8?auth_key=1793289720-c79991b854b14489b7c1b4675cdfbb4a-0-344337117b4d36b830baeae30fa591b5
-#EXTINF:-1 tvg-id="爪哇联 vs 巴杨卡拉泗水联" tvg-chno="1223" tvg-name="爪哇联 vs 巴杨卡拉泗水联" tvg-group="足球" group-title="足球",爪哇联 vs 巴杨卡拉泗水联
-http://192.168.5.35:44635/play/b65fb9902d2146bdd618dee70e52a8ece2656b88
-#EXTINF:-1 tvg-id="爪哇联 vs 巴杨卡拉泗水联" tvg-chno="1224" tvg-name="爪哇联 vs 巴杨卡拉泗水联" tvg-group="足球" group-title="足球",爪哇联 vs 巴杨卡拉泗水联
-http://192.168.5.35:44635/play/b6ce5cb91d9796397e336dc81f5659ccb4b4b6cd
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1301" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1302" tvg-name="ESPN" tvg-group="体育综合" group-title="体育综合",ESPN
@@ -147,11 +143,13 @@ https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1308" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1309" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1309" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1310" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="悉尼奥林匹克 vs 马可尼" tvg-chno="1310" tvg-name="悉尼奥林匹克 vs 马可尼" tvg-group="体育综合" group-title="体育综合",悉尼奥林匹克 vs 马可尼
-http://192.168.5.35:44635/play/fb753e6195099378227b83aacf088424eff5ecd2
 #EXTINF:-1 tvg-id="悉尼奥林匹克 vs 马可尼" tvg-chno="1311" tvg-name="悉尼奥林匹克 vs 马可尼" tvg-group="体育综合" group-title="体育综合",悉尼奥林匹克 vs 马可尼
+http://192.168.5.35:44635/play/fb753e6195099378227b83aacf088424eff5ecd2
+#EXTINF:-1 tvg-id="悉尼奥林匹克 vs 马可尼" tvg-chno="1312" tvg-name="悉尼奥林匹克 vs 马可尼" tvg-group="体育综合" group-title="体育综合",悉尼奥林匹克 vs 马可尼
 http://192.168.5.35:44635/play/b95e85e53515c20fe73a2eaced38ed6d9e531f2e
 #EXTINF:-1 tvg-id="Dota2中文·完美世界" tvg-chno="1401" tvg-name="Dota2中文·完美世界" tvg-group="DOTA2" group-title="DOTA2",Dota2中文·完美世界
 http://127.0.0.1:35455/douyu/6829849
