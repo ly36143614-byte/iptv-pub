@@ -7,7 +7,6 @@
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="Z10 vs 4ikibamboni"><display-name>Z10 vs 4ikibamboni</display-name></channel>
   <channel id="Zenith vs YG"><display-name>Zenith vs YG</display-name></channel>
-  <channel id="开拓者 vs 灰熊"><display-name>开拓者 vs 灰熊</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <programme start="20261102020000 +0800" stop="20261102051948 +0800" channel="CBS">
@@ -64,10 +63,6 @@
   </programme>
   <programme start="20261030120000 +0800" stop="20261030143000 +0800" channel="Zenith vs YG">
     <title>ZENITH vs YG（EPL World SEA S19 - October 30）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261030100000 +0800" stop="20261030124012 +0800" channel="开拓者 vs 灰熊">
-    <title>Memphis Grizzlies at Portland Trail Blazers 已结束（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261031073000 +0800" stop="20261031101012 +0800" channel="活塞">
