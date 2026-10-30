@@ -89,39 +89,43 @@ http://192.168.5.35:44635/play/b48c07d19f0d90ca1a200591971aabb69094d062
 http://192.168.5.35:44635/play/63997a6cb320e11b0844862b578faa6cca74c9c1
 #EXTINF:-1 tvg-id="伊斯佩 vs 雅丹纳博" tvg-chno="1201" tvg-name="伊斯佩 vs 雅丹纳博" tvg-group="足球" group-title="足球",伊斯佩 vs 雅丹纳博
 https://hdl2.mxxfly.com/live/92598595.m3u8?auth_key=1793347320-b26aef06b952449fab74e9778fce235e-0-b03a82c5dd016c67a783dfd75fc0123f
-#EXTINF:-1 tvg-id="北宁 vs 嘉莱黄英" tvg-chno="1202" tvg-name="北宁 vs 嘉莱黄英" tvg-group="足球" group-title="足球",北宁 vs 嘉莱黄英
-https://hdl2.mxxfly.com/live/29502165.m3u8?auth_key=1793347320-db33f1d85814492f9def9deafb33fcf3-0-89aeebc864b1c8f48fa4c0b69633d7b2
-#EXTINF:-1 tvg-id="丹戎巴葛联 vs FC裕廊" tvg-chno="1203" tvg-name="丹戎巴葛联 vs FC裕廊" tvg-group="足球" group-title="足球",丹戎巴葛联 vs FC裕廊
+#EXTINF:-1 tvg-id="丹戎巴葛联 vs FC裕廊" tvg-chno="1202" tvg-name="丹戎巴葛联 vs FC裕廊" tvg-group="足球" group-title="足球",丹戎巴葛联 vs FC裕廊
 https://hdl2.mxxfly.com/live/69480834.m3u8?auth_key=1793347320-d5eb4cea9c4f435daed96e79c083c05d-0-f942e3e078ea536e4eb44109ae0a8095
-#EXTINF:-1 tvg-id="佩里沃罗格 vs 亚历山德里亚B队" tvg-chno="1204" tvg-name="佩里沃罗格 vs 亚历山德里亚B队" tvg-group="足球" group-title="足球",佩里沃罗格 vs 亚历山德里亚B队
+#EXTINF:-1 tvg-id="佩里沃罗格 vs 亚历山德里亚B队" tvg-chno="1203" tvg-name="佩里沃罗格 vs 亚历山德里亚B队" tvg-group="足球" group-title="足球",佩里沃罗格 vs 亚历山德里亚B队
 http://192.168.5.35:44635/play/6223d8bf6494bf823321bb9bbd7fba22ea8dafe7
-#EXTINF:-1 tvg-id="佩里沃罗格 vs 亚历山德里亚B队" tvg-chno="1205" tvg-name="佩里沃罗格 vs 亚历山德里亚B队" tvg-group="足球" group-title="足球",佩里沃罗格 vs 亚历山德里亚B队
+#EXTINF:-1 tvg-id="佩里沃罗格 vs 亚历山德里亚B队" tvg-chno="1204" tvg-name="佩里沃罗格 vs 亚历山德里亚B队" tvg-group="足球" group-title="足球",佩里沃罗格 vs 亚历山德里亚B队
 http://192.168.5.35:44635/play/ba3a82d61c57a0d748b3dbf9670b4f5bb30a694b
-#EXTINF:-1 tvg-id="卡尔本切尔卡瑟 vs 托尔斯蒂安" tvg-chno="1206" tvg-name="卡尔本切尔卡瑟 vs 托尔斯蒂安" tvg-group="足球" group-title="足球",卡尔本切尔卡瑟 vs 托尔斯蒂安
+#EXTINF:-1 tvg-id="北宁 vs 嘉莱黄英" tvg-chno="1205" tvg-name="北宁 vs 嘉莱黄英" tvg-group="足球" group-title="足球",北宁 vs 嘉莱黄英
+http://192.168.5.35:44635/play/dcbd62b71744141d30400d8361f6a10b87655bd1
+#EXTINF:-1 tvg-id="北宁 vs 嘉莱黄英" tvg-chno="1206" tvg-name="北宁 vs 嘉莱黄英" tvg-group="足球" group-title="足球",北宁 vs 嘉莱黄英
+http://192.168.5.35:44635/play/80d1e5f576442fbe57e52d0833c7f22bfc6860ab
+#EXTINF:-1 tvg-id="北宁 vs 嘉莱黄英" tvg-chno="1207" tvg-name="北宁 vs 嘉莱黄英" tvg-group="足球" group-title="足球",北宁 vs 嘉莱黄英·腾讯Q⑥
+https://hdl2.mxxfly.com/live/29502165.m3u8?auth_key=1793347320-db33f1d85814492f9def9deafb33fcf3-0-89aeebc864b1c8f48fa4c0b69633d7b2
+#EXTINF:-1 tvg-id="卡尔本切尔卡瑟 vs 托尔斯蒂安" tvg-chno="1208" tvg-name="卡尔本切尔卡瑟 vs 托尔斯蒂安" tvg-group="足球" group-title="足球",卡尔本切尔卡瑟 vs 托尔斯蒂安
 http://192.168.5.35:44635/play/1904345efc75e36f8a378fef878356e592ec2d2f
-#EXTINF:-1 tvg-id="卡尔本切尔卡瑟 vs 托尔斯蒂安" tvg-chno="1207" tvg-name="卡尔本切尔卡瑟 vs 托尔斯蒂安" tvg-group="足球" group-title="足球",卡尔本切尔卡瑟 vs 托尔斯蒂安
+#EXTINF:-1 tvg-id="卡尔本切尔卡瑟 vs 托尔斯蒂安" tvg-chno="1209" tvg-name="卡尔本切尔卡瑟 vs 托尔斯蒂安" tvg-group="足球" group-title="足球",卡尔本切尔卡瑟 vs 托尔斯蒂安
 http://192.168.5.35:44635/play/595977226ba0343b54fcbcd7fba029ab997fdd9b
-#EXTINF:-1 tvg-id="扎波罗热米塔路 vs 基辅反抗" tvg-chno="1208" tvg-name="扎波罗热米塔路 vs 基辅反抗" tvg-group="足球" group-title="足球",扎波罗热米塔路 vs 基辅反抗
+#EXTINF:-1 tvg-id="扎波罗热米塔路 vs 基辅反抗" tvg-chno="1210" tvg-name="扎波罗热米塔路 vs 基辅反抗" tvg-group="足球" group-title="足球",扎波罗热米塔路 vs 基辅反抗
 http://192.168.5.35:44635/play/c762ed4ccef00ddf29835746bc69b4a3f3762640
-#EXTINF:-1 tvg-id="扎波罗热米塔路 vs 基辅反抗" tvg-chno="1209" tvg-name="扎波罗热米塔路 vs 基辅反抗" tvg-group="足球" group-title="足球",扎波罗热米塔路 vs 基辅反抗
+#EXTINF:-1 tvg-id="扎波罗热米塔路 vs 基辅反抗" tvg-chno="1211" tvg-name="扎波罗热米塔路 vs 基辅反抗" tvg-group="足球" group-title="足球",扎波罗热米塔路 vs 基辅反抗
 http://192.168.5.35:44635/play/c3426c4d8fe51620e00bf9d9eccca2094499ac28
-#EXTINF:-1 tvg-id="沃洛奇斯克 vs 普里卡帕亚" tvg-chno="1210" tvg-name="沃洛奇斯克 vs 普里卡帕亚" tvg-group="足球" group-title="足球",沃洛奇斯克 vs 普里卡帕亚
+#EXTINF:-1 tvg-id="沃洛奇斯克 vs 普里卡帕亚" tvg-chno="1212" tvg-name="沃洛奇斯克 vs 普里卡帕亚" tvg-group="足球" group-title="足球",沃洛奇斯克 vs 普里卡帕亚
 http://192.168.5.35:44635/play/1a77f3f20231ab6bb97279a823b8528f281be357
-#EXTINF:-1 tvg-id="沃洛奇斯克 vs 普里卡帕亚" tvg-chno="1211" tvg-name="沃洛奇斯克 vs 普里卡帕亚" tvg-group="足球" group-title="足球",沃洛奇斯克 vs 普里卡帕亚
+#EXTINF:-1 tvg-id="沃洛奇斯克 vs 普里卡帕亚" tvg-chno="1213" tvg-name="沃洛奇斯克 vs 普里卡帕亚" tvg-group="足球" group-title="足球",沃洛奇斯克 vs 普里卡帕亚
 http://192.168.5.35:44635/play/7a960dac05d4a0e72827316ef833a23038539504
-#EXTINF:-1 tvg-id="深圳新鹏城U20 vs 上海申花U20" tvg-chno="1212" tvg-name="深圳新鹏城U20 vs 上海申花U20" tvg-group="足球" group-title="足球",深圳新鹏城U20 vs 上海申花U20
+#EXTINF:-1 tvg-id="深圳新鹏城U20 vs 上海申花U20" tvg-chno="1214" tvg-name="深圳新鹏城U20 vs 上海申花U20" tvg-group="足球" group-title="足球",深圳新鹏城U20 vs 上海申花U20
 http://192.168.5.35:44635/play/c9fba488ccd386a00e52afa64fa58840db7e69e6
-#EXTINF:-1 tvg-id="深圳新鹏城U20 vs 上海申花U20" tvg-chno="1213" tvg-name="深圳新鹏城U20 vs 上海申花U20" tvg-group="足球" group-title="足球",深圳新鹏城U20 vs 上海申花U20
+#EXTINF:-1 tvg-id="深圳新鹏城U20 vs 上海申花U20" tvg-chno="1215" tvg-name="深圳新鹏城U20 vs 上海申花U20" tvg-group="足球" group-title="足球",深圳新鹏城U20 vs 上海申花U20
 http://192.168.5.35:44635/play/97916654bbe12518846c1cd21f4bf6b0bfaac22c
-#EXTINF:-1 tvg-id="清化 vs 河静鸿岭" tvg-chno="1214" tvg-name="清化 vs 河静鸿岭" tvg-group="足球" group-title="足球",清化 vs 河静鸿岭
+#EXTINF:-1 tvg-id="清化 vs 河静鸿岭" tvg-chno="1216" tvg-name="清化 vs 河静鸿岭" tvg-group="足球" group-title="足球",清化 vs 河静鸿岭
 http://192.168.5.35:44635/play/645a9bc345250a5c850292b6450ec19150382e28
-#EXTINF:-1 tvg-id="清化 vs 河静鸿岭" tvg-chno="1215" tvg-name="清化 vs 河静鸿岭" tvg-group="足球" group-title="足球",清化 vs 河静鸿岭
+#EXTINF:-1 tvg-id="清化 vs 河静鸿岭" tvg-chno="1217" tvg-name="清化 vs 河静鸿岭" tvg-group="足球" group-title="足球",清化 vs 河静鸿岭
 http://192.168.5.35:44635/play/ef2691daa455594cbd485b905531a335218013e0
-#EXTINF:-1 tvg-id="清化 vs 河静鸿岭" tvg-chno="1216" tvg-name="清化 vs 河静鸿岭" tvg-group="足球" group-title="足球",清化 vs 河静鸿岭·腾讯Q⑥
+#EXTINF:-1 tvg-id="清化 vs 河静鸿岭" tvg-chno="1218" tvg-name="清化 vs 河静鸿岭" tvg-group="足球" group-title="足球",清化 vs 河静鸿岭·腾讯Q⑥
 https://hdl2.mxxfly.com/live/82095217.m3u8?auth_key=1793347320-365f62581f28471889f56aa9026b7b0d-0-591d3f04c80633bd1b72c54035c86af6
-#EXTINF:-1 tvg-id="班加罗尔梦幻联 vs 南美联合" tvg-chno="1217" tvg-name="班加罗尔梦幻联 vs 南美联合" tvg-group="足球" group-title="足球",班加罗尔梦幻联 vs 南美联合
+#EXTINF:-1 tvg-id="班加罗尔梦幻联 vs 南美联合" tvg-chno="1219" tvg-name="班加罗尔梦幻联 vs 南美联合" tvg-group="足球" group-title="足球",班加罗尔梦幻联 vs 南美联合
 http://192.168.5.35:44635/play/3ea3faab307ceae3aae6ed2e9209161744abf236
-#EXTINF:-1 tvg-id="班加罗尔梦幻联 vs 南美联合" tvg-chno="1218" tvg-name="班加罗尔梦幻联 vs 南美联合" tvg-group="足球" group-title="足球",班加罗尔梦幻联 vs 南美联合
+#EXTINF:-1 tvg-id="班加罗尔梦幻联 vs 南美联合" tvg-chno="1220" tvg-name="班加罗尔梦幻联 vs 南美联合" tvg-group="足球" group-title="足球",班加罗尔梦幻联 vs 南美联合
 http://192.168.5.35:44635/play/b5f34c32f75424ef728a39be6de74a3580a5579f
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1301" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
