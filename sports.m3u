@@ -66,9 +66,9 @@ http://192.168.5.35:44635/play/3f8c3ad47101f6ed8d49114c1b0c21c9bcb33bef
 #EXTINF:-1 tvg-id="麦克阿尔杰女篮 vs 塞蒂夫山女篮" tvg-chno="1125" tvg-name="麦克阿尔杰女篮 vs 塞蒂夫山女篮" tvg-group="篮球" group-title="篮球",麦克阿尔杰女篮 vs 塞蒂夫山女篮
 http://192.168.5.35:44635/play/192dbc1f42e78aaf4793f06991ccd0d07158c414
 #EXTINF:-1 tvg-id="吉林 vs 深圳" tvg-chno="1201" tvg-name="吉林 vs 深圳" tvg-group="足球" group-title="足球",吉林 vs 深圳
-https://hlsz.yjjcfw.com/live/00594088.m3u8?expire=1793381922&sign=f6a8b4024bc0062805f9f18a6e0f130c
+https://hlsz.yjjcfw.com/live/00594088.m3u8?expire=1793382531&sign=b5460630ecf3ad128313d7d9efc23a95
 #EXTINF:-1 tvg-id="浙江 vs 上海" tvg-chno="1202" tvg-name="浙江 vs 上海" tvg-group="足球" group-title="足球",浙江 vs 上海
-https://hlsz.yjjcfw.com/live/00594091.m3u8?expire=1793381935&sign=93e8ff36d24fa6fb2a861b9e5143bfff
+https://hlsz.yjjcfw.com/live/00594091.m3u8?expire=1793382539&sign=2e6f7912997a4a2f5463404d118c99c3
 #EXTINF:-1 tvg-id="丹戎巴葛联 vs FC裕廊" tvg-chno="1203" tvg-name="丹戎巴葛联 vs FC裕廊" tvg-group="足球" group-title="足球",丹戎巴葛联 vs FC裕廊
 http://192.168.5.35:44635/play/292bfc4be69bd80b9183f733236e9ca5d88b09da
 #EXTINF:-1 tvg-id="丹戎巴葛联 vs FC裕廊" tvg-chno="1204" tvg-name="丹戎巴葛联 vs FC裕廊" tvg-group="足球" group-title="足球",丹戎巴葛联 vs FC裕廊
@@ -77,10 +77,6 @@ http://192.168.5.35:44635/play/24a52fe921f8ed58c815e6b641ab59efc13d8a0c
 http://192.168.5.35:44635/play/d475d380a57832106c537c907470e1f5bb6472d0
 #EXTINF:-1 tvg-id="荆州队 vs 武汉队" tvg-chno="1206" tvg-name="荆州队 vs 武汉队" tvg-group="足球" group-title="足球",荆州队 vs 武汉队
 http://192.168.5.35:44635/play/d11eeacb5da03a53d8535352252eee2f7e2e8e41
-#EXTINF:-1 tvg-id="萨达拉帕特 vs FK瓦尼" tvg-chno="1207" tvg-name="萨达拉帕特 vs FK瓦尼" tvg-group="足球" group-title="足球",萨达拉帕特 vs FK瓦尼
-http://192.168.5.35:44635/play/1ce80468ba81d3f5439d66bfc1b1a25822b21889
-#EXTINF:-1 tvg-id="萨达拉帕特 vs FK瓦尼" tvg-chno="1208" tvg-name="萨达拉帕特 vs FK瓦尼" tvg-group="足球" group-title="足球",萨达拉帕特 vs FK瓦尼
-http://192.168.5.35:44635/play/c70117e4798b46d5ac1d3eb29af89224a57e8238
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1301" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1302" tvg-name="ESPN" tvg-group="体育综合" group-title="体育综合",ESPN
