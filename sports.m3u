@@ -141,6 +141,8 @@ http://192.168.5.35:44635/play/2517d6404598450e69af7dcff5fea8aff0904c5c
 http://192.168.5.35:44635/play/e3a9b1a86ed650227d2df2c284a8b2dfb063d926
 #EXTINF:-1 tvg-id="贝鲁扎达女足 vs MC奥兰女足" tvg-chno="1226" tvg-name="贝鲁扎达女足 vs MC奥兰女足" tvg-group="足球" group-title="足球",贝鲁扎达女足 vs MC奥兰女足
 http://192.168.5.35:44635/play/f039009044ea16bc9f718cf4fd8b31634df542f2
+#EXTINF:-1 tvg-id="阿达斯女足 vs ASE阿尔杰女足" tvg-chno="1227" tvg-name="阿达斯女足 vs ASE阿尔杰女足" tvg-group="足球" group-title="足球",阿达斯女足 vs ASE阿尔杰女足
+http://192.168.5.35:44635/play/bf6599e309b8a58bfb52143b1b231d6b843a2235
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1301" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1302" tvg-name="ESPN" tvg-group="体育综合" group-title="体育综合",ESPN
