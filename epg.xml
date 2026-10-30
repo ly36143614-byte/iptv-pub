@@ -5,6 +5,7 @@
   <channel id="ESPN"><display-name>ESPN</display-name></channel>
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
+  <channel id="OG vs Liquid"><display-name>OG vs Liquid</display-name></channel>
   <channel id="PARIVISION vs TSpirit"><display-name>PARIVISION vs TSpirit</display-name></channel>
   <channel id="potn9ki- vs Synapse"><display-name>potn9ki- vs Synapse</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
@@ -55,6 +56,10 @@
   </programme>
   <programme start="20261102092000 +0800" stop="20261102123948 +0800" channel="NBC">
     <title>Philadelphia Eagles at Washington Commanders（NFL）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261030211500 +0800" stop="20261030234500 +0800" channel="OG vs Liquid">
+    <title>OG vs Liquid（PARI Universe - Playoffs）</title>
     <category>体育</category>
   </programme>
   <programme start="20261030180000 +0800" stop="20261030203000 +0800" channel="PARIVISION vs TSpirit">
