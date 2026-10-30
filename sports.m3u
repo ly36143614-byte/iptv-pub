@@ -135,9 +135,7 @@ https://hdl2.mxxfly.com/live/72673994.m3u8?auth_key=1793289720-97160aa64de7411f9
 http://192.168.5.35:44635/play/93c2d9306d6944d6ed64c5c4c8531dedabd42685
 #EXTINF:-1 tvg-id="班加罗尔根源 vs 阿格尼普拉" tvg-chno="1224" tvg-name="班加罗尔根源 vs 阿格尼普拉" tvg-group="足球" group-title="足球",班加罗尔根源 vs 阿格尼普拉
 http://192.168.5.35:44635/play/2517d6404598450e69af7dcff5fea8aff0904c5c
-#EXTINF:-1 tvg-id="贝鲁扎达女足 vs MC奥兰女足" tvg-chno="1225" tvg-name="贝鲁扎达女足 vs MC奥兰女足" tvg-group="足球" group-title="足球",贝鲁扎达女足 vs MC奥兰女足
-http://192.168.5.35:44635/play/f039009044ea16bc9f718cf4fd8b31634df542f2
-#EXTINF:-1 tvg-id="阿达斯女足 vs ASE阿尔杰女足" tvg-chno="1226" tvg-name="阿达斯女足 vs ASE阿尔杰女足" tvg-group="足球" group-title="足球",阿达斯女足 vs ASE阿尔杰女足
+#EXTINF:-1 tvg-id="阿达斯女足 vs ASE阿尔杰女足" tvg-chno="1225" tvg-name="阿达斯女足 vs ASE阿尔杰女足" tvg-group="足球" group-title="足球",阿达斯女足 vs ASE阿尔杰女足
 http://192.168.5.35:44635/play/bf6599e309b8a58bfb52143b1b231d6b843a2235
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1301" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
