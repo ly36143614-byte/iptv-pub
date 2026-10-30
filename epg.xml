@@ -8,7 +8,7 @@
   <channel id="活塞"><display-name>活塞</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <programme start="20261029150741 +0800" stop="20261029190741 +0800" channel="Dota2中文·完美世界">
-    <title>【预告】30日20点 PGL布加勒斯特</title>
+    <title>PGL布加勒斯特大师赛2026 淘汰赛</title>
     <category>体育</category>
   </programme>
   <programme start="20261103091500 +0800" stop="20261103123448 +0800" channel="ESPN">
@@ -247,8 +247,12 @@
     <title>荷甲：兹沃勒 vs 海牙</title>
     <category>体育</category>
   </programme>
-  <programme start="20261101193000 +0800" stop="20261101213000 +0800" channel="赛程预告">
+  <programme start="20261101193000 +0800" stop="20261101193500 +0800" channel="赛程预告">
     <title>意甲：科莫 vs 威尼斯</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261101193500 +0800" stop="20261101213500 +0800" channel="赛程预告">
+    <title>大连英博：云南玉昆 vs 大连英博</title>
     <category>体育</category>
   </programme>
 </tv>
