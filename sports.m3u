@@ -141,19 +141,17 @@ http://198.58.104.90:8989/nfl/index.m3u8
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NBC" tvg-chno="1305" tvg-name="NBC" tvg-group="体育综合" group-title="体育综合",NBC
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
-#EXTINF:-1 tvg-id="F1·Formula" tvg-chno="1306" tvg-name="F1·Formula" tvg-group="体育综合" group-title="体育综合",F1·Formula
-https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
-#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1307" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
+#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1306" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1308" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1307" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1309" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1308" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1310" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1309" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="悉尼奥林匹克 vs 马可尼" tvg-chno="1311" tvg-name="悉尼奥林匹克 vs 马可尼" tvg-group="体育综合" group-title="体育综合",悉尼奥林匹克 vs 马可尼
+#EXTINF:-1 tvg-id="悉尼奥林匹克 vs 马可尼" tvg-chno="1310" tvg-name="悉尼奥林匹克 vs 马可尼" tvg-group="体育综合" group-title="体育综合",悉尼奥林匹克 vs 马可尼
 http://192.168.5.35:44635/play/fb753e6195099378227b83aacf088424eff5ecd2
-#EXTINF:-1 tvg-id="悉尼奥林匹克 vs 马可尼" tvg-chno="1312" tvg-name="悉尼奥林匹克 vs 马可尼" tvg-group="体育综合" group-title="体育综合",悉尼奥林匹克 vs 马可尼
+#EXTINF:-1 tvg-id="悉尼奥林匹克 vs 马可尼" tvg-chno="1311" tvg-name="悉尼奥林匹克 vs 马可尼" tvg-group="体育综合" group-title="体育综合",悉尼奥林匹克 vs 马可尼
 http://192.168.5.35:44635/play/b95e85e53515c20fe73a2eaced38ed6d9e531f2e
 #EXTINF:-1 tvg-id="Dota2中文·完美世界" tvg-chno="1401" tvg-name="Dota2中文·完美世界" tvg-group="DOTA2" group-title="DOTA2",Dota2中文·完美世界
 http://127.0.0.1:35455/douyu/6829849
@@ -175,17 +173,21 @@ http://192.168.5.35:44635/play/58c539f82855651414473c57ff325ff4f8aa9025
 http://192.168.5.35:44635/play/41c3d0744714134115a5592eb7983179995b6d6c
 #EXTINF:-1 tvg-id="OG vs GL" tvg-chno="1410" tvg-name="OG vs GL" tvg-group="DOTA2" group-title="DOTA2",OG vs GL
 http://192.168.5.35:44635/play/9612e8aeaf211bcfdb852e2fed7042ed1050c40d
-#EXTINF:-1 tvg-id="Rottweilas vs RH" tvg-chno="1411" tvg-name="Rottweilas vs RH" tvg-group="DOTA2" group-title="DOTA2",Rottweilas vs RH
+#EXTINF:-1 tvg-id="PARIVISION vs TSpirit" tvg-chno="1411" tvg-name="PARIVISION vs TSpirit" tvg-group="DOTA2" group-title="DOTA2",PARIVISION vs TSpirit
+http://192.168.5.35:44635/play/5d2c79e1e11eb97f51baaccbce644c6affed45e0
+#EXTINF:-1 tvg-id="PARIVISION vs TSpirit" tvg-chno="1412" tvg-name="PARIVISION vs TSpirit" tvg-group="DOTA2" group-title="DOTA2",PARIVISION vs TSpirit
+http://192.168.5.35:44635/play/6c47ec4c7928f46435c4df0a410787ea2cd77382
+#EXTINF:-1 tvg-id="Rottweilas vs RH" tvg-chno="1413" tvg-name="Rottweilas vs RH" tvg-group="DOTA2" group-title="DOTA2",Rottweilas vs RH
 http://192.168.5.35:44635/play/68e91abab84871d356265879c33d677af9764fb3
-#EXTINF:-1 tvg-id="Rottweilas vs RH" tvg-chno="1412" tvg-name="Rottweilas vs RH" tvg-group="DOTA2" group-title="DOTA2",Rottweilas vs RH
+#EXTINF:-1 tvg-id="Rottweilas vs RH" tvg-chno="1414" tvg-name="Rottweilas vs RH" tvg-group="DOTA2" group-title="DOTA2",Rottweilas vs RH
 http://192.168.5.35:44635/play/9d43a69c957108ac435b445103b62ebd8894b427
-#EXTINF:-1 tvg-id="Synapse vs Z10" tvg-chno="1413" tvg-name="Synapse vs Z10" tvg-group="DOTA2" group-title="DOTA2",Synapse vs Z10
+#EXTINF:-1 tvg-id="Synapse vs Z10" tvg-chno="1415" tvg-name="Synapse vs Z10" tvg-group="DOTA2" group-title="DOTA2",Synapse vs Z10
 http://192.168.5.35:44635/play/e8856547a664bebe92e0586ce1bc86e6ddd2c673
-#EXTINF:-1 tvg-id="Synapse vs Z10" tvg-chno="1414" tvg-name="Synapse vs Z10" tvg-group="DOTA2" group-title="DOTA2",Synapse vs Z10
+#EXTINF:-1 tvg-id="Synapse vs Z10" tvg-chno="1416" tvg-name="Synapse vs Z10" tvg-group="DOTA2" group-title="DOTA2",Synapse vs Z10
 http://192.168.5.35:44635/play/4787a71f8c93d86dc31346c9049f61c07259ef38
-#EXTINF:-1 tvg-id="Z10 vs 4ikibamboni" tvg-chno="1415" tvg-name="Z10 vs 4ikibamboni" tvg-group="DOTA2" group-title="DOTA2",Z10 vs 4ikibamboni
+#EXTINF:-1 tvg-id="Z10 vs 4ikibamboni" tvg-chno="1417" tvg-name="Z10 vs 4ikibamboni" tvg-group="DOTA2" group-title="DOTA2",Z10 vs 4ikibamboni
 http://192.168.5.35:44635/play/be017bcec2a21394c7f3f63d511e4fb91ba74ea5
-#EXTINF:-1 tvg-id="Zenith vs YG" tvg-chno="1416" tvg-name="Zenith vs YG" tvg-group="DOTA2" group-title="DOTA2",Zenith vs YG
+#EXTINF:-1 tvg-id="Zenith vs YG" tvg-chno="1418" tvg-name="Zenith vs YG" tvg-group="DOTA2" group-title="DOTA2",Zenith vs YG
 http://192.168.5.35:44635/play/f89f81795889dfafcc3d32e322892a6d697a61a7
-#EXTINF:-1 tvg-id="Zenith vs YG" tvg-chno="1417" tvg-name="Zenith vs YG" tvg-group="DOTA2" group-title="DOTA2",Zenith vs YG
+#EXTINF:-1 tvg-id="Zenith vs YG" tvg-chno="1419" tvg-name="Zenith vs YG" tvg-group="DOTA2" group-title="DOTA2",Zenith vs YG
 http://192.168.5.35:44635/play/702fb06317198a95d148dec47424bc2e8ac265f4
