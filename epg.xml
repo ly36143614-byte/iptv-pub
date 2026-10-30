@@ -5,6 +5,7 @@
   <channel id="ESPN"><display-name>ESPN</display-name></channel>
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
+  <channel id="PARIVISION vs TSpirit"><display-name>PARIVISION vs TSpirit</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <programme start="20261102020000 +0800" stop="20261102051948 +0800" channel="CBS">
@@ -53,6 +54,10 @@
   </programme>
   <programme start="20261102092000 +0800" stop="20261102123948 +0800" channel="NBC">
     <title>Philadelphia Eagles at Washington Commanders（NFL）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261030180000 +0800" stop="20261030203000 +0800" channel="PARIVISION vs TSpirit">
+    <title>PARI vs TSpirit（PARI Universe - Playoffs）</title>
     <category>体育</category>
   </programme>
   <programme start="20261031073000 +0800" stop="20261031101012 +0800" channel="活塞">
