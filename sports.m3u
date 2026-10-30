@@ -62,18 +62,34 @@ http://192.168.5.35:44635/play/3f8c3ad47101f6ed8d49114c1b0c21c9bcb33bef
 #EXTINF:-1 tvg-id="麦克阿尔杰女篮 vs 塞蒂夫山女篮" tvg-chno="1123" tvg-name="麦克阿尔杰女篮 vs 塞蒂夫山女篮" tvg-group="篮球" group-title="篮球",麦克阿尔杰女篮 vs 塞蒂夫山女篮
 http://192.168.5.35:44635/play/192dbc1f42e78aaf4793f06991ccd0d07158c414
 #EXTINF:-1 tvg-id="吉林 vs 深圳" tvg-chno="1201" tvg-name="吉林 vs 深圳" tvg-group="足球" group-title="足球",吉林 vs 深圳
-https://hlsz.yjjcfw.com/live/00594088.m3u8?expire=1793382531&sign=b5460630ecf3ad128313d7d9efc23a95
+https://hlsz.yjjcfw.com/live/00594088.m3u8?expire=1793383168&sign=193587d3e52cad0098043ab9db07804c
 #EXTINF:-1 tvg-id="天津 vs 广厦" tvg-chno="1202" tvg-name="天津 vs 广厦" tvg-group="足球" group-title="足球",天津 vs 广厦
-https://hlsz.yjjcfw.com/live/00594090.m3u8?expire=1793382533&sign=c0c8fcca5d479df3efee8b68fbc99c00
+https://hlsz.yjjcfw.com/live/00594090.m3u8?expire=1793383170&sign=6212bb588458b548132d9b15d1eaa1eb
 #EXTINF:-1 tvg-id="宁波 vs 辽宁" tvg-chno="1203" tvg-name="宁波 vs 辽宁" tvg-group="足球" group-title="足球",宁波 vs 辽宁
-https://hlsz.yjjcfw.com/live/00594089.m3u8?expire=1793382536&sign=b4706e8d41c8bfe1420f3b23899b52d7
+https://hlsz.yjjcfw.com/live/00594089.m3u8?expire=1793383172&sign=3136747a0effcde992ab674eb357b2c4
 #EXTINF:-1 tvg-id="广州 vs 山西" tvg-chno="1204" tvg-name="广州 vs 山西" tvg-group="足球" group-title="足球",广州 vs 山西
-https://hlsz.yjjcfw.com/live/00594087.m3u8?expire=1793382538&sign=bccd53b705d01e7e3a75640a78ddaa60
+https://hlsz.yjjcfw.com/live/00594087.m3u8?expire=1793383174&sign=99f801d20243e55a0e1eda307a009999
 #EXTINF:-1 tvg-id="浙江 vs 上海" tvg-chno="1205" tvg-name="浙江 vs 上海" tvg-group="足球" group-title="足球",浙江 vs 上海
-https://hlsz.yjjcfw.com/live/00594091.m3u8?expire=1793382539&sign=2e6f7912997a4a2f5463404d118c99c3
-#EXTINF:-1 tvg-id="荆州队 vs 武汉队" tvg-chno="1206" tvg-name="荆州队 vs 武汉队" tvg-group="足球" group-title="足球",荆州队 vs 武汉队
+https://hlsz.yjjcfw.com/live/00594091.m3u8?expire=1793383176&sign=37fd032e189028bb92ee35c59a37c73f
+#EXTINF:-1 tvg-id="和富九龙城 vs 标准流浪" tvg-chno="1206" tvg-name="和富九龙城 vs 标准流浪" tvg-group="足球" group-title="足球",和富九龙城 vs 标准流浪
+http://192.168.5.35:44635/play/f37eb0fb0b6b66645e0bfc3761e5ca08ce53cb5c
+#EXTINF:-1 tvg-id="和富九龙城 vs 标准流浪" tvg-chno="1207" tvg-name="和富九龙城 vs 标准流浪" tvg-group="足球" group-title="足球",和富九龙城 vs 标准流浪
+http://192.168.5.35:44635/play/ed01086fb2ab8123f4fd022917555574aec86ceb
+#EXTINF:-1 tvg-id="帕尔斯巴亚 vs 杰帕拉" tvg-chno="1208" tvg-name="帕尔斯巴亚 vs 杰帕拉" tvg-group="足球" group-title="足球",帕尔斯巴亚 vs 杰帕拉
+http://192.168.5.35:44635/play/a38fe02499a817b10df74137d13b5cda23c47b1e
+#EXTINF:-1 tvg-id="帕尔斯巴亚 vs 杰帕拉" tvg-chno="1209" tvg-name="帕尔斯巴亚 vs 杰帕拉" tvg-group="足球" group-title="足球",帕尔斯巴亚 vs 杰帕拉
+http://192.168.5.35:44635/play/7a8157e462b537c298a641d45104b16a915def82
+#EXTINF:-1 tvg-id="河内FC vs 宁平FC" tvg-chno="1210" tvg-name="河内FC vs 宁平FC" tvg-group="足球" group-title="足球",河内FC vs 宁平FC
+http://192.168.5.35:44635/play/bfbc6afae76308f601fdb06f8ba1c24fae0c1712
+#EXTINF:-1 tvg-id="河内FC vs 宁平FC" tvg-chno="1211" tvg-name="河内FC vs 宁平FC" tvg-group="足球" group-title="足球",河内FC vs 宁平FC
+http://192.168.5.35:44635/play/e9e97d9ff2a29702bc9abe24706b5968696cb6c7
+#EXTINF:-1 tvg-id="玛哈沙拉堪联 vs 庄他武里" tvg-chno="1212" tvg-name="玛哈沙拉堪联 vs 庄他武里" tvg-group="足球" group-title="足球",玛哈沙拉堪联 vs 庄他武里
+http://192.168.5.35:44635/play/6c61f630ab9287a8a006b5416bae71f8c0ac98f6
+#EXTINF:-1 tvg-id="玛哈沙拉堪联 vs 庄他武里" tvg-chno="1213" tvg-name="玛哈沙拉堪联 vs 庄他武里" tvg-group="足球" group-title="足球",玛哈沙拉堪联 vs 庄他武里
+http://192.168.5.35:44635/play/87f5998a1e109b312cc155aa3ab6dcf4a7658bfc
+#EXTINF:-1 tvg-id="荆州队 vs 武汉队" tvg-chno="1214" tvg-name="荆州队 vs 武汉队" tvg-group="足球" group-title="足球",荆州队 vs 武汉队
 http://192.168.5.35:44635/play/d475d380a57832106c537c907470e1f5bb6472d0
-#EXTINF:-1 tvg-id="荆州队 vs 武汉队" tvg-chno="1207" tvg-name="荆州队 vs 武汉队" tvg-group="足球" group-title="足球",荆州队 vs 武汉队
+#EXTINF:-1 tvg-id="荆州队 vs 武汉队" tvg-chno="1215" tvg-name="荆州队 vs 武汉队" tvg-group="足球" group-title="足球",荆州队 vs 武汉队
 http://192.168.5.35:44635/play/d11eeacb5da03a53d8535352252eee2f7e2e8e41
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1301" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
