@@ -22,15 +22,15 @@ http://198.58.104.90:8989/nba/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1103" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="奇才 vs 黄蜂" tvg-chno="1104" tvg-name="奇才 vs 黄蜂" tvg-group="篮球" group-title="篮球",奇才 vs 黄蜂
-https://hlsz.yjjcfw.com/live/10022600015.m3u8?expire=1793417739&sign=d7193d3d4c5db59fde1d2b9455c373a2
+https://hlsz.yjjcfw.com/live/10022600015.m3u8?expire=1793418312&sign=0e4a3311a7bb16f5923eeb65a097b02e
 #EXTINF:-1 tvg-id="76人 vs 尼克斯" tvg-chno="1105" tvg-name="76人 vs 尼克斯" tvg-group="篮球" group-title="篮球",76人 vs 尼克斯
-https://hlsz.yjjcfw.com/live/10022600018.m3u8?expire=1793417741&sign=e559f6e5eb7ad101f6f0ef0e60e66e55
+https://hlsz.yjjcfw.com/live/10022600018.m3u8?expire=1793418315&sign=e5f7f844669f3fd0d2628a5ac7d1ca8b
 #EXTINF:-1 tvg-id="凯尔特人 vs 公牛" tvg-chno="1106" tvg-name="凯尔特人 vs 公牛" tvg-group="篮球" group-title="篮球",凯尔特人 vs 公牛
-https://hlsz.yjjcfw.com/live/10022600016.m3u8?expire=1793417744&sign=6eb63e1ed2fcc61ce4ad7bc073187c59
+https://hlsz.yjjcfw.com/live/10022600016.m3u8?expire=1793418318&sign=392556b4094bdd4b651b014ccecd12f0
 #EXTINF:-1 tvg-id="猛龙 vs 魔术" tvg-chno="1107" tvg-name="猛龙 vs 魔术" tvg-group="篮球" group-title="篮球",猛龙 vs 魔术
-https://hlsz.yjjcfw.com/live/10022600019.m3u8?expire=1793417747&sign=5dc0b795f35d04734e3b2834be626c39
+https://hlsz.yjjcfw.com/live/10022600019.m3u8?expire=1793418321&sign=44f898e047bf41771d364f11f3804cc6
 #EXTINF:-1 tvg-id="篮网 vs 活塞" tvg-chno="1108" tvg-name="篮网 vs 活塞" tvg-group="篮球" group-title="篮球",篮网 vs 活塞
-https://hlsz.yjjcfw.com/live/10022600017.m3u8?expire=1793417749&sign=8fae5541f7bf8012ddf45326cf025c1b
+https://hlsz.yjjcfw.com/live/10022600017.m3u8?expire=1793418338&sign=c4c9c282b29ca9a593289ad503f371eb
 #EXTINF:-1 tvg-id="UVAQ莫雷利亚女篮 vs Tec蒙特雷女篮" tvg-chno="1109" tvg-name="UVAQ莫雷利亚女篮 vs Tec蒙特雷女篮" tvg-group="篮球" group-title="篮球",UVAQ莫雷利亚女篮 vs Tec蒙特雷女篮
 http://192.168.5.35:44635/play/76a377b20bb9d55802312148ba168f5420070e4e
 #EXTINF:-1 tvg-id="加勒比风暴群岛 vs 波哥大海盗" tvg-chno="1110" tvg-name="加勒比风暴群岛 vs 波哥大海盗" tvg-group="篮球" group-title="篮球",加勒比风暴群岛 vs 波哥大海盗
@@ -49,9 +49,7 @@ http://192.168.5.35:44635/play/b8f178bef346dd53110b3c233a5dffe5e9d75c35
 http://192.168.5.35:44635/play/98a29e4671613449a27f4fa81afadb67f79d4d9d
 #EXTINF:-1 tvg-id="巴塞罗那 vs 瓦伦西亚" tvg-chno="1117" tvg-name="巴塞罗那 vs 瓦伦西亚" tvg-group="篮球" group-title="篮球",巴塞罗那 vs 瓦伦西亚
 http://192.168.5.35:44635/play/3708455a37ee0b48705d5049b98893e83dcabd4d
-#EXTINF:-1 tvg-id="热火 vs 步行者" tvg-chno="1118" tvg-name="热火 vs 步行者" tvg-group="篮球" group-title="篮球",热火 vs 步行者
-http://192.168.5.35:44635/play/987f81ff34cf8249ddf2db78c632c0135561e46b
-#EXTINF:-1 tvg-id="科伦特斯 vs 梅赛德斯交流会" tvg-chno="1119" tvg-name="科伦特斯 vs 梅赛德斯交流会" tvg-group="篮球" group-title="篮球",科伦特斯 vs 梅赛德斯交流会
+#EXTINF:-1 tvg-id="科伦特斯 vs 梅赛德斯交流会" tvg-chno="1118" tvg-name="科伦特斯 vs 梅赛德斯交流会" tvg-group="篮球" group-title="篮球",科伦特斯 vs 梅赛德斯交流会
 http://192.168.5.35:44635/play/acfc40b2bb87ab58bc821cd5863dbfe17aecb48c
 #EXTINF:-1 tvg-id="埃尔沃斯贝格 vs 美因茨" tvg-chno="1201" tvg-name="埃尔沃斯贝格 vs 美因茨" tvg-group="足球" group-title="足球",埃尔沃斯贝格 vs 美因茨
 https://hdl2.mxxfly.com/live/53890112.m3u8?auth_key=1793389500-89c02b2a61584d0e989227a22bce78c6-0-fceebaa655b8312ac04e7472be009103
@@ -149,7 +147,9 @@ https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1308" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1309" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1309" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1310" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="Dota2中文·完美世界" tvg-chno="1401" tvg-name="Dota2中文·完美世界" tvg-group="DOTA2" group-title="DOTA2",Dota2中文·完美世界
 http://127.0.0.1:35455/douyu/6829849
