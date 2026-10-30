@@ -167,16 +167,28 @@
     <title>NBA：勇士 vs 湖人；太阳 vs 掘金</title>
     <category>体育</category>
   </programme>
-  <programme start="20261031120000 +0800" stop="20261031143000 +0800" channel="赛程预告">
+  <programme start="20261031120000 +0800" stop="20261031130000 +0800" channel="赛程预告">
     <title>Dota2：Db vs RBear（EPL World SEA S19）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261031130000 +0800" stop="20261031143000 +0800" channel="赛程预告">
+    <title>日职：冈山绿雉 vs 东京FC；日乙：仙台七夕 vs 大宫松鼠</title>
     <category>体育</category>
   </programme>
   <programme start="20261031143000 +0800" stop="20261031150000 +0800" channel="赛程预告">
     <title>中甲：佛山南狮 vs 宁波；定南赣联 vs 深圳青年人；广西恒宸 vs 无锡吴钩；南京城市 vs 大连鲲城；梅州客家 vs 陕西联合；苏州东吴 vs 延边龙鼎；长春亚泰 vs 南通支云；石家庄功夫 vs 广东广州豹</title>
     <category>体育</category>
   </programme>
-  <programme start="20261031150000 +0800" stop="20261031180000 +0800" channel="赛程预告">
-    <title>Dota2：ZENITH vs Resp（EPL World SEA S19）</title>
+  <programme start="20261031150000 +0800" stop="20261031153000 +0800" channel="赛程预告">
+    <title>日职：柏太阳神 vs 浦和红钻；Dota2：ZENITH vs Resp（EPL World SEA S19）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261031153000 +0800" stop="20261031164000 +0800" channel="赛程预告">
+    <title>韩职：光州FC vs 金泉尚武</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261031164000 +0800" stop="20261031180000 +0800" channel="赛程预告">
+    <title>澳超：麦克阿瑟 vs 西悉尼</title>
     <category>体育</category>
   </programme>
   <programme start="20261031180000 +0800" stop="20261031194000 +0800" channel="赛程预告">
@@ -196,7 +208,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261031210000 +0800" stop="20261031220000 +0800" channel="赛程预告">
-    <title>西甲：莱万特 vs 马德里竞技；Dota2：Yandex vs GL（PARI Universe）</title>
+    <title>西甲：莱万特 vs 马竞；西甲：莱万特 vs 马德里竞技；Dota2：Yandex vs GL（PARI Universe）</title>
     <category>体育</category>
   </programme>
   <programme start="20261031220000 +0800" stop="20261031223000 +0800" channel="赛程预告">
@@ -204,11 +216,11 @@
     <category>体育</category>
   </programme>
   <programme start="20261031223000 +0800" stop="20261031230000 +0800" channel="赛程预告">
-    <title>德甲：勒沃库森 vs 斯图加特；德甲：奥格斯堡 vs 弗赖堡；德甲：门兴 vs 帕德博恩；德甲：不莱梅 vs 霍芬海姆；沙尔克04：沙尔克04 vs RB莱比锡</title>
+    <title>德甲：勒沃库森 vs 斯图加特；德甲：沙尔克04 vs 莱红牛；德甲：奥格斯堡 vs 弗赖堡；德甲：门兴 vs 帕德博恩；德甲：不来梅 vs 霍芬海姆；德甲：不莱梅 vs 霍芬海姆；沙尔克04：沙尔克04 vs RB莱比锡</title>
     <category>体育</category>
   </programme>
   <programme start="20261031230000 +0800" stop="20261031231500 +0800" channel="赛程预告">
-    <title>英超：曼城 vs 布莱顿；赫尔城：赫尔城 vs 伊普斯维奇；英超：考文垂 vs 桑德兰；布伦特福德：布伦特福德 vs 诺丁汉森林；英超：伯恩茅斯 vs 利兹联；Dota2：Hokori vs potn9k（EPC Season 3）</title>
+    <title>英超：考文垂 vs 桑德兰；英超：伯恩茅斯 vs 利兹联；英超：赫尔城 vs 伊普斯；英超：布伦特 vs 诺丁汉；英超：曼城 vs 布莱顿；赫尔城：赫尔城 vs 伊普斯维奇；布伦特福德：布伦特福德 vs 诺丁汉森林；Dota2：Hokori vs potn9k（EPC Season 3）</title>
     <category>体育</category>
   </programme>
   <programme start="20261031231500 +0800" stop="20261031233000 +0800" channel="赛程预告">
@@ -224,7 +236,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261101013000 +0800" stop="20261101014500 +0800" channel="赛程预告">
-    <title>德甲：拜仁慕尼黑 vs 多特蒙德；西甲：皇家贝蒂斯 vs 马拉加；英超：热刺 vs 水晶宫</title>
+    <title>英超：热刺 vs 水晶宫；德甲：拜仁 vs 多特蒙德；西甲：贝蒂斯 vs 马拉加；德甲：拜仁慕尼黑 vs 多特蒙德；西甲：皇家贝蒂斯 vs 马拉加</title>
     <category>体育</category>
   </programme>
   <programme start="20261101014500 +0800" stop="20261101020000 +0800" channel="赛程预告">
@@ -240,11 +252,11 @@
     <category>体育</category>
   </programme>
   <programme start="20261101034500 +0800" stop="20261101040000 +0800" channel="赛程预告">
-    <title>法甲：特鲁瓦 vs 勒芒；意甲：AC米兰 vs 国际米兰</title>
+    <title>意甲：AC米兰 vs 国际米兰；法甲：特鲁瓦 vs 勒芒</title>
     <category>体育</category>
   </programme>
   <programme start="20261101040000 +0800" stop="20261101043000 +0800" channel="赛程预告">
-    <title>荷甲：阿贾克斯 vs 阿尔克马尔；西甲：巴塞罗那 vs 阿拉维斯；英超：阿斯顿维拉 vs 富勒姆</title>
+    <title>英超：维拉 vs 富勒姆；西甲：巴萨 vs 阿拉维斯；荷甲：阿贾克斯 vs 阿尔克马；荷甲：阿贾克斯 vs 阿尔克马尔；西甲：巴塞罗那 vs 阿拉维斯；英超：阿斯顿维拉 vs 富勒姆</title>
     <category>体育</category>
   </programme>
   <programme start="20261101043000 +0800" stop="20261101060000 +0800" channel="赛程预告">
