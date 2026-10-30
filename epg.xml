@@ -8,8 +8,10 @@
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="凯尔特人 vs 公牛"><display-name>凯尔特人 vs 公牛</display-name></channel>
   <channel id="奇才 vs 黄蜂"><display-name>奇才 vs 黄蜂</display-name></channel>
+  <channel id="森林狼 vs 快船"><display-name>森林狼 vs 快船</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
   <channel id="热火 vs 步行者"><display-name>热火 vs 步行者</display-name></channel>
+  <channel id="独行侠 vs 火箭"><display-name>独行侠 vs 火箭</display-name></channel>
   <channel id="猛龙 vs 魔术"><display-name>猛龙 vs 魔术</display-name></channel>
   <channel id="篮网 vs 活塞"><display-name>篮网 vs 活塞</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
@@ -69,12 +71,20 @@
     <title>Charlotte Hornets at Washington Wizards（NBA）</title>
     <category>体育</category>
   </programme>
+  <programme start="20261031080000 +0800" stop="20261031104012 +0800" channel="森林狼 vs 快船">
+    <title>LA Clippers at Minnesota Timberwolves（NBA）</title>
+    <category>体育</category>
+  </programme>
   <programme start="20261031073000 +0800" stop="20261031101012 +0800" channel="活塞">
     <title>NBA：篮网 vs 活塞</title>
     <category>体育</category>
   </programme>
   <programme start="20261031080000 +0800" stop="20261031104012 +0800" channel="热火 vs 步行者">
     <title>Indiana Pacers at Miami Heat（NBA）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261031080000 +0800" stop="20261031104012 +0800" channel="独行侠 vs 火箭">
+    <title>Houston Rockets at Dallas Mavericks（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261031073000 +0800" stop="20261031101012 +0800" channel="猛龙 vs 魔术">
