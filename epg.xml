@@ -4,8 +4,8 @@
   <channel id="Dota2中文·完美世界"><display-name>Dota2中文·完美世界</display-name></channel>
   <channel id="ESPN"><display-name>ESPN</display-name></channel>
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
-  <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="PARIVISION vs TSpirit"><display-name>PARIVISION vs TSpirit</display-name></channel>
+  <channel id="Z10 vs 4ikibamboni"><display-name>Z10 vs 4ikibamboni</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <programme start="20261102020000 +0800" stop="20261102051948 +0800" channel="CBS">
@@ -52,28 +52,28 @@
     <title>Oklahoma City Thunder at Houston Rockets（NBA）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261102092000 +0800" stop="20261102123948 +0800" channel="NBC">
-    <title>Philadelphia Eagles at Washington Commanders（NFL）</title>
-    <category>体育</category>
-  </programme>
   <programme start="20261030180000 +0800" stop="20261030203000 +0800" channel="PARIVISION vs TSpirit">
     <title>PARI vs TSpirit（PARI Universe - Playoffs）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261031120000 +0800" stop="20261031143000 +0800" channel="Z10 vs 4ikibamboni">
+    <title>Z10 vs 4iki（Sber Tournament - Playoffs）</title>
     <category>体育</category>
   </programme>
   <programme start="20261031073000 +0800" stop="20261031101012 +0800" channel="活塞">
     <title>NBA：篮网 vs 活塞</title>
     <category>体育</category>
   </programme>
-  <programme start="20261030210000 +0800" stop="20261030214500 +0800" channel="赛程预告">
-    <title>Dota2：OG vs Liquid（PARI Universe）；potn9k vs Synapse（EPC Season 3）</title>
+  <programme start="20261030210000 +0800" stop="20261030211500 +0800" channel="赛程预告">
+    <title>Dota2：potn9k vs Synapse（EPC Season 3）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261030214500 +0800" stop="20261030230000 +0800" channel="赛程预告">
+  <programme start="20261030211500 +0800" stop="20261030214500 +0800" channel="赛程预告">
+    <title>Dota2：OG vs Liquid（PARI Universe）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261030214500 +0800" stop="20261031010000 +0800" channel="赛程预告">
     <title>足球：艾卜哈 vs 吉达联合</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261030230000 +0800" stop="20261031010000 +0800" channel="赛程预告">
-    <title>Dota2：oblood vs RH（EPC Season 3）</title>
     <category>体育</category>
   </programme>
   <programme start="20261031010000 +0800" stop="20261031013000 +0800" channel="赛程预告">
@@ -129,7 +129,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261031120000 +0800" stop="20261031130000 +0800" channel="赛程预告">
-    <title>Dota2：Db vs RBear（EPL World SEA S19）</title>
+    <title>Dota2：KS vs CHero（Sber Tournament）；Z10 vs 4iki（Sber Tournament）；Db vs RBear（EPL World SEA S19）</title>
     <category>体育</category>
   </programme>
   <programme start="20261031130000 +0800" stop="20261031143000 +0800" channel="赛程预告">
@@ -137,7 +137,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261031143000 +0800" stop="20261031150000 +0800" channel="赛程预告">
-    <title>中甲：佛山南狮 vs 宁波；南京城市 vs 大连鲲城；定南赣联 vs 深圳青年人；广西恒宸 vs 无锡吴钩；梅州客家 vs 陕西联合；石家庄功夫 vs 广东广州豹；苏州东吴 vs 延边龙鼎；长春亚泰 vs 南通支云</title>
+    <title>中甲：佛山南狮 vs 宁波；南京城市 vs 大连鲲城；定南赣联 vs 深圳青年人；广西恒宸 vs 无锡吴钩；梅州客家 vs 陕西联合；长春亚泰 vs 南通支云；苏州东吴 vs 延边龙鼎；石家庄功夫 vs 广东广州豹</title>
     <category>体育</category>
   </programme>
   <programme start="20261031150000 +0800" stop="20261031153000 +0800" channel="赛程预告">
