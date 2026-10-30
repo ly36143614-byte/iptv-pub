@@ -6,12 +6,10 @@
   <channel id="ESPN"><display-name>ESPN</display-name></channel>
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
-  <channel id="OB vs RH"><display-name>OB vs RH</display-name></channel>
-  <channel id="Team Kinetix vs CD"><display-name>Team Kinetix vs CD</display-name></channel>
-  <channel id="Z10 vs 4ikibamboni"><display-name>Z10 vs 4ikibamboni</display-name></channel>
   <channel id="凯尔特人 vs 公牛"><display-name>凯尔特人 vs 公牛</display-name></channel>
   <channel id="奇才 vs 黄蜂"><display-name>奇才 vs 黄蜂</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
+  <channel id="热火 vs 步行者"><display-name>热火 vs 步行者</display-name></channel>
   <channel id="猛龙 vs 魔术"><display-name>猛龙 vs 魔术</display-name></channel>
   <channel id="篮网 vs 活塞"><display-name>篮网 vs 活塞</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
@@ -63,18 +61,6 @@
     <title>Philadelphia Eagles at Washington Commanders（NFL）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261103230000 +0800" stop="20261104013000 +0800" channel="OB vs RH">
-    <title>oblood vs RH（EPC Season 3 - November 3）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261031180000 +0800" stop="20261031203000 +0800" channel="Team Kinetix vs CD">
-    <title>Kinetix vs CD（EPL World SEA S19 - October 31）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261031120000 +0800" stop="20261031143000 +0800" channel="Z10 vs 4ikibamboni">
-    <title>Z10 vs 4iki（Sber Tournament - Playoffs）</title>
-    <category>体育</category>
-  </programme>
   <programme start="20261031073000 +0800" stop="20261031101012 +0800" channel="凯尔特人 vs 公牛">
     <title>Chicago Bulls at Boston Celtics（NBA）</title>
     <category>体育</category>
@@ -85,6 +71,10 @@
   </programme>
   <programme start="20261031073000 +0800" stop="20261031101012 +0800" channel="活塞">
     <title>NBA：篮网 vs 活塞</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261031080000 +0800" stop="20261031104012 +0800" channel="热火 vs 步行者">
+    <title>Indiana Pacers at Miami Heat（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261031073000 +0800" stop="20261031101012 +0800" channel="猛龙 vs 魔术">
