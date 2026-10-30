@@ -59,14 +59,6 @@
     <title>NBA：篮网 vs 活塞</title>
     <category>体育</category>
   </programme>
-  <programme start="20261030150000 +0800" stop="20261030170000 +0800" channel="赛程预告">
-    <title>Dota2：Db vs Resp（EPL World SEA S19）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261030170000 +0800" stop="20261030180000 +0800" channel="赛程预告">
-    <title>澳超：布里斯班 vs 奥克兰FC</title>
-    <category>体育</category>
-  </programme>
   <programme start="20261030180000 +0800" stop="20261030210000 +0800" channel="赛程预告">
     <title>Dota2：PARI vs TSpirit（PARI Universe）；Nem.A vs RBear（EPL World SEA S19）</title>
     <category>体育</category>
@@ -255,8 +247,12 @@
     <title>韩职：首尔FC vs 仁川联</title>
     <category>体育</category>
   </programme>
-  <programme start="20261101160000 +0800" stop="20261101180000 +0800" channel="赛程预告">
+  <programme start="20261101160000 +0800" stop="20261101170000 +0800" channel="赛程预告">
     <title>澳超：珀斯 vs 阿德莱德</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261101170000 +0800" stop="20261101190000 +0800" channel="赛程预告">
+    <title>Dota2：Synapse vs HN（EPC Season 3）</title>
     <category>体育</category>
   </programme>
 </tv>
