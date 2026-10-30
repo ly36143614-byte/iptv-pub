@@ -281,8 +281,12 @@
     <title>大连英博：云南玉昆 vs 大连英博</title>
     <category>体育</category>
   </programme>
-  <programme start="20261101200000 +0800" stop="20261101220000 +0800" channel="赛程预告">
+  <programme start="20261101200000 +0800" stop="20261101210000 +0800" channel="赛程预告">
     <title>Dota2：Xipto vs potn9k（EPC Season 3）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261101210000 +0800" stop="20261101230000 +0800" channel="赛程预告">
+    <title>西甲：赫塔费 vs 塞维利亚；足球：特拉布宗 vs 加济安泰普</title>
     <category>体育</category>
   </programme>
 </tv>
