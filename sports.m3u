@@ -54,37 +54,65 @@ http://192.168.5.35:44635/play/8487a3c5582e54e3161ec19936941875e804e2bf
 #EXTINF:-1 tvg-id="苏度瓦曼廷加 vs 凯代尼艾SC" tvg-chno="1119" tvg-name="苏度瓦曼廷加 vs 凯代尼艾SC" tvg-group="篮球" group-title="篮球",苏度瓦曼廷加 vs 凯代尼艾SC
 http://192.168.5.35:44635/play/452ca6328f1fa05f084c92e29d57b3f9f20957a4
 #EXTINF:-1 tvg-id="北控 vs 新疆" tvg-chno="1201" tvg-name="北控 vs 新疆" tvg-group="足球" group-title="足球",北控 vs 新疆
-https://hlsz.yjjcfw.com/live/00594092.m3u8?expire=1793470500&sign=9460108d05a8dd6303d9ea9e33ba2648
+https://hlsz.yjjcfw.com/live/00594092.m3u8?expire=1793471097&sign=f859e28b78c31fd8c5e558a80f7ac8c7
 #EXTINF:-1 tvg-id="山东 vs 广东" tvg-chno="1202" tvg-name="山东 vs 广东" tvg-group="足球" group-title="足球",山东 vs 广东
-https://hlsz.yjjcfw.com/live/00594094.m3u8?expire=1793470507&sign=fefe147f89f3293b9d72c68e8cffaa5a
+https://hlsz.yjjcfw.com/live/00594094.m3u8?expire=1793471099&sign=3b35b04e58a8dc00c51c8e217eb981af
 #EXTINF:-1 tvg-id="福建 vs 青岛" tvg-chno="1203" tvg-name="福建 vs 青岛" tvg-group="足球" group-title="足球",福建 vs 青岛
-https://hlsz.yjjcfw.com/live/00594093.m3u8?expire=1793470509&sign=d2ea689e9081c43bc98fc3ce4e5407d6
-#EXTINF:-1 tvg-id="林肯城 vs 伯明翰" tvg-chno="1204" tvg-name="林肯城 vs 伯明翰" tvg-group="足球" group-title="足球",林肯城 vs 伯明翰
-https://hdl3.ttrr888.com/6cf6e5bd52f04b5db8f63e0a40c3aaed/52601883.m3u8?token=007eJxTYBASeDdpxut98hVX1y6xPaCW957V7f9DtYSCnYG%2Bq3TOS59TYDBLTjNLNU1KMTVKMzBJMk1JskgzM041SDQxSDZOTExNMVryNKshkJGhPqu%2Fm5GBkYEFiEF8JjDJDCZZwCQHg6mRmYGhhYUxJ4OFpZmlpZmFqTkA%2BWsmAw%3D%3D&userUid=896996857&lts=1793434674384&ttl=86400
-#EXTINF:-1 tvg-id="莱万特 vs 马竞" tvg-chno="1205" tvg-name="莱万特 vs 马竞" tvg-group="足球" group-title="足球",莱万特 vs 马竞
-https://hlsz.yjjcfw.com/live/00586135.m3u8?expire=1793470578&sign=d868902e3d816c203e6b38de34fae935
-#EXTINF:-1 tvg-id="切尔西 vs 曼联" tvg-chno="1206" tvg-name="切尔西 vs 曼联" tvg-group="足球" group-title="足球",切尔西 vs 曼联
+https://hlsz.yjjcfw.com/live/00594093.m3u8?expire=1793471101&sign=3eaf8b6d36c53bb356178b4167ace7cc
+#EXTINF:-1 tvg-id="莱万特 vs 马竞" tvg-chno="1204" tvg-name="莱万特 vs 马竞" tvg-group="足球" group-title="足球",莱万特 vs 马竞
+https://hlsz.yjjcfw.com/live/00586135.m3u8?expire=1793471204&sign=169b51692c7e1038bd7f74f27ad6ba73
+#EXTINF:-1 tvg-id="切尔西 vs 曼联" tvg-chno="1205" tvg-name="切尔西 vs 曼联" tvg-group="足球" group-title="足球",切尔西 vs 曼联
 http://192.168.5.35:44635/play/27e98839651c55f27a76b1259428db073d05cfa6
-#EXTINF:-1 tvg-id="切尔西 vs 曼联" tvg-chno="1207" tvg-name="切尔西 vs 曼联" tvg-group="足球" group-title="足球",切尔西 vs 曼联
+#EXTINF:-1 tvg-id="切尔西 vs 曼联" tvg-chno="1206" tvg-name="切尔西 vs 曼联" tvg-group="足球" group-title="足球",切尔西 vs 曼联
 http://192.168.5.35:44635/play/231754d744e26f798438f22370a5037346c4d2c4
-#EXTINF:-1 tvg-id="切尔西 vs 曼联" tvg-chno="1208" tvg-name="切尔西 vs 曼联" tvg-group="足球" group-title="足球",切尔西 vs 曼联·腾讯直播
-https://hlsz.yjjcfw.com/live/00584199.m3u8?expire=1793470567&sign=b88093f8b2672bfb2a515a9480f9353e
-#EXTINF:-1 tvg-id="喀山红宝石 vs 沃罗涅日火炬" tvg-chno="1209" tvg-name="喀山红宝石 vs 沃罗涅日火炬" tvg-group="足球" group-title="足球",喀山红宝石 vs 沃罗涅日火炬
+#EXTINF:-1 tvg-id="切尔西 vs 曼联" tvg-chno="1207" tvg-name="切尔西 vs 曼联" tvg-group="足球" group-title="足球",切尔西 vs 曼联·腾讯直播
+https://hlsz.yjjcfw.com/live/00584199.m3u8?expire=1793471188&sign=93c372f96450704931a8638c4a2b6a81
+#EXTINF:-1 tvg-id="喀山红宝石 vs 沃罗涅日火炬" tvg-chno="1208" tvg-name="喀山红宝石 vs 沃罗涅日火炬" tvg-group="足球" group-title="足球",喀山红宝石 vs 沃罗涅日火炬
 http://192.168.5.35:44635/play/0bd1237986e3e9b4687ec241b05ed2d0701b9925
-#EXTINF:-1 tvg-id="喀山红宝石 vs 沃罗涅日火炬" tvg-chno="1210" tvg-name="喀山红宝石 vs 沃罗涅日火炬" tvg-group="足球" group-title="足球",喀山红宝石 vs 沃罗涅日火炬
+#EXTINF:-1 tvg-id="喀山红宝石 vs 沃罗涅日火炬" tvg-chno="1209" tvg-name="喀山红宝石 vs 沃罗涅日火炬" tvg-group="足球" group-title="足球",喀山红宝石 vs 沃罗涅日火炬
 http://192.168.5.35:44635/play/0d6bfcef1e63a8c6e7e8dbc325ef07a0a6253c6a
-#EXTINF:-1 tvg-id="帕尔努瓦普鲁斯 vs 派德" tvg-chno="1211" tvg-name="帕尔努瓦普鲁斯 vs 派德" tvg-group="足球" group-title="足球",帕尔努瓦普鲁斯 vs 派德
+#EXTINF:-1 tvg-id="帕尔努瓦普鲁斯 vs 派德" tvg-chno="1210" tvg-name="帕尔努瓦普鲁斯 vs 派德" tvg-group="足球" group-title="足球",帕尔努瓦普鲁斯 vs 派德
 http://192.168.5.35:44635/play/d6dbaa418932574affe4c42c16642a34dbd3b57d
-#EXTINF:-1 tvg-id="帕尔努瓦普鲁斯 vs 派德" tvg-chno="1212" tvg-name="帕尔努瓦普鲁斯 vs 派德" tvg-group="足球" group-title="足球",帕尔努瓦普鲁斯 vs 派德
+#EXTINF:-1 tvg-id="帕尔努瓦普鲁斯 vs 派德" tvg-chno="1211" tvg-name="帕尔努瓦普鲁斯 vs 派德" tvg-group="足球" group-title="足球",帕尔努瓦普鲁斯 vs 派德
 http://192.168.5.35:44635/play/1536dce43486b62d61007ad518e431201ea37c6e
-#EXTINF:-1 tvg-id="帕尼维斯 vs 维尔纽斯投资" tvg-chno="1213" tvg-name="帕尼维斯 vs 维尔纽斯投资" tvg-group="足球" group-title="足球",帕尼维斯 vs 维尔纽斯投资
-http://192.168.5.35:44635/play/429d1a21f79be020a7caff1a8bda90f2d877669b
-#EXTINF:-1 tvg-id="帕尼维斯 vs 维尔纽斯投资" tvg-chno="1214" tvg-name="帕尼维斯 vs 维尔纽斯投资" tvg-group="足球" group-title="足球",帕尼维斯 vs 维尔纽斯投资
-http://192.168.5.35:44635/play/69f2bcf82958ebe5897c686931f5f179354ab6c7
-#EXTINF:-1 tvg-id="潭美卡 vs 哈留足球学院" tvg-chno="1215" tvg-name="潭美卡 vs 哈留足球学院" tvg-group="足球" group-title="足球",潭美卡 vs 哈留足球学院
+#EXTINF:-1 tvg-id="弗雷德里西亚 vs AB格莱萨克瑟" tvg-chno="1212" tvg-name="弗雷德里西亚 vs AB格莱萨克瑟" tvg-group="足球" group-title="足球",弗雷德里西亚 vs AB格莱萨克瑟
+http://192.168.5.35:44635/play/83f4c7e0b148bf28bf456c09051935947a6aa156
+#EXTINF:-1 tvg-id="弗雷德里西亚 vs AB格莱萨克瑟" tvg-chno="1213" tvg-name="弗雷德里西亚 vs AB格莱萨克瑟" tvg-group="足球" group-title="足球",弗雷德里西亚 vs AB格莱萨克瑟
+http://192.168.5.35:44635/play/97b26d9eb0b51099860c1a11d5dc6a23bbd99ab7
+#EXTINF:-1 tvg-id="斯托克城 vs 普雷斯顿" tvg-chno="1214" tvg-name="斯托克城 vs 普雷斯顿" tvg-group="足球" group-title="足球",斯托克城 vs 普雷斯顿
+http://192.168.5.35:44635/play/91e18586634fff65e84b8eae68a4065d70912f2c
+#EXTINF:-1 tvg-id="斯托克城 vs 普雷斯顿" tvg-chno="1215" tvg-name="斯托克城 vs 普雷斯顿" tvg-group="足球" group-title="足球",斯托克城 vs 普雷斯顿
+http://192.168.5.35:44635/play/7ddeebc4ff38217014e1d31cdeee21c1e4894160
+#EXTINF:-1 tvg-id="普利茅斯 vs 雷丁" tvg-chno="1216" tvg-name="普利茅斯 vs 雷丁" tvg-group="足球" group-title="足球",普利茅斯 vs 雷丁
+http://192.168.5.35:44635/play/09e5150f858846b3af22c5a48a2e720064655ada
+#EXTINF:-1 tvg-id="普利茅斯 vs 雷丁" tvg-chno="1217" tvg-name="普利茅斯 vs 雷丁" tvg-group="足球" group-title="足球",普利茅斯 vs 雷丁
+http://192.168.5.35:44635/play/6a1492bc1a49449fc0f449f13b5b7cf96b8fd3ab
+#EXTINF:-1 tvg-id="林肯城 vs 伯明翰" tvg-chno="1218" tvg-name="林肯城 vs 伯明翰" tvg-group="足球" group-title="足球",林肯城 vs 伯明翰
+http://192.168.5.35:44635/play/227e1cb5951e2d7ff6cfe1a71c925b638415b650
+#EXTINF:-1 tvg-id="林肯城 vs 伯明翰" tvg-chno="1219" tvg-name="林肯城 vs 伯明翰" tvg-group="足球" group-title="足球",林肯城 vs 伯明翰
+http://192.168.5.35:44635/play/adf880abbd792c144297a372639bfca4ed331e8e
+#EXTINF:-1 tvg-id="林肯城 vs 伯明翰" tvg-chno="1220" tvg-name="林肯城 vs 伯明翰" tvg-group="足球" group-title="足球",林肯城 vs 伯明翰·腾讯直播
+https://hdl3.ttrr888.com/6cf6e5bd52f04b5db8f63e0a40c3aaed/52601883.m3u8?token=007eJxTYBASeDdpxut98hVX1y6xPaCW957V7f9DtYSCnYG%2Bq3TOS59TYDBLTjNLNU1KMTVKMzBJMk1JskgzM041SDQxSDZOTExNMVryNKshkJGhPqu%2Fm5GBkYEFiEF8JjDJDCZZwCQHg6mRmYGhhYUxJ4OFpZmlpZmFqTkA%2BWsmAw%3D%3D&userUid=896996857&lts=1793434674384&ttl=86400
+#EXTINF:-1 tvg-id="格林斯比 vs 约克城" tvg-chno="1221" tvg-name="格林斯比 vs 约克城" tvg-group="足球" group-title="足球",格林斯比 vs 约克城
+http://192.168.5.35:44635/play/3d485e66d89cb921e3a2f5da193705839b363ba8
+#EXTINF:-1 tvg-id="格林斯比 vs 约克城" tvg-chno="1222" tvg-name="格林斯比 vs 约克城" tvg-group="足球" group-title="足球",格林斯比 vs 约克城
+http://192.168.5.35:44635/play/bf7191e0f1fe154bf52969455ad254361023c308
+#EXTINF:-1 tvg-id="潭美卡 vs 哈留足球学院" tvg-chno="1223" tvg-name="潭美卡 vs 哈留足球学院" tvg-group="足球" group-title="足球",潭美卡 vs 哈留足球学院
 http://192.168.5.35:44635/play/262babf4bf8e9b19d13822f52bd3166ae02cae8c
-#EXTINF:-1 tvg-id="潭美卡 vs 哈留足球学院" tvg-chno="1216" tvg-name="潭美卡 vs 哈留足球学院" tvg-group="足球" group-title="足球",潭美卡 vs 哈留足球学院
+#EXTINF:-1 tvg-id="潭美卡 vs 哈留足球学院" tvg-chno="1224" tvg-name="潭美卡 vs 哈留足球学院" tvg-group="足球" group-title="足球",潭美卡 vs 哈留足球学院
 http://192.168.5.35:44635/play/89a53d20575f079383ac0f6740dc318c5c6d8aac
+#EXTINF:-1 tvg-id="维尔港 vs 罗奇代尔" tvg-chno="1225" tvg-name="维尔港 vs 罗奇代尔" tvg-group="足球" group-title="足球",维尔港 vs 罗奇代尔
+http://192.168.5.35:44635/play/778236df92156ebdf7c79af0fe3a554785264aca
+#EXTINF:-1 tvg-id="维尔港 vs 罗奇代尔" tvg-chno="1226" tvg-name="维尔港 vs 罗奇代尔" tvg-group="足球" group-title="足球",维尔港 vs 罗奇代尔
+http://192.168.5.35:44635/play/86dabd183b5a569f2a6cc4953c5000ebe4139e11
+#EXTINF:-1 tvg-id="莱顿东方 vs 剑桥联" tvg-chno="1227" tvg-name="莱顿东方 vs 剑桥联" tvg-group="足球" group-title="足球",莱顿东方 vs 剑桥联
+http://192.168.5.35:44635/play/bd9b59d2c703dbe7cbb28b3e8f6f3c1a544ec8c1
+#EXTINF:-1 tvg-id="莱顿东方 vs 剑桥联" tvg-chno="1228" tvg-name="莱顿东方 vs 剑桥联" tvg-group="足球" group-title="足球",莱顿东方 vs 剑桥联
+http://192.168.5.35:44635/play/ffded008d5dd19298b3c01af710b0a869263632f
+#EXTINF:-1 tvg-id="诺维奇 vs 沃特福德" tvg-chno="1229" tvg-name="诺维奇 vs 沃特福德" tvg-group="足球" group-title="足球",诺维奇 vs 沃特福德
+http://192.168.5.35:44635/play/3060aa4b50ffbb2f7644222e59896e81c2b10ab0
+#EXTINF:-1 tvg-id="诺维奇 vs 沃特福德" tvg-chno="1230" tvg-name="诺维奇 vs 沃特福德" tvg-group="足球" group-title="足球",诺维奇 vs 沃特福德
+http://192.168.5.35:44635/play/febee4c53af4cd2b6c962b5d9f24cfa6734ef61f
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1301" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1302" tvg-name="ESPN" tvg-group="体育综合" group-title="体育综合",ESPN
