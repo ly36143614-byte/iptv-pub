@@ -28,7 +28,7 @@ http://192.168.5.35:44635/play/fc0f81feafb21803c5cec734d58cde7c618fb8be
 #EXTINF:-1 tvg-id="勇士 vs 湖人" tvg-chno="1106" tvg-name="勇士 vs 湖人" tvg-group="篮球" group-title="篮球",勇士 vs 湖人
 http://192.168.5.35:44635/play/7d0bb911e2f8c8acc55804d6ab161f0220f38f17
 #EXTINF:-1 tvg-id="勇士 vs 湖人" tvg-chno="1107" tvg-name="勇士 vs 湖人" tvg-group="篮球" group-title="篮球",勇士 vs 湖人·腾讯Q⑥
-https://hlsz.yjjcfw.com/live/10022600023.m3u8?expire=1793435470&sign=daf9f96703cc7a2955018750d1c99b07
+https://hlsz.yjjcfw.com/live/10022600023.m3u8?expire=1793436025&sign=5a2b748b501f578f93b2a9a0b5fc34d1
 #EXTINF:-1 tvg-id="千叶喷射机 vs 富山松鸡" tvg-chno="1108" tvg-name="千叶喷射机 vs 富山松鸡" tvg-group="篮球" group-title="篮球",千叶喷射机 vs 富山松鸡
 http://192.168.5.35:44635/play/89aa2db409f5b62c3b23e3c42733284707779aed
 #EXTINF:-1 tvg-id="向日葵女篮 vs 香颂魔术女篮" tvg-chno="1109" tvg-name="向日葵女篮 vs 香颂魔术女篮" tvg-group="篮球" group-title="篮球",向日葵女篮 vs 香颂魔术女篮
@@ -48,7 +48,7 @@ http://192.168.5.35:44635/play/fb1db41773ce4dd00c5786e918d0557fb0431fcb
 #EXTINF:-1 tvg-id="太阳 vs 掘金" tvg-chno="1116" tvg-name="太阳 vs 掘金" tvg-group="篮球" group-title="篮球",太阳 vs 掘金
 http://192.168.5.35:44635/play/24ff350593d0dc6f13e40ab83d83aec9a630b67f
 #EXTINF:-1 tvg-id="太阳 vs 掘金" tvg-chno="1117" tvg-name="太阳 vs 掘金" tvg-group="篮球" group-title="篮球",太阳 vs 掘金·腾讯Q⑥
-https://hlsz.yjjcfw.com/live/10022600024.m3u8?expire=1793435472&sign=0d250058894ec6f1896d7d89acf632cb
+https://hlsz.yjjcfw.com/live/10022600024.m3u8?expire=1793436028&sign=1458b9de87c1063d98c7e35d2b30965b
 #EXTINF:-1 tvg-id="太阳 vs 黑豹" tvg-chno="1118" tvg-name="太阳 vs 黑豹" tvg-group="篮球" group-title="篮球",太阳 vs 黑豹
 http://192.168.5.35:44635/play/97fe2fadea54cef2b75f4d2ae3a563ba2ab72075
 #EXTINF:-1 tvg-id="太阳 vs 黑豹" tvg-chno="1119" tvg-name="太阳 vs 黑豹" tvg-group="篮球" group-title="篮球",太阳 vs 黑豹
@@ -89,8 +89,10 @@ http://192.168.5.35:44635/play/5e05731cc6b52f3301c15482b2fecc7046f757ed
 http://192.168.5.35:44635/play/2f58e26de217764928d04d93c41564d798fca7dc
 #EXTINF:-1 tvg-id="釜山宙斯盾 vs 原州东浦新世代" tvg-chno="1137" tvg-name="釜山宙斯盾 vs 原州东浦新世代" tvg-group="篮球" group-title="篮球",釜山宙斯盾 vs 原州东浦新世代
 http://192.168.5.35:44635/play/d9c93548de7ec6abf499aa37db7b0a7d6749ee15
+#EXTINF:-1 tvg-id="青森热力 vs 立川骰子" tvg-chno="1138" tvg-name="青森热力 vs 立川骰子" tvg-group="篮球" group-title="篮球",青森热力 vs 立川骰子
+http://192.168.5.35:44635/play/8cb066717f6c2c43df37593c51af6fab0d6f4e7d
 #EXTINF:-1 tvg-id="纽卡斯尔喷气机 vs 惠灵顿凤凰" tvg-chno="1201" tvg-name="纽卡斯尔喷气机 vs 惠灵顿凤凰" tvg-group="足球" group-title="足球",纽卡斯尔喷气机 vs 惠灵顿凤凰
-https://pul-tenm.gkykp.com/live/hd-en-1-4590467.m3u8?txSecret=6615d26834b635ef5f1d3fc99bf4ff10&txTime=6AE6BE68
+https://pul-tenm.gkykp.com/live/hd-en-1-4590467.m3u8?txSecret=6a5d881552b9e630470035987b057d5e&txTime=6AE6BFD1
 #EXTINF:-1 tvg-id="UAT走鹃 vs 鹿队" tvg-chno="1202" tvg-name="UAT走鹃 vs 鹿队" tvg-group="足球" group-title="足球",UAT走鹃 vs 鹿队
 http://192.168.5.35:44635/play/699e6fd25e0e8e43e6885b9858cd2e5a9cc501ce
 #EXTINF:-1 tvg-id="UAT走鹃 vs 鹿队" tvg-chno="1203" tvg-name="UAT走鹃 vs 鹿队" tvg-group="足球" group-title="足球",UAT走鹃 vs 鹿队
@@ -181,11 +183,13 @@ http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="F1·Formula" tvg-chno="1306" tvg-name="F1·Formula" tvg-group="体育综合" group-title="体育综合",F1·Formula
 https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1307" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1307" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1308" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1308" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1309" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1309" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1310" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="Dota2中文·完美世界" tvg-chno="1401" tvg-name="Dota2中文·完美世界" tvg-group="DOTA2" group-title="DOTA2",Dota2中文·完美世界
 http://127.0.0.1:35455/douyu/6829849
