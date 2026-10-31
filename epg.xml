@@ -6,8 +6,6 @@
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="Z10 vs 4ikibamboni"><display-name>Z10 vs 4ikibamboni</display-name></channel>
-  <channel id="勇士 vs 湖人"><display-name>勇士 vs 湖人</display-name></channel>
-  <channel id="太阳 vs 掘金"><display-name>太阳 vs 掘金</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <programme start="20261102020000 +0800" stop="20261102051948 +0800" channel="CBS">
     <title>Baltimore Ravens at Buffalo Bills（NFL）</title>
@@ -55,14 +53,6 @@
   </programme>
   <programme start="20261031120000 +0800" stop="20261031143000 +0800" channel="Z10 vs 4ikibamboni">
     <title>Z10 vs 4iki（Sber Tournament - Playoffs）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261031100000 +0800" stop="20261031124012 +0800" channel="勇士 vs 湖人">
-    <title>Los Angeles Lakers at Golden State Warriors 已结束（NBA）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261031100000 +0800" stop="20261031124012 +0800" channel="太阳 vs 掘金">
-    <title>Denver Nuggets at Phoenix Suns 已结束（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261031143000 +0800" stop="20261031150000 +0800" channel="赛程预告">
