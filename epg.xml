@@ -6,6 +6,7 @@
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="Team Kinetix vs CD"><display-name>Team Kinetix vs CD</display-name></channel>
+  <channel id="Yandex vs GL"><display-name>Yandex vs GL</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <programme start="20261102020000 +0800" stop="20261102051948 +0800" channel="CBS">
     <title>Baltimore Ravens at Buffalo Bills（NFL）</title>
@@ -55,6 +56,10 @@
     <title>Kinetix vs CD（EPL World SEA S19 - October 31）</title>
     <category>体育</category>
   </programme>
+  <programme start="20261031210000 +0800" stop="20261031233000 +0800" channel="Yandex vs GL">
+    <title>Yandex vs GL（PARI Universe - Playoffs）</title>
+    <category>体育</category>
+  </programme>
   <programme start="20261031194000 +0800" stop="20261031200000 +0800" channel="赛程预告">
     <title>足球：无锡队 vs 常州队</title>
     <category>体育</category>
@@ -64,7 +69,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261031203000 +0800" stop="20261031210000 +0800" channel="赛程预告">
-    <title>英超：切尔西 vs 曼联；英冠：林肯城 vs 伯明翰</title>
+    <title>英超：切尔西 vs 曼联</title>
     <category>体育</category>
   </programme>
   <programme start="20261031210000 +0800" stop="20261031220000 +0800" channel="赛程预告">
