@@ -67,9 +67,7 @@ https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1308" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1309" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1310" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1309" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="Dota2中文·完美世界" tvg-chno="1401" tvg-name="Dota2中文·完美世界" tvg-group="DOTA2" group-title="DOTA2",Dota2中文·完美世界
 http://127.0.0.1:35455/douyu/6829849
@@ -87,17 +85,21 @@ http://192.168.5.35:44635/play/42b5682f2f87e4bfb57e43cf50eef6206686faec
 http://192.168.5.35:44635/play/32e4ab5662116440e8a11be045bfce948c8cfa92
 #EXTINF:-1 tvg-id="Synapse vs NG" tvg-chno="1408" tvg-name="Synapse vs NG" tvg-group="DOTA2" group-title="DOTA2",Synapse vs NG
 http://192.168.5.35:44635/play/95979e27cae979b5cface8425156bc93440d4968
-#EXTINF:-1 tvg-id="Xipto vs HKR" tvg-chno="1409" tvg-name="Xipto vs HKR" tvg-group="DOTA2" group-title="DOTA2",Xipto vs HKR
+#EXTINF:-1 tvg-id="Team Kinetix vs CD" tvg-chno="1409" tvg-name="Team Kinetix vs CD" tvg-group="DOTA2" group-title="DOTA2",Team Kinetix vs CD
+http://192.168.5.35:44635/play/f59196c16668371c075c18dde7e1be785789e6da
+#EXTINF:-1 tvg-id="Team Kinetix vs CD" tvg-chno="1410" tvg-name="Team Kinetix vs CD" tvg-group="DOTA2" group-title="DOTA2",Team Kinetix vs CD
+http://192.168.5.35:44635/play/e1a6d9da218a3aaf89d01535bbf3df6d9b9d3faa
+#EXTINF:-1 tvg-id="Xipto vs HKR" tvg-chno="1411" tvg-name="Xipto vs HKR" tvg-group="DOTA2" group-title="DOTA2",Xipto vs HKR
 http://192.168.5.35:44635/play/2d0b0a9c9ab901e765e6db84c58f7b737f37cfb6
-#EXTINF:-1 tvg-id="Xipto vs HKR" tvg-chno="1410" tvg-name="Xipto vs HKR" tvg-group="DOTA2" group-title="DOTA2",Xipto vs HKR
+#EXTINF:-1 tvg-id="Xipto vs HKR" tvg-chno="1412" tvg-name="Xipto vs HKR" tvg-group="DOTA2" group-title="DOTA2",Xipto vs HKR
 http://192.168.5.35:44635/play/7683eae25caca45c6b848f216083bb4c3c3ad83d
-#EXTINF:-1 tvg-id="Z10 vs 4ikibamboni" tvg-chno="1411" tvg-name="Z10 vs 4ikibamboni" tvg-group="DOTA2" group-title="DOTA2",Z10 vs 4ikibamboni
+#EXTINF:-1 tvg-id="Z10 vs 4ikibamboni" tvg-chno="1413" tvg-name="Z10 vs 4ikibamboni" tvg-group="DOTA2" group-title="DOTA2",Z10 vs 4ikibamboni
 http://192.168.5.35:44635/play/328110ae053d1457b79ebef5fd9582f58b48ba9b
-#EXTINF:-1 tvg-id="Z10 vs Rebeldes" tvg-chno="1412" tvg-name="Z10 vs Rebeldes" tvg-group="DOTA2" group-title="DOTA2",Z10 vs Rebeldes
+#EXTINF:-1 tvg-id="Z10 vs Rebeldes" tvg-chno="1414" tvg-name="Z10 vs Rebeldes" tvg-group="DOTA2" group-title="DOTA2",Z10 vs Rebeldes
 http://192.168.5.35:44635/play/b660a5c724eb8c2a065cedd0fd72090ebe0ccfbf
-#EXTINF:-1 tvg-id="Z10 vs Rebeldes" tvg-chno="1413" tvg-name="Z10 vs Rebeldes" tvg-group="DOTA2" group-title="DOTA2",Z10 vs Rebeldes
+#EXTINF:-1 tvg-id="Z10 vs Rebeldes" tvg-chno="1415" tvg-name="Z10 vs Rebeldes" tvg-group="DOTA2" group-title="DOTA2",Z10 vs Rebeldes
 http://192.168.5.35:44635/play/88019d4b8a043ed5c2937dc9ce252486ad48f90a
-#EXTINF:-1 tvg-id="Zenith vs RG" tvg-chno="1414" tvg-name="Zenith vs RG" tvg-group="DOTA2" group-title="DOTA2",Zenith vs RG
+#EXTINF:-1 tvg-id="Zenith vs RG" tvg-chno="1416" tvg-name="Zenith vs RG" tvg-group="DOTA2" group-title="DOTA2",Zenith vs RG
 http://192.168.5.35:44635/play/f33da28d3b48fec67670b7c569606b6b414a121b
-#EXTINF:-1 tvg-id="Zenith vs RG" tvg-chno="1415" tvg-name="Zenith vs RG" tvg-group="DOTA2" group-title="DOTA2",Zenith vs RG
+#EXTINF:-1 tvg-id="Zenith vs RG" tvg-chno="1417" tvg-name="Zenith vs RG" tvg-group="DOTA2" group-title="DOTA2",Zenith vs RG
 http://192.168.5.35:44635/play/7738d0db8f20519d3a7c7e84724038911be70088
