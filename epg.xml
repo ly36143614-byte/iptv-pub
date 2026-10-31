@@ -8,6 +8,7 @@
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="凯尔特人 vs 公牛"><display-name>凯尔特人 vs 公牛</display-name></channel>
   <channel id="奇才 vs 黄蜂"><display-name>奇才 vs 黄蜂</display-name></channel>
+  <channel id="森林狼 vs 快船"><display-name>森林狼 vs 快船</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
   <channel id="猛龙 vs 魔术"><display-name>猛龙 vs 魔术</display-name></channel>
   <channel id="篮网 vs 活塞"><display-name>篮网 vs 活塞</display-name></channel>
@@ -68,6 +69,10 @@
     <title>Charlotte Hornets at Washington Wizards（NBA）</title>
     <category>体育</category>
   </programme>
+  <programme start="20261031080000 +0800" stop="20261031104012 +0800" channel="森林狼 vs 快船">
+    <title>LA Clippers at Minnesota Timberwolves（NBA）</title>
+    <category>体育</category>
+  </programme>
   <programme start="20261031073000 +0800" stop="20261031101012 +0800" channel="活塞">
     <title>NBA：篮网 vs 活塞</title>
     <category>体育</category>
@@ -78,10 +83,6 @@
   </programme>
   <programme start="20261031073000 +0800" stop="20261031101012 +0800" channel="篮网 vs 活塞">
     <title>Detroit Pistons at Brooklyn Nets（NBA）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261031060000 +0800" stop="20261031070000 +0800" channel="赛程预告">
-    <title>Dota2：Z10 vs rbd（NEXUS SERIES II）</title>
     <category>体育</category>
   </programme>
   <programme start="20261031070000 +0800" stop="20261031073000 +0800" channel="赛程预告">
@@ -318,6 +319,10 @@
   </programme>
   <programme start="20261102060000 +0800" stop="20261102080000 +0800" channel="赛程预告">
     <title>NBA：步行者 vs 篮网</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261102080000 +0800" stop="20261102100000 +0800" channel="赛程预告">
+    <title>迈阿密国际：新英格兰革命 vs 迈阿密国际</title>
     <category>体育</category>
   </programme>
 </tv>
