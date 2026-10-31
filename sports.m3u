@@ -23,13 +23,15 @@ http://198.58.104.90:8989/nba/index.m3u8
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="KP布尔诺女篮 vs 勃朗狄斯女篮" tvg-chno="1104" tvg-name="KP布尔诺女篮 vs 勃朗狄斯女篮" tvg-group="篮球" group-title="篮球",KP布尔诺女篮 vs 勃朗狄斯女篮
 http://192.168.5.35:44635/play/8bb93b67365d6bb3aee93643bda9cdd3fda340f4
-#EXTINF:-1 tvg-id="哈尔体育 vs 巴里科斯士邦" tvg-chno="1105" tvg-name="哈尔体育 vs 巴里科斯士邦" tvg-group="篮球" group-title="篮球",哈尔体育 vs 巴里科斯士邦
+#EXTINF:-1 tvg-id="卡尔季察ASK vs 科洛索斯罗德岛" tvg-chno="1105" tvg-name="卡尔季察ASK vs 科洛索斯罗德岛" tvg-group="篮球" group-title="篮球",卡尔季察ASK vs 科洛索斯罗德岛
+http://192.168.5.35:44635/play/25338df9487a8d340032028395a03ff1c4f2edf1
+#EXTINF:-1 tvg-id="哈尔体育 vs 巴里科斯士邦" tvg-chno="1106" tvg-name="哈尔体育 vs 巴里科斯士邦" tvg-group="篮球" group-title="篮球",哈尔体育 vs 巴里科斯士邦
 http://192.168.5.35:44635/play/22b148facbd3e38c7d55dfcd5dd97595ca8e4a14
-#EXTINF:-1 tvg-id="奥林匹亚科斯女篮 vs 帕纳辛纳科斯女篮" tvg-chno="1106" tvg-name="奥林匹亚科斯女篮 vs 帕纳辛纳科斯女篮" tvg-group="篮球" group-title="篮球",奥林匹亚科斯女篮 vs 帕纳辛纳科斯女篮
+#EXTINF:-1 tvg-id="奥林匹亚科斯女篮 vs 帕纳辛纳科斯女篮" tvg-chno="1107" tvg-name="奥林匹亚科斯女篮 vs 帕纳辛纳科斯女篮" tvg-group="篮球" group-title="篮球",奥林匹亚科斯女篮 vs 帕纳辛纳科斯女篮
 http://192.168.5.35:44635/play/523d1796955bbbdbf6239c33bbe9a03d8bf5ad36
-#EXTINF:-1 tvg-id="费林根 vs 贝鲁姆" tvg-chno="1107" tvg-name="费林根 vs 贝鲁姆" tvg-group="篮球" group-title="篮球",费林根 vs 贝鲁姆
+#EXTINF:-1 tvg-id="费林根 vs 贝鲁姆" tvg-chno="1108" tvg-name="费林根 vs 贝鲁姆" tvg-group="篮球" group-title="篮球",费林根 vs 贝鲁姆
 http://192.168.5.35:44635/play/7bf289ea5ff0d138c47eff75187b449a6a9ff3bf
-#EXTINF:-1 tvg-id="里加女篮 vs LCC大学女篮" tvg-chno="1108" tvg-name="里加女篮 vs LCC大学女篮" tvg-group="篮球" group-title="篮球",里加女篮 vs LCC大学女篮
+#EXTINF:-1 tvg-id="里加女篮 vs LCC大学女篮" tvg-chno="1109" tvg-name="里加女篮 vs LCC大学女篮" tvg-group="篮球" group-title="篮球",里加女篮 vs LCC大学女篮
 http://192.168.5.35:44635/play/3fdcad2d8453d32153b67ad6fb5c8deec1e29919
 #EXTINF:-1 tvg-id="麦克阿瑟FC vs 西悉尼流浪者" tvg-chno="1201" tvg-name="麦克阿瑟FC vs 西悉尼流浪者" tvg-group="足球" group-title="足球",麦克阿瑟FC vs 西悉尼流浪者
 https://hdl3.ttrr888.com/6cf6e5bd52f04b5db8f63e0a40c3aaed/29502165.m3u8?token=007eJxTYFgonv29Sf%2BuctJ5jZXByQrXs3SaGRyD3bttT3%2Fe0ft08wsFBrPkNLNU06QUU6M0A5Mk05QkizQz41SDRBODZOPExNQUoyVPsxoCGRlsz6XqMDIwMrAAMYjPBCaZwSQLmORgMLI0NTAyNDPlZLAwNTKxMDUxNwIAm8olFg%3D%3D&userUid=852485472&lts=1793434674579&ttl=86400
@@ -59,7 +61,9 @@ https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1308" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1309" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1309" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1310" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="Dota2中文·完美世界" tvg-chno="1401" tvg-name="Dota2中文·完美世界" tvg-group="DOTA2" group-title="DOTA2",Dota2中文·完美世界
 http://127.0.0.1:35455/douyu/6829849
@@ -79,9 +83,9 @@ http://192.168.5.35:44635/play/e6bd8ecd1b61d17f34bc14250f8a97360518d925
 http://192.168.5.35:44635/play/f59196c16668371c075c18dde7e1be785789e6da
 #EXTINF:-1 tvg-id="Team Kinetix vs CD" tvg-chno="1409" tvg-name="Team Kinetix vs CD" tvg-group="DOTA2" group-title="DOTA2",Team Kinetix vs CD
 http://192.168.5.35:44635/play/e1a6d9da218a3aaf89d01535bbf3df6d9b9d3faa
-#EXTINF:-1 tvg-id="Xipto vs HKR" tvg-chno="1410" tvg-name="Xipto vs HKR" tvg-group="DOTA2" group-title="DOTA2",Xipto vs HKR
+#EXTINF:-1 tvg-id="Xipto vs HellNight-" tvg-chno="1410" tvg-name="Xipto vs HellNight-" tvg-group="DOTA2" group-title="DOTA2",Xipto vs HellNight-
 http://192.168.5.35:44635/play/2d0b0a9c9ab901e765e6db84c58f7b737f37cfb6
-#EXTINF:-1 tvg-id="Xipto vs HKR" tvg-chno="1411" tvg-name="Xipto vs HKR" tvg-group="DOTA2" group-title="DOTA2",Xipto vs HKR
+#EXTINF:-1 tvg-id="Xipto vs HellNight-" tvg-chno="1411" tvg-name="Xipto vs HellNight-" tvg-group="DOTA2" group-title="DOTA2",Xipto vs HellNight-
 http://192.168.5.35:44635/play/7683eae25caca45c6b848f216083bb4c3c3ad83d
 #EXTINF:-1 tvg-id="Yandex vs GL" tvg-chno="1412" tvg-name="Yandex vs GL" tvg-group="DOTA2" group-title="DOTA2",Yandex vs GL
 http://192.168.5.35:44635/play/79a13578438fa957bd654012ebed6497058a868c
