@@ -6,6 +6,9 @@
   <channel id="ESPN"><display-name>ESPN</display-name></channel>
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
+  <channel id="OB vs RH"><display-name>OB vs RH</display-name></channel>
+  <channel id="Team Kinetix vs CD"><display-name>Team Kinetix vs CD</display-name></channel>
+  <channel id="Z10 vs 4ikibamboni"><display-name>Z10 vs 4ikibamboni</display-name></channel>
   <channel id="凯尔特人 vs 公牛"><display-name>凯尔特人 vs 公牛</display-name></channel>
   <channel id="奇才 vs 黄蜂"><display-name>奇才 vs 黄蜂</display-name></channel>
   <channel id="森林狼 vs 快船"><display-name>森林狼 vs 快船</display-name></channel>
@@ -59,6 +62,18 @@
   </programme>
   <programme start="20261102092000 +0800" stop="20261102123948 +0800" channel="NBC">
     <title>Philadelphia Eagles at Washington Commanders（NFL）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261103230000 +0800" stop="20261104013000 +0800" channel="OB vs RH">
+    <title>oblood vs RH（EPC Season 3 - November 3）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261031180000 +0800" stop="20261031203000 +0800" channel="Team Kinetix vs CD">
+    <title>Kinetix vs CD（EPL World SEA S19 - October 31）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261031120000 +0800" stop="20261031143000 +0800" channel="Z10 vs 4ikibamboni">
+    <title>Z10 vs 4iki（Sber Tournament - Playoffs）</title>
     <category>体育</category>
   </programme>
   <programme start="20261031073000 +0800" stop="20261031101012 +0800" channel="凯尔特人 vs 公牛">
