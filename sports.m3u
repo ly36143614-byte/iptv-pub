@@ -22,18 +22,32 @@ http://198.58.104.90:8989/nba/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1103" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="卡尔季察ASK vs 科洛索斯罗德岛" tvg-chno="1104" tvg-name="卡尔季察ASK vs 科洛索斯罗德岛" tvg-group="篮球" group-title="篮球",卡尔季察ASK vs 科洛索斯罗德岛
-http://192.168.5.35:44635/play/25338df9487a8d340032028395a03ff1c4f2edf1
-#EXTINF:-1 tvg-id="奥林匹亚科斯女篮 vs 帕纳辛纳科斯女篮" tvg-chno="1105" tvg-name="奥林匹亚科斯女篮 vs 帕纳辛纳科斯女篮" tvg-group="篮球" group-title="篮球",奥林匹亚科斯女篮 vs 帕纳辛纳科斯女篮
+http://192.168.5.35:44635/play/2e2f0f2e33a4b9d9b30a5e52779e7123be140774
+#EXTINF:-1 tvg-id="卡尔季察ASK vs 科洛索斯罗德岛" tvg-chno="1105" tvg-name="卡尔季察ASK vs 科洛索斯罗德岛" tvg-group="篮球" group-title="篮球",卡尔季察ASK vs 科洛索斯罗德岛
+http://192.168.5.35:44635/play/0c5a8aa16dbfc0a89c622e2fa0e88c605964f7e4
+#EXTINF:-1 tvg-id="哈尔体育 vs 巴里科斯士邦" tvg-chno="1106" tvg-name="哈尔体育 vs 巴里科斯士邦" tvg-group="篮球" group-title="篮球",哈尔体育 vs 巴里科斯士邦
+http://192.168.5.35:44635/play/07956f5affadee9c011b667d7ef97fcfc88f9e2f
+#EXTINF:-1 tvg-id="奥尔曼安卡拉 vs 达鲁萨法卡" tvg-chno="1107" tvg-name="奥尔曼安卡拉 vs 达鲁萨法卡" tvg-group="篮球" group-title="篮球",奥尔曼安卡拉 vs 达鲁萨法卡
+http://192.168.5.35:44635/play/e1614814e65f6bf00af1cab07cd24f91270b45b5
+#EXTINF:-1 tvg-id="奥林匹亚科斯女篮 vs 帕纳辛纳科斯女篮" tvg-chno="1108" tvg-name="奥林匹亚科斯女篮 vs 帕纳辛纳科斯女篮" tvg-group="篮球" group-title="篮球",奥林匹亚科斯女篮 vs 帕纳辛纳科斯女篮
 http://192.168.5.35:44635/play/523d1796955bbbdbf6239c33bbe9a03d8bf5ad36
-#EXTINF:-1 tvg-id="米科诺斯 vs 莱夫卡扎荣耀" tvg-chno="1106" tvg-name="米科诺斯 vs 莱夫卡扎荣耀" tvg-group="篮球" group-title="篮球",米科诺斯 vs 莱夫卡扎荣耀
-http://192.168.5.35:44635/play/82600969f14b99bfa23151bc025677d02c2682eb
-#EXTINF:-1 tvg-id="考维纳斯 vs 马萨基爱" tvg-chno="1107" tvg-name="考维纳斯 vs 马萨基爱" tvg-group="篮球" group-title="篮球",考维纳斯 vs 马萨基爱
+#EXTINF:-1 tvg-id="梅尔辛BB vs 科勒基尔" tvg-chno="1109" tvg-name="梅尔辛BB vs 科勒基尔" tvg-group="篮球" group-title="篮球",梅尔辛BB vs 科勒基尔
+http://192.168.5.35:44635/play/f8ec6340fd2cfe6b472cefc7b097050181428454
+#EXTINF:-1 tvg-id="科尔菲兹 vs 特拉布宗体育" tvg-chno="1110" tvg-name="科尔菲兹 vs 特拉布宗体育" tvg-group="篮球" group-title="篮球",科尔菲兹 vs 特拉布宗体育
+http://192.168.5.35:44635/play/1ec147172387bffc844dc444d2f200dc4d0e3e93
+#EXTINF:-1 tvg-id="科尔菲兹 vs 特拉布宗体育" tvg-chno="1111" tvg-name="科尔菲兹 vs 特拉布宗体育" tvg-group="篮球" group-title="篮球",科尔菲兹 vs 特拉布宗体育
+http://192.168.5.35:44635/play/ab9a64be4ef287078af3e3fa8c466e594bbc00a8
+#EXTINF:-1 tvg-id="米科诺斯 vs 莱夫卡扎荣耀" tvg-chno="1112" tvg-name="米科诺斯 vs 莱夫卡扎荣耀" tvg-group="篮球" group-title="篮球",米科诺斯 vs 莱夫卡扎荣耀
+http://192.168.5.35:44635/play/cbb2d9fdfe2105cb1303ed261d1e3b5cdcc390d8
+#EXTINF:-1 tvg-id="维科斯猎鹰 vs 雅典AEK" tvg-chno="1113" tvg-name="维科斯猎鹰 vs 雅典AEK" tvg-group="篮球" group-title="篮球",维科斯猎鹰 vs 雅典AEK
+http://192.168.5.35:44635/play/7ed0a800726264ab6afa584c83634c64a8227dd9
+#EXTINF:-1 tvg-id="考维纳斯 vs 马萨基爱" tvg-chno="1114" tvg-name="考维纳斯 vs 马萨基爱" tvg-group="篮球" group-title="篮球",考维纳斯 vs 马萨基爱
 http://192.168.5.35:44635/play/0a76b60dd648ebeb8bc67f14dacd1537fb34d9ed
-#EXTINF:-1 tvg-id="苏度瓦曼廷加 vs 凯代尼艾SC" tvg-chno="1108" tvg-name="苏度瓦曼廷加 vs 凯代尼艾SC" tvg-group="篮球" group-title="篮球",苏度瓦曼廷加 vs 凯代尼艾SC
+#EXTINF:-1 tvg-id="苏度瓦曼廷加 vs 凯代尼艾SC" tvg-chno="1115" tvg-name="苏度瓦曼廷加 vs 凯代尼艾SC" tvg-group="篮球" group-title="篮球",苏度瓦曼廷加 vs 凯代尼艾SC
 http://192.168.5.35:44635/play/580de36636f1cb63879ebb19738cf8d1635c25df
-#EXTINF:-1 tvg-id="费林根 vs 贝鲁姆" tvg-chno="1109" tvg-name="费林根 vs 贝鲁姆" tvg-group="篮球" group-title="篮球",费林根 vs 贝鲁姆
+#EXTINF:-1 tvg-id="费林根 vs 贝鲁姆" tvg-chno="1116" tvg-name="费林根 vs 贝鲁姆" tvg-group="篮球" group-title="篮球",费林根 vs 贝鲁姆
 http://192.168.5.35:44635/play/7bf289ea5ff0d138c47eff75187b449a6a9ff3bf
-#EXTINF:-1 tvg-id="里加女篮 vs LCC大学女篮" tvg-chno="1110" tvg-name="里加女篮 vs LCC大学女篮" tvg-group="篮球" group-title="篮球",里加女篮 vs LCC大学女篮
+#EXTINF:-1 tvg-id="里加女篮 vs LCC大学女篮" tvg-chno="1117" tvg-name="里加女篮 vs LCC大学女篮" tvg-group="篮球" group-title="篮球",里加女篮 vs LCC大学女篮
 http://192.168.5.35:44635/play/3fdcad2d8453d32153b67ad6fb5c8deec1e29919
 #EXTINF:-1 tvg-id="北控 vs 新疆" tvg-chno="1201" tvg-name="北控 vs 新疆" tvg-group="足球" group-title="足球",北控 vs 新疆
 https://hlsz.yjjcfw.com/live/00594092.m3u8?expire=1793469776&sign=97ac51fc8f3a4c9d4189f366a7d32367
@@ -47,9 +61,21 @@ https://pul-tenm.gkykp.com/live/hd-en-1-4566598.m3u8?txSecret=8d145706e4cd2588b0
 https://hdl3.ttrr888.com/6cf6e5bd52f04b5db8f63e0a40c3aaed/44668741.m3u8?token=007eJxTYJi6%2BewjwbVhLAcSC8%2F%2FfW22cW5%2BjpTW9HNG61IUDuw68v%2B%2FAoNZcppZqmlSiqlRmoFJkmlKkkWamXGqQaKJQbJxYmJqiuaSp1kNgYwMF4r6pjIyMDKwADGIzwQmmcEkC5jkYDAxMTOzMDcx5GSwNDaxNDEyMTMAANKoKCM%3D&userUid=934942460&lts=1793434665557&ttl=86400
 #EXTINF:-1 tvg-id="切尔西 vs 曼联" tvg-chno="1206" tvg-name="切尔西 vs 曼联" tvg-group="足球" group-title="足球",切尔西 vs 曼联
 https://hlsz.yjjcfw.com/live/00584199.m3u8?expire=1793469818&sign=5e1205157ef0c61a3845e462a953b12b
-#EXTINF:-1 tvg-id="佩斯卡拉青年队 vs 斯佩齐亚青年队" tvg-chno="1207" tvg-name="佩斯卡拉青年队 vs 斯佩齐亚青年队" tvg-group="足球" group-title="足球",佩斯卡拉青年队 vs 斯佩齐亚青年队
+#EXTINF:-1 tvg-id="FK卡巴拉 vs 卡拉巴克" tvg-chno="1207" tvg-name="FK卡巴拉 vs 卡拉巴克" tvg-group="足球" group-title="足球",FK卡巴拉 vs 卡拉巴克
+http://192.168.5.35:44635/play/0c622b4c403b3204d7d1759c6643ee88416d870f
+#EXTINF:-1 tvg-id="佩斯卡拉 vs 托里斯" tvg-chno="1208" tvg-name="佩斯卡拉 vs 托里斯" tvg-group="足球" group-title="足球",佩斯卡拉 vs 托里斯
+http://192.168.5.35:44635/play/1324b5f31c2b63d0b026f4aa693fc9aa2b4a4285
+#EXTINF:-1 tvg-id="佩斯卡拉 vs 托里斯" tvg-chno="1209" tvg-name="佩斯卡拉 vs 托里斯" tvg-group="足球" group-title="足球",佩斯卡拉 vs 托里斯
+http://192.168.5.35:44635/play/83533d69d296d256c6360b0563df8b794c0f265f
+#EXTINF:-1 tvg-id="佩斯卡拉青年队 vs 斯佩齐亚青年队" tvg-chno="1210" tvg-name="佩斯卡拉青年队 vs 斯佩齐亚青年队" tvg-group="足球" group-title="足球",佩斯卡拉青年队 vs 斯佩齐亚青年队
 http://192.168.5.35:44635/play/29fda3262f2eda6544cfffbed135cd257b95f259
-#EXTINF:-1 tvg-id="比萨青年队 vs 巴里U19" tvg-chno="1208" tvg-name="比萨青年队 vs 巴里U19" tvg-group="足球" group-title="足球",比萨青年队 vs 巴里U19
+#EXTINF:-1 tvg-id="奥斯皮塔莱托 vs 特伦托" tvg-chno="1211" tvg-name="奥斯皮塔莱托 vs 特伦托" tvg-group="足球" group-title="足球",奥斯皮塔莱托 vs 特伦托
+http://192.168.5.35:44635/play/e967a806ce4267e52893aad06dee64660072548f
+#EXTINF:-1 tvg-id="奥斯皮塔莱托 vs 特伦托" tvg-chno="1212" tvg-name="奥斯皮塔莱托 vs 特伦托" tvg-group="足球" group-title="足球",奥斯皮塔莱托 vs 特伦托
+http://192.168.5.35:44635/play/3cfca8e36b559b04ecbb873c0663acb57f3eae2b
+#EXTINF:-1 tvg-id="朱利亚诺 vs 卡塞塔纳" tvg-chno="1213" tvg-name="朱利亚诺 vs 卡塞塔纳" tvg-group="足球" group-title="足球",朱利亚诺 vs 卡塞塔纳
+http://192.168.5.35:44635/play/87d5bdb6104323e49b6e61da300b051956da745f
+#EXTINF:-1 tvg-id="比萨青年队 vs 巴里U19" tvg-chno="1214" tvg-name="比萨青年队 vs 巴里U19" tvg-group="足球" group-title="足球",比萨青年队 vs 巴里U19
 http://192.168.5.35:44635/play/1c8589402fc396203bc0d9bc0511053508495019
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1301" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
@@ -63,9 +89,13 @@ http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="F1·Formula" tvg-chno="1306" tvg-name="F1·Formula" tvg-group="体育综合" group-title="体育综合",F1·Formula
 https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1307" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1307" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1308" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1308" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1309" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1310" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="Dota2中文·完美世界" tvg-chno="1401" tvg-name="Dota2中文·完美世界" tvg-group="DOTA2" group-title="DOTA2",Dota2中文·完美世界
 http://127.0.0.1:35455/douyu/6829849
