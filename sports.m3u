@@ -22,9 +22,9 @@ http://198.58.104.90:8989/nba/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1103" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="柏太阳神 vs 浦和红钻" tvg-chno="1104" tvg-name="柏太阳神 vs 浦和红钻" tvg-group="篮球" group-title="篮球",柏太阳神 vs 浦和红钻
-https://pul-tenm.gkykp.com/live/sd-1-4555280.m3u8?txSecret=9e6a64e90b0ba9aeb4d7c5a334576688&txTime=6AE6ECD1
+https://pul-tenm.gkykp.com/live/sd-1-4555280.m3u8?txSecret=3c07d704bd00046c71bee69f754aa220&txTime=6AE6EFA1
 #EXTINF:-1 tvg-id="大邱石油公社飞马 vs 蔚山现代太阳神" tvg-chno="1105" tvg-name="大邱石油公社飞马 vs 蔚山现代太阳神" tvg-group="篮球" group-title="篮球",大邱石油公社飞马 vs 蔚山现代太阳神
-https://pul-tenm.gkykp.com/live/hd-en-2-3933616.m3u8?txSecret=5b0877810fc0ba3b73547dbf8748264e&txTime=6AE6ECD1
+https://hdl2.mxxfly.com/live/82095217.m3u8?auth_key=1793376120-66f5228cbe814d99900c733d1ceada06-0-c88e511c096a64e1b578518e1027e3e4
 #EXTINF:-1 tvg-id="三河海马 vs 佐贺气球人" tvg-chno="1106" tvg-name="三河海马 vs 佐贺气球人" tvg-group="篮球" group-title="篮球",三河海马 vs 佐贺气球人
 http://192.168.5.35:44635/play/d220cf12b4b0829fc04ce0f9c8bc4b14acefdff5
 #EXTINF:-1 tvg-id="东京地球之友 vs 埼玉野马" tvg-chno="1107" tvg-name="东京地球之友 vs 埼玉野马" tvg-group="篮球" group-title="篮球",东京地球之友 vs 埼玉野马
@@ -74,7 +74,7 @@ https://hdl2.mxxfly.com/live/27149374.m3u8?auth_key=1793376120-7523bfc3b2444577b
 #EXTINF:-1 tvg-id="全北现代 vs 大田市民" tvg-chno="1203" tvg-name="全北现代 vs 大田市民" tvg-group="足球" group-title="足球",全北现代 vs 大田市民
 https://hdl2.mxxfly.com/live/73079759.m3u8?auth_key=1793376120-5457986393f24e6c8d920a3ab7fc3281-0-30a6a8f7c98cfa52b738240739780f25
 #EXTINF:-1 tvg-id="墨尔本城 vs 悉尼FC" tvg-chno="1204" tvg-name="墨尔本城 vs 悉尼FC" tvg-group="足球" group-title="足球",墨尔本城 vs 悉尼FC
-https://pul-tenm.gkykp.com/live/hd-en-1-4590426.m3u8?txSecret=fa7a71c52da6477b74ff73b835f6c0fe&txTime=6AE6ECD1
+https://pul-tenm.gkykp.com/live/hd-en-1-4590426.m3u8?txSecret=d068c171d3ba41ed38d396864134662c&txTime=6AE6EE39
 #EXTINF:-1 tvg-id="FC今治 vs 甲府风林" tvg-chno="1205" tvg-name="FC今治 vs 甲府风林" tvg-group="足球" group-title="足球",FC今治 vs 甲府风林
 http://192.168.5.35:44635/play/120653747708a3f13139c614d328c33b6f980cc5
 #EXTINF:-1 tvg-id="FC今治 vs 甲府风林" tvg-chno="1206" tvg-name="FC今治 vs 甲府风林" tvg-group="足球" group-title="足球",FC今治 vs 甲府风林
@@ -153,10 +153,10 @@ http://198.58.104.90:8989/nfl/index.m3u8
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NBC" tvg-chno="1305" tvg-name="NBC" tvg-group="体育综合" group-title="体育综合",NBC
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
-#EXTINF:-1 tvg-id="F1·Formula" tvg-chno="1306" tvg-name="F1·Formula" tvg-group="体育综合" group-title="体育综合",F1·Formula
-https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
-#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1307" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
+#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1306" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1307" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1308" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1309" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
