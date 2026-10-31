@@ -22,7 +22,7 @@ http://198.58.104.90:8989/nba/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1103" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="安养赤红火箭 vs 水原KT音速弹" tvg-chno="1104" tvg-name="安养赤红火箭 vs 水原KT音速弹" tvg-group="篮球" group-title="篮球",安养赤红火箭 vs 水原KT音速弹
-https://pul-tenm.gkykp.com/live/sd-2-3933604.m3u8?txSecret=2bf28f4fe940d48c133e76f940d744a0&txTime=6AE6D0B1
+https://pul-tenm.gkykp.com/live/sd-2-3933604.m3u8?txSecret=8697b917e833dd90eb4d8368bb5c93ca&txTime=6AE6D381
 #EXTINF:-1 tvg-id="三重十四 vs 山口爱国者" tvg-chno="1105" tvg-name="三重十四 vs 山口爱国者" tvg-group="篮球" group-title="篮球",三重十四 vs 山口爱国者
 http://192.168.5.35:44635/play/192cfac4ea39f1dd4dc2f639ab6f1230c0baf9e5
 #EXTINF:-1 tvg-id="勇士 vs 湖人" tvg-chno="1106" tvg-name="勇士 vs 湖人" tvg-group="篮球" group-title="篮球",勇士 vs 湖人
@@ -30,7 +30,7 @@ http://192.168.5.35:44635/play/fc0f81feafb21803c5cec734d58cde7c618fb8be
 #EXTINF:-1 tvg-id="勇士 vs 湖人" tvg-chno="1107" tvg-name="勇士 vs 湖人" tvg-group="篮球" group-title="篮球",勇士 vs 湖人
 http://192.168.5.35:44635/play/7d0bb911e2f8c8acc55804d6ab161f0220f38f17
 #EXTINF:-1 tvg-id="勇士 vs 湖人" tvg-chno="1108" tvg-name="勇士 vs 湖人" tvg-group="篮球" group-title="篮球",勇士 vs 湖人·腾讯直播
-https://hlsz.yjjcfw.com/live/00590146.m3u8?expire=1793439973&sign=100185f782bea6c7c1c30a5ac1f0d929
+https://hlsz.yjjcfw.com/live/00590146.m3u8?expire=1793440687&sign=0a7ede8ab5e0b4dc8f690d76256862c7
 #EXTINF:-1 tvg-id="向日葵女篮 vs 香颂魔术女篮" tvg-chno="1109" tvg-name="向日葵女篮 vs 香颂魔术女篮" tvg-group="篮球" group-title="篮球",向日葵女篮 vs 香颂魔术女篮
 http://192.168.5.35:44635/play/98ca82aa0db555b57cc8357c27c2d7716aaec707
 #EXTINF:-1 tvg-id="向日葵女篮 vs 香颂魔术女篮" tvg-chno="1110" tvg-name="向日葵女篮 vs 香颂魔术女篮" tvg-group="篮球" group-title="篮球",向日葵女篮 vs 香颂魔术女篮
@@ -48,7 +48,7 @@ http://192.168.5.35:44635/play/fb1db41773ce4dd00c5786e918d0557fb0431fcb
 #EXTINF:-1 tvg-id="太阳 vs 掘金" tvg-chno="1116" tvg-name="太阳 vs 掘金" tvg-group="篮球" group-title="篮球",太阳 vs 掘金
 http://192.168.5.35:44635/play/24ff350593d0dc6f13e40ab83d83aec9a630b67f
 #EXTINF:-1 tvg-id="太阳 vs 掘金" tvg-chno="1117" tvg-name="太阳 vs 掘金" tvg-group="篮球" group-title="篮球",太阳 vs 掘金·腾讯直播
-https://hlsz.yjjcfw.com/live/00590145.m3u8?expire=1793439976&sign=f7fe7db31ed76cce58ff6d73adeeb3c5
+https://hlsz.yjjcfw.com/live/00590145.m3u8?expire=1793440692&sign=2811d939e1967311e49fdd8de9945644
 #EXTINF:-1 tvg-id="太阳 vs 黑豹" tvg-chno="1118" tvg-name="太阳 vs 黑豹" tvg-group="篮球" group-title="篮球",太阳 vs 黑豹
 http://192.168.5.35:44635/play/97fe2fadea54cef2b75f4d2ae3a563ba2ab72075
 #EXTINF:-1 tvg-id="太阳 vs 黑豹" tvg-chno="1119" tvg-name="太阳 vs 黑豹" tvg-group="篮球" group-title="篮球",太阳 vs 黑豹
@@ -84,19 +84,19 @@ http://192.168.5.35:44635/play/8cb066717f6c2c43df37593c51af6fab0d6f4e7d
 #EXTINF:-1 tvg-id="纽卡斯尔喷气机 vs 惠灵顿凤凰" tvg-chno="1201" tvg-name="纽卡斯尔喷气机 vs 惠灵顿凤凰" tvg-group="足球" group-title="足球",纽卡斯尔喷气机 vs 惠灵顿凤凰
 https://pul-tenm.gkykp.com/live/hd-en-1-4590467.m3u8?txSecret=83e7a3c04613a7275dff875d908423cb&txTime=6AE6D0B1
 #EXTINF:-1 tvg-id="仙台七夕 vs RB大宫松鼠" tvg-chno="1202" tvg-name="仙台七夕 vs RB大宫松鼠" tvg-group="足球" group-title="足球",仙台七夕 vs RB大宫松鼠
-https://pul-tenm.gkykp.com/live/sd-1-4555691.m3u8?txSecret=356875bd6cd8b536e6176d785574a34d&txTime=6AE6D0B1
+https://pul-tenm.gkykp.com/live/sd-1-4555691.m3u8?txSecret=3511e40f3bc1d99d056513627a7414ff&txTime=6AE6D381
 #EXTINF:-1 tvg-id="京都不死鸟 vs 清水心跳" tvg-chno="1203" tvg-name="京都不死鸟 vs 清水心跳" tvg-group="足球" group-title="足球",京都不死鸟 vs 清水心跳
 http://192.168.5.35:44635/play/8901e8eeaa5de750a45351dd9c7184897689c58a
 #EXTINF:-1 tvg-id="京都不死鸟 vs 清水心跳" tvg-chno="1204" tvg-name="京都不死鸟 vs 清水心跳" tvg-group="足球" group-title="足球",京都不死鸟 vs 清水心跳
 http://192.168.5.35:44635/play/a550a34eee4f2b0e61990c8d568e8e00b1822218
 #EXTINF:-1 tvg-id="京都不死鸟 vs 清水心跳" tvg-chno="1205" tvg-name="京都不死鸟 vs 清水心跳" tvg-group="足球" group-title="足球",京都不死鸟 vs 清水心跳·腾讯直播
-https://pul-tenm.gkykp.com/live/hd-en-1-4555307.m3u8?txSecret=6668843e901a43e158e8b259b1906bb6&txTime=6AE6D0B1
+https://pul-tenm.gkykp.com/live/hd-en-1-4555307.m3u8?txSecret=4f9afd9104f08ebd8e8e33e0ee378770&txTime=6AE6D381
 #EXTINF:-1 tvg-id="全北现代 vs 大田市民" tvg-chno="1206" tvg-name="全北现代 vs 大田市民" tvg-group="足球" group-title="足球",全北现代 vs 大田市民
 http://192.168.5.35:44635/play/a9b35aafa72d3eb72130ab97bb264bed38b17865
 #EXTINF:-1 tvg-id="全北现代 vs 大田市民" tvg-chno="1207" tvg-name="全北现代 vs 大田市民" tvg-group="足球" group-title="足球",全北现代 vs 大田市民
 http://192.168.5.35:44635/play/fce712d9d4f231d04c85bce961a98f4161d98853
 #EXTINF:-1 tvg-id="全北现代 vs 大田市民" tvg-chno="1208" tvg-name="全北现代 vs 大田市民" tvg-group="足球" group-title="足球",全北现代 vs 大田市民·腾讯直播
-https://pul-tenm.gkykp.com/live/sd-1-4662781.m3u8?txSecret=6b72ea0b9e2e2b5564d73acad0b7e8e0&txTime=6AE6D0B1
+https://pul-tenm.gkykp.com/live/sd-1-4662781.m3u8?txSecret=0943b93eab05a4b555a0396bebbc6b05&txTime=6AE6D381
 #EXTINF:-1 tvg-id="南霍巴特 vs 普雷斯顿莱恩" tvg-chno="1209" tvg-name="南霍巴特 vs 普雷斯顿莱恩" tvg-group="足球" group-title="足球",南霍巴特 vs 普雷斯顿莱恩
 http://192.168.5.35:44635/play/1402d3d377c437fc4ea577c5a7d37a3dbb902500
 #EXTINF:-1 tvg-id="南霍巴特 vs 普雷斯顿莱恩" tvg-chno="1210" tvg-name="南霍巴特 vs 普雷斯顿莱恩" tvg-group="足球" group-title="足球",南霍巴特 vs 普雷斯顿莱恩
