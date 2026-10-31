@@ -14,6 +14,7 @@
   <channel id="热火 vs 步行者"><display-name>热火 vs 步行者</display-name></channel>
   <channel id="独行侠 vs 火箭"><display-name>独行侠 vs 火箭</display-name></channel>
   <channel id="猛龙 vs 魔术"><display-name>猛龙 vs 魔术</display-name></channel>
+  <channel id="篮网 vs 活塞"><display-name>篮网 vs 活塞</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <programme start="20261031073000 +0800" stop="20261031101012 +0800" channel="76人 vs 尼克斯">
     <title>New York Knicks at Philadelphia 76ers 已结束（NBA）</title>
@@ -95,8 +96,8 @@
     <title>Orlando Magic at Toronto Raptors 已结束（NBA）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261031100000 +0800" stop="20261031120000 +0800" channel="赛程预告">
-    <title>NBA：勇士 vs 湖人；太阳 vs 掘金</title>
+  <programme start="20261031073000 +0800" stop="20261031101012 +0800" channel="篮网 vs 活塞">
+    <title>Detroit Pistons at Brooklyn Nets 已结束（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261031120000 +0800" stop="20261031130000 +0800" channel="赛程预告">
@@ -337,6 +338,10 @@
   </programme>
   <programme start="20261102100000 +0800" stop="20261102120000 +0800" channel="赛程预告">
     <title>NBA：湖人 vs 猛龙</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261102120000 +0800" stop="20261102140000 +0800" channel="赛程预告">
+    <title>Dota2：ZENITH vs Kinetix（EPL World SEA S19）</title>
     <category>体育</category>
   </programme>
 </tv>
