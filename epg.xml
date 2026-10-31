@@ -10,7 +10,6 @@
   <channel id="凯尔特人 vs 公牛"><display-name>凯尔特人 vs 公牛</display-name></channel>
   <channel id="勇士 vs 湖人"><display-name>勇士 vs 湖人</display-name></channel>
   <channel id="太阳 vs 掘金"><display-name>太阳 vs 掘金</display-name></channel>
-  <channel id="奇才 vs 黄蜂"><display-name>奇才 vs 黄蜂</display-name></channel>
   <channel id="森林狼 vs 快船"><display-name>森林狼 vs 快船</display-name></channel>
   <channel id="热火 vs 步行者"><display-name>热火 vs 步行者</display-name></channel>
   <channel id="独行侠 vs 火箭"><display-name>独行侠 vs 火箭</display-name></channel>
@@ -78,10 +77,6 @@
   </programme>
   <programme start="20261031100000 +0800" stop="20261031124012 +0800" channel="太阳 vs 掘金">
     <title>Denver Nuggets at Phoenix Suns（NBA）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261031070000 +0800" stop="20261031094012 +0800" channel="奇才 vs 黄蜂">
-    <title>Charlotte Hornets at Washington Wizards 已结束（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261031080000 +0800" stop="20261031104012 +0800" channel="森林狼 vs 快船">
