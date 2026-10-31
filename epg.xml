@@ -7,6 +7,8 @@
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="凯尔特人 vs 公牛"><display-name>凯尔特人 vs 公牛</display-name></channel>
+  <channel id="勇士 vs 湖人"><display-name>勇士 vs 湖人</display-name></channel>
+  <channel id="太阳 vs 掘金"><display-name>太阳 vs 掘金</display-name></channel>
   <channel id="奇才 vs 黄蜂"><display-name>奇才 vs 黄蜂</display-name></channel>
   <channel id="森林狼 vs 快船"><display-name>森林狼 vs 快船</display-name></channel>
   <channel id="猛龙 vs 魔术"><display-name>猛龙 vs 魔术</display-name></channel>
@@ -64,8 +66,16 @@
     <title>Chicago Bulls at Boston Celtics（NBA）</title>
     <category>体育</category>
   </programme>
+  <programme start="20261031100000 +0800" stop="20261031124012 +0800" channel="勇士 vs 湖人">
+    <title>Los Angeles Lakers at Golden State Warriors（NBA）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261031100000 +0800" stop="20261031124012 +0800" channel="太阳 vs 掘金">
+    <title>Denver Nuggets at Phoenix Suns（NBA）</title>
+    <category>体育</category>
+  </programme>
   <programme start="20261031070000 +0800" stop="20261031094012 +0800" channel="奇才 vs 黄蜂">
-    <title>Charlotte Hornets at Washington Wizards（NBA）</title>
+    <title>Charlotte Hornets at Washington Wizards 已结束（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261031080000 +0800" stop="20261031104012 +0800" channel="森林狼 vs 快船">
@@ -97,7 +107,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261031143000 +0800" stop="20261031150000 +0800" channel="赛程预告">
-    <title>中甲：佛山南狮 vs 宁波；石家庄功夫 vs 广东广州豹；长春亚泰 vs 南通支云；苏州东吴 vs 延边龙鼎；南京城市 vs 大连鲲城；梅州客家 vs 陕西联合；广西恒宸 vs 无锡吴钩；定南赣联 vs 深圳青年人</title>
+    <title>中甲：佛山南狮 vs 宁波；石家庄功夫 vs 广东广州豹；长春亚泰 vs 南通支云；苏州东吴 vs 延边龙鼎；广西恒宸 vs 无锡吴钩；梅州客家 vs 陕西联合；定南赣联 vs 深圳青年人；南京城市 vs 大连鲲城</title>
     <category>体育</category>
   </programme>
   <programme start="20261031150000 +0800" stop="20261031153000 +0800" channel="赛程预告">
@@ -141,7 +151,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261031230000 +0800" stop="20261031231500 +0800" channel="赛程预告">
-    <title>英超：考文垂 vs 桑德兰；英超：伯恩茅斯 vs 利兹联；英超：赫尔城 vs 伊普斯；英超：布伦特 vs 诺丁汉；英超：曼城 vs 布莱顿；布伦特福德：布伦特福德 vs 诺丁汉森林；赫尔城：赫尔城 vs 伊普斯维奇；Dota2：Hokori vs potn9k（EPC Season 3）</title>
+    <title>英超：考文垂 vs 桑德兰；英超：伯恩茅斯 vs 利兹联；英超：赫尔城 vs 伊普斯；英超：布伦特 vs 诺丁汉；英超：曼城 vs 布莱顿；赫尔城：赫尔城 vs 伊普斯维奇；布伦特福德：布伦特福德 vs 诺丁汉森林；Dota2：Hokori vs potn9k（EPC Season 3）</title>
     <category>体育</category>
   </programme>
   <programme start="20261031231500 +0800" stop="20261031233000 +0800" channel="赛程预告">
