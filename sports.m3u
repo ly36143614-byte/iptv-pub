@@ -55,8 +55,10 @@ https://pul-tenm.gkykp.com/live/hd-en-1-4566598.m3u8?txSecret=08e5384d9120bf9a1c
 https://pul-tenm.gkykp.com/live/hd-en-1-4566589.m3u8?txSecret=6bfbefdc895efb7515b863c8ac8952b7&txTime=6AE73ED9
 #EXTINF:-1 tvg-id="达姆施塔特 vs 马格德堡" tvg-chno="1206" tvg-name="达姆施塔特 vs 马格德堡" tvg-group="足球" group-title="足球",达姆施塔特 vs 马格德堡
 https://hdl3.ttrr888.com/6cf6e5bd52f04b5db8f63e0a40c3aaed/38133428.m3u8?token=007eJxTYDBLjN70cmvsZWHOPe1PhRt605Z97OzvP3L4wZnCRSc49vYpMJglp5mlmialmBqlGZgkmaYkWaSZGacaJJoYJBsnJqamKCx5mtUQyMggsKf1FiMDIwMLEIP4TGCSGUyygEkOBmMLQ2NjEyMLTgYzSwsgMDO1AACrdifM&userUid=698888658&lts=1793434656012&ttl=86400
-#EXTINF:-1 tvg-id="无锡队 vs 常州队" tvg-chno="1207" tvg-name="无锡队 vs 常州队" tvg-group="足球" group-title="足球",无锡队 vs 常州队
-http://192.168.5.35:44635/play/3c4b430a8797c38038b681cf63357407f6182460
+#EXTINF:-1 tvg-id="埃斯卡塔 vs FK帕沃兹" tvg-chno="1207" tvg-name="埃斯卡塔 vs FK帕沃兹" tvg-group="足球" group-title="足球",埃斯卡塔 vs FK帕沃兹
+http://192.168.5.35:44635/play/770f618b7a5d4e770338d23197f7732894343ef3
+#EXTINF:-1 tvg-id="萨多图尔松佐达 vs 拉夫沙安" tvg-chno="1208" tvg-name="萨多图尔松佐达 vs 拉夫沙安" tvg-group="足球" group-title="足球",萨多图尔松佐达 vs 拉夫沙安
+http://192.168.5.35:44635/play/44c4ecd30ffe60fc811cd6315190034329abb2b3
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1301" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1302" tvg-name="ESPN" tvg-group="体育综合" group-title="体育综合",ESPN
@@ -67,13 +69,15 @@ http://198.58.104.90:8989/nfl/index.m3u8
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NBC" tvg-chno="1305" tvg-name="NBC" tvg-group="体育综合" group-title="体育综合",NBC
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
-#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1306" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
+#EXTINF:-1 tvg-id="F1·Formula" tvg-chno="1306" tvg-name="F1·Formula" tvg-group="体育综合" group-title="体育综合",F1·Formula
+https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
+#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1307" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1307" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1308" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1308" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1309" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1309" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1310" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="Dota2中文·完美世界" tvg-chno="1401" tvg-name="Dota2中文·完美世界" tvg-group="DOTA2" group-title="DOTA2",Dota2中文·完美世界
 http://127.0.0.1:35455/douyu/6829849
