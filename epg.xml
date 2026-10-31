@@ -73,7 +73,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261031210000 +0800" stop="20261031220000 +0800" channel="赛程预告">
-    <title>西甲：莱万特 vs 马竞；西甲：莱万特 vs 马德里竞技；Dota2：Yandex vs GL（PARI Universe）</title>
+    <title>西甲：莱万特 vs 马德里竞技；Dota2：Yandex vs GL（PARI Universe）</title>
     <category>体育</category>
   </programme>
   <programme start="20261031220000 +0800" stop="20261031223000 +0800" channel="赛程预告">
@@ -292,8 +292,12 @@
     <title>Dota2：Stray vs LENS（FME S5）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261102200000 +0800" stop="20261102220000 +0800" channel="赛程预告">
+  <programme start="20261102200000 +0800" stop="20261102210000 +0800" channel="赛程预告">
     <title>Dota2：potn9k vs HN（EPC Season 3）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261102210000 +0800" stop="20261102230000 +0800" channel="赛程预告">
+    <title>Dota2：OG vs YeS（EPL Masters III）</title>
     <category>体育</category>
   </programme>
 </tv>
