@@ -53,8 +53,6 @@ https://hdl3.ttrr888.com/6cf6e5bd52f04b5db8f63e0a40c3aaed/27246945.m3u8?token=00
 https://hdl3.ttrr888.com/6cf6e5bd52f04b5db8f63e0a40c3aaed/39033796.m3u8?token=007eJxTYJC2yNwvkFWTaX7NWXVZuZiMCcsGM%2Bbj8mGlZS%2FVT9%2FUvq7AYJacZpZqmpRiapRmYJJkmpJkkWZmnGqQaGKQbJyYmJoiv%2BRpVkMgI8Mxln3LGBkYGViAGMRnApPMYJIFTHIwGFsaGBubW5pxMliYGBgYGhoYGwAAU7AiZg%3D%3D&userUid=840011030&lts=1793434655935&ttl=86400
 #EXTINF:-1 tvg-id="麦克阿瑟FC vs 西悉尼流浪者" tvg-chno="1203" tvg-name="麦克阿瑟FC vs 西悉尼流浪者" tvg-group="足球" group-title="足球",麦克阿瑟FC vs 西悉尼流浪者
 https://pul-tenm.gkykp.com/live/hd-en-1-4590468.m3u8?txSecret=39ca39cf2237239c3d46640b86e0ee52&txTime=6AE71341
-#EXTINF:-1 tvg-id="普卢克登联 vs BFB芭提雅城" tvg-chno="1204" tvg-name="普卢克登联 vs BFB芭提雅城" tvg-group="足球" group-title="足球",普卢克登联 vs BFB芭提雅城
-http://192.168.5.35:44635/play/ee3945f21d8ad6026259ba32887e5fce0195839e
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1301" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1302" tvg-name="ESPN" tvg-group="体育综合" group-title="体育综合",ESPN
@@ -91,21 +89,23 @@ http://192.168.5.35:44635/play/42b5682f2f87e4bfb57e43cf50eef6206686faec
 http://192.168.5.35:44635/play/32e4ab5662116440e8a11be045bfce948c8cfa92
 #EXTINF:-1 tvg-id="Synapse vs NG" tvg-chno="1408" tvg-name="Synapse vs NG" tvg-group="DOTA2" group-title="DOTA2",Synapse vs NG
 http://192.168.5.35:44635/play/95979e27cae979b5cface8425156bc93440d4968
-#EXTINF:-1 tvg-id="Team Kinetix vs CD" tvg-chno="1409" tvg-name="Team Kinetix vs CD" tvg-group="DOTA2" group-title="DOTA2",Team Kinetix vs CD
-http://192.168.5.35:44635/play/f59196c16668371c075c18dde7e1be785789e6da
+#EXTINF:-1 tvg-id="TBD vs TBD" tvg-chno="1409" tvg-name="TBD vs TBD" tvg-group="DOTA2" group-title="DOTA2",TBD vs TBD
+http://192.168.5.35:44635/play/e6bd8ecd1b61d17f34bc14250f8a97360518d925
 #EXTINF:-1 tvg-id="Team Kinetix vs CD" tvg-chno="1410" tvg-name="Team Kinetix vs CD" tvg-group="DOTA2" group-title="DOTA2",Team Kinetix vs CD
+http://192.168.5.35:44635/play/f59196c16668371c075c18dde7e1be785789e6da
+#EXTINF:-1 tvg-id="Team Kinetix vs CD" tvg-chno="1411" tvg-name="Team Kinetix vs CD" tvg-group="DOTA2" group-title="DOTA2",Team Kinetix vs CD
 http://192.168.5.35:44635/play/e1a6d9da218a3aaf89d01535bbf3df6d9b9d3faa
-#EXTINF:-1 tvg-id="Xipto vs HKR" tvg-chno="1411" tvg-name="Xipto vs HKR" tvg-group="DOTA2" group-title="DOTA2",Xipto vs HKR
-http://192.168.5.35:44635/play/2d0b0a9c9ab901e765e6db84c58f7b737f37cfb6
 #EXTINF:-1 tvg-id="Xipto vs HKR" tvg-chno="1412" tvg-name="Xipto vs HKR" tvg-group="DOTA2" group-title="DOTA2",Xipto vs HKR
+http://192.168.5.35:44635/play/2d0b0a9c9ab901e765e6db84c58f7b737f37cfb6
+#EXTINF:-1 tvg-id="Xipto vs HKR" tvg-chno="1413" tvg-name="Xipto vs HKR" tvg-group="DOTA2" group-title="DOTA2",Xipto vs HKR
 http://192.168.5.35:44635/play/7683eae25caca45c6b848f216083bb4c3c3ad83d
-#EXTINF:-1 tvg-id="Z10 vs 4ikibamboni" tvg-chno="1413" tvg-name="Z10 vs 4ikibamboni" tvg-group="DOTA2" group-title="DOTA2",Z10 vs 4ikibamboni
+#EXTINF:-1 tvg-id="Z10 vs 4ikibamboni" tvg-chno="1414" tvg-name="Z10 vs 4ikibamboni" tvg-group="DOTA2" group-title="DOTA2",Z10 vs 4ikibamboni
 http://192.168.5.35:44635/play/328110ae053d1457b79ebef5fd9582f58b48ba9b
-#EXTINF:-1 tvg-id="Z10 vs Rebeldes" tvg-chno="1414" tvg-name="Z10 vs Rebeldes" tvg-group="DOTA2" group-title="DOTA2",Z10 vs Rebeldes
-http://192.168.5.35:44635/play/b660a5c724eb8c2a065cedd0fd72090ebe0ccfbf
 #EXTINF:-1 tvg-id="Z10 vs Rebeldes" tvg-chno="1415" tvg-name="Z10 vs Rebeldes" tvg-group="DOTA2" group-title="DOTA2",Z10 vs Rebeldes
+http://192.168.5.35:44635/play/b660a5c724eb8c2a065cedd0fd72090ebe0ccfbf
+#EXTINF:-1 tvg-id="Z10 vs Rebeldes" tvg-chno="1416" tvg-name="Z10 vs Rebeldes" tvg-group="DOTA2" group-title="DOTA2",Z10 vs Rebeldes
 http://192.168.5.35:44635/play/88019d4b8a043ed5c2937dc9ce252486ad48f90a
-#EXTINF:-1 tvg-id="Zenith vs RG" tvg-chno="1416" tvg-name="Zenith vs RG" tvg-group="DOTA2" group-title="DOTA2",Zenith vs RG
-http://192.168.5.35:44635/play/f33da28d3b48fec67670b7c569606b6b414a121b
 #EXTINF:-1 tvg-id="Zenith vs RG" tvg-chno="1417" tvg-name="Zenith vs RG" tvg-group="DOTA2" group-title="DOTA2",Zenith vs RG
+http://192.168.5.35:44635/play/f33da28d3b48fec67670b7c569606b6b414a121b
+#EXTINF:-1 tvg-id="Zenith vs RG" tvg-chno="1418" tvg-name="Zenith vs RG" tvg-group="DOTA2" group-title="DOTA2",Zenith vs RG
 http://192.168.5.35:44635/play/7738d0db8f20519d3a7c7e84724038911be70088
