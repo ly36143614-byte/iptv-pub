@@ -136,6 +136,8 @@ http://198.204.228.26/live/lnwshd.m3u8
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-chno="2115" tvg-name="辽宁卫视" tvg-group="卫视" group-title="卫视",辽宁卫视
 http://107.150.60.122/live/lnwshd.m3u8
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-chno="2116" tvg-name="黑龙江卫视" tvg-group="卫视" group-title="卫视",黑龙江卫视
+https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-chno="2116" tvg-name="黑龙江卫视" tvg-group="卫视" group-title="卫视",黑龙江卫视
 http://107.150.60.122/live/hljwshd.m3u8
 #EXTINF:-1 tvg-id="吉林卫视" tvg-chno="2117" tvg-name="吉林卫视" tvg-group="卫视" group-title="卫视",吉林卫视
 http://107.150.60.122/live/jlwshd.m3u8
@@ -189,16 +191,12 @@ http://120.76.248.139/live/bfgd/4200000113.m3u8
 https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 #EXTINF:-1 tvg-id="北京新闻" tvg-chno="2133" tvg-name="北京新闻" tvg-group="卫视" group-title="卫视",北京新闻
 http://8.138.7.223/tv/bj.php?id=0007
-#EXTINF:-1 tvg-id="北京生活" tvg-chno="2134" tvg-name="北京生活" tvg-group="卫视" group-title="卫视",北京生活
-http://8.138.7.223/tv/bj.php?id=0006
-#EXTINF:-1 tvg-id="北京科教" tvg-chno="2135" tvg-name="北京科教" tvg-group="卫视" group-title="卫视",北京科教
+#EXTINF:-1 tvg-id="北京科教" tvg-chno="2134" tvg-name="北京科教" tvg-group="卫视" group-title="卫视",北京科教
 http://120.76.248.139/live/bfgd/4200000113.m3u8
-#EXTINF:-1 tvg-id="北京财经" tvg-chno="2136" tvg-name="北京财经" tvg-group="卫视" group-title="卫视",北京财经
+#EXTINF:-1 tvg-id="北京财经" tvg-chno="2135" tvg-name="北京财经" tvg-group="卫视" group-title="卫视",北京财经
 http://8.138.7.223/tv/bj.php?id=0005
 #EXTINF:-1 tvg-id="香港卫视" tvg-chno="2301" tvg-name="香港卫视" tvg-group="港台" group-title="港台",香港卫视
 https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="香港卫视" tvg-chno="2301" tvg-name="香港卫视" tvg-group="港台" group-title="港台",香港卫视
-http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-chno="2302" tvg-name="凤凰资讯" tvg-group="港台" group-title="港台",凤凰资讯
 http://173.208.234.146/live/fhzx.m3u8
 #EXTINF:-1 tvg-id="TVBS新闻台" tvg-chno="2303" tvg-name="TVBS新闻台" tvg-group="港台" group-title="港台",TVBS新闻台
@@ -218,46 +216,40 @@ http://61.221.215.25:8800/hls/56/index.m3u8
 #EXTINF:-1 tvg-id="三立戏剧" tvg-chno="2308" tvg-name="三立戏剧" tvg-group="港台" group-title="港台",三立戏剧
 http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1 tvg-id="三立新闻台" tvg-chno="2309" tvg-name="三立新闻台" tvg-group="港台" group-title="港台",三立新闻台
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
 #EXTINF:-1 tvg-id="中天娱乐台" tvg-chno="2310" tvg-name="中天娱乐台" tvg-group="港台" group-title="港台",中天娱乐台
 http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1 tvg-id="中天新闻台" tvg-chno="2311" tvg-name="中天新闻台" tvg-group="港台" group-title="港台",中天新闻台
 http://222.128.55.152:9080/live/fc.m3u8
-#EXTINF:-1 tvg-id="中视新闻" tvg-chno="2312" tvg-name="中视新闻" tvg-group="港台" group-title="港台",中视新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-#EXTINF:-1 tvg-id="民视" tvg-chno="2313" tvg-name="民视" tvg-group="港台" group-title="港台",民视
+#EXTINF:-1 tvg-id="民视" tvg-chno="2312" tvg-name="民视" tvg-group="港台" group-title="港台",民视
 http://183.239.108.37:1698/hls/133/index.m3u8
-#EXTINF:-1 tvg-id="民视新闻台" tvg-chno="2314" tvg-name="民视新闻台" tvg-group="港台" group-title="港台",民视新闻台
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-#EXTINF:-1 tvg-id="民视新闻台" tvg-chno="2314" tvg-name="民视新闻台" tvg-group="港台" group-title="港台",民视新闻台
+#EXTINF:-1 tvg-id="民视新闻台" tvg-chno="2313" tvg-name="民视新闻台" tvg-group="港台" group-title="港台",民视新闻台
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 tvg-id="民视新闻台" tvg-chno="2314" tvg-name="民视新闻台" tvg-group="港台" group-title="港台",民视新闻台
+#EXTINF:-1 tvg-id="民视新闻台" tvg-chno="2313" tvg-name="民视新闻台" tvg-group="港台" group-title="港台",民视新闻台
 http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
-#EXTINF:-1 tvg-id="东森财经新闻台" tvg-chno="2315" tvg-name="东森财经新闻台" tvg-group="港台" group-title="港台",东森财经新闻台
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-#EXTINF:-1 tvg-id="东森超视" tvg-chno="2316" tvg-name="东森超视" tvg-group="港台" group-title="港台",东森超视
+#EXTINF:-1 tvg-id="民视新闻台" tvg-chno="2313" tvg-name="民视新闻台" tvg-group="港台" group-title="港台",民视新闻台
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 tvg-id="东森超视" tvg-chno="2314" tvg-name="东森超视" tvg-group="港台" group-title="港台",东森超视
 http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-#EXTINF:-1 tvg-id="华视" tvg-chno="2317" tvg-name="华视" tvg-group="港台" group-title="港台",华视
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
-#EXTINF:-1 tvg-id="华视" tvg-chno="2317" tvg-name="华视" tvg-group="港台" group-title="港台",华视
+#EXTINF:-1 tvg-id="华视" tvg-chno="2315" tvg-name="华视" tvg-group="港台" group-title="港台",华视
 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
-#EXTINF:-1 tvg-id="纬来体育台" tvg-chno="2318" tvg-name="纬来体育台" tvg-group="港台" group-title="港台",纬来体育台
+#EXTINF:-1 tvg-id="纬来体育台" tvg-chno="2316" tvg-name="纬来体育台" tvg-group="港台" group-title="港台",纬来体育台
 http://8.138.7.223/【公众号：榴芒电视】/wlty.m3u8
-#EXTINF:-1 tvg-id="纬来精彩台" tvg-chno="2319" tvg-name="纬来精彩台" tvg-group="港台" group-title="港台",纬来精彩台
+#EXTINF:-1 tvg-id="纬来精彩台" tvg-chno="2317" tvg-name="纬来精彩台" tvg-group="港台" group-title="港台",纬来精彩台
 http://61.221.215.25:8800/hls/48/index.m3u8
-#EXTINF:-1 tvg-id="靖天戏剧台" tvg-chno="2320" tvg-name="靖天戏剧台" tvg-group="港台" group-title="港台",靖天戏剧台
+#EXTINF:-1 tvg-id="靖天戏剧台" tvg-chno="2318" tvg-name="靖天戏剧台" tvg-group="港台" group-title="港台",靖天戏剧台
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058
-#EXTINF:-1 tvg-id="靖天映画" tvg-chno="2321" tvg-name="靖天映画" tvg-group="港台" group-title="港台",靖天映画
+#EXTINF:-1 tvg-id="靖天映画" tvg-chno="2319" tvg-name="靖天映画" tvg-group="港台" group-title="港台",靖天映画
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055
-#EXTINF:-1 tvg-id="龙华戏剧" tvg-chno="2322" tvg-name="龙华戏剧" tvg-group="港台" group-title="港台",龙华戏剧
-https://8.fast.hidns.vip/163189/lhxj
-#EXTINF:-1 tvg-id="东森美洲卫视" tvg-chno="2323" tvg-name="东森美洲卫视" tvg-group="港台" group-title="港台",东森美洲卫视
+#EXTINF:-1 tvg-id="东森美洲卫视" tvg-chno="2320" tvg-name="东森美洲卫视" tvg-group="港台" group-title="港台",东森美洲卫视
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-#EXTINF:-1 tvg-id="台视新闻" tvg-chno="2324" tvg-name="台视新闻" tvg-group="港台" group-title="港台",台视新闻
+#EXTINF:-1 tvg-id="TVB Plus" tvg-chno="2321" tvg-name="TVB Plus" tvg-group="港台" group-title="港台",TVB Plus
+http://r.jdshipin.com/ndGgS
+#EXTINF:-1 tvg-id="台视新闻" tvg-chno="2322" tvg-name="台视新闻" tvg-group="港台" group-title="港台",台视新闻
 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
-#EXTINF:-1 tvg-id="纬来育乐" tvg-chno="2325" tvg-name="纬来育乐" tvg-group="港台" group-title="港台",纬来育乐
+#EXTINF:-1 tvg-id="纬来育乐" tvg-chno="2323" tvg-name="纬来育乐" tvg-group="港台" group-title="港台",纬来育乐
 http://61.221.215.25:8800/hls/48/index.m3u8
-#EXTINF:-1 tvg-id="纬来精采" tvg-chno="2326" tvg-name="纬来精采" tvg-group="港台" group-title="港台",纬来精采
+#EXTINF:-1 tvg-id="纬来精采" tvg-chno="2324" tvg-name="纬来精采" tvg-group="港台" group-title="港台",纬来精采
 http://61.221.215.25:8800/hls/48/index.m3u8
-#EXTINF:-1 tvg-id="人间卫视" tvg-chno="2327" tvg-name="人间卫视" tvg-group="港台" group-title="港台",人间卫视
+#EXTINF:-1 tvg-id="人间卫视" tvg-chno="2325" tvg-name="人间卫视" tvg-group="港台" group-title="港台",人间卫视
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
