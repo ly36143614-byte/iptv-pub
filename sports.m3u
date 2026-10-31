@@ -22,13 +22,13 @@ http://198.58.104.90:8989/nba/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1103" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="安养赤红火箭 vs 水原KT音速弹" tvg-chno="1104" tvg-name="安养赤红火箭 vs 水原KT音速弹" tvg-group="篮球" group-title="篮球",安养赤红火箭 vs 水原KT音速弹
-https://pul-tenm.gkykp.com/live/sd-2-3933604.m3u8?txSecret=6ebef689e27f3a31f3f3b87c5c640ec1&txTime=6AE6E191
+https://pul-tenm.gkykp.com/live/sd-2-3933604.m3u8?txSecret=560ea5c42d9e505bc9d9250e7ffda98c&txTime=6AE6E2F9
 #EXTINF:-1 tvg-id="柏太阳神 vs 浦和红钻" tvg-chno="1105" tvg-name="柏太阳神 vs 浦和红钻" tvg-group="篮球" group-title="篮球",柏太阳神 vs 浦和红钻
 https://hdl2.mxxfly.com/live/27149374.m3u8?auth_key=1793376120-7523bfc3b2444577bc6d56c32d489947-0-d5dbcef3a6d6bdb99798e026f6ae1ce8
 #EXTINF:-1 tvg-id="三河海马 vs 佐贺气球人" tvg-chno="1106" tvg-name="三河海马 vs 佐贺气球人" tvg-group="篮球" group-title="篮球",三河海马 vs 佐贺气球人
 http://192.168.5.35:44635/play/d220cf12b4b0829fc04ce0f9c8bc4b14acefdff5
-#EXTINF:-1 tvg-id="三重十四 vs 山口爱国者" tvg-chno="1107" tvg-name="三重十四 vs 山口爱国者" tvg-group="篮球" group-title="篮球",三重十四 vs 山口爱国者
-http://192.168.5.35:44635/play/192cfac4ea39f1dd4dc2f639ab6f1230c0baf9e5
+#EXTINF:-1 tvg-id="东京地球之友 vs 埼玉野马" tvg-chno="1107" tvg-name="东京地球之友 vs 埼玉野马" tvg-group="篮球" group-title="篮球",东京地球之友 vs 埼玉野马
+http://192.168.5.35:44635/play/e9137485cf3364aa51813a227d32ad18ab99a073
 #EXTINF:-1 tvg-id="东京电击 vs 宇都宫皇者" tvg-chno="1108" tvg-name="东京电击 vs 宇都宫皇者" tvg-group="篮球" group-title="篮球",东京电击 vs 宇都宫皇者
 http://192.168.5.35:44635/play/50e80025e29a85f880f00620c2ac37ee5ef4e239
 #EXTINF:-1 tvg-id="吉朗毒液女篮 vs UC首都女篮" tvg-chno="1109" tvg-name="吉朗毒液女篮 vs UC首都女篮" tvg-group="篮球" group-title="篮球",吉朗毒液女篮 vs UC首都女篮
@@ -52,13 +52,11 @@ http://192.168.5.35:44635/play/97fe2fadea54cef2b75f4d2ae3a563ba2ab72075
 #EXTINF:-1 tvg-id="太阳 vs 黑豹" tvg-chno="1118" tvg-name="太阳 vs 黑豹" tvg-group="篮球" group-title="篮球",太阳 vs 黑豹
 http://192.168.5.35:44635/play/bc586f17fb64875724d50cbf572dc451da74a61e
 #EXTINF:-1 tvg-id="姬路白鹭女篮 vs 三菱电机女篮" tvg-chno="1119" tvg-name="姬路白鹭女篮 vs 三菱电机女篮" tvg-group="篮球" group-title="篮球",姬路白鹭女篮 vs 三菱电机女篮
-http://192.168.5.35:44635/play/869b29c5877ce79906581c372f0b313ae543d22a
+http://192.168.5.35:44635/play/093f1c21d779f60d8c52e14ce42ce4afe45a5af9
 #EXTINF:-1 tvg-id="岛根魔术 vs 广岛蜻蜓" tvg-chno="1120" tvg-name="岛根魔术 vs 广岛蜻蜓" tvg-group="篮球" group-title="篮球",岛根魔术 vs 广岛蜻蜓
 http://192.168.5.35:44635/play/0144efe6cc0d91b561e076dc982e8188118a1c43
 #EXTINF:-1 tvg-id="岛根魔术 vs 广岛蜻蜓" tvg-chno="1121" tvg-name="岛根魔术 vs 广岛蜻蜓" tvg-group="篮球" group-title="篮球",岛根魔术 vs 广岛蜻蜓
 http://192.168.5.35:44635/play/701eb335fd3d10b0f35d8b47f01244fe1d5cf480
-#EXTINF:-1 tvg-id="福岛火绊 vs 名古屋战鹰" tvg-chno="1122" tvg-name="福岛火绊 vs 名古屋战鹰" tvg-group="篮球" group-title="篮球",福岛火绊 vs 名古屋战鹰
-http://192.168.5.35:44635/play/be85eb4d02acfb74ebee946980c0bb8db89d6fac
 #EXTINF:-1 tvg-id="札幌冈萨多 vs 湘南丽海" tvg-chno="1201" tvg-name="札幌冈萨多 vs 湘南丽海" tvg-group="足球" group-title="足球",札幌冈萨多 vs 湘南丽海
 https://hdl2.mxxfly.com/live/13795214.m3u8?auth_key=1793376120-fe6659dd0c3d431c90e42a02ea2cad52-0-06c05561a0c87a05d0707c8fbb0ee910
 #EXTINF:-1 tvg-id="全北现代 vs 大田市民" tvg-chno="1202" tvg-name="全北现代 vs 大田市民" tvg-group="足球" group-title="足球",全北现代 vs 大田市民
@@ -149,8 +147,8 @@ http://198.58.104.90:8989/nfl/index.m3u8
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NBC" tvg-chno="1305" tvg-name="NBC" tvg-group="体育综合" group-title="体育综合",NBC
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
-#EXTINF:-1 tvg-id="F1·Formula" tvg-chno="1306" tvg-name="F1·Formula" tvg-group="体育综合" group-title="体育综合",F1·Formula
-https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
+#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1306" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1307" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1308" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
