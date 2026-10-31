@@ -6,6 +6,7 @@
   <channel id="ESPN"><display-name>ESPN</display-name></channel>
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
+  <channel id="Z10 vs 4ikibamboni"><display-name>Z10 vs 4ikibamboni</display-name></channel>
   <channel id="凯尔特人 vs 公牛"><display-name>凯尔特人 vs 公牛</display-name></channel>
   <channel id="勇士 vs 湖人"><display-name>勇士 vs 湖人</display-name></channel>
   <channel id="太阳 vs 掘金"><display-name>太阳 vs 掘金</display-name></channel>
@@ -61,6 +62,10 @@
   </programme>
   <programme start="20261102092000 +0800" stop="20261102123948 +0800" channel="NBC">
     <title>Philadelphia Eagles at Washington Commanders（NFL）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261031120000 +0800" stop="20261031143000 +0800" channel="Z10 vs 4ikibamboni">
+    <title>Z10 vs 4iki（Sber Tournament - Playoffs）</title>
     <category>体育</category>
   </programme>
   <programme start="20261031073000 +0800" stop="20261031101012 +0800" channel="凯尔特人 vs 公牛">
