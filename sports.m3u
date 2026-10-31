@@ -23,38 +23,38 @@ http://198.58.104.90:8989/nba/index.m3u8
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="安养赤红火箭 vs 水原KT音速弹" tvg-chno="1104" tvg-name="安养赤红火箭 vs 水原KT音速弹" tvg-group="篮球" group-title="篮球",安养赤红火箭 vs 水原KT音速弹
 https://pul-tenm.gkykp.com/live/sd-2-3933604.m3u8?txSecret=95f6d00990678ed44701e67543997dbd&txTime=6AE6DA89
-#EXTINF:-1 tvg-id="三重十四 vs 山口爱国者" tvg-chno="1105" tvg-name="三重十四 vs 山口爱国者" tvg-group="篮球" group-title="篮球",三重十四 vs 山口爱国者
+#EXTINF:-1 tvg-id="三河海马 vs 佐贺气球人" tvg-chno="1105" tvg-name="三河海马 vs 佐贺气球人" tvg-group="篮球" group-title="篮球",三河海马 vs 佐贺气球人
+http://192.168.5.35:44635/play/d220cf12b4b0829fc04ce0f9c8bc4b14acefdff5
+#EXTINF:-1 tvg-id="三重十四 vs 山口爱国者" tvg-chno="1106" tvg-name="三重十四 vs 山口爱国者" tvg-group="篮球" group-title="篮球",三重十四 vs 山口爱国者
 http://192.168.5.35:44635/play/192cfac4ea39f1dd4dc2f639ab6f1230c0baf9e5
-#EXTINF:-1 tvg-id="吉朗毒液女篮 vs UC首都女篮" tvg-chno="1106" tvg-name="吉朗毒液女篮 vs UC首都女篮" tvg-group="篮球" group-title="篮球",吉朗毒液女篮 vs UC首都女篮
+#EXTINF:-1 tvg-id="吉朗毒液女篮 vs UC首都女篮" tvg-chno="1107" tvg-name="吉朗毒液女篮 vs UC首都女篮" tvg-group="篮球" group-title="篮球",吉朗毒液女篮 vs UC首都女篮
 http://192.168.5.35:44635/play/fbb623a608d96b0051b5b6d11566264ee44a59b5
-#EXTINF:-1 tvg-id="向日葵女篮 vs 香颂魔术女篮" tvg-chno="1107" tvg-name="向日葵女篮 vs 香颂魔术女篮" tvg-group="篮球" group-title="篮球",向日葵女篮 vs 香颂魔术女篮
-http://192.168.5.35:44635/play/98ca82aa0db555b57cc8357c27c2d7716aaec707
 #EXTINF:-1 tvg-id="向日葵女篮 vs 香颂魔术女篮" tvg-chno="1108" tvg-name="向日葵女篮 vs 香颂魔术女篮" tvg-group="篮球" group-title="篮球",向日葵女篮 vs 香颂魔术女篮
+http://192.168.5.35:44635/play/98ca82aa0db555b57cc8357c27c2d7716aaec707
+#EXTINF:-1 tvg-id="向日葵女篮 vs 香颂魔术女篮" tvg-chno="1109" tvg-name="向日葵女篮 vs 香颂魔术女篮" tvg-group="篮球" group-title="篮球",向日葵女篮 vs 香颂魔术女篮
 http://192.168.5.35:44635/play/79526dfa42a42725b162d2b8edce2955946fc591
-#EXTINF:-1 tvg-id="塔斯马尼亚珍宝女篮 vs 悉尼火焰女篮" tvg-chno="1109" tvg-name="塔斯马尼亚珍宝女篮 vs 悉尼火焰女篮" tvg-group="篮球" group-title="篮球",塔斯马尼亚珍宝女篮 vs 悉尼火焰女篮
-http://192.168.5.35:44635/play/8d3051383a56de983404974d7e9d32faf9e170f4
 #EXTINF:-1 tvg-id="塔斯马尼亚珍宝女篮 vs 悉尼火焰女篮" tvg-chno="1110" tvg-name="塔斯马尼亚珍宝女篮 vs 悉尼火焰女篮" tvg-group="篮球" group-title="篮球",塔斯马尼亚珍宝女篮 vs 悉尼火焰女篮
+http://192.168.5.35:44635/play/8d3051383a56de983404974d7e9d32faf9e170f4
+#EXTINF:-1 tvg-id="塔斯马尼亚珍宝女篮 vs 悉尼火焰女篮" tvg-chno="1111" tvg-name="塔斯马尼亚珍宝女篮 vs 悉尼火焰女篮" tvg-group="篮球" group-title="篮球",塔斯马尼亚珍宝女篮 vs 悉尼火焰女篮
 http://192.168.5.35:44635/play/9e48da69bd4dd2c7e03e698d3b562b35ac25f9fd
-#EXTINF:-1 tvg-id="大邱石油公社飞马 vs 蔚山现代太阳神" tvg-chno="1111" tvg-name="大邱石油公社飞马 vs 蔚山现代太阳神" tvg-group="篮球" group-title="篮球",大邱石油公社飞马 vs 蔚山现代太阳神
+#EXTINF:-1 tvg-id="大邱石油公社飞马 vs 蔚山现代太阳神" tvg-chno="1112" tvg-name="大邱石油公社飞马 vs 蔚山现代太阳神" tvg-group="篮球" group-title="篮球",大邱石油公社飞马 vs 蔚山现代太阳神
 http://192.168.5.35:44635/play/38dda06824ba6747d3beecbc96f2d289d6aeb45f
-#EXTINF:-1 tvg-id="太空人 vs 皇家部队" tvg-chno="1112" tvg-name="太空人 vs 皇家部队" tvg-group="篮球" group-title="篮球",太空人 vs 皇家部队
-http://192.168.5.35:44635/play/af3c4ca0cd56fa33a6755e56bf17f3b2bd967b9d
 #EXTINF:-1 tvg-id="太空人 vs 皇家部队" tvg-chno="1113" tvg-name="太空人 vs 皇家部队" tvg-group="篮球" group-title="篮球",太空人 vs 皇家部队
+http://192.168.5.35:44635/play/af3c4ca0cd56fa33a6755e56bf17f3b2bd967b9d
+#EXTINF:-1 tvg-id="太空人 vs 皇家部队" tvg-chno="1114" tvg-name="太空人 vs 皇家部队" tvg-group="篮球" group-title="篮球",太空人 vs 皇家部队
 http://192.168.5.35:44635/play/6c53393f48c647654581d6be1eb8b9e0a15633ae
-#EXTINF:-1 tvg-id="太阳 vs 黑豹" tvg-chno="1114" tvg-name="太阳 vs 黑豹" tvg-group="篮球" group-title="篮球",太阳 vs 黑豹
-http://192.168.5.35:44635/play/97fe2fadea54cef2b75f4d2ae3a563ba2ab72075
 #EXTINF:-1 tvg-id="太阳 vs 黑豹" tvg-chno="1115" tvg-name="太阳 vs 黑豹" tvg-group="篮球" group-title="篮球",太阳 vs 黑豹
+http://192.168.5.35:44635/play/97fe2fadea54cef2b75f4d2ae3a563ba2ab72075
+#EXTINF:-1 tvg-id="太阳 vs 黑豹" tvg-chno="1116" tvg-name="太阳 vs 黑豹" tvg-group="篮球" group-title="篮球",太阳 vs 黑豹
 http://192.168.5.35:44635/play/bc586f17fb64875724d50cbf572dc451da74a61e
-#EXTINF:-1 tvg-id="姬路白鹭女篮 vs 三菱电机女篮" tvg-chno="1116" tvg-name="姬路白鹭女篮 vs 三菱电机女篮" tvg-group="篮球" group-title="篮球",姬路白鹭女篮 vs 三菱电机女篮
+#EXTINF:-1 tvg-id="姬路白鹭女篮 vs 三菱电机女篮" tvg-chno="1117" tvg-name="姬路白鹭女篮 vs 三菱电机女篮" tvg-group="篮球" group-title="篮球",姬路白鹭女篮 vs 三菱电机女篮
 http://192.168.5.35:44635/play/869b29c5877ce79906581c372f0b313ae543d22a
-#EXTINF:-1 tvg-id="岛根魔术 vs 广岛蜻蜓" tvg-chno="1117" tvg-name="岛根魔术 vs 广岛蜻蜓" tvg-group="篮球" group-title="篮球",岛根魔术 vs 广岛蜻蜓
-http://192.168.5.35:44635/play/0144efe6cc0d91b561e076dc982e8188118a1c43
 #EXTINF:-1 tvg-id="岛根魔术 vs 广岛蜻蜓" tvg-chno="1118" tvg-name="岛根魔术 vs 广岛蜻蜓" tvg-group="篮球" group-title="篮球",岛根魔术 vs 广岛蜻蜓
+http://192.168.5.35:44635/play/0144efe6cc0d91b561e076dc982e8188118a1c43
+#EXTINF:-1 tvg-id="岛根魔术 vs 广岛蜻蜓" tvg-chno="1119" tvg-name="岛根魔术 vs 广岛蜻蜓" tvg-group="篮球" group-title="篮球",岛根魔术 vs 广岛蜻蜓
 http://192.168.5.35:44635/play/701eb335fd3d10b0f35d8b47f01244fe1d5cf480
-#EXTINF:-1 tvg-id="福岛火绊 vs 名古屋战鹰" tvg-chno="1119" tvg-name="福岛火绊 vs 名古屋战鹰" tvg-group="篮球" group-title="篮球",福岛火绊 vs 名古屋战鹰
+#EXTINF:-1 tvg-id="福岛火绊 vs 名古屋战鹰" tvg-chno="1120" tvg-name="福岛火绊 vs 名古屋战鹰" tvg-group="篮球" group-title="篮球",福岛火绊 vs 名古屋战鹰
 http://192.168.5.35:44635/play/be85eb4d02acfb74ebee946980c0bb8db89d6fac
-#EXTINF:-1 tvg-id="陶兰加怀伊女篮 vs 大陆普瓦凯女篮" tvg-chno="1120" tvg-name="陶兰加怀伊女篮 vs 大陆普瓦凯女篮" tvg-group="篮球" group-title="篮球",陶兰加怀伊女篮 vs 大陆普瓦凯女篮
-http://192.168.5.35:44635/play/7df4132360d18b7fb579f16a828101c17a633d14
 #EXTINF:-1 tvg-id="宫崎棒牛鸟 vs 大分三神" tvg-chno="1201" tvg-name="宫崎棒牛鸟 vs 大分三神" tvg-group="足球" group-title="足球",宫崎棒牛鸟 vs 大分三神
 https://hdl2.mxxfly.com/live/72212869.m3u8?auth_key=1793376120-eb551c7a8033400aaf286fd6dded5f96-0-8609467f45f707519bde5e4561705693
 #EXTINF:-1 tvg-id="京都不死鸟 vs 清水心跳" tvg-chno="1202" tvg-name="京都不死鸟 vs 清水心跳" tvg-group="足球" group-title="足球",京都不死鸟 vs 清水心跳
@@ -151,7 +151,9 @@ https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1308" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1309" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1309" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1310" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="Dota2中文·完美世界" tvg-chno="1401" tvg-name="Dota2中文·完美世界" tvg-group="DOTA2" group-title="DOTA2",Dota2中文·完美世界
 http://127.0.0.1:35455/douyu/6829849
