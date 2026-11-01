@@ -167,14 +167,14 @@ http://192.168.5.35:44635/play/022936db87685d8e9066ba3252d5f1111d3e0446
 http://192.168.5.35:44635/play/75d047888b7e130df16e4ba6af5fbbedb009cd1b
 #EXTINF:-1 tvg-id="湾水市 vs 欧克莱卡诺" tvg-chno="1236" tvg-name="湾水市 vs 欧克莱卡诺" tvg-group="足球" group-title="足球",湾水市 vs 欧克莱卡诺
 http://192.168.5.35:44635/play/78e160743571934035f0c013259c490ee5d11967
-#EXTINF:-1 tvg-id="町田泽维亚 vs 大阪钢巴" tvg-chno="1237" tvg-name="町田泽维亚 vs 大阪钢巴" tvg-group="足球" group-title="足球",町田泽维亚 vs 大阪钢巴
+#EXTINF:-1 tvg-id="澄迈队 vs 海口队" tvg-chno="1237" tvg-name="澄迈队 vs 海口队" tvg-group="足球" group-title="足球",澄迈队 vs 海口队
+http://192.168.5.35:44635/play/a7061b67a53ee550b873620532f1c7883d8aded7
+#EXTINF:-1 tvg-id="澄迈队 vs 海口队" tvg-chno="1238" tvg-name="澄迈队 vs 海口队" tvg-group="足球" group-title="足球",澄迈队 vs 海口队
+http://192.168.5.35:44635/play/0507ed373c5b0864606cbc7f37e4522dd2b652ef
+#EXTINF:-1 tvg-id="町田泽维亚 vs 大阪钢巴" tvg-chno="1239" tvg-name="町田泽维亚 vs 大阪钢巴" tvg-group="足球" group-title="足球",町田泽维亚 vs 大阪钢巴
 http://192.168.5.35:44635/play/c9162d3fb259a6d69dff0f5ef00cf520fc064428
-#EXTINF:-1 tvg-id="町田泽维亚 vs 大阪钢巴" tvg-chno="1238" tvg-name="町田泽维亚 vs 大阪钢巴" tvg-group="足球" group-title="足球",町田泽维亚 vs 大阪钢巴
+#EXTINF:-1 tvg-id="町田泽维亚 vs 大阪钢巴" tvg-chno="1240" tvg-name="町田泽维亚 vs 大阪钢巴" tvg-group="足球" group-title="足球",町田泽维亚 vs 大阪钢巴
 http://192.168.5.35:44635/play/b7999662f755477d1d8f1b4ee50641d7286c25ac
-#EXTINF:-1 tvg-id="町田泽维亚 vs 大阪钢巴" tvg-chno="1239" tvg-name="町田泽维亚 vs 大阪钢巴" tvg-group="足球" group-title="足球",町田泽维亚 vs 大阪钢巴·腾讯直播
-https://pul-tenm.gkykp.com/live/sd-1-4555303.m3u8?txSecret=76ab0852877178a9e377dcef5f8586e4&txTime=6AE83EC8
-#EXTINF:-1 tvg-id="赣州经开区队 vs 大余队" tvg-chno="1240" tvg-name="赣州经开区队 vs 大余队" tvg-group="足球" group-title="足球",赣州经开区队 vs 大余队
-http://192.168.5.35:44635/play/dd50cd0e4a4f52c11cdb959f9bc6258792a0b004
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1301" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1302" tvg-name="ESPN" tvg-group="体育综合" group-title="体育综合",ESPN
@@ -185,15 +185,13 @@ http://198.58.104.90:8989/nfl/index.m3u8
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NBC" tvg-chno="1305" tvg-name="NBC" tvg-group="体育综合" group-title="体育综合",NBC
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
-#EXTINF:-1 tvg-id="F1·Formula" tvg-chno="1306" tvg-name="F1·Formula" tvg-group="体育综合" group-title="体育综合",F1·Formula
-https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
-#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1307" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
+#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1306" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1308" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1307" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1309" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1308" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1310" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1309" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="Dota2中文·完美世界" tvg-chno="1401" tvg-name="Dota2中文·完美世界" tvg-group="DOTA2" group-title="DOTA2",Dota2中文·完美世界
 http://127.0.0.1:35455/douyu/6829849
