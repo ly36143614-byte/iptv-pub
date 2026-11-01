@@ -58,30 +58,32 @@ https://hlsz.yjjcfw.com/live/00588323.m3u8?expire=1793506699&sign=fcf545261fc78e
 #EXTINF:-1 tvg-id="禾巴卡马卡比 vs 马尔文" tvg-chno="1121" tvg-name="禾巴卡马卡比 vs 马尔文" tvg-group="篮球" group-title="篮球",禾巴卡马卡比 vs 马尔文
 http://192.168.5.35:44635/play/16a22202f96a994b403115a192b8ab73aba95ce8
 #EXTINF:-1 tvg-id="蒙特港 vs 奥索尔诺" tvg-chno="1122" tvg-name="蒙特港 vs 奥索尔诺" tvg-group="篮球" group-title="篮球",蒙特港 vs 奥索尔诺
-http://192.168.5.35:44635/play/ffe93bc8d0e0d2f38b11fb88191a37cb06d95579
-#EXTINF:-1 tvg-id="雄鹿 vs 骑士" tvg-chno="1123" tvg-name="雄鹿 vs 骑士" tvg-group="篮球" group-title="篮球",雄鹿 vs 骑士
-http://192.168.5.35:44635/play/3f5880425f651fc31ca912fe2ec57ad5b4d17c03
+http://192.168.5.35:44635/play/764e3e172ee831515608fcf57a5c223596ebc59d
+#EXTINF:-1 tvg-id="蒙特港 vs 奥索尔诺" tvg-chno="1123" tvg-name="蒙特港 vs 奥索尔诺" tvg-group="篮球" group-title="篮球",蒙特港 vs 奥索尔诺
+http://192.168.5.35:44635/play/931a9bccd68b070a9503ec20df50c3fb40b4bc0a
 #EXTINF:-1 tvg-id="雄鹿 vs 骑士" tvg-chno="1124" tvg-name="雄鹿 vs 骑士" tvg-group="篮球" group-title="篮球",雄鹿 vs 骑士
+http://192.168.5.35:44635/play/3f5880425f651fc31ca912fe2ec57ad5b4d17c03
+#EXTINF:-1 tvg-id="雄鹿 vs 骑士" tvg-chno="1125" tvg-name="雄鹿 vs 骑士" tvg-group="篮球" group-title="篮球",雄鹿 vs 骑士
 http://192.168.5.35:44635/play/833bdc2864ec1f4741007ef1663a95a329f7466f
-#EXTINF:-1 tvg-id="雄鹿 vs 骑士" tvg-chno="1125" tvg-name="雄鹿 vs 骑士" tvg-group="篮球" group-title="篮球",雄鹿 vs 骑士·腾讯直播
+#EXTINF:-1 tvg-id="雄鹿 vs 骑士" tvg-chno="1126" tvg-name="雄鹿 vs 骑士" tvg-group="篮球" group-title="篮球",雄鹿 vs 骑士·腾讯直播
 https://hlsz.yjjcfw.com/live/10022600151.m3u8?expire=1793506701&sign=e4a62385921e476318948197380dbc90
-#EXTINF:-1 tvg-id="马刺 vs 森林狼" tvg-chno="1126" tvg-name="马刺 vs 森林狼" tvg-group="篮球" group-title="篮球",马刺 vs 森林狼
-http://192.168.5.35:44635/play/2020cb6f1f1ca8867c7a31f46b97fcf4583ea26f
 #EXTINF:-1 tvg-id="马刺 vs 森林狼" tvg-chno="1127" tvg-name="马刺 vs 森林狼" tvg-group="篮球" group-title="篮球",马刺 vs 森林狼
+http://192.168.5.35:44635/play/2020cb6f1f1ca8867c7a31f46b97fcf4583ea26f
+#EXTINF:-1 tvg-id="马刺 vs 森林狼" tvg-chno="1128" tvg-name="马刺 vs 森林狼" tvg-group="篮球" group-title="篮球",马刺 vs 森林狼
 http://192.168.5.35:44635/play/c80e751d3bd91520172a7bf8d9292037d71c100a
-#EXTINF:-1 tvg-id="马刺 vs 森林狼" tvg-chno="1128" tvg-name="马刺 vs 森林狼" tvg-group="篮球" group-title="篮球",马刺 vs 森林狼·腾讯直播
+#EXTINF:-1 tvg-id="马刺 vs 森林狼" tvg-chno="1129" tvg-name="马刺 vs 森林狼" tvg-group="篮球" group-title="篮球",马刺 vs 森林狼·腾讯直播
 https://hlsz.yjjcfw.com/live/10022600152.m3u8?expire=1793506704&sign=4472218dab63333cc6083fc0f656bb48
-#EXTINF:-1 tvg-id="鹈鹕 vs 老鹰" tvg-chno="1129" tvg-name="鹈鹕 vs 老鹰" tvg-group="篮球" group-title="篮球",鹈鹕 vs 老鹰
-http://192.168.5.35:44635/play/6202ddaeb51700307b395e5fccd55dae24299e80
 #EXTINF:-1 tvg-id="鹈鹕 vs 老鹰" tvg-chno="1130" tvg-name="鹈鹕 vs 老鹰" tvg-group="篮球" group-title="篮球",鹈鹕 vs 老鹰
+http://192.168.5.35:44635/play/6202ddaeb51700307b395e5fccd55dae24299e80
+#EXTINF:-1 tvg-id="鹈鹕 vs 老鹰" tvg-chno="1131" tvg-name="鹈鹕 vs 老鹰" tvg-group="篮球" group-title="篮球",鹈鹕 vs 老鹰
 http://192.168.5.35:44635/play/007ef59d4d7e5fd65299c0abb27a0ad69bfca349
-#EXTINF:-1 tvg-id="鹈鹕 vs 老鹰" tvg-chno="1131" tvg-name="鹈鹕 vs 老鹰" tvg-group="篮球" group-title="篮球",鹈鹕 vs 老鹰·腾讯直播
+#EXTINF:-1 tvg-id="鹈鹕 vs 老鹰" tvg-chno="1132" tvg-name="鹈鹕 vs 老鹰" tvg-group="篮球" group-title="篮球",鹈鹕 vs 老鹰·腾讯直播
 https://hlsz.yjjcfw.com/live/10022600149.m3u8?expire=1793506692&sign=4c583306f7a0d47fa0f5a782e84c269b
-#EXTINF:-1 tvg-id="黄蜂 vs 76人" tvg-chno="1132" tvg-name="黄蜂 vs 76人" tvg-group="篮球" group-title="篮球",黄蜂 vs 76人
-http://192.168.5.35:44635/play/043d1dce77f71e2757da3fe5a01931a8c3e3d3ac
 #EXTINF:-1 tvg-id="黄蜂 vs 76人" tvg-chno="1133" tvg-name="黄蜂 vs 76人" tvg-group="篮球" group-title="篮球",黄蜂 vs 76人
+http://192.168.5.35:44635/play/043d1dce77f71e2757da3fe5a01931a8c3e3d3ac
+#EXTINF:-1 tvg-id="黄蜂 vs 76人" tvg-chno="1134" tvg-name="黄蜂 vs 76人" tvg-group="篮球" group-title="篮球",黄蜂 vs 76人
 http://192.168.5.35:44635/play/ebd19d5b9559cd0603e0ec70385df755cf918e11
-#EXTINF:-1 tvg-id="黄蜂 vs 76人" tvg-chno="1134" tvg-name="黄蜂 vs 76人" tvg-group="篮球" group-title="篮球",黄蜂 vs 76人·腾讯直播
+#EXTINF:-1 tvg-id="黄蜂 vs 76人" tvg-chno="1135" tvg-name="黄蜂 vs 76人" tvg-group="篮球" group-title="篮球",黄蜂 vs 76人·腾讯直播
 https://hlsz.yjjcfw.com/live/10022600148.m3u8?expire=1793506667&sign=a01b58f7421c0002c9679bbb75d9dce4
 #EXTINF:-1 tvg-id="洛杉矶银河 vs 奥斯汀FC" tvg-chno="1201" tvg-name="洛杉矶银河 vs 奥斯汀FC" tvg-group="足球" group-title="足球",洛杉矶银河 vs 奥斯汀FC
 https://hdl3.ttrr888.com/6cf6e5bd52f04b5db8f63e0a40c3aaed/86141720.m3u8?token=007eJxTYLijplt1OuxWqLOkn9Z9txKejYvklmc1H%2Fe51aSkn7ctrFiBwSw5zSzVNCnF1CjNwCTJNCXJIs3MONUg0cQg2TgxMTVFfsnTrIZARoZj9RFRjAyMDCxADOIzgUlmMMkCJjkYLMwMTQzNjQw4GSxNzAxMTQ3NjQEKfyPD&userUid=946055173&lts=1793434655659&ttl=86400
