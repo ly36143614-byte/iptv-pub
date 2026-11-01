@@ -181,31 +181,35 @@ http://198.58.104.90:8989/nfl/index.m3u8
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NBC" tvg-chno="1305" tvg-name="NBC" tvg-group="体育综合" group-title="体育综合",NBC
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
-#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1306" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
+#EXTINF:-1 tvg-id="F1·Formula" tvg-chno="1306" tvg-name="F1·Formula" tvg-group="体育综合" group-title="体育综合",F1·Formula
+https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
+#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1307" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1307" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1308" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1308" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1309" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1309" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1310" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="Dota2中文·完美世界" tvg-chno="1401" tvg-name="Dota2中文·完美世界" tvg-group="DOTA2" group-title="DOTA2",Dota2中文·完美世界
 http://127.0.0.1:35455/douyu/6829849
-#EXTINF:-1 tvg-id="CH vs Z10" tvg-chno="1402" tvg-name="CH vs Z10" tvg-group="DOTA2" group-title="DOTA2",CH vs Z10
-http://192.168.5.35:44635/play/66d52fa3957b19c4e54c4734da8855f92fbf2e9b
-#EXTINF:-1 tvg-id="LVLUP Academy vs OB" tvg-chno="1403" tvg-name="LVLUP Academy vs OB" tvg-group="DOTA2" group-title="DOTA2",LVLUP Academy vs OB
-http://192.168.5.35:44635/play/a9d3ae5dd2b00c88f2161de75e9087f79af11101
+#EXTINF:-1 tvg-id="HKR vs Synapse" tvg-chno="1402" tvg-name="HKR vs Synapse" tvg-group="DOTA2" group-title="DOTA2",HKR vs Synapse
+http://192.168.5.35:44635/play/7ba3af76579c495ca2772cd99c7b5e7fdf60c3f3
+#EXTINF:-1 tvg-id="HKR vs Synapse" tvg-chno="1403" tvg-name="HKR vs Synapse" tvg-group="DOTA2" group-title="DOTA2",HKR vs Synapse
+http://192.168.5.35:44635/play/f630aea861d38e9ea3b7a157f72795b92026d3d9
 #EXTINF:-1 tvg-id="LVLUP Academy vs OB" tvg-chno="1404" tvg-name="LVLUP Academy vs OB" tvg-group="DOTA2" group-title="DOTA2",LVLUP Academy vs OB
+http://192.168.5.35:44635/play/a9d3ae5dd2b00c88f2161de75e9087f79af11101
+#EXTINF:-1 tvg-id="LVLUP Academy vs OB" tvg-chno="1405" tvg-name="LVLUP Academy vs OB" tvg-group="DOTA2" group-title="DOTA2",LVLUP Academy vs OB
 http://192.168.5.35:44635/play/d3fa2cacabc29d2ce7ce79b7134810fc948d5a44
-#EXTINF:-1 tvg-id="NG vs SOLID" tvg-chno="1405" tvg-name="NG vs SOLID" tvg-group="DOTA2" group-title="DOTA2",NG vs SOLID
-http://192.168.5.35:44635/play/b6d72b793b35649125a2c2f702d8ed93757fa540
 #EXTINF:-1 tvg-id="NG vs SOLID" tvg-chno="1406" tvg-name="NG vs SOLID" tvg-group="DOTA2" group-title="DOTA2",NG vs SOLID
+http://192.168.5.35:44635/play/b6d72b793b35649125a2c2f702d8ed93757fa540
+#EXTINF:-1 tvg-id="NG vs SOLID" tvg-chno="1407" tvg-name="NG vs SOLID" tvg-group="DOTA2" group-title="DOTA2",NG vs SOLID
 http://192.168.5.35:44635/play/048b74d7a2423ae7475d13c6c9108a1cb94f4181
-#EXTINF:-1 tvg-id="SOLID vs Rebeldes" tvg-chno="1407" tvg-name="SOLID vs Rebeldes" tvg-group="DOTA2" group-title="DOTA2",SOLID vs Rebeldes
-http://192.168.5.35:44635/play/ff112166cea9b8c644ddd6f0deb29528f3d73327
 #EXTINF:-1 tvg-id="SOLID vs Rebeldes" tvg-chno="1408" tvg-name="SOLID vs Rebeldes" tvg-group="DOTA2" group-title="DOTA2",SOLID vs Rebeldes
+http://192.168.5.35:44635/play/ff112166cea9b8c644ddd6f0deb29528f3d73327
+#EXTINF:-1 tvg-id="SOLID vs Rebeldes" tvg-chno="1409" tvg-name="SOLID vs Rebeldes" tvg-group="DOTA2" group-title="DOTA2",SOLID vs Rebeldes
 http://192.168.5.35:44635/play/afb526d6b4d007867c8375ad3efc860db7ca3b3d
-#EXTINF:-1 tvg-id="Synapse vs HellNight-" tvg-chno="1409" tvg-name="Synapse vs HellNight-" tvg-group="DOTA2" group-title="DOTA2",Synapse vs HellNight-
-http://192.168.5.35:44635/play/cf84c1b9407d1b83522e079c0303e452c64211ae
 #EXTINF:-1 tvg-id="Synapse vs HellNight-" tvg-chno="1410" tvg-name="Synapse vs HellNight-" tvg-group="DOTA2" group-title="DOTA2",Synapse vs HellNight-
+http://192.168.5.35:44635/play/cf84c1b9407d1b83522e079c0303e452c64211ae
+#EXTINF:-1 tvg-id="Synapse vs HellNight-" tvg-chno="1411" tvg-name="Synapse vs HellNight-" tvg-group="DOTA2" group-title="DOTA2",Synapse vs HellNight-
 http://192.168.5.35:44635/play/19ed1cfe7a0ab1cca85333a40662e41df73400e8
