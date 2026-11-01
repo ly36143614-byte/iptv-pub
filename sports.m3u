@@ -50,39 +50,43 @@ http://192.168.5.35:44635/play/48fac6ec5af1f2156dbd49afa4e1843d88cc97f5
 #EXTINF:-1 tvg-id="火箭 vs 雷霆" tvg-chno="1117" tvg-name="火箭 vs 雷霆" tvg-group="篮球" group-title="篮球",火箭 vs 雷霆
 http://192.168.5.35:44635/play/f1bdd6b3f3a7f42496341809f459a1d1aa07a85b
 #EXTINF:-1 tvg-id="火箭 vs 雷霆" tvg-chno="1118" tvg-name="火箭 vs 雷霆" tvg-group="篮球" group-title="篮球",火箭 vs 雷霆·腾讯直播
-https://hlsz.yjjcfw.com/live/10022600153.m3u8?expire=1793508000&sign=c223555d7899ac29e7ceb9958621c2b2
+https://hlsz.yjjcfw.com/live/10022600153.m3u8?expire=1793508696&sign=6011cab772e422218ea4496eb71993d0
 #EXTINF:-1 tvg-id="灰熊 vs 国王" tvg-chno="1119" tvg-name="灰熊 vs 国王" tvg-group="篮球" group-title="篮球",灰熊 vs 国王
 http://192.168.5.35:44635/play/5f6b8b64027cac5af471b249dddad8a7c82f949d
 #EXTINF:-1 tvg-id="灰熊 vs 国王" tvg-chno="1120" tvg-name="灰熊 vs 国王" tvg-group="篮球" group-title="篮球",灰熊 vs 国王
 http://192.168.5.35:44635/play/30a0be852daab57830329ad4d3780a984a929708
 #EXTINF:-1 tvg-id="灰熊 vs 国王" tvg-chno="1121" tvg-name="灰熊 vs 国王" tvg-group="篮球" group-title="篮球",灰熊 vs 国王·腾讯直播
-https://hlsz.yjjcfw.com/live/00588323.m3u8?expire=1793507971&sign=95a2e53f52d706406c5b8af9cebdf4fb
-#EXTINF:-1 tvg-id="蒙特港 vs 奥索尔诺" tvg-chno="1122" tvg-name="蒙特港 vs 奥索尔诺" tvg-group="篮球" group-title="篮球",蒙特港 vs 奥索尔诺
+https://hlsz.yjjcfw.com/live/00588323.m3u8?expire=1793508686&sign=e155931f47dc0318a1b28b1ef5cbc4ce
+#EXTINF:-1 tvg-id="胡安迪亚斯女篮 vs 圣桑图尔奇女篮" tvg-chno="1122" tvg-name="胡安迪亚斯女篮 vs 圣桑图尔奇女篮" tvg-group="篮球" group-title="篮球",胡安迪亚斯女篮 vs 圣桑图尔奇女篮
+http://192.168.5.35:44635/play/1aeebc3a3e862fdbc0783c9cd047d92201426e01
+#EXTINF:-1 tvg-id="胡安迪亚斯女篮 vs 圣桑图尔奇女篮" tvg-chno="1123" tvg-name="胡安迪亚斯女篮 vs 圣桑图尔奇女篮" tvg-group="篮球" group-title="篮球",胡安迪亚斯女篮 vs 圣桑图尔奇女篮
+http://192.168.5.35:44635/play/8587addf30c0603ffa1a17e192f0a278f244c4a8
+#EXTINF:-1 tvg-id="蒙特港 vs 奥索尔诺" tvg-chno="1124" tvg-name="蒙特港 vs 奥索尔诺" tvg-group="篮球" group-title="篮球",蒙特港 vs 奥索尔诺
 http://192.168.5.35:44635/play/764e3e172ee831515608fcf57a5c223596ebc59d
-#EXTINF:-1 tvg-id="蒙特港 vs 奥索尔诺" tvg-chno="1123" tvg-name="蒙特港 vs 奥索尔诺" tvg-group="篮球" group-title="篮球",蒙特港 vs 奥索尔诺
+#EXTINF:-1 tvg-id="蒙特港 vs 奥索尔诺" tvg-chno="1125" tvg-name="蒙特港 vs 奥索尔诺" tvg-group="篮球" group-title="篮球",蒙特港 vs 奥索尔诺
 http://192.168.5.35:44635/play/931a9bccd68b070a9503ec20df50c3fb40b4bc0a
-#EXTINF:-1 tvg-id="雄鹿 vs 骑士" tvg-chno="1124" tvg-name="雄鹿 vs 骑士" tvg-group="篮球" group-title="篮球",雄鹿 vs 骑士
+#EXTINF:-1 tvg-id="雄鹿 vs 骑士" tvg-chno="1126" tvg-name="雄鹿 vs 骑士" tvg-group="篮球" group-title="篮球",雄鹿 vs 骑士
 http://192.168.5.35:44635/play/3f5880425f651fc31ca912fe2ec57ad5b4d17c03
-#EXTINF:-1 tvg-id="雄鹿 vs 骑士" tvg-chno="1125" tvg-name="雄鹿 vs 骑士" tvg-group="篮球" group-title="篮球",雄鹿 vs 骑士
+#EXTINF:-1 tvg-id="雄鹿 vs 骑士" tvg-chno="1127" tvg-name="雄鹿 vs 骑士" tvg-group="篮球" group-title="篮球",雄鹿 vs 骑士
 http://192.168.5.35:44635/play/833bdc2864ec1f4741007ef1663a95a329f7466f
-#EXTINF:-1 tvg-id="雄鹿 vs 骑士" tvg-chno="1126" tvg-name="雄鹿 vs 骑士" tvg-group="篮球" group-title="篮球",雄鹿 vs 骑士·腾讯直播
-https://hlsz.yjjcfw.com/live/10022600151.m3u8?expire=1793507978&sign=e8c8e1d77cc90c12d23e8cd8e632d4d5
-#EXTINF:-1 tvg-id="马刺 vs 森林狼" tvg-chno="1127" tvg-name="马刺 vs 森林狼" tvg-group="篮球" group-title="篮球",马刺 vs 森林狼
+#EXTINF:-1 tvg-id="雄鹿 vs 骑士" tvg-chno="1128" tvg-name="雄鹿 vs 骑士" tvg-group="篮球" group-title="篮球",雄鹿 vs 骑士·腾讯直播
+https://hlsz.yjjcfw.com/live/10022600151.m3u8?expire=1793508688&sign=2fa3ef09d35dad5ff537379a310767cc
+#EXTINF:-1 tvg-id="马刺 vs 森林狼" tvg-chno="1129" tvg-name="马刺 vs 森林狼" tvg-group="篮球" group-title="篮球",马刺 vs 森林狼
 http://192.168.5.35:44635/play/2020cb6f1f1ca8867c7a31f46b97fcf4583ea26f
-#EXTINF:-1 tvg-id="马刺 vs 森林狼" tvg-chno="1128" tvg-name="马刺 vs 森林狼" tvg-group="篮球" group-title="篮球",马刺 vs 森林狼
+#EXTINF:-1 tvg-id="马刺 vs 森林狼" tvg-chno="1130" tvg-name="马刺 vs 森林狼" tvg-group="篮球" group-title="篮球",马刺 vs 森林狼
 http://192.168.5.35:44635/play/c80e751d3bd91520172a7bf8d9292037d71c100a
-#EXTINF:-1 tvg-id="马刺 vs 森林狼" tvg-chno="1129" tvg-name="马刺 vs 森林狼" tvg-group="篮球" group-title="篮球",马刺 vs 森林狼·腾讯直播
-https://hlsz.yjjcfw.com/live/10022600152.m3u8?expire=1793507986&sign=7875de0de52424a4749999bff2f7c0cf
-#EXTINF:-1 tvg-id="鹈鹕 vs 老鹰" tvg-chno="1130" tvg-name="鹈鹕 vs 老鹰" tvg-group="篮球" group-title="篮球",鹈鹕 vs 老鹰
+#EXTINF:-1 tvg-id="马刺 vs 森林狼" tvg-chno="1131" tvg-name="马刺 vs 森林狼" tvg-group="篮球" group-title="篮球",马刺 vs 森林狼·腾讯直播
+https://hlsz.yjjcfw.com/live/10022600152.m3u8?expire=1793508691&sign=3f5d9719862d6a2fd60750ec076f672a
+#EXTINF:-1 tvg-id="鹈鹕 vs 老鹰" tvg-chno="1132" tvg-name="鹈鹕 vs 老鹰" tvg-group="篮球" group-title="篮球",鹈鹕 vs 老鹰
 http://192.168.5.35:44635/play/6202ddaeb51700307b395e5fccd55dae24299e80
-#EXTINF:-1 tvg-id="鹈鹕 vs 老鹰" tvg-chno="1131" tvg-name="鹈鹕 vs 老鹰" tvg-group="篮球" group-title="篮球",鹈鹕 vs 老鹰
+#EXTINF:-1 tvg-id="鹈鹕 vs 老鹰" tvg-chno="1133" tvg-name="鹈鹕 vs 老鹰" tvg-group="篮球" group-title="篮球",鹈鹕 vs 老鹰
 http://192.168.5.35:44635/play/007ef59d4d7e5fd65299c0abb27a0ad69bfca349
-#EXTINF:-1 tvg-id="鹈鹕 vs 老鹰" tvg-chno="1132" tvg-name="鹈鹕 vs 老鹰" tvg-group="篮球" group-title="篮球",鹈鹕 vs 老鹰·腾讯直播
-https://hlsz.yjjcfw.com/live/10022600149.m3u8?expire=1793507950&sign=3b2e3f93503d1f22a122a59c6649f058
-#EXTINF:-1 tvg-id="黄蜂 vs 76人" tvg-chno="1133" tvg-name="黄蜂 vs 76人" tvg-group="篮球" group-title="篮球",黄蜂 vs 76人
+#EXTINF:-1 tvg-id="鹈鹕 vs 老鹰" tvg-chno="1134" tvg-name="鹈鹕 vs 老鹰" tvg-group="篮球" group-title="篮球",鹈鹕 vs 老鹰·腾讯直播
+https://hlsz.yjjcfw.com/live/10022600149.m3u8?expire=1793508681&sign=0f6f5f84ffee903626f4c37d9cd3136d
+#EXTINF:-1 tvg-id="黄蜂 vs 76人" tvg-chno="1135" tvg-name="黄蜂 vs 76人" tvg-group="篮球" group-title="篮球",黄蜂 vs 76人
 http://192.168.5.35:44635/play/d2c83a316525a4d527a706c0b49552d071014ea7
-#EXTINF:-1 tvg-id="黄蜂 vs 76人" tvg-chno="1134" tvg-name="黄蜂 vs 76人" tvg-group="篮球" group-title="篮球",黄蜂 vs 76人·腾讯直播
-https://hlsz.yjjcfw.com/live/10022600148.m3u8?expire=1793507937&sign=2819e14d7e82f3782a0bfc0b1fb84468
+#EXTINF:-1 tvg-id="黄蜂 vs 76人" tvg-chno="1136" tvg-name="黄蜂 vs 76人" tvg-group="篮球" group-title="篮球",黄蜂 vs 76人·腾讯直播
+https://hlsz.yjjcfw.com/live/10022600148.m3u8?expire=1793508667&sign=e423a30b7eb197eee283392d150242b1
 #EXTINF:-1 tvg-id="洛杉矶银河 vs 奥斯汀FC" tvg-chno="1201" tvg-name="洛杉矶银河 vs 奥斯汀FC" tvg-group="足球" group-title="足球",洛杉矶银河 vs 奥斯汀FC
 https://hdl3.ttrr888.com/6cf6e5bd52f04b5db8f63e0a40c3aaed/86141720.m3u8?token=007eJxTYLijplt1OuxWqLOkn9Z9txKejYvklmc1H%2Fe51aSkn7ctrFiBwSw5zSzVNCnF1CjNwCTJNCXJIs3MONUg0cQg2TgxMTVFfsnTrIZARoZj9RFRjAyMDCxADOIzgUlmMMkCJjkYLMwMTQzNjQw4GSxNzAxMTQ3NjQEKfyPD&userUid=946055173&lts=1793434655659&ttl=86400
 #EXTINF:-1 tvg-id="乌尔姆岛 vs 查普利" tvg-chno="1202" tvg-name="乌尔姆岛 vs 查普利" tvg-group="足球" group-title="足球",乌尔姆岛 vs 查普利
@@ -139,13 +143,11 @@ http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="F1·Formula" tvg-chno="1306" tvg-name="F1·Formula" tvg-group="体育综合" group-title="体育综合",F1·Formula
 https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
-#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1307" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
-https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1308" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1307" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1309" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1308" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1310" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1309" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="Dota2中文·完美世界" tvg-chno="1401" tvg-name="Dota2中文·完美世界" tvg-group="DOTA2" group-title="DOTA2",Dota2中文·完美世界
 http://127.0.0.1:35455/douyu/6829849
