@@ -76,11 +76,11 @@ http://192.168.5.35:44635/play/c00b2610c978087528874dc371ba42ad09e2a1f4
 #EXTINF:-1 tvg-id="火箭 vs 雷霆" tvg-chno="1130" tvg-name="火箭 vs 雷霆" tvg-group="篮球" group-title="篮球",火箭 vs 雷霆
 http://192.168.5.35:44635/play/75835249b00c8115b18081dbf6b42b95aaa40861
 #EXTINF:-1 tvg-id="火箭 vs 雷霆" tvg-chno="1131" tvg-name="火箭 vs 雷霆" tvg-group="篮球" group-title="篮球",火箭 vs 雷霆·腾讯直播
-https://hlsz.yjjcfw.com/live/00588325.m3u8?expire=1793517328&sign=9ddc5ab82ff65ac68127825771b7e787
+https://hlsz.yjjcfw.com/live/00588325.m3u8?expire=1793518032&sign=ffacdaac89a4f28f5a63b2ed57d6bc4a
 #EXTINF:-1 tvg-id="灰熊 vs 国王" tvg-chno="1132" tvg-name="灰熊 vs 国王" tvg-group="篮球" group-title="篮球",灰熊 vs 国王
 http://192.168.5.35:44635/play/c60f92b7e79ec623c5e8281e4b5de03f95bdf957
 #EXTINF:-1 tvg-id="灰熊 vs 国王" tvg-chno="1133" tvg-name="灰熊 vs 国王" tvg-group="篮球" group-title="篮球",灰熊 vs 国王·腾讯直播
-https://hlsz.yjjcfw.com/live/00588323.m3u8?expire=1793517287&sign=a32b8828d225caf17653177abf28984d
+https://hlsz.yjjcfw.com/live/00588323.m3u8?expire=1793518002&sign=22aea14a08c9f9122d6fc97b4148f7ee
 #EXTINF:-1 tvg-id="福岛火绊 vs 名古屋战鹰" tvg-chno="1134" tvg-name="福岛火绊 vs 名古屋战鹰" tvg-group="篮球" group-title="篮球",福岛火绊 vs 名古屋战鹰
 http://192.168.5.35:44635/play/f1e6219a099106aeac8a5e6261d71092c6ddb8cf
 #EXTINF:-1 tvg-id="福岛火绊 vs 名古屋战鹰" tvg-chno="1135" tvg-name="福岛火绊 vs 名古屋战鹰" tvg-group="篮球" group-title="篮球",福岛火绊 vs 名古屋战鹰
@@ -141,13 +141,9 @@ https://hdl3.ttrr888.com/6cf6e5bd52f04b5db8f63e0a40c3aaed/38606585.m3u8?token=00
 http://192.168.5.35:44635/play/d6c99a35cfac8daf474eb34730c92ca5e6912b3b
 #EXTINF:-1 tvg-id="莱卡特老虎 vs 埃文代尔" tvg-chno="1223" tvg-name="莱卡特老虎 vs 埃文代尔" tvg-group="足球" group-title="足球",莱卡特老虎 vs 埃文代尔
 http://192.168.5.35:44635/play/f92ff0e0b77f96b163a35754409f32a7abf15652
-#EXTINF:-1 tvg-id="蒙特雷 vs 蒂华纳" tvg-chno="1224" tvg-name="蒙特雷 vs 蒂华纳" tvg-group="足球" group-title="足球",蒙特雷 vs 蒂华纳
-http://192.168.5.35:44635/play/44cd708ed928d79745ba2e6dff8c177e0c661566
-#EXTINF:-1 tvg-id="蒙特雷 vs 蒂华纳" tvg-chno="1225" tvg-name="蒙特雷 vs 蒂华纳" tvg-group="足球" group-title="足球",蒙特雷 vs 蒂华纳
-http://192.168.5.35:44635/play/303309e2afbc2c85b824c4da3f27b67f50cf034b
-#EXTINF:-1 tvg-id="贝尔格莱德游击队U15 vs 伯恩茅斯U15" tvg-chno="1226" tvg-name="贝尔格莱德游击队U15 vs 伯恩茅斯U15" tvg-group="足球" group-title="足球",贝尔格莱德游击队U15 vs 伯恩茅斯U15
+#EXTINF:-1 tvg-id="贝尔格莱德游击队U15 vs 伯恩茅斯U15" tvg-chno="1224" tvg-name="贝尔格莱德游击队U15 vs 伯恩茅斯U15" tvg-group="足球" group-title="足球",贝尔格莱德游击队U15 vs 伯恩茅斯U15
 http://192.168.5.35:44635/play/29e2cd2b83811db5d5894ef1fe6ae6fbfadca38c
-#EXTINF:-1 tvg-id="贝尔格莱德游击队U15 vs 伯恩茅斯U15" tvg-chno="1227" tvg-name="贝尔格莱德游击队U15 vs 伯恩茅斯U15" tvg-group="足球" group-title="足球",贝尔格莱德游击队U15 vs 伯恩茅斯U15
+#EXTINF:-1 tvg-id="贝尔格莱德游击队U15 vs 伯恩茅斯U15" tvg-chno="1225" tvg-name="贝尔格莱德游击队U15 vs 伯恩茅斯U15" tvg-group="足球" group-title="足球",贝尔格莱德游击队U15 vs 伯恩茅斯U15
 http://192.168.5.35:44635/play/f8245219865f510cc79494370384948361451fc5
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1301" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
@@ -167,6 +163,8 @@ https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1309" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1310" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="Dota2中文·完美世界" tvg-chno="1401" tvg-name="Dota2中文·完美世界" tvg-group="DOTA2" group-title="DOTA2",Dota2中文·完美世界
 http://127.0.0.1:35455/douyu/6829849
 #EXTINF:-1 tvg-id="CH vs Z10" tvg-chno="1402" tvg-name="CH vs Z10" tvg-group="DOTA2" group-title="DOTA2",CH vs Z10
