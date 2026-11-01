@@ -7,7 +7,6 @@
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="NFL Network"><display-name>NFL Network</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
-  <channel id="火箭 vs 雷霆"><display-name>火箭 vs 雷霆</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <programme start="20261102020000 +0800" stop="20261102051948 +0800" channel="CBS">
     <title>Baltimore Ravens at Buffalo Bills（NFL）</title>
@@ -87,10 +86,6 @@
   </programme>
   <programme start="20261103083000 +0800" stop="20261103111012 +0800" channel="活塞">
     <title>NBA：黄蜂 vs 活塞</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261101083000 +0800" stop="20261101111012 +0800" channel="火箭 vs 雷霆">
-    <title>Oklahoma City Thunder at Houston Rockets 已结束（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261101150000 +0800" stop="20261101153000 +0800" channel="赛程预告">
