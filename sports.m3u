@@ -22,7 +22,7 @@ http://198.58.104.90:8989/nba/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1103" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="BBC莱瓦 vs 圣特尔莫RS" tvg-chno="1104" tvg-name="BBC莱瓦 vs 圣特尔莫RS" tvg-group="篮球" group-title="篮球",BBC莱瓦 vs 圣特尔莫RS
-http://192.168.5.35:44635/play/05b5efcbe847da2f4eea9cfe8095600a92e7c93d
+http://192.168.5.35:44635/play/b2b0e4d11be67fdd01134f0a6a4b487409c9f6bb
 #EXTINF:-1 tvg-id="巴拉斯港 vs 奥索尔诺" tvg-chno="1105" tvg-name="巴拉斯港 vs 奥索尔诺" tvg-group="篮球" group-title="篮球",巴拉斯港 vs 奥索尔诺
 http://192.168.5.35:44635/play/8253e506c1a3c8592c088f1a8dbe5059c60e350c
 #EXTINF:-1 tvg-id="巴拉斯港 vs 奥索尔诺" tvg-chno="1106" tvg-name="巴拉斯港 vs 奥索尔诺" tvg-group="篮球" group-title="篮球",巴拉斯港 vs 奥索尔诺
@@ -97,33 +97,21 @@ http://192.168.5.35:44635/play/1fbcd2c5653cc2588f89f09ea79b09a61826a138
 http://192.168.5.35:44635/play/7a721be4c66d025d91d46da3c5f99a8f51fea98e
 #EXTINF:-1 tvg-id="纳什维尔SC vs 纽约红牛" tvg-chno="1224" tvg-name="纳什维尔SC vs 纽约红牛" tvg-group="足球" group-title="足球",纳什维尔SC vs 纽约红牛
 http://192.168.5.35:44635/play/7d343a5636c71340ad76dbf4f716f5d8bdf2f52f
-#EXTINF:-1 tvg-id="纽维尔老男孩 vs 圣塔菲联" tvg-chno="1225" tvg-name="纽维尔老男孩 vs 圣塔菲联" tvg-group="足球" group-title="足球",纽维尔老男孩 vs 圣塔菲联
-http://192.168.5.35:44635/play/a72bfa626567234645276fab7269fb9114bd3937
-#EXTINF:-1 tvg-id="纽维尔老男孩 vs 圣塔菲联" tvg-chno="1226" tvg-name="纽维尔老男孩 vs 圣塔菲联" tvg-group="足球" group-title="足球",纽维尔老男孩 vs 圣塔菲联
-http://192.168.5.35:44635/play/2bc7702cae4dad4ee58018b887f5833d7222395d
-#EXTINF:-1 tvg-id="萨普里萨 vs 阿拉胡埃伦斯" tvg-chno="1227" tvg-name="萨普里萨 vs 阿拉胡埃伦斯" tvg-group="足球" group-title="足球",萨普里萨 vs 阿拉胡埃伦斯
+#EXTINF:-1 tvg-id="萨普里萨 vs 阿拉胡埃伦斯" tvg-chno="1225" tvg-name="萨普里萨 vs 阿拉胡埃伦斯" tvg-group="足球" group-title="足球",萨普里萨 vs 阿拉胡埃伦斯
 http://192.168.5.35:44635/play/b25066edc3fcf147fddfb1a053180114d6c38ff8
-#EXTINF:-1 tvg-id="萨普里萨 vs 阿拉胡埃伦斯" tvg-chno="1228" tvg-name="萨普里萨 vs 阿拉胡埃伦斯" tvg-group="足球" group-title="足球",萨普里萨 vs 阿拉胡埃伦斯
+#EXTINF:-1 tvg-id="萨普里萨 vs 阿拉胡埃伦斯" tvg-chno="1226" tvg-name="萨普里萨 vs 阿拉胡埃伦斯" tvg-group="足球" group-title="足球",萨普里萨 vs 阿拉胡埃伦斯
 http://192.168.5.35:44635/play/4377daf7980b48453d97e931f4dc9242623f430f
-#EXTINF:-1 tvg-id="西雅图统治女足 vs 奥兰多荣耀女足" tvg-chno="1229" tvg-name="西雅图统治女足 vs 奥兰多荣耀女足" tvg-group="足球" group-title="足球",西雅图统治女足 vs 奥兰多荣耀女足
+#EXTINF:-1 tvg-id="西雅图统治女足 vs 奥兰多荣耀女足" tvg-chno="1227" tvg-name="西雅图统治女足 vs 奥兰多荣耀女足" tvg-group="足球" group-title="足球",西雅图统治女足 vs 奥兰多荣耀女足
 http://192.168.5.35:44635/play/1b8c0d10044a936b592921effac5c065f2519d2a
-#EXTINF:-1 tvg-id="西雅图统治女足 vs 奥兰多荣耀女足" tvg-chno="1230" tvg-name="西雅图统治女足 vs 奥兰多荣耀女足" tvg-group="足球" group-title="足球",西雅图统治女足 vs 奥兰多荣耀女足
+#EXTINF:-1 tvg-id="西雅图统治女足 vs 奥兰多荣耀女足" tvg-chno="1228" tvg-name="西雅图统治女足 vs 奥兰多荣耀女足" tvg-group="足球" group-title="足球",西雅图统治女足 vs 奥兰多荣耀女足
 http://192.168.5.35:44635/play/e7c4f8ce84b4193c791496336313d127958e93c5
-#EXTINF:-1 tvg-id="诺瓦里桑蒂诺 vs 铁路工人" tvg-chno="1231" tvg-name="诺瓦里桑蒂诺 vs 铁路工人" tvg-group="足球" group-title="足球",诺瓦里桑蒂诺 vs 铁路工人
-http://192.168.5.35:44635/play/df040dbc0a57000792665c9216411632158c5569
-#EXTINF:-1 tvg-id="诺瓦里桑蒂诺 vs 铁路工人" tvg-chno="1232" tvg-name="诺瓦里桑蒂诺 vs 铁路工人" tvg-group="足球" group-title="足球",诺瓦里桑蒂诺 vs 铁路工人
-http://192.168.5.35:44635/play/9e20b663c97c510d88c67dc9837a8d29208bb1cd
-#EXTINF:-1 tvg-id="贝尔格拉诺 vs 巴拉卡斯中央" tvg-chno="1233" tvg-name="贝尔格拉诺 vs 巴拉卡斯中央" tvg-group="足球" group-title="足球",贝尔格拉诺 vs 巴拉卡斯中央
-http://192.168.5.35:44635/play/a04d32cb8545ab8ac6d8ea34d70224034104d7be
-#EXTINF:-1 tvg-id="贝尔格拉诺 vs 巴拉卡斯中央" tvg-chno="1234" tvg-name="贝尔格拉诺 vs 巴拉卡斯中央" tvg-group="足球" group-title="足球",贝尔格拉诺 vs 巴拉卡斯中央
-http://192.168.5.35:44635/play/f5cd9c611bf36e71b6e95f20de2c1f6a71afa0ba
-#EXTINF:-1 tvg-id="路易斯维尔竞赛女足 vs 堪萨斯城女足" tvg-chno="1235" tvg-name="路易斯维尔竞赛女足 vs 堪萨斯城女足" tvg-group="足球" group-title="足球",路易斯维尔竞赛女足 vs 堪萨斯城女足
+#EXTINF:-1 tvg-id="路易斯维尔竞赛女足 vs 堪萨斯城女足" tvg-chno="1229" tvg-name="路易斯维尔竞赛女足 vs 堪萨斯城女足" tvg-group="足球" group-title="足球",路易斯维尔竞赛女足 vs 堪萨斯城女足
 http://192.168.5.35:44635/play/dae9da69bdfa7b45477fbdefc6b6810bd1f0bd19
-#EXTINF:-1 tvg-id="路易斯维尔竞赛女足 vs 堪萨斯城女足" tvg-chno="1236" tvg-name="路易斯维尔竞赛女足 vs 堪萨斯城女足" tvg-group="足球" group-title="足球",路易斯维尔竞赛女足 vs 堪萨斯城女足
+#EXTINF:-1 tvg-id="路易斯维尔竞赛女足 vs 堪萨斯城女足" tvg-chno="1230" tvg-name="路易斯维尔竞赛女足 vs 堪萨斯城女足" tvg-group="足球" group-title="足球",路易斯维尔竞赛女足 vs 堪萨斯城女足
 http://192.168.5.35:44635/play/9a91f8f2a061c0f71d6722bdf296a0a0b8ae674d
-#EXTINF:-1 tvg-id="迪罗甘拿斯亚 vs 基尔梅斯" tvg-chno="1237" tvg-name="迪罗甘拿斯亚 vs 基尔梅斯" tvg-group="足球" group-title="足球",迪罗甘拿斯亚 vs 基尔梅斯
+#EXTINF:-1 tvg-id="迪罗甘拿斯亚 vs 基尔梅斯" tvg-chno="1231" tvg-name="迪罗甘拿斯亚 vs 基尔梅斯" tvg-group="足球" group-title="足球",迪罗甘拿斯亚 vs 基尔梅斯
 http://192.168.5.35:44635/play/66b46eb20732e1f8669bf72c998be588b919a32a
-#EXTINF:-1 tvg-id="迪罗甘拿斯亚 vs 基尔梅斯" tvg-chno="1238" tvg-name="迪罗甘拿斯亚 vs 基尔梅斯" tvg-group="足球" group-title="足球",迪罗甘拿斯亚 vs 基尔梅斯
+#EXTINF:-1 tvg-id="迪罗甘拿斯亚 vs 基尔梅斯" tvg-chno="1232" tvg-name="迪罗甘拿斯亚 vs 基尔梅斯" tvg-group="足球" group-title="足球",迪罗甘拿斯亚 vs 基尔梅斯
 http://192.168.5.35:44635/play/cfe8ccd9fe668972a2ac41ec0634cc6e36e2826a
 #EXTINF:-1 tvg-id="NFL·Network" tvg-chno="1301" tvg-name="NFL·Network" tvg-group="综合体育" group-title="综合体育",NFL·Network
 http://198.58.104.90:8989/nfl/index.m3u8
@@ -137,13 +125,15 @@ http://198.58.104.90:8989/nhl/index.m3u8
 http://198.58.104.90:8989/ballysportssouth/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1306" tvg-name="ESPN" tvg-group="综合体育" group-title="综合体育",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1307" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1307" tvg-name="Tennis Channel" tvg-group="综合体育" group-title="综合体育",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1308" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1308" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1309" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1309" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1310" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1310" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1311" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
