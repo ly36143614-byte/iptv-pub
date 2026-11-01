@@ -22,7 +22,7 @@ http://198.58.104.90:8989/nba/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1103" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="ACS全面运动 vs 普洛耶什蒂大学" tvg-chno="1104" tvg-name="ACS全面运动 vs 普洛耶什蒂大学" tvg-group="篮球" group-title="篮球",ACS全面运动 vs 普洛耶什蒂大学
-http://192.168.5.35:44635/play/5ff88e26c4bdc5a43f01e66aac30155ec32f810c
+http://192.168.5.35:44635/play/06d04fcc98062893734dcd2a976ffd703ff4ab96
 #EXTINF:-1 tvg-id="CB 萨拉戈萨 vs 巴勒尤文图特" tvg-chno="1105" tvg-name="CB 萨拉戈萨 vs 巴勒尤文图特" tvg-group="篮球" group-title="篮球",CB 萨拉戈萨 vs 巴勒尤文图特
 http://192.168.5.35:44635/play/c795866815228e10e07d58abb5c856c5995e8eaf
 #EXTINF:-1 tvg-id="CB托莱多 vs 哈恩 CB" tvg-chno="1106" tvg-name="CB托莱多 vs 哈恩 CB" tvg-group="篮球" group-title="篮球",CB托莱多 vs 哈恩 CB
@@ -105,13 +105,17 @@ http://192.168.5.35:44635/play/315000e37d4c68248aa5daaf9fcdbe008ece7900
 http://192.168.5.35:44635/play/cf28d12ab2a895bb5e75551ccebab3009d15fea4
 #EXTINF:-1 tvg-id="汉达瓦迪联 vs 治尼兰德" tvg-chno="1216" tvg-name="汉达瓦迪联 vs 治尼兰德" tvg-group="足球" group-title="足球",汉达瓦迪联 vs 治尼兰德
 http://192.168.5.35:44635/play/174b072c1730c7b4bbdb2349a3c2a3e4bf99cd84
-#EXTINF:-1 tvg-id="费尔干纳国立大学 vs 雅潘FK" tvg-chno="1217" tvg-name="费尔干纳国立大学 vs 雅潘FK" tvg-group="足球" group-title="足球",费尔干纳国立大学 vs 雅潘FK
+#EXTINF:-1 tvg-id="神户雌狮女足 vs 巴姆卡通女足" tvg-chno="1217" tvg-name="神户雌狮女足 vs 巴姆卡通女足" tvg-group="足球" group-title="足球",神户雌狮女足 vs 巴姆卡通女足
+http://192.168.5.35:44635/play/8b001c97025c226ec5829e5d476ace2ad7713c52
+#EXTINF:-1 tvg-id="神户雌狮女足 vs 巴姆卡通女足" tvg-chno="1218" tvg-name="神户雌狮女足 vs 巴姆卡通女足" tvg-group="足球" group-title="足球",神户雌狮女足 vs 巴姆卡通女足
+http://192.168.5.35:44635/play/3e45181b22aa37330a20fbbd9d34694440f03cda
+#EXTINF:-1 tvg-id="费尔干纳国立大学 vs 雅潘FK" tvg-chno="1219" tvg-name="费尔干纳国立大学 vs 雅潘FK" tvg-group="足球" group-title="足球",费尔干纳国立大学 vs 雅潘FK
 http://192.168.5.35:44635/play/c8dab4e8a65a6aa549ed90c7af505fbd44a31750
-#EXTINF:-1 tvg-id="费尔干纳国立大学 vs 雅潘FK" tvg-chno="1218" tvg-name="费尔干纳国立大学 vs 雅潘FK" tvg-group="足球" group-title="足球",费尔干纳国立大学 vs 雅潘FK
+#EXTINF:-1 tvg-id="费尔干纳国立大学 vs 雅潘FK" tvg-chno="1220" tvg-name="费尔干纳国立大学 vs 雅潘FK" tvg-group="足球" group-title="足球",费尔干纳国立大学 vs 雅潘FK
 http://192.168.5.35:44635/play/66089f3fca80a2bf145aab2af9768586d7f92edf
-#EXTINF:-1 tvg-id="顺化 vs 庆和烟草" tvg-chno="1219" tvg-name="顺化 vs 庆和烟草" tvg-group="足球" group-title="足球",顺化 vs 庆和烟草
+#EXTINF:-1 tvg-id="顺化 vs 庆和烟草" tvg-chno="1221" tvg-name="顺化 vs 庆和烟草" tvg-group="足球" group-title="足球",顺化 vs 庆和烟草
 http://192.168.5.35:44635/play/51357964c734028a5de2d073860df7a3d9aa54be
-#EXTINF:-1 tvg-id="顺化 vs 庆和烟草" tvg-chno="1220" tvg-name="顺化 vs 庆和烟草" tvg-group="足球" group-title="足球",顺化 vs 庆和烟草
+#EXTINF:-1 tvg-id="顺化 vs 庆和烟草" tvg-chno="1222" tvg-name="顺化 vs 庆和烟草" tvg-group="足球" group-title="足球",顺化 vs 庆和烟草
 http://192.168.5.35:44635/play/cb1e553ad76ae2a436e65c1dc3c674b54db06ef4
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1301" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
@@ -125,12 +129,12 @@ http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="F1·Formula" tvg-chno="1306" tvg-name="F1·Formula" tvg-group="体育综合" group-title="体育综合",F1·Formula
 https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1307" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1307" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1308" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1308" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1309" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1309" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
-https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="Dota2中文·完美世界" tvg-chno="1401" tvg-name="Dota2中文·完美世界" tvg-group="DOTA2" group-title="DOTA2",Dota2中文·完美世界
 http://127.0.0.1:35455/douyu/6829849
 #EXTINF:-1 tvg-id="HKR vs Synapse" tvg-chno="1402" tvg-name="HKR vs Synapse" tvg-group="DOTA2" group-title="DOTA2",HKR vs Synapse
