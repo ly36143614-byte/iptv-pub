@@ -127,8 +127,12 @@
     <title>意甲：弗洛西诺 vs 都灵；意甲：拉齐奥 vs 卡利亚里；法甲：斯特拉斯堡 vs 欧塞尔；意甲：弗洛西诺内 vs 都灵</title>
     <category>体育</category>
   </programme>
-  <programme start="20261101223000 +0800" stop="20261101231500 +0800" channel="赛程预告">
+  <programme start="20261101223000 +0800" stop="20261101230000 +0800" channel="赛程预告">
     <title>德甲：柏林联合 vs 科隆</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261101230000 +0800" stop="20261101231500 +0800" channel="赛程预告">
+    <title>足球：朝鲜女足U17 vs 美国女足U17</title>
     <category>体育</category>
   </programme>
   <programme start="20261101231500 +0800" stop="20261101234500 +0800" channel="赛程预告">
