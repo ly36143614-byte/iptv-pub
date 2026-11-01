@@ -21,28 +21,24 @@ http://23.237.104.106:8080/USA_NBA/index.m3u8
 http://198.58.104.90:8989/nba/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1103" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="上海 vs 同曦" tvg-chno="1104" tvg-name="上海 vs 同曦" tvg-group="篮球" group-title="篮球",上海 vs 同曦·咪咕直播
-https://hlsz.yjjcfw.com/live/00594097.m3u8?expire=1793553052&sign=045c333fb3b3ae8b78eca392e5fc22a8
-#EXTINF:-1 tvg-id="VSA vs 库塔伊西" tvg-chno="1105" tvg-name="VSA vs 库塔伊西" tvg-group="篮球" group-title="篮球",VSA vs 库塔伊西
-http://192.168.5.35:44635/play/d3ab5a9cd3ad2480ee635f0a1aab107a985f672a
-#EXTINF:-1 tvg-id="VSA vs 库塔伊西" tvg-chno="1106" tvg-name="VSA vs 库塔伊西" tvg-group="篮球" group-title="篮球",VSA vs 库塔伊西
-http://192.168.5.35:44635/play/4b5fc3d22f9d2e832da59f9a1f1676202573f2cb
-#EXTINF:-1 tvg-id="北京 vs 广厦" tvg-chno="1107" tvg-name="北京 vs 广厦" tvg-group="篮球" group-title="篮球",北京 vs 广厦·咪咕直播
-https://hlsz.yjjcfw.com/live/00594099.m3u8?expire=1793553055&sign=5904d4a2eb1fa6769226b5518aff3d87
-#EXTINF:-1 tvg-id="吉林 vs 广州" tvg-chno="1108" tvg-name="吉林 vs 广州" tvg-group="篮球" group-title="篮球",吉林 vs 广州·咪咕直播
-https://hlsz.yjjcfw.com/live/00594095.m3u8?expire=1793553057&sign=126d483fb7280e33e25fa213d881d94d
-#EXTINF:-1 tvg-id="天津 vs 宁波" tvg-chno="1109" tvg-name="天津 vs 宁波" tvg-group="篮球" group-title="篮球",天津 vs 宁波·咪咕直播
-https://hlsz.yjjcfw.com/live/00594100.m3u8?expire=1793553056&sign=e676647b8cee23ad3b342c4a084da1e9
-#EXTINF:-1 tvg-id="山西 vs 四川" tvg-chno="1110" tvg-name="山西 vs 四川" tvg-group="篮球" group-title="篮球",山西 vs 四川·咪咕直播
-https://hlsz.yjjcfw.com/live/00594098.m3u8?expire=1793553053&sign=ccc8d1525f366c0696273d1e1753054e
-#EXTINF:-1 tvg-id="浙江 vs 江苏" tvg-chno="1111" tvg-name="浙江 vs 江苏" tvg-group="篮球" group-title="篮球",浙江 vs 江苏·咪咕直播
-https://hlsz.yjjcfw.com/live/00594101.m3u8?expire=1793553048&sign=7dd22cb6c4385e5535d45f361662c315
-#EXTINF:-1 tvg-id="皇家马德里 vs 圣帕罗布哥斯" tvg-chno="1112" tvg-name="皇家马德里 vs 圣帕罗布哥斯" tvg-group="篮球" group-title="篮球",皇家马德里 vs 圣帕罗布哥斯
-http://192.168.5.35:44635/play/f199fe11a1a452a9976014ec6a8624d5bd2a4464
-#EXTINF:-1 tvg-id="皇家马德里 vs 圣帕罗布哥斯" tvg-chno="1113" tvg-name="皇家马德里 vs 圣帕罗布哥斯" tvg-group="篮球" group-title="篮球",皇家马德里 vs 圣帕罗布哥斯
-http://192.168.5.35:44635/play/2db400e44c00329cdf27a7928a61c5dbdadb73b1
-#EXTINF:-1 tvg-id="辽宁 vs 深圳" tvg-chno="1114" tvg-name="辽宁 vs 深圳" tvg-group="篮球" group-title="篮球",辽宁 vs 深圳·咪咕直播
+#EXTINF:-1 tvg-id="辽宁 vs 深圳" tvg-chno="1104" tvg-name="辽宁 vs 深圳" tvg-group="篮球" group-title="篮球",辽宁 vs 深圳·咪咕直播
 https://hlsz.yjjcfw.com/live/00594096.m3u8?expire=1793553049&sign=e598403fbd8045d99af1bc659446c98f
+#EXTINF:-1 tvg-id="上海 vs 同曦" tvg-chno="1105" tvg-name="上海 vs 同曦" tvg-group="篮球" group-title="篮球",上海 vs 同曦·咪咕直播
+https://hlsz.yjjcfw.com/live/00594097.m3u8?expire=1793553052&sign=045c333fb3b3ae8b78eca392e5fc22a8
+#EXTINF:-1 tvg-id="VSA vs 库塔伊西" tvg-chno="1106" tvg-name="VSA vs 库塔伊西" tvg-group="篮球" group-title="篮球",VSA vs 库塔伊西
+http://192.168.5.35:44635/play/d3ab5a9cd3ad2480ee635f0a1aab107a985f672a
+#EXTINF:-1 tvg-id="VSA vs 库塔伊西" tvg-chno="1107" tvg-name="VSA vs 库塔伊西" tvg-group="篮球" group-title="篮球",VSA vs 库塔伊西
+http://192.168.5.35:44635/play/4b5fc3d22f9d2e832da59f9a1f1676202573f2cb
+#EXTINF:-1 tvg-id="北京 vs 广厦" tvg-chno="1108" tvg-name="北京 vs 广厦" tvg-group="篮球" group-title="篮球",北京 vs 广厦·咪咕直播
+https://hlsz.yjjcfw.com/live/00594099.m3u8?expire=1793553055&sign=5904d4a2eb1fa6769226b5518aff3d87
+#EXTINF:-1 tvg-id="吉林 vs 广州" tvg-chno="1109" tvg-name="吉林 vs 广州" tvg-group="篮球" group-title="篮球",吉林 vs 广州·咪咕直播
+https://hlsz.yjjcfw.com/live/00594095.m3u8?expire=1793553057&sign=126d483fb7280e33e25fa213d881d94d
+#EXTINF:-1 tvg-id="天津 vs 宁波" tvg-chno="1110" tvg-name="天津 vs 宁波" tvg-group="篮球" group-title="篮球",天津 vs 宁波·咪咕直播
+https://hlsz.yjjcfw.com/live/00594100.m3u8?expire=1793553056&sign=e676647b8cee23ad3b342c4a084da1e9
+#EXTINF:-1 tvg-id="山西 vs 四川" tvg-chno="1111" tvg-name="山西 vs 四川" tvg-group="篮球" group-title="篮球",山西 vs 四川·咪咕直播
+https://hlsz.yjjcfw.com/live/00594098.m3u8?expire=1793553053&sign=ccc8d1525f366c0696273d1e1753054e
+#EXTINF:-1 tvg-id="浙江 vs 江苏" tvg-chno="1112" tvg-name="浙江 vs 江苏" tvg-group="篮球" group-title="篮球",浙江 vs 江苏·咪咕直播
+https://hlsz.yjjcfw.com/live/00594101.m3u8?expire=1793553048&sign=7dd22cb6c4385e5535d45f361662c315
 #EXTINF:-1 tvg-id="云南玉昆 vs 大连英博" tvg-chno="1201" tvg-name="云南玉昆 vs 大连英博" tvg-group="足球" group-title="足球",云南玉昆 vs 大连英博·咪咕直播
 https://hlsz.yjjcfw.com/live/00592213.m3u8?expire=1793553051&sign=067dce3add639102f1b28d5bbb3ee757
 #EXTINF:-1 tvg-id="赫塔菲 vs 塞维利亚" tvg-chno="1202" tvg-name="赫塔菲 vs 塞维利亚" tvg-group="足球" group-title="足球",赫塔菲 vs 塞维利亚·咪咕直播
@@ -85,17 +81,9 @@ http://192.168.5.35:44635/play/b1b71140c10e9a383ec5bc57c28c836186c1448f
 http://192.168.5.35:44635/play/0f8e51389106e8904820032870d8f3c73c0c597a
 #EXTINF:-1 tvg-id="科莫 vs 威尼斯" tvg-chno="1221" tvg-name="科莫 vs 威尼斯" tvg-group="足球" group-title="足球",科莫 vs 威尼斯·咪咕直播
 https://hlsz.yjjcfw.com/live/00584809.m3u8?expire=1793553046&sign=da00361dff0098c0b017a51afe8f27d8
-#EXTINF:-1 tvg-id="素可泰 vs 大城联" tvg-chno="1222" tvg-name="素可泰 vs 大城联" tvg-group="足球" group-title="足球",素可泰 vs 大城联
-http://192.168.5.35:44635/play/2745e36fee16aca9f0f702fcf601f64e9c50b05e
-#EXTINF:-1 tvg-id="素可泰 vs 大城联" tvg-chno="1223" tvg-name="素可泰 vs 大城联" tvg-group="足球" group-title="足球",素可泰 vs 大城联
-http://192.168.5.35:44635/play/659fa74d0c09fbc1524d3f77b672feb886337ed7
-#EXTINF:-1 tvg-id="马里乌波尔凤凰 vs 切尔尼夫" tvg-chno="1224" tvg-name="马里乌波尔凤凰 vs 切尔尼夫" tvg-group="足球" group-title="足球",马里乌波尔凤凰 vs 切尔尼夫
-http://192.168.5.35:44635/play/08351fee883fac86acedc896f775f987daddbb46
-#EXTINF:-1 tvg-id="马里乌波尔凤凰 vs 切尔尼夫" tvg-chno="1225" tvg-name="马里乌波尔凤凰 vs 切尔尼夫" tvg-group="足球" group-title="足球",马里乌波尔凤凰 vs 切尔尼夫
-http://192.168.5.35:44635/play/43504abd70d316a78e6da4e4a555758e88440471
-#EXTINF:-1 tvg-id="马里士他卡沙 vs 狮城水手" tvg-chno="1226" tvg-name="马里士他卡沙 vs 狮城水手" tvg-group="足球" group-title="足球",马里士他卡沙 vs 狮城水手
+#EXTINF:-1 tvg-id="马里士他卡沙 vs 狮城水手" tvg-chno="1222" tvg-name="马里士他卡沙 vs 狮城水手" tvg-group="足球" group-title="足球",马里士他卡沙 vs 狮城水手
 http://192.168.5.35:44635/play/ad3a15f2605f226ae7862cca3f029b7bd5a0a215
-#EXTINF:-1 tvg-id="马里士他卡沙 vs 狮城水手" tvg-chno="1227" tvg-name="马里士他卡沙 vs 狮城水手" tvg-group="足球" group-title="足球",马里士他卡沙 vs 狮城水手
+#EXTINF:-1 tvg-id="马里士他卡沙 vs 狮城水手" tvg-chno="1223" tvg-name="马里士他卡沙 vs 狮城水手" tvg-group="足球" group-title="足球",马里士他卡沙 vs 狮城水手
 http://192.168.5.35:44635/play/3effd377588c06e77e4df00c4eac2b2e583a6023
 #EXTINF:-1 tvg-id="NFL·Network" tvg-chno="1301" tvg-name="NFL·Network" tvg-group="综合体育" group-title="综合体育",NFL·Network
 http://198.58.104.90:8989/nfl/index.m3u8
