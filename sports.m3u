@@ -174,7 +174,7 @@ http://192.168.5.35:44635/play/f71a5dc1083bfffd93b00c85f2bc7bd59f84a1dd
 #EXTINF:-1 tvg-id="浦项铁人 vs 济州SK" tvg-chno="1239" tvg-name="浦项铁人 vs 济州SK" tvg-group="足球" group-title="足球",浦项铁人 vs 济州SK
 http://192.168.5.35:44635/play/fd195cfb693ab92749b1fc8110925b3de603016e
 #EXTINF:-1 tvg-id="浦项铁人 vs 济州SK" tvg-chno="1240" tvg-name="浦项铁人 vs 济州SK" tvg-group="足球" group-title="足球",浦项铁人 vs 济州SK·腾讯直播
-https://pul-tenm.gkykp.com/live/sd-1-4662784.m3u8?txSecret=902496cd76ea6ed6e6b93a6b7534768a&txTime=6AE81DF9
+https://pul-tenm.gkykp.com/live/sd-1-4662784.m3u8?txSecret=5c8fbca334fe1b2c0818b6483d54570e&txTime=6AE81F61
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1301" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1302" tvg-name="ESPN" tvg-group="体育综合" group-title="体育综合",ESPN
@@ -193,8 +193,6 @@ https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1309" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1310" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
-https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="Dota2中文·完美世界" tvg-chno="1401" tvg-name="Dota2中文·完美世界" tvg-group="DOTA2" group-title="DOTA2",Dota2中文·完美世界
 http://127.0.0.1:35455/douyu/6829849
 #EXTINF:-1 tvg-id="CH vs Z10" tvg-chno="1402" tvg-name="CH vs Z10" tvg-group="DOTA2" group-title="DOTA2",CH vs Z10
