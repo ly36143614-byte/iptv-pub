@@ -12,7 +12,6 @@
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <channel id="雄鹿 vs 骑士"><display-name>雄鹿 vs 骑士</display-name></channel>
   <channel id="马刺 vs 森林狼"><display-name>马刺 vs 森林狼</display-name></channel>
-  <channel id="鹈鹕 vs 老鹰"><display-name>鹈鹕 vs 老鹰</display-name></channel>
   <programme start="20261102020000 +0800" stop="20261102051948 +0800" channel="CBS">
     <title>Baltimore Ravens at Buffalo Bills（NFL）</title>
     <category>体育</category>
@@ -335,10 +334,6 @@
   </programme>
   <programme start="20261101080000 +0800" stop="20261101104012 +0800" channel="马刺 vs 森林狼">
     <title>Minnesota Timberwolves at San Antonio Spurs（NBA）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261101070000 +0800" stop="20261101094012 +0800" channel="鹈鹕 vs 老鹰">
-    <title>Atlanta Hawks at New Orleans Pelicans 已结束（NBA）</title>
     <category>体育</category>
   </programme>
 </tv>
