@@ -76,7 +76,7 @@ http://192.168.5.35:44635/play/c00b2610c978087528874dc371ba42ad09e2a1f4
 #EXTINF:-1 tvg-id="火箭 vs 雷霆" tvg-chno="1130" tvg-name="火箭 vs 雷霆" tvg-group="篮球" group-title="篮球",火箭 vs 雷霆
 http://192.168.5.35:44635/play/75835249b00c8115b18081dbf6b42b95aaa40861
 #EXTINF:-1 tvg-id="火箭 vs 雷霆" tvg-chno="1131" tvg-name="火箭 vs 雷霆" tvg-group="篮球" group-title="篮球",火箭 vs 雷霆·腾讯直播
-https://hlsz.yjjcfw.com/live/00588325.m3u8?expire=1793521808&sign=2ff6892e5c0095ba71102139f31258c5
+https://hlsz.yjjcfw.com/live/00588325.m3u8?expire=1793522408&sign=ca3beb6c4f74f09b480470ce24e6b697
 #EXTINF:-1 tvg-id="神户鹳鸟 vs 长崎维尔卡" tvg-chno="1132" tvg-name="神户鹳鸟 vs 长崎维尔卡" tvg-group="篮球" group-title="篮球",神户鹳鸟 vs 长崎维尔卡
 http://192.168.5.35:44635/play/a9849579147c9bf70d6ffe6eef99d04418332baf
 #EXTINF:-1 tvg-id="神户鹳鸟 vs 长崎维尔卡" tvg-chno="1133" tvg-name="神户鹳鸟 vs 长崎维尔卡" tvg-group="篮球" group-title="篮球",神户鹳鸟 vs 长崎维尔卡
@@ -183,9 +183,7 @@ https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1308" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1309" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1310" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1309" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="Dota2中文·完美世界" tvg-chno="1401" tvg-name="Dota2中文·完美世界" tvg-group="DOTA2" group-title="DOTA2",Dota2中文·完美世界
 http://127.0.0.1:35455/douyu/6829849
