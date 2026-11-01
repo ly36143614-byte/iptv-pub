@@ -22,7 +22,7 @@ http://198.58.104.90:8989/nba/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1103" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="卡拉斯莫吉廖夫B队 vs 戈美尔B队" tvg-chno="1104" tvg-name="卡拉斯莫吉廖夫B队 vs 戈美尔B队" tvg-group="篮球" group-title="篮球",卡拉斯莫吉廖夫B队 vs 戈美尔B队
-http://192.168.5.35:44635/play/5e7f6faa7c79989688115096057b5b723b2f17af
+http://192.168.5.35:44635/play/1c964a372bf9eed210f268be09a61fc636c19763
 #EXTINF:-1 tvg-id="台钢猎鹰 vs 洋基工程" tvg-chno="1105" tvg-name="台钢猎鹰 vs 洋基工程" tvg-group="篮球" group-title="篮球",台钢猎鹰 vs 洋基工程
 http://192.168.5.35:44635/play/3ddf76847cd1776c8b55c3a4abd1121b90f79268
 #EXTINF:-1 tvg-id="台钢猎鹰 vs 洋基工程" tvg-chno="1106" tvg-name="台钢猎鹰 vs 洋基工程" tvg-group="篮球" group-title="篮球",台钢猎鹰 vs 洋基工程
@@ -71,24 +71,20 @@ https://hdl3.ttrr888.com/6cf6e5bd52f04b5db8f63e0a40c3aaed/23651754.m3u8?token=00
 https://hdl3.ttrr888.com/6cf6e5bd52f04b5db8f63e0a40c3aaed/29502165.m3u8?token=007eJxTYGjMnTjl1ZcV%2F1KsnkSsTm62LrE89CZz9Wen6uxNz0%2BUz1VTYDBLTjNLNU1KMTVKMzBJMk1JskgzM041SDQxSDZOTExN%2BfnxWVZDICPDl4L8Y4wMjAwsQAziM4FJZjDJAiY5GIwsTQ2MDM1MORksTI1MLExNzI0AXkYp0Q%3D%3D&userUid=852485472&lts=1793520121531&ttl=86400
 #EXTINF:-1 tvg-id="素可泰 vs 大城联" tvg-chno="1204" tvg-name="素可泰 vs 大城联" tvg-group="足球" group-title="足球",素可泰 vs 大城联
 https://hdl3.ttrr888.com/6cf6e5bd52f04b5db8f63e0a40c3aaed/53785739.m3u8?token=007eJxTYKiZFlg8Z2VsbxuDjfaakjkyc30VhTvWC4pdvcgk0XZ5rpQCg1lymlmqaVKKqVGagUmSaUqSRZqZcapBoolBsnFiYmrKz4%2FPshoCGRnuzJxvzcjAyMACxCA%2BE5hkBpMsYJKDwdTY3MLU3NiSk8HCyMDM2NTS0BAA9cQkQg%3D%3D&userUid=820635911&lts=1793520121382&ttl=86400
-#EXTINF:-1 tvg-id="实皆联 vs 蒂察尔阿尔曼" tvg-chno="1205" tvg-name="实皆联 vs 蒂察尔阿尔曼" tvg-group="足球" group-title="足球",实皆联 vs 蒂察尔阿尔曼
-http://192.168.5.35:44635/play/bbb1dabee7bdab869c41cd4739bd9ad199b1a2fe
-#EXTINF:-1 tvg-id="实皆联 vs 蒂察尔阿尔曼" tvg-chno="1206" tvg-name="实皆联 vs 蒂察尔阿尔曼" tvg-group="足球" group-title="足球",实皆联 vs 蒂察尔阿尔曼
-http://192.168.5.35:44635/play/14609bc9201e660447500aba740baf948ed8b509
-#EXTINF:-1 tvg-id="汉达瓦迪联 vs 治尼兰德" tvg-chno="1207" tvg-name="汉达瓦迪联 vs 治尼兰德" tvg-group="足球" group-title="足球",汉达瓦迪联 vs 治尼兰德
-http://192.168.5.35:44635/play/cf28d12ab2a895bb5e75551ccebab3009d15fea4
-#EXTINF:-1 tvg-id="汉达瓦迪联 vs 治尼兰德" tvg-chno="1208" tvg-name="汉达瓦迪联 vs 治尼兰德" tvg-group="足球" group-title="足球",汉达瓦迪联 vs 治尼兰德
-http://192.168.5.35:44635/play/174b072c1730c7b4bbdb2349a3c2a3e4bf99cd84
-#EXTINF:-1 tvg-id="洛钦 vs 贝科博德冶金" tvg-chno="1209" tvg-name="洛钦 vs 贝科博德冶金" tvg-group="足球" group-title="足球",洛钦 vs 贝科博德冶金
+#EXTINF:-1 tvg-id="伊斯洛奇 vs 斯拉维亚莫兹里" tvg-chno="1205" tvg-name="伊斯洛奇 vs 斯拉维亚莫兹里" tvg-group="足球" group-title="足球",伊斯洛奇 vs 斯拉维亚莫兹里
+http://192.168.5.35:44635/play/7c776df327c69e78f3a8eaa2d390bee8eb236992
+#EXTINF:-1 tvg-id="伊斯洛奇 vs 斯拉维亚莫兹里" tvg-chno="1206" tvg-name="伊斯洛奇 vs 斯拉维亚莫兹里" tvg-group="足球" group-title="足球",伊斯洛奇 vs 斯拉维亚莫兹里
+http://192.168.5.35:44635/play/483ed6429b3eb073bc6801dad099b55ec9c867bc
+#EXTINF:-1 tvg-id="洛钦 vs 贝科博德冶金" tvg-chno="1207" tvg-name="洛钦 vs 贝科博德冶金" tvg-group="足球" group-title="足球",洛钦 vs 贝科博德冶金
 http://192.168.5.35:44635/play/79c2c63163167114814a56955fcbfffd1f29e66e
-#EXTINF:-1 tvg-id="洛钦 vs 贝科博德冶金" tvg-chno="1210" tvg-name="洛钦 vs 贝科博德冶金" tvg-group="足球" group-title="足球",洛钦 vs 贝科博德冶金
+#EXTINF:-1 tvg-id="洛钦 vs 贝科博德冶金" tvg-chno="1208" tvg-name="洛钦 vs 贝科博德冶金" tvg-group="足球" group-title="足球",洛钦 vs 贝科博德冶金
 http://192.168.5.35:44635/play/52dbf660cf9b66e1111bc0a8d23771458eb55262
-#EXTINF:-1 tvg-id="洛钦 vs 贝科博德冶金" tvg-chno="1211" tvg-name="洛钦 vs 贝科博德冶金" tvg-group="足球" group-title="足球",洛钦 vs 贝科博德冶金·直播
+#EXTINF:-1 tvg-id="洛钦 vs 贝科博德冶金" tvg-chno="1209" tvg-name="洛钦 vs 贝科博德冶金" tvg-group="足球" group-title="足球",洛钦 vs 贝科博德冶金·直播
 https://hdl3.ttrr888.com/6cf6e5bd52f04b5db8f63e0a40c3aaed/12146693.m3u8?token=007eJxTYFhkOatkbyx3uWhkSbd5erVPZMv3sMK7KnJ7vqm3%2BXEZRSowmCWnmaWaJqWYGqUZmCSZpiRZpJkZpxokmhgkGycmpqb8%2BPgsqyGQkeGoYEg%2FIwMjAwsQg%2FhMYJIZTLKASQ4GQyNDEzMzS2NOBktDC1MLQ3NLEwDvYyPq&userUid=918581794&lts=1793520120992&ttl=86400
-#EXTINF:-1 tvg-id="费尔干纳国立大学 vs 雅潘FK" tvg-chno="1212" tvg-name="费尔干纳国立大学 vs 雅潘FK" tvg-group="足球" group-title="足球",费尔干纳国立大学 vs 雅潘FK
-http://192.168.5.35:44635/play/c8dab4e8a65a6aa549ed90c7af505fbd44a31750
-#EXTINF:-1 tvg-id="费尔干纳国立大学 vs 雅潘FK" tvg-chno="1213" tvg-name="费尔干纳国立大学 vs 雅潘FK" tvg-group="足球" group-title="足球",费尔干纳国立大学 vs 雅潘FK
-http://192.168.5.35:44635/play/66089f3fca80a2bf145aab2af9768586d7f92edf
+#EXTINF:-1 tvg-id="润梅尔青森 vs 天籁枚方" tvg-chno="1210" tvg-name="润梅尔青森 vs 天籁枚方" tvg-group="足球" group-title="足球",润梅尔青森 vs 天籁枚方
+http://192.168.5.35:44635/play/9429085001dab2231c23892a356a82529b98bad5
+#EXTINF:-1 tvg-id="润梅尔青森 vs 天籁枚方" tvg-chno="1211" tvg-name="润梅尔青森 vs 天籁枚方" tvg-group="足球" group-title="足球",润梅尔青森 vs 天籁枚方
+http://192.168.5.35:44635/play/d604bae8f63da93d70e91a8a7ffb4d8c709049a1
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1301" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1302" tvg-name="ESPN" tvg-group="体育综合" group-title="体育综合",ESPN
