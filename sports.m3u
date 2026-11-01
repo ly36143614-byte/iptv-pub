@@ -55,59 +55,47 @@ http://192.168.5.35:44635/play/b7b93fe189984efb72676a101b677cc1e3605897
 http://192.168.5.35:44635/play/3dd5af50df6fe262ed1e7e703881ed7b3bb0626f
 #EXTINF:-1 tvg-id="费内巴切 vs 托法斯" tvg-chno="1120" tvg-name="费内巴切 vs 托法斯" tvg-group="篮球" group-title="篮球",费内巴切 vs 托法斯
 http://192.168.5.35:44635/play/49772de322a6a999541bf412008d4c48f73944d6
-#EXTINF:-1 tvg-id="赫塔菲 vs 塞维利亚" tvg-chno="1201" tvg-name="赫塔菲 vs 塞维利亚" tvg-group="足球" group-title="足球",赫塔菲 vs 塞维利亚·咪咕直播
-https://hlsz.yjjcfw.com/live/00586136.m3u8?expire=1793554471&sign=5fa660970690dc21a73edfa4cd960e51
-#EXTINF:-1 tvg-id="云南玉昆 vs 大连英博" tvg-chno="1202" tvg-name="云南玉昆 vs 大连英博" tvg-group="足球" group-title="足球",云南玉昆 vs 大连英博·咪咕直播
-https://hlsz.yjjcfw.com/live/00592213.m3u8?expire=1793554455&sign=f2461e575e937660e37a477a18214766
-#EXTINF:-1 tvg-id="休尼克FC vs 诺亚FC" tvg-chno="1203" tvg-name="休尼克FC vs 诺亚FC" tvg-group="足球" group-title="足球",休尼克FC vs 诺亚FC
-http://192.168.5.35:44635/play/de482352ebf8b3fdc51cb516f4580b8c91db5403
-#EXTINF:-1 tvg-id="休尼克FC vs 诺亚FC" tvg-chno="1204" tvg-name="休尼克FC vs 诺亚FC" tvg-group="足球" group-title="足球",休尼克FC vs 诺亚FC
-http://192.168.5.35:44635/play/afdc42a6488b4050b525c5dcae89c085c229abf0
-#EXTINF:-1 tvg-id="伦敦城雌狮女足 vs 曼彻斯特城女足" tvg-chno="1205" tvg-name="伦敦城雌狮女足 vs 曼彻斯特城女足" tvg-group="足球" group-title="足球",伦敦城雌狮女足 vs 曼彻斯特城女足
-http://192.168.5.35:44635/play/831516e89c37fcf738ce8c44bb5fc904aed2de67
-#EXTINF:-1 tvg-id="伦敦城雌狮女足 vs 曼彻斯特城女足" tvg-chno="1206" tvg-name="伦敦城雌狮女足 vs 曼彻斯特城女足" tvg-group="足球" group-title="足球",伦敦城雌狮女足 vs 曼彻斯特城女足
-http://192.168.5.35:44635/play/600a07d81725a9a81a3774c54177c7732443b81b
-#EXTINF:-1 tvg-id="努库斯咸海 vs FK加扎尔肯特" tvg-chno="1207" tvg-name="努库斯咸海 vs FK加扎尔肯特" tvg-group="足球" group-title="足球",努库斯咸海 vs FK加扎尔肯特
-http://192.168.5.35:44635/play/39fe705d10a759a3c88d874d4ae61f738ccc3bdb
-#EXTINF:-1 tvg-id="努库斯咸海 vs FK加扎尔肯特" tvg-chno="1208" tvg-name="努库斯咸海 vs FK加扎尔肯特" tvg-group="足球" group-title="足球",努库斯咸海 vs FK加扎尔肯特
-http://192.168.5.35:44635/play/aba7883780077d689f452f42d294b56a94d6a594
-#EXTINF:-1 tvg-id="孟买城 vs 德里体育" tvg-chno="1209" tvg-name="孟买城 vs 德里体育" tvg-group="足球" group-title="足球",孟买城 vs 德里体育
-http://192.168.5.35:44635/play/7f74a35a745b3bf46a03eefee3f1ffd5d2f69f2f
-#EXTINF:-1 tvg-id="孟买城 vs 德里体育" tvg-chno="1210" tvg-name="孟买城 vs 德里体育" tvg-group="足球" group-title="足球",孟买城 vs 德里体育
-http://192.168.5.35:44635/play/b4d6f627963c9bddb2125d6ceba3b7cbe85917f9
-#EXTINF:-1 tvg-id="安远队 vs 全南队" tvg-chno="1211" tvg-name="安远队 vs 全南队" tvg-group="足球" group-title="足球",安远队 vs 全南队
-http://192.168.5.35:44635/play/74dc650a529e08b8c3a5eb64218a3bbc44854e16
-#EXTINF:-1 tvg-id="安远队 vs 全南队" tvg-chno="1212" tvg-name="安远队 vs 全南队" tvg-group="足球" group-title="足球",安远队 vs 全南队
-http://192.168.5.35:44635/play/8cdeab1d0fde3ccd0159ba73f83ee068f082f62c
-#EXTINF:-1 tvg-id="昌江队 vs 陵水队" tvg-chno="1213" tvg-name="昌江队 vs 陵水队" tvg-group="足球" group-title="足球",昌江队 vs 陵水队
-http://192.168.5.35:44635/play/a864514f482766929d8166f6a41dcae997db7edb
-#EXTINF:-1 tvg-id="昌江队 vs 陵水队" tvg-chno="1214" tvg-name="昌江队 vs 陵水队" tvg-group="足球" group-title="足球",昌江队 vs 陵水队
-http://192.168.5.35:44635/play/7accd8c3d1265ff6f8a534a843096f6c85c0e24c
-#EXTINF:-1 tvg-id="明斯克迪纳摩 vs 格罗德诺" tvg-chno="1215" tvg-name="明斯克迪纳摩 vs 格罗德诺" tvg-group="足球" group-title="足球",明斯克迪纳摩 vs 格罗德诺
-http://192.168.5.35:44635/play/a136a9f5dc7eb8fd35c731baaf6013d571d96fc7
-#EXTINF:-1 tvg-id="明斯克迪纳摩 vs 格罗德诺" tvg-chno="1216" tvg-name="明斯克迪纳摩 vs 格罗德诺" tvg-group="足球" group-title="足球",明斯克迪纳摩 vs 格罗德诺
-http://192.168.5.35:44635/play/82e37533588a5c2635f8eef926eaede92d87134a
-#EXTINF:-1 tvg-id="明斯克迪纳摩B队 vs 索利戈尔斯克矿工" tvg-chno="1217" tvg-name="明斯克迪纳摩B队 vs 索利戈尔斯克矿工" tvg-group="足球" group-title="足球",明斯克迪纳摩B队 vs 索利戈尔斯克矿工
-http://192.168.5.35:44635/play/6a6499ae8d0bcdd1a02c3b4337c2586df2d91a21
-#EXTINF:-1 tvg-id="明斯克迪纳摩B队 vs 索利戈尔斯克矿工" tvg-chno="1218" tvg-name="明斯克迪纳摩B队 vs 索利戈尔斯克矿工" tvg-group="足球" group-title="足球",明斯克迪纳摩B队 vs 索利戈尔斯克矿工
-http://192.168.5.35:44635/play/ff923746959ca48fe62b63507efa736aa7148036
-#EXTINF:-1 tvg-id="淡滨尼流浪者 vs 芽笼国际" tvg-chno="1219" tvg-name="淡滨尼流浪者 vs 芽笼国际" tvg-group="足球" group-title="足球",淡滨尼流浪者 vs 芽笼国际
-http://192.168.5.35:44635/play/e8ed1f42c48640d750a9ffb5e512d1931a3c6748
-#EXTINF:-1 tvg-id="淡滨尼流浪者 vs 芽笼国际" tvg-chno="1220" tvg-name="淡滨尼流浪者 vs 芽笼国际" tvg-group="足球" group-title="足球",淡滨尼流浪者 vs 芽笼国际
-http://192.168.5.35:44635/play/e29165bc3c9a2d736a02f22935c8cb8d67364620
-#EXTINF:-1 tvg-id="科森扎 vs 国际米兰U23" tvg-chno="1221" tvg-name="科森扎 vs 国际米兰U23" tvg-group="足球" group-title="足球",科森扎 vs 国际米兰U23
-http://192.168.5.35:44635/play/b1b71140c10e9a383ec5bc57c28c836186c1448f
-#EXTINF:-1 tvg-id="科森扎 vs 国际米兰U23" tvg-chno="1222" tvg-name="科森扎 vs 国际米兰U23" tvg-group="足球" group-title="足球",科森扎 vs 国际米兰U23
-http://192.168.5.35:44635/play/0f8e51389106e8904820032870d8f3c73c0c597a
-#EXTINF:-1 tvg-id="科莫 vs 威尼斯" tvg-chno="1223" tvg-name="科莫 vs 威尼斯" tvg-group="足球" group-title="足球",科莫 vs 威尼斯·咪咕直播
+#EXTINF:-1 tvg-id="科莫 vs 威尼斯" tvg-chno="1201" tvg-name="科莫 vs 威尼斯" tvg-group="足球" group-title="足球",科莫 vs 威尼斯·咪咕直播
 https://hlsz.yjjcfw.com/live/00584809.m3u8?expire=1793554447&sign=1196a79a5da302a10a90f0c489acf3bc
-#EXTINF:-1 tvg-id="阿森纳女足 vs 阿斯顿维拉女足" tvg-chno="1224" tvg-name="阿森纳女足 vs 阿斯顿维拉女足" tvg-group="足球" group-title="足球",阿森纳女足 vs 阿斯顿维拉女足
+#EXTINF:-1 tvg-id="赫塔菲 vs 塞维利亚" tvg-chno="1202" tvg-name="赫塔菲 vs 塞维利亚" tvg-group="足球" group-title="足球",赫塔菲 vs 塞维利亚·咪咕直播
+https://hlsz.yjjcfw.com/live/00586136.m3u8?expire=1793554471&sign=5fa660970690dc21a73edfa4cd960e51
+#EXTINF:-1 tvg-id="云南玉昆 vs 大连英博" tvg-chno="1203" tvg-name="云南玉昆 vs 大连英博" tvg-group="足球" group-title="足球",云南玉昆 vs 大连英博·咪咕直播
+https://hlsz.yjjcfw.com/live/00592213.m3u8?expire=1793554455&sign=f2461e575e937660e37a477a18214766
+#EXTINF:-1 tvg-id="休尼克FC vs 诺亚FC" tvg-chno="1204" tvg-name="休尼克FC vs 诺亚FC" tvg-group="足球" group-title="足球",休尼克FC vs 诺亚FC
+http://192.168.5.35:44635/play/de482352ebf8b3fdc51cb516f4580b8c91db5403
+#EXTINF:-1 tvg-id="休尼克FC vs 诺亚FC" tvg-chno="1205" tvg-name="休尼克FC vs 诺亚FC" tvg-group="足球" group-title="足球",休尼克FC vs 诺亚FC
+http://192.168.5.35:44635/play/afdc42a6488b4050b525c5dcae89c085c229abf0
+#EXTINF:-1 tvg-id="伦敦城雌狮女足 vs 曼彻斯特城女足" tvg-chno="1206" tvg-name="伦敦城雌狮女足 vs 曼彻斯特城女足" tvg-group="足球" group-title="足球",伦敦城雌狮女足 vs 曼彻斯特城女足
+http://192.168.5.35:44635/play/831516e89c37fcf738ce8c44bb5fc904aed2de67
+#EXTINF:-1 tvg-id="伦敦城雌狮女足 vs 曼彻斯特城女足" tvg-chno="1207" tvg-name="伦敦城雌狮女足 vs 曼彻斯特城女足" tvg-group="足球" group-title="足球",伦敦城雌狮女足 vs 曼彻斯特城女足
+http://192.168.5.35:44635/play/600a07d81725a9a81a3774c54177c7732443b81b
+#EXTINF:-1 tvg-id="努库斯咸海 vs FK加扎尔肯特" tvg-chno="1208" tvg-name="努库斯咸海 vs FK加扎尔肯特" tvg-group="足球" group-title="足球",努库斯咸海 vs FK加扎尔肯特
+http://192.168.5.35:44635/play/39fe705d10a759a3c88d874d4ae61f738ccc3bdb
+#EXTINF:-1 tvg-id="努库斯咸海 vs FK加扎尔肯特" tvg-chno="1209" tvg-name="努库斯咸海 vs FK加扎尔肯特" tvg-group="足球" group-title="足球",努库斯咸海 vs FK加扎尔肯特
+http://192.168.5.35:44635/play/aba7883780077d689f452f42d294b56a94d6a594
+#EXTINF:-1 tvg-id="安远队 vs 全南队" tvg-chno="1210" tvg-name="安远队 vs 全南队" tvg-group="足球" group-title="足球",安远队 vs 全南队
+http://192.168.5.35:44635/play/74dc650a529e08b8c3a5eb64218a3bbc44854e16
+#EXTINF:-1 tvg-id="安远队 vs 全南队" tvg-chno="1211" tvg-name="安远队 vs 全南队" tvg-group="足球" group-title="足球",安远队 vs 全南队
+http://192.168.5.35:44635/play/8cdeab1d0fde3ccd0159ba73f83ee068f082f62c
+#EXTINF:-1 tvg-id="昌江队 vs 陵水队" tvg-chno="1212" tvg-name="昌江队 vs 陵水队" tvg-group="足球" group-title="足球",昌江队 vs 陵水队
+http://192.168.5.35:44635/play/a864514f482766929d8166f6a41dcae997db7edb
+#EXTINF:-1 tvg-id="昌江队 vs 陵水队" tvg-chno="1213" tvg-name="昌江队 vs 陵水队" tvg-group="足球" group-title="足球",昌江队 vs 陵水队
+http://192.168.5.35:44635/play/7accd8c3d1265ff6f8a534a843096f6c85c0e24c
+#EXTINF:-1 tvg-id="明斯克迪纳摩 vs 格罗德诺" tvg-chno="1214" tvg-name="明斯克迪纳摩 vs 格罗德诺" tvg-group="足球" group-title="足球",明斯克迪纳摩 vs 格罗德诺
+http://192.168.5.35:44635/play/a136a9f5dc7eb8fd35c731baaf6013d571d96fc7
+#EXTINF:-1 tvg-id="明斯克迪纳摩 vs 格罗德诺" tvg-chno="1215" tvg-name="明斯克迪纳摩 vs 格罗德诺" tvg-group="足球" group-title="足球",明斯克迪纳摩 vs 格罗德诺
+http://192.168.5.35:44635/play/82e37533588a5c2635f8eef926eaede92d87134a
+#EXTINF:-1 tvg-id="淡滨尼流浪者 vs 芽笼国际" tvg-chno="1216" tvg-name="淡滨尼流浪者 vs 芽笼国际" tvg-group="足球" group-title="足球",淡滨尼流浪者 vs 芽笼国际
+http://192.168.5.35:44635/play/e8ed1f42c48640d750a9ffb5e512d1931a3c6748
+#EXTINF:-1 tvg-id="淡滨尼流浪者 vs 芽笼国际" tvg-chno="1217" tvg-name="淡滨尼流浪者 vs 芽笼国际" tvg-group="足球" group-title="足球",淡滨尼流浪者 vs 芽笼国际
+http://192.168.5.35:44635/play/e29165bc3c9a2d736a02f22935c8cb8d67364620
+#EXTINF:-1 tvg-id="阿森纳女足 vs 阿斯顿维拉女足" tvg-chno="1218" tvg-name="阿森纳女足 vs 阿斯顿维拉女足" tvg-group="足球" group-title="足球",阿森纳女足 vs 阿斯顿维拉女足
 http://192.168.5.35:44635/play/e9174c45abc9ba783527ae9c4892ad1786e9e5e5
-#EXTINF:-1 tvg-id="阿森纳女足 vs 阿斯顿维拉女足" tvg-chno="1225" tvg-name="阿森纳女足 vs 阿斯顿维拉女足" tvg-group="足球" group-title="足球",阿森纳女足 vs 阿斯顿维拉女足
+#EXTINF:-1 tvg-id="阿森纳女足 vs 阿斯顿维拉女足" tvg-chno="1219" tvg-name="阿森纳女足 vs 阿斯顿维拉女足" tvg-group="足球" group-title="足球",阿森纳女足 vs 阿斯顿维拉女足
 http://192.168.5.35:44635/play/9778e929031950992b105b400946f957fa00dc14
-#EXTINF:-1 tvg-id="马里士他卡沙 vs 狮城水手" tvg-chno="1226" tvg-name="马里士他卡沙 vs 狮城水手" tvg-group="足球" group-title="足球",马里士他卡沙 vs 狮城水手
+#EXTINF:-1 tvg-id="马里士他卡沙 vs 狮城水手" tvg-chno="1220" tvg-name="马里士他卡沙 vs 狮城水手" tvg-group="足球" group-title="足球",马里士他卡沙 vs 狮城水手
 http://192.168.5.35:44635/play/ad3a15f2605f226ae7862cca3f029b7bd5a0a215
-#EXTINF:-1 tvg-id="马里士他卡沙 vs 狮城水手" tvg-chno="1227" tvg-name="马里士他卡沙 vs 狮城水手" tvg-group="足球" group-title="足球",马里士他卡沙 vs 狮城水手
+#EXTINF:-1 tvg-id="马里士他卡沙 vs 狮城水手" tvg-chno="1221" tvg-name="马里士他卡沙 vs 狮城水手" tvg-group="足球" group-title="足球",马里士他卡沙 vs 狮城水手
 http://192.168.5.35:44635/play/3effd377588c06e77e4df00c4eac2b2e583a6023
 #EXTINF:-1 tvg-id="NFL·Network" tvg-chno="1301" tvg-name="NFL·Network" tvg-group="综合体育" group-title="综合体育",NFL·Network
 http://198.58.104.90:8989/nfl/index.m3u8
