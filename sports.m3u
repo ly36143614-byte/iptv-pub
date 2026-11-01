@@ -156,7 +156,7 @@ http://192.168.5.35:44635/play/f71a5dc1083bfffd93b00c85f2bc7bd59f84a1dd
 #EXTINF:-1 tvg-id="浦项铁人 vs 济州SK" tvg-chno="1230" tvg-name="浦项铁人 vs 济州SK" tvg-group="足球" group-title="足球",浦项铁人 vs 济州SK
 http://192.168.5.35:44635/play/fd195cfb693ab92749b1fc8110925b3de603016e
 #EXTINF:-1 tvg-id="浦项铁人 vs 济州SK" tvg-chno="1231" tvg-name="浦项铁人 vs 济州SK" tvg-group="足球" group-title="足球",浦项铁人 vs 济州SK·腾讯直播
-https://pul-tenm.gkykp.com/live/sd-1-4662784.m3u8?txSecret=3aae68b5c9fa85ece3487f8f808729ff&txTime=6AE82ED9
+https://pul-tenm.gkykp.com/live/sd-1-4662784.m3u8?txSecret=46849b69eee590e2d357aa33cca318f6&txTime=6AE831A9
 #EXTINF:-1 tvg-id="神户胜利船U21 vs 磐田喜悦U21" tvg-chno="1232" tvg-name="神户胜利船U21 vs 磐田喜悦U21" tvg-group="足球" group-title="足球",神户胜利船U21 vs 磐田喜悦U21
 http://192.168.5.35:44635/play/82dfeb7c07e64831ae8b07ce23c0784b8b28f4ac
 #EXTINF:-1 tvg-id="神户胜利船U21 vs 磐田喜悦U21" tvg-chno="1233" tvg-name="神户胜利船U21 vs 磐田喜悦U21" tvg-group="足球" group-title="足球",神户胜利船U21 vs 磐田喜悦U21
@@ -166,7 +166,7 @@ http://192.168.5.35:44635/play/e3143516c4aa5e83bdd265ec8fb10297c1ba9fc2
 #EXTINF:-1 tvg-id="蔚山HD vs 江原FC" tvg-chno="1235" tvg-name="蔚山HD vs 江原FC" tvg-group="足球" group-title="足球",蔚山HD vs 江原FC
 http://192.168.5.35:44635/play/ae82741751d0310bb2af1940a8cd6efa664447a6
 #EXTINF:-1 tvg-id="蔚山HD vs 江原FC" tvg-chno="1236" tvg-name="蔚山HD vs 江原FC" tvg-group="足球" group-title="足球",蔚山HD vs 江原FC·腾讯直播
-https://pul-tenm.gkykp.com/live/sd-1-4662783.m3u8?txSecret=4a004688fd222d8e308828aca6a4aac2&txTime=6AE82ED9
+https://pul-tenm.gkykp.com/live/sd-1-4662783.m3u8?txSecret=b900319df44b9ade98c6370827b87370&txTime=6AE831A9
 #EXTINF:-1 tvg-id="蔚山市民 vs 昌原" tvg-chno="1237" tvg-name="蔚山市民 vs 昌原" tvg-group="足球" group-title="足球",蔚山市民 vs 昌原
 http://192.168.5.35:44635/play/da7055bbcaaaf15f6e6ef545f6d7302131ddffc7
 #EXTINF:-1 tvg-id="蔚山市民 vs 昌原" tvg-chno="1238" tvg-name="蔚山市民 vs 昌原" tvg-group="足球" group-title="足球",蔚山市民 vs 昌原
@@ -185,15 +185,13 @@ http://198.58.104.90:8989/nfl/index.m3u8
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NBC" tvg-chno="1305" tvg-name="NBC" tvg-group="体育综合" group-title="体育综合",NBC
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
-#EXTINF:-1 tvg-id="F1·Formula" tvg-chno="1306" tvg-name="F1·Formula" tvg-group="体育综合" group-title="体育综合",F1·Formula
-https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
-#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1307" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
+#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1306" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1308" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1307" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1309" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1308" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1310" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1309" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="Dota2中文·完美世界" tvg-chno="1401" tvg-name="Dota2中文·完美世界" tvg-group="DOTA2" group-title="DOTA2",Dota2中文·完美世界
 http://127.0.0.1:35455/douyu/6829849
