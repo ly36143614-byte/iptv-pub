@@ -72,7 +72,7 @@ http://192.168.5.35:44635/play/3fbfd6c525cbda5df56c9c1b11df1dbab7c7ce1f
 #EXTINF:-1 tvg-id="首尔三星雷电 vs 首尔SK骑士" tvg-chno="1128" tvg-name="首尔三星雷电 vs 首尔SK骑士" tvg-group="篮球" group-title="篮球",首尔三星雷电 vs 首尔SK骑士
 http://192.168.5.35:44635/play/6b15cbd5b611de0c4283fc73433a4442d51801a9
 #EXTINF:-1 tvg-id="首尔三星雷电 vs 首尔SK骑士" tvg-chno="1129" tvg-name="首尔三星雷电 vs 首尔SK骑士" tvg-group="篮球" group-title="篮球",首尔三星雷电 vs 首尔SK骑士·腾讯直播
-https://pul-tenm.gkykp.com/live/sd-2-3933554.m3u8?txSecret=455aad0715fe3226fbcaa0183bd52a80&txTime=6AE84DC9
+https://pul-tenm.gkykp.com/live/sd-2-3933554.m3u8?txSecret=03bfcaf6928f23905fbff7c7ece30ca6&txTime=6AE85099
 #EXTINF:-1 tvg-id="高雄海神 vs 新北中信特攻" tvg-chno="1130" tvg-name="高雄海神 vs 新北中信特攻" tvg-group="篮球" group-title="篮球",高雄海神 vs 新北中信特攻
 http://192.168.5.35:44635/play/b31a08336adf4f9b7699ff74b487e95e65dbe2fa
 #EXTINF:-1 tvg-id="高雄海神 vs 新北中信特攻" tvg-chno="1131" tvg-name="高雄海神 vs 新北中信特攻" tvg-group="篮球" group-title="篮球",高雄海神 vs 新北中信特攻
@@ -84,7 +84,7 @@ http://192.168.5.35:44635/play/c9e958f823ac45530aed41fd3990946a43b3d67c
 #EXTINF:-1 tvg-id="FC首尔 vs 仁川联" tvg-chno="1203" tvg-name="FC首尔 vs 仁川联" tvg-group="足球" group-title="足球",FC首尔 vs 仁川联
 http://192.168.5.35:44635/play/3adaf4da9f8f17c3c8c9e6f27d396fabefe2df0a
 #EXTINF:-1 tvg-id="FC首尔 vs 仁川联" tvg-chno="1204" tvg-name="FC首尔 vs 仁川联" tvg-group="足球" group-title="足球",FC首尔 vs 仁川联·腾讯直播
-https://pul-tenm.gkykp.com/live/sd-1-4662785.m3u8?txSecret=b83529a3604ada2cc6182dc48dcb5570&txTime=6AE84DC9
+https://pul-tenm.gkykp.com/live/sd-1-4662785.m3u8?txSecret=0d89569bb53ec6cb1ec80f7d7d286fb7&txTime=6AE85099
 #EXTINF:-1 tvg-id="克布多 vs 科布多西部" tvg-chno="1205" tvg-name="克布多 vs 科布多西部" tvg-group="足球" group-title="足球",克布多 vs 科布多西部
 http://192.168.5.35:44635/play/2b426efe99203c74d689bac5cfbf0ef740838d79
 #EXTINF:-1 tvg-id="克布多 vs 科布多西部" tvg-chno="1206" tvg-name="克布多 vs 科布多西部" tvg-group="足球" group-title="足球",克布多 vs 科布多西部
@@ -106,7 +106,7 @@ http://192.168.5.35:44635/play/c235256ae4f10c847c3e0247571cd63e59fe477d
 #EXTINF:-1 tvg-id="安养FC vs 富川FC" tvg-chno="1214" tvg-name="安养FC vs 富川FC" tvg-group="足球" group-title="足球",安养FC vs 富川FC
 http://192.168.5.35:44635/play/fd080e1508ad4ee22e5ecb33976408f01e9280a7
 #EXTINF:-1 tvg-id="安养FC vs 富川FC" tvg-chno="1215" tvg-name="安养FC vs 富川FC" tvg-group="足球" group-title="足球",安养FC vs 富川FC·腾讯直播
-https://pul-tenm.gkykp.com/live/sd-1-4662786.m3u8?txSecret=640a45415477ee478424daaf0b7ff983&txTime=6AE84DC9
+https://pul-tenm.gkykp.com/live/sd-1-4662786.m3u8?txSecret=f572bb9e93f805b9d2a25a362d307c4a&txTime=6AE85099
 #EXTINF:-1 tvg-id="忠北清州 vs 坡州前线" tvg-chno="1216" tvg-name="忠北清州 vs 坡州前线" tvg-group="足球" group-title="足球",忠北清州 vs 坡州前线
 http://192.168.5.35:44635/play/0036517c76a0237c1312a5dd07876d4b12b3d03a
 #EXTINF:-1 tvg-id="忠北清州 vs 坡州前线" tvg-chno="1217" tvg-name="忠北清州 vs 坡州前线" tvg-group="足球" group-title="足球",忠北清州 vs 坡州前线
@@ -137,21 +137,17 @@ http://192.168.5.35:44635/play/0507ed373c5b0864606cbc7f37e4522dd2b652ef
 http://192.168.5.35:44635/play/c7e67ff553d1fde46e03ae7139217533c313f598
 #EXTINF:-1 tvg-id="珀斯光荣 vs 阿德莱德联" tvg-chno="1230" tvg-name="珀斯光荣 vs 阿德莱德联" tvg-group="足球" group-title="足球",珀斯光荣 vs 阿德莱德联
 http://192.168.5.35:44635/play/de0457d0920f4c80ce7ddff0c13526a39fb1fd57
-#EXTINF:-1 tvg-id="町田泽维亚 vs 大阪钢巴" tvg-chno="1231" tvg-name="町田泽维亚 vs 大阪钢巴" tvg-group="足球" group-title="足球",町田泽维亚 vs 大阪钢巴
-http://192.168.5.35:44635/play/c9162d3fb259a6d69dff0f5ef00cf520fc064428
+#EXTINF:-1 tvg-id="珀斯光荣 vs 阿德莱德联" tvg-chno="1231" tvg-name="珀斯光荣 vs 阿德莱德联" tvg-group="足球" group-title="足球",珀斯光荣 vs 阿德莱德联·腾讯直播
+https://pul-tenm.gkykp.com/live/sd-1-4590469.m3u8?txSecret=c1632ba67ad778d71e4d575178b2ded5&txTime=6AE85099
 #EXTINF:-1 tvg-id="町田泽维亚 vs 大阪钢巴" tvg-chno="1232" tvg-name="町田泽维亚 vs 大阪钢巴" tvg-group="足球" group-title="足球",町田泽维亚 vs 大阪钢巴
+http://192.168.5.35:44635/play/c9162d3fb259a6d69dff0f5ef00cf520fc064428
+#EXTINF:-1 tvg-id="町田泽维亚 vs 大阪钢巴" tvg-chno="1233" tvg-name="町田泽维亚 vs 大阪钢巴" tvg-group="足球" group-title="足球",町田泽维亚 vs 大阪钢巴
 http://192.168.5.35:44635/play/b7999662f755477d1d8f1b4ee50641d7286c25ac
-#EXTINF:-1 tvg-id="町田泽维亚 vs 大阪钢巴" tvg-chno="1233" tvg-name="町田泽维亚 vs 大阪钢巴" tvg-group="足球" group-title="足球",町田泽维亚 vs 大阪钢巴·腾讯直播
-https://pul-tenm.gkykp.com/live/sd-1-4555303.m3u8?txSecret=3cb9f85be5eda0ebc623f98408369bee&txTime=6AE84DC9
-#EXTINF:-1 tvg-id="赣州经开区队 vs 大余队" tvg-chno="1234" tvg-name="赣州经开区队 vs 大余队" tvg-group="足球" group-title="足球",赣州经开区队 vs 大余队
-http://192.168.5.35:44635/play/dd50cd0e4a4f52c11cdb959f9bc6258792a0b004
-#EXTINF:-1 tvg-id="赣州经开区队 vs 大余队" tvg-chno="1235" tvg-name="赣州经开区队 vs 大余队" tvg-group="足球" group-title="足球",赣州经开区队 vs 大余队
-http://192.168.5.35:44635/play/39ed212661db08411a588e0caba13499d4028e0a
-#EXTINF:-1 tvg-id="金海 vs 天安城" tvg-chno="1236" tvg-name="金海 vs 天安城" tvg-group="足球" group-title="足球",金海 vs 天安城
+#EXTINF:-1 tvg-id="金海 vs 天安城" tvg-chno="1234" tvg-name="金海 vs 天安城" tvg-group="足球" group-title="足球",金海 vs 天安城
 http://192.168.5.35:44635/play/4826f3098ef861c51438ba52ebb2c7347a55aa12
-#EXTINF:-1 tvg-id="金海 vs 天安城" tvg-chno="1237" tvg-name="金海 vs 天安城" tvg-group="足球" group-title="足球",金海 vs 天安城
+#EXTINF:-1 tvg-id="金海 vs 天安城" tvg-chno="1235" tvg-name="金海 vs 天安城" tvg-group="足球" group-title="足球",金海 vs 天安城
 http://192.168.5.35:44635/play/d9fa01f123cc550a332e30b73695b4b16dbee3fa
-#EXTINF:-1 tvg-id="金海 vs 天安城" tvg-chno="1238" tvg-name="金海 vs 天安城" tvg-group="足球" group-title="足球",金海 vs 天安城·腾讯直播
+#EXTINF:-1 tvg-id="金海 vs 天安城" tvg-chno="1236" tvg-name="金海 vs 天安城" tvg-group="足球" group-title="足球",金海 vs 天安城·腾讯直播
 https://hdl3.ttrr888.com/6cf6e5bd52f04b5db8f63e0a40c3aaed/27149374.m3u8?token=007eJxTYKh1X8sqFPL8Sfrj3z9uJd6%2F9tn8S%2BpDjhVO546GC23e9HS5AoNZcppZqmlSiqlRmoFJkmlKkkWamXGqQaKJQbJxYmJqys%2BPz7IaAhkZeH5rxjMyMDKwADGIzwQmmcEkC5jkYDAyNzSxNDY34WAwNjY0NrY0MgQAPS8pPg%3D%3D&userUid=33133921&lts=1793520121510&ttl=86400
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1301" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
@@ -163,13 +159,15 @@ http://198.58.104.90:8989/nfl/index.m3u8
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NBC" tvg-chno="1305" tvg-name="NBC" tvg-group="体育综合" group-title="体育综合",NBC
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
-#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1306" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
+#EXTINF:-1 tvg-id="F1·Formula" tvg-chno="1306" tvg-name="F1·Formula" tvg-group="体育综合" group-title="体育综合",F1·Formula
+https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
+#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1307" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1307" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1308" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1308" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1309" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1309" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1310" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="Dota2中文·完美世界" tvg-chno="1401" tvg-name="Dota2中文·完美世界" tvg-group="DOTA2" group-title="DOTA2",Dota2中文·完美世界
 http://127.0.0.1:35455/douyu/6829849
