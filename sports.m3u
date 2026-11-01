@@ -21,34 +21,34 @@ http://23.237.104.106:8080/USA_NBA/index.m3u8
 http://198.58.104.90:8989/nba/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1103" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="东南墨尔本凤凰 vs 塔斯马尼亚跳伞蚁" tvg-chno="1104" tvg-name="东南墨尔本凤凰 vs 塔斯马尼亚跳伞蚁" tvg-group="篮球" group-title="篮球",东南墨尔本凤凰 vs 塔斯马尼亚跳伞蚁
+#EXTINF:-1 tvg-id="东京日月女篮 vs 东京羽田酷猫女篮" tvg-chno="1104" tvg-name="东京日月女篮 vs 东京羽田酷猫女篮" tvg-group="篮球" group-title="篮球",东京日月女篮 vs 东京羽田酷猫女篮
+http://192.168.5.35:44635/play/994c97a9796138061fd867c9217b5fe0afb36fe6
+#EXTINF:-1 tvg-id="东南墨尔本凤凰 vs 塔斯马尼亚跳伞蚁" tvg-chno="1105" tvg-name="东南墨尔本凤凰 vs 塔斯马尼亚跳伞蚁" tvg-group="篮球" group-title="篮球",东南墨尔本凤凰 vs 塔斯马尼亚跳伞蚁
 http://192.168.5.35:44635/play/60e509026cb0d466a6405d01534db988bf588116
-#EXTINF:-1 tvg-id="丰田羚羊女篮 vs 丰田阳光女篮" tvg-chno="1105" tvg-name="丰田羚羊女篮 vs 丰田阳光女篮" tvg-group="篮球" group-title="篮球",丰田羚羊女篮 vs 丰田阳光女篮
+#EXTINF:-1 tvg-id="丰田羚羊女篮 vs 丰田阳光女篮" tvg-chno="1106" tvg-name="丰田羚羊女篮 vs 丰田阳光女篮" tvg-group="篮球" group-title="篮球",丰田羚羊女篮 vs 丰田阳光女篮
 http://192.168.5.35:44635/play/5697db89aa228fd993d07c37a3e93cc2a4d35567
-#EXTINF:-1 tvg-id="伊萨贝拉女篮 vs 卡里杜罗斯女篮" tvg-chno="1106" tvg-name="伊萨贝拉女篮 vs 卡里杜罗斯女篮" tvg-group="篮球" group-title="篮球",伊萨贝拉女篮 vs 卡里杜罗斯女篮
-http://192.168.5.35:44635/play/1c456397f56274877cba4de218052870d25c4ec7
 #EXTINF:-1 tvg-id="伊萨贝拉女篮 vs 卡里杜罗斯女篮" tvg-chno="1107" tvg-name="伊萨贝拉女篮 vs 卡里杜罗斯女篮" tvg-group="篮球" group-title="篮球",伊萨贝拉女篮 vs 卡里杜罗斯女篮
+http://192.168.5.35:44635/play/1c456397f56274877cba4de218052870d25c4ec7
+#EXTINF:-1 tvg-id="伊萨贝拉女篮 vs 卡里杜罗斯女篮" tvg-chno="1108" tvg-name="伊萨贝拉女篮 vs 卡里杜罗斯女篮" tvg-group="篮球" group-title="篮球",伊萨贝拉女篮 vs 卡里杜罗斯女篮
 http://192.168.5.35:44635/play/f6c72143e2ab13adc6f881caf8432e792ff5b797
-#EXTINF:-1 tvg-id="南区飞人女篮 vs 阿德莱德闪电女篮" tvg-chno="1108" tvg-name="南区飞人女篮 vs 阿德莱德闪电女篮" tvg-group="篮球" group-title="篮球",南区飞人女篮 vs 阿德莱德闪电女篮
+#EXTINF:-1 tvg-id="南区飞人女篮 vs 阿德莱德闪电女篮" tvg-chno="1109" tvg-name="南区飞人女篮 vs 阿德莱德闪电女篮" tvg-group="篮球" group-title="篮球",南区飞人女篮 vs 阿德莱德闪电女篮
 http://192.168.5.35:44635/play/68c5bb8bef573f630d072f2739352455dbda8afc
-#EXTINF:-1 tvg-id="向日葵女篮 vs 香颂魔术女篮" tvg-chno="1109" tvg-name="向日葵女篮 vs 香颂魔术女篮" tvg-group="篮球" group-title="篮球",向日葵女篮 vs 香颂魔术女篮
+#EXTINF:-1 tvg-id="向日葵女篮 vs 香颂魔术女篮" tvg-chno="1110" tvg-name="向日葵女篮 vs 香颂魔术女篮" tvg-group="篮球" group-title="篮球",向日葵女篮 vs 香颂魔术女篮
 http://192.168.5.35:44635/play/4357c145e69919084f95f965f68f15113429a392
-#EXTINF:-1 tvg-id="女武神 vs 梦想" tvg-chno="1110" tvg-name="女武神 vs 梦想" tvg-group="篮球" group-title="篮球",女武神 vs 梦想
+#EXTINF:-1 tvg-id="坦皮科 vs 恰帕斯自治大学虎猫队" tvg-chno="1111" tvg-name="坦皮科 vs 恰帕斯自治大学虎猫队" tvg-group="篮球" group-title="篮球",坦皮科 vs 恰帕斯自治大学虎猫队
+http://192.168.5.35:44635/play/34d2f622577d62a63ddd48f684f1deb4d976266b
+#EXTINF:-1 tvg-id="女武神 vs 梦想" tvg-chno="1112" tvg-name="女武神 vs 梦想" tvg-group="篮球" group-title="篮球",女武神 vs 梦想
 http://192.168.5.35:44635/play/6a8812caff80237140f00f0eb70dffab4e831351
-#EXTINF:-1 tvg-id="女武神 vs 梦想" tvg-chno="1111" tvg-name="女武神 vs 梦想" tvg-group="篮球" group-title="篮球",女武神 vs 梦想
+#EXTINF:-1 tvg-id="女武神 vs 梦想" tvg-chno="1113" tvg-name="女武神 vs 梦想" tvg-group="篮球" group-title="篮球",女武神 vs 梦想
 http://192.168.5.35:44635/play/c89144ad9b455987b328c3f85b9b6151a4ce0f3a
-#EXTINF:-1 tvg-id="富士通红浪女篮 vs 电装小仙女女篮" tvg-chno="1112" tvg-name="富士通红浪女篮 vs 电装小仙女女篮" tvg-group="篮球" group-title="篮球",富士通红浪女篮 vs 电装小仙女女篮
-http://192.168.5.35:44635/play/a12fbfc44a88c67712cf7594f26af62342506528
-#EXTINF:-1 tvg-id="岛根魔术 vs 广岛蜻蜓" tvg-chno="1113" tvg-name="岛根魔术 vs 广岛蜻蜓" tvg-group="篮球" group-title="篮球",岛根魔术 vs 广岛蜻蜓
-http://192.168.5.35:44635/play/3243cd6906ab21ea64a50be18b1593390a32349b
-#EXTINF:-1 tvg-id="常轮皇后女篮 vs 南方黄眼企鹅女篮" tvg-chno="1114" tvg-name="常轮皇后女篮 vs 南方黄眼企鹅女篮" tvg-group="篮球" group-title="篮球",常轮皇后女篮 vs 南方黄眼企鹅女篮
+#EXTINF:-1 tvg-id="山梨县蜂王女篮 vs 阿兰马雷秋田女篮" tvg-chno="1114" tvg-name="山梨县蜂王女篮 vs 阿兰马雷秋田女篮" tvg-group="篮球" group-title="篮球",山梨县蜂王女篮 vs 阿兰马雷秋田女篮
+http://192.168.5.35:44635/play/0c820b16629abda0bccfd27af70f81316d2466d6
+#EXTINF:-1 tvg-id="常轮皇后女篮 vs 南方黄眼企鹅女篮" tvg-chno="1115" tvg-name="常轮皇后女篮 vs 南方黄眼企鹅女篮" tvg-group="篮球" group-title="篮球",常轮皇后女篮 vs 南方黄眼企鹅女篮
 http://192.168.5.35:44635/play/43f14e13d08541183c516ce0e9dc5f2bef197ec4
-#EXTINF:-1 tvg-id="德岛甘巴罗斯 vs 山形飞龙" tvg-chno="1115" tvg-name="德岛甘巴罗斯 vs 山形飞龙" tvg-group="篮球" group-title="篮球",德岛甘巴罗斯 vs 山形飞龙
+#EXTINF:-1 tvg-id="德岛甘巴罗斯 vs 山形飞龙" tvg-chno="1116" tvg-name="德岛甘巴罗斯 vs 山形飞龙" tvg-group="篮球" group-title="篮球",德岛甘巴罗斯 vs 山形飞龙
 http://192.168.5.35:44635/play/f58b2ec3d193d4b32825cb1bbfd87e0897cc3caa
-#EXTINF:-1 tvg-id="日立美洲狮女篮 vs 爱信飞翼女篮" tvg-chno="1116" tvg-name="日立美洲狮女篮 vs 爱信飞翼女篮" tvg-group="篮球" group-title="篮球",日立美洲狮女篮 vs 爱信飞翼女篮
+#EXTINF:-1 tvg-id="日立美洲狮女篮 vs 爱信飞翼女篮" tvg-chno="1117" tvg-name="日立美洲狮女篮 vs 爱信飞翼女篮" tvg-group="篮球" group-title="篮球",日立美洲狮女篮 vs 爱信飞翼女篮
 http://192.168.5.35:44635/play/cce8ca541c1353059466fda03ad6237071f13b52
-#EXTINF:-1 tvg-id="昌原LG猎隼 vs 原州东浦新世代" tvg-chno="1117" tvg-name="昌原LG猎隼 vs 原州东浦新世代" tvg-group="篮球" group-title="篮球",昌原LG猎隼 vs 原州东浦新世代
-http://192.168.5.35:44635/play/8043963547359710812b26501011a340a2ce890b
 #EXTINF:-1 tvg-id="火箭 vs 雷霆" tvg-chno="1118" tvg-name="火箭 vs 雷霆" tvg-group="篮球" group-title="篮球",火箭 vs 雷霆
 http://192.168.5.35:44635/play/48fac6ec5af1f2156dbd49afa4e1843d88cc97f5
 #EXTINF:-1 tvg-id="火箭 vs 雷霆" tvg-chno="1119" tvg-name="火箭 vs 雷霆" tvg-group="篮球" group-title="篮球",火箭 vs 雷霆
@@ -65,26 +65,26 @@ https://hlsz.yjjcfw.com/live/00588323.m3u8?expire=1793511272&sign=870c655ffb1130
 http://192.168.5.35:44635/play/3d385b8a2a396d909639e19663f3e4528af3e5d6
 #EXTINF:-1 tvg-id="禾巴卡马卡比 vs 马尔文" tvg-chno="1125" tvg-name="禾巴卡马卡比 vs 马尔文" tvg-group="篮球" group-title="篮球",禾巴卡马卡比 vs 马尔文
 http://192.168.5.35:44635/play/90bdabaff0896ff7013166641ec82a994397d950
-#EXTINF:-1 tvg-id="胡安迪亚斯女篮 vs 圣桑图尔奇女篮" tvg-chno="1126" tvg-name="胡安迪亚斯女篮 vs 圣桑图尔奇女篮" tvg-group="篮球" group-title="篮球",胡安迪亚斯女篮 vs 圣桑图尔奇女篮
-http://192.168.5.35:44635/play/1aeebc3a3e862fdbc0783c9cd047d92201426e01
+#EXTINF:-1 tvg-id="纳沃拉托战士 vs 洛斯莫奇斯太阳" tvg-chno="1126" tvg-name="纳沃拉托战士 vs 洛斯莫奇斯太阳" tvg-group="篮球" group-title="篮球",纳沃拉托战士 vs 洛斯莫奇斯太阳
+http://192.168.5.35:44635/play/adfd681da7bcc8fa057a8d3141a988b13f1ead0b
 #EXTINF:-1 tvg-id="胡安迪亚斯女篮 vs 圣桑图尔奇女篮" tvg-chno="1127" tvg-name="胡安迪亚斯女篮 vs 圣桑图尔奇女篮" tvg-group="篮球" group-title="篮球",胡安迪亚斯女篮 vs 圣桑图尔奇女篮
+http://192.168.5.35:44635/play/1aeebc3a3e862fdbc0783c9cd047d92201426e01
+#EXTINF:-1 tvg-id="胡安迪亚斯女篮 vs 圣桑图尔奇女篮" tvg-chno="1128" tvg-name="胡安迪亚斯女篮 vs 圣桑图尔奇女篮" tvg-group="篮球" group-title="篮球",胡安迪亚斯女篮 vs 圣桑图尔奇女篮
 http://192.168.5.35:44635/play/8587addf30c0603ffa1a17e192f0a278f244c4a8
-#EXTINF:-1 tvg-id="雄鹿 vs 骑士" tvg-chno="1128" tvg-name="雄鹿 vs 骑士" tvg-group="篮球" group-title="篮球",雄鹿 vs 骑士
-http://192.168.5.35:44635/play/3f5880425f651fc31ca912fe2ec57ad5b4d17c03
 #EXTINF:-1 tvg-id="雄鹿 vs 骑士" tvg-chno="1129" tvg-name="雄鹿 vs 骑士" tvg-group="篮球" group-title="篮球",雄鹿 vs 骑士
+http://192.168.5.35:44635/play/3f5880425f651fc31ca912fe2ec57ad5b4d17c03
+#EXTINF:-1 tvg-id="雄鹿 vs 骑士" tvg-chno="1130" tvg-name="雄鹿 vs 骑士" tvg-group="篮球" group-title="篮球",雄鹿 vs 骑士
 http://192.168.5.35:44635/play/833bdc2864ec1f4741007ef1663a95a329f7466f
-#EXTINF:-1 tvg-id="雄鹿 vs 骑士" tvg-chno="1130" tvg-name="雄鹿 vs 骑士" tvg-group="篮球" group-title="篮球",雄鹿 vs 骑士·腾讯直播
+#EXTINF:-1 tvg-id="雄鹿 vs 骑士" tvg-chno="1131" tvg-name="雄鹿 vs 骑士" tvg-group="篮球" group-title="篮球",雄鹿 vs 骑士·腾讯直播
 https://hlsz.yjjcfw.com/live/10022600151.m3u8?expire=1793511274&sign=76671f61462c1355c17e6974d26bc29c
-#EXTINF:-1 tvg-id="马刺 vs 森林狼" tvg-chno="1131" tvg-name="马刺 vs 森林狼" tvg-group="篮球" group-title="篮球",马刺 vs 森林狼
-http://192.168.5.35:44635/play/2020cb6f1f1ca8867c7a31f46b97fcf4583ea26f
 #EXTINF:-1 tvg-id="马刺 vs 森林狼" tvg-chno="1132" tvg-name="马刺 vs 森林狼" tvg-group="篮球" group-title="篮球",马刺 vs 森林狼
+http://192.168.5.35:44635/play/2020cb6f1f1ca8867c7a31f46b97fcf4583ea26f
+#EXTINF:-1 tvg-id="马刺 vs 森林狼" tvg-chno="1133" tvg-name="马刺 vs 森林狼" tvg-group="篮球" group-title="篮球",马刺 vs 森林狼
 http://192.168.5.35:44635/play/c80e751d3bd91520172a7bf8d9292037d71c100a
-#EXTINF:-1 tvg-id="马刺 vs 森林狼" tvg-chno="1133" tvg-name="马刺 vs 森林狼" tvg-group="篮球" group-title="篮球",马刺 vs 森林狼·腾讯直播
+#EXTINF:-1 tvg-id="马刺 vs 森林狼" tvg-chno="1134" tvg-name="马刺 vs 森林狼" tvg-group="篮球" group-title="篮球",马刺 vs 森林狼·腾讯直播
 https://hlsz.yjjcfw.com/live/10022600152.m3u8?expire=1793511277&sign=742658c437da129b57ae6fc5d2c3f41a
-#EXTINF:-1 tvg-id="鹈鹕 vs 老鹰" tvg-chno="1134" tvg-name="鹈鹕 vs 老鹰" tvg-group="篮球" group-title="篮球",鹈鹕 vs 老鹰
-http://192.168.5.35:44635/play/6202ddaeb51700307b395e5fccd55dae24299e80
 #EXTINF:-1 tvg-id="鹈鹕 vs 老鹰" tvg-chno="1135" tvg-name="鹈鹕 vs 老鹰" tvg-group="篮球" group-title="篮球",鹈鹕 vs 老鹰
-http://192.168.5.35:44635/play/007ef59d4d7e5fd65299c0abb27a0ad69bfca349
+http://192.168.5.35:44635/play/5800061f90c62a7573a6cb57c83bcc47821d90fa
 #EXTINF:-1 tvg-id="鹈鹕 vs 老鹰" tvg-chno="1136" tvg-name="鹈鹕 vs 老鹰" tvg-group="篮球" group-title="篮球",鹈鹕 vs 老鹰·腾讯直播
 https://hlsz.yjjcfw.com/live/10022600149.m3u8?expire=1793511262&sign=a0b559eb382fa758296833871c05e095
 #EXTINF:-1 tvg-id="黄蜂 vs 76人" tvg-chno="1137" tvg-name="黄蜂 vs 76人" tvg-group="篮球" group-title="篮球",黄蜂 vs 76人
@@ -151,13 +151,11 @@ http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="F1·Formula" tvg-chno="1306" tvg-name="F1·Formula" tvg-group="体育综合" group-title="体育综合",F1·Formula
 https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
-#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1307" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
-https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1308" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1307" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1309" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1308" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1310" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1309" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="Dota2中文·完美世界" tvg-chno="1401" tvg-name="Dota2中文·完美世界" tvg-group="DOTA2" group-title="DOTA2",Dota2中文·完美世界
 http://127.0.0.1:35455/douyu/6829849
