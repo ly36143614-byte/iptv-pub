@@ -6,6 +6,7 @@
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="NFL Network"><display-name>NFL Network</display-name></channel>
+  <channel id="Xipto vs potn9ki-"><display-name>Xipto vs potn9ki-</display-name></channel>
   <channel id="Zenith vs RB"><display-name>Zenith vs RB</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
@@ -85,6 +86,10 @@
     <title>Cincinnati Bengals at Atlanta Falcons（NFL）</title>
     <category>体育</category>
   </programme>
+  <programme start="20261101200000 +0800" stop="20261101223000 +0800" channel="Xipto vs potn9ki-">
+    <title>Xipto vs potn9k（EPC Season 3 - November 1）</title>
+    <category>体育</category>
+  </programme>
   <programme start="20261101180000 +0800" stop="20261101203000 +0800" channel="Zenith vs RB">
     <title>ZENITH vs RBear（EPL World SEA S19 - November 1）</title>
     <category>体育</category>
@@ -102,7 +107,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261101193000 +0800" stop="20261101193500 +0800" channel="赛程预告">
-    <title>意甲：科莫 vs 威尼斯</title>
+    <title>科莫：科莫 vs 威尼斯</title>
     <category>体育</category>
   </programme>
   <programme start="20261101193500 +0800" stop="20261101200000 +0800" channel="赛程预告">
