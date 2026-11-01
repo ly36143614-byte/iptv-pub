@@ -73,34 +73,42 @@ http://192.168.5.35:44635/play/ec6f848613c3fe2722bd8101129d601819603570
 http://192.168.5.35:44635/play/c5a46d6f4468acdc741bc199e25dfcdf11d8dd8e
 #EXTINF:-1 tvg-id="阿拉木图军团 vs 阿斯塔纳" tvg-chno="1129" tvg-name="阿拉木图军团 vs 阿斯塔纳" tvg-group="篮球" group-title="篮球",阿拉木图军团 vs 阿斯塔纳
 http://192.168.5.35:44635/play/08c835904e5b625a1cb7532eb0a40a956189d94a
-#EXTINF:-1 tvg-id="三宝垄 vs 佩斯卡德" tvg-chno="1201" tvg-name="三宝垄 vs 佩斯卡德" tvg-group="足球" group-title="足球",三宝垄 vs 佩斯卡德
+#EXTINF:-1 tvg-id="万隆 vs 伊森穆朗" tvg-chno="1201" tvg-name="万隆 vs 伊森穆朗" tvg-group="足球" group-title="足球",万隆 vs 伊森穆朗
+http://192.168.5.35:44635/play/7c50d95d0d6585cf81a2c2a6be320d0f28efda63
+#EXTINF:-1 tvg-id="万隆 vs 伊森穆朗" tvg-chno="1202" tvg-name="万隆 vs 伊森穆朗" tvg-group="足球" group-title="足球",万隆 vs 伊森穆朗
+http://192.168.5.35:44635/play/e8e6182492d94deeb142880fc1d0c1526e015628
+#EXTINF:-1 tvg-id="三宝垄 vs 佩斯卡德" tvg-chno="1203" tvg-name="三宝垄 vs 佩斯卡德" tvg-group="足球" group-title="足球",三宝垄 vs 佩斯卡德
 http://192.168.5.35:44635/play/1787d9e10b3e6db87323e39d3f6259243b02c97d
-#EXTINF:-1 tvg-id="三宝垄 vs 佩斯卡德" tvg-chno="1202" tvg-name="三宝垄 vs 佩斯卡德" tvg-group="足球" group-title="足球",三宝垄 vs 佩斯卡德
+#EXTINF:-1 tvg-id="三宝垄 vs 佩斯卡德" tvg-chno="1204" tvg-name="三宝垄 vs 佩斯卡德" tvg-group="足球" group-title="足球",三宝垄 vs 佩斯卡德
 http://192.168.5.35:44635/play/903daf770710602f4e5eda55520fb2efb52e5e0d
-#EXTINF:-1 tvg-id="克布多 vs 科布多西部" tvg-chno="1203" tvg-name="克布多 vs 科布多西部" tvg-group="足球" group-title="足球",克布多 vs 科布多西部
+#EXTINF:-1 tvg-id="克布多 vs 科布多西部" tvg-chno="1205" tvg-name="克布多 vs 科布多西部" tvg-group="足球" group-title="足球",克布多 vs 科布多西部
 http://192.168.5.35:44635/play/2b426efe99203c74d689bac5cfbf0ef740838d79
-#EXTINF:-1 tvg-id="克布多 vs 科布多西部" tvg-chno="1204" tvg-name="克布多 vs 科布多西部" tvg-group="足球" group-title="足球",克布多 vs 科布多西部
+#EXTINF:-1 tvg-id="克布多 vs 科布多西部" tvg-chno="1206" tvg-name="克布多 vs 科布多西部" tvg-group="足球" group-title="足球",克布多 vs 科布多西部
 http://192.168.5.35:44635/play/1161f737baad103561b8b608c1d8f2f5b0d67dd2
-#EXTINF:-1 tvg-id="切亚宾斯克B队 vs 奥伦堡B队" tvg-chno="1205" tvg-name="切亚宾斯克B队 vs 奥伦堡B队" tvg-group="足球" group-title="足球",切亚宾斯克B队 vs 奥伦堡B队
+#EXTINF:-1 tvg-id="切亚宾斯克B队 vs 奥伦堡B队" tvg-chno="1207" tvg-name="切亚宾斯克B队 vs 奥伦堡B队" tvg-group="足球" group-title="足球",切亚宾斯克B队 vs 奥伦堡B队
 http://192.168.5.35:44635/play/0d965d514061b7c10794ecd6574771a7f3d6ec5b
-#EXTINF:-1 tvg-id="切亚宾斯克B队 vs 奥伦堡B队" tvg-chno="1206" tvg-name="切亚宾斯克B队 vs 奥伦堡B队" tvg-group="足球" group-title="足球",切亚宾斯克B队 vs 奥伦堡B队
+#EXTINF:-1 tvg-id="切亚宾斯克B队 vs 奥伦堡B队" tvg-chno="1208" tvg-name="切亚宾斯克B队 vs 奥伦堡B队" tvg-group="足球" group-title="足球",切亚宾斯克B队 vs 奥伦堡B队
 http://192.168.5.35:44635/play/cd018967fff5cbe8be7fe43d840bd840b1fa3210
-#EXTINF:-1 tvg-id="大同足球 vs 阳信北竞" tvg-chno="1207" tvg-name="大同足球 vs 阳信北竞" tvg-group="足球" group-title="足球",大同足球 vs 阳信北竞
+#EXTINF:-1 tvg-id="大同足球 vs 阳信北竞" tvg-chno="1209" tvg-name="大同足球 vs 阳信北竞" tvg-group="足球" group-title="足球",大同足球 vs 阳信北竞
 http://192.168.5.35:44635/play/3e1fb316b83ab8a95102bca3a46bdb638329d5fe
-#EXTINF:-1 tvg-id="大同足球 vs 阳信北竞" tvg-chno="1208" tvg-name="大同足球 vs 阳信北竞" tvg-group="足球" group-title="足球",大同足球 vs 阳信北竞
+#EXTINF:-1 tvg-id="大同足球 vs 阳信北竞" tvg-chno="1210" tvg-name="大同足球 vs 阳信北竞" tvg-group="足球" group-title="足球",大同足球 vs 阳信北竞
 http://192.168.5.35:44635/play/2fc5a310044ca60f7d86bba11ede5b62084bd190
-#EXTINF:-1 tvg-id="永亚卡达 vs 婆罗洲FC" tvg-chno="1209" tvg-name="永亚卡达 vs 婆罗洲FC" tvg-group="足球" group-title="足球",永亚卡达 vs 婆罗洲FC
+#EXTINF:-1 tvg-id="永亚卡达 vs 婆罗洲FC" tvg-chno="1211" tvg-name="永亚卡达 vs 婆罗洲FC" tvg-group="足球" group-title="足球",永亚卡达 vs 婆罗洲FC
 http://192.168.5.35:44635/play/5f8f7b373f5f9efc6ac4a2abff237718c039da35
-#EXTINF:-1 tvg-id="永亚卡达 vs 婆罗洲FC" tvg-chno="1210" tvg-name="永亚卡达 vs 婆罗洲FC" tvg-group="足球" group-title="足球",永亚卡达 vs 婆罗洲FC
+#EXTINF:-1 tvg-id="永亚卡达 vs 婆罗洲FC" tvg-chno="1212" tvg-name="永亚卡达 vs 婆罗洲FC" tvg-group="足球" group-title="足球",永亚卡达 vs 婆罗洲FC
 http://192.168.5.35:44635/play/315000e37d4c68248aa5daaf9fcdbe008ece7900
-#EXTINF:-1 tvg-id="永亚卡达 vs 婆罗洲FC" tvg-chno="1211" tvg-name="永亚卡达 vs 婆罗洲FC" tvg-group="足球" group-title="足球",永亚卡达 vs 婆罗洲FC·腾讯直播
+#EXTINF:-1 tvg-id="永亚卡达 vs 婆罗洲FC" tvg-chno="1213" tvg-name="永亚卡达 vs 婆罗洲FC" tvg-group="足球" group-title="足球",永亚卡达 vs 婆罗洲FC·腾讯直播
 https://hdl3.ttrr888.com/6cf6e5bd52f04b5db8f63e0a40c3aaed/53785739.m3u8?token=007eJxTYKiZFlg8Z2VsbxuDjfaakjkyc30VhTvWC4pdvcgk0XZ5rpQCg1lymlmqaVKKqVGagUmSaUqSRZqZcapBoolBsnFiYmrKz4%2FPshoCGRnuzJxvzcjAyMACxCA%2BE5hkBpMsYJKDwdTY3MLU3NiSk8HCyMDM2NTS0BAA9cQkQg%3D%3D&userUid=820635911&lts=1793520121382&ttl=86400
-#EXTINF:-1 tvg-id="珀斯光荣 vs 阿德莱德联" tvg-chno="1212" tvg-name="珀斯光荣 vs 阿德莱德联" tvg-group="足球" group-title="足球",珀斯光荣 vs 阿德莱德联
+#EXTINF:-1 tvg-id="珀斯光荣 vs 阿德莱德联" tvg-chno="1214" tvg-name="珀斯光荣 vs 阿德莱德联" tvg-group="足球" group-title="足球",珀斯光荣 vs 阿德莱德联
 http://192.168.5.35:44635/play/c7e67ff553d1fde46e03ae7139217533c313f598
-#EXTINF:-1 tvg-id="珀斯光荣 vs 阿德莱德联" tvg-chno="1213" tvg-name="珀斯光荣 vs 阿德莱德联" tvg-group="足球" group-title="足球",珀斯光荣 vs 阿德莱德联
+#EXTINF:-1 tvg-id="珀斯光荣 vs 阿德莱德联" tvg-chno="1215" tvg-name="珀斯光荣 vs 阿德莱德联" tvg-group="足球" group-title="足球",珀斯光荣 vs 阿德莱德联
 http://192.168.5.35:44635/play/de0457d0920f4c80ce7ddff0c13526a39fb1fd57
-#EXTINF:-1 tvg-id="珀斯光荣 vs 阿德莱德联" tvg-chno="1214" tvg-name="珀斯光荣 vs 阿德莱德联" tvg-group="足球" group-title="足球",珀斯光荣 vs 阿德莱德联·腾讯直播
+#EXTINF:-1 tvg-id="珀斯光荣 vs 阿德莱德联" tvg-chno="1216" tvg-name="珀斯光荣 vs 阿德莱德联" tvg-group="足球" group-title="足球",珀斯光荣 vs 阿德莱德联·腾讯直播
 https://pul-tenm.gkykp.com/live/sd-1-4590469.m3u8?txSecret=8da88a9bbb844710b93830ad8406aba2&txTime=6AE85A71
+#EXTINF:-1 tvg-id="顺化 vs 庆和烟草" tvg-chno="1217" tvg-name="顺化 vs 庆和烟草" tvg-group="足球" group-title="足球",顺化 vs 庆和烟草
+http://192.168.5.35:44635/play/51357964c734028a5de2d073860df7a3d9aa54be
+#EXTINF:-1 tvg-id="顺化 vs 庆和烟草" tvg-chno="1218" tvg-name="顺化 vs 庆和烟草" tvg-group="足球" group-title="足球",顺化 vs 庆和烟草
+http://192.168.5.35:44635/play/cb1e553ad76ae2a436e65c1dc3c674b54db06ef4
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1301" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1302" tvg-name="ESPN" tvg-group="体育综合" group-title="体育综合",ESPN
@@ -111,15 +119,13 @@ http://198.58.104.90:8989/nfl/index.m3u8
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NBC" tvg-chno="1305" tvg-name="NBC" tvg-group="体育综合" group-title="体育综合",NBC
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
-#EXTINF:-1 tvg-id="F1·Formula" tvg-chno="1306" tvg-name="F1·Formula" tvg-group="体育综合" group-title="体育综合",F1·Formula
-https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
-#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1307" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
+#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1306" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1308" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1307" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1309" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1308" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1310" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1309" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="Dota2中文·完美世界" tvg-chno="1401" tvg-name="Dota2中文·完美世界" tvg-group="DOTA2" group-title="DOTA2",Dota2中文·完美世界
 http://127.0.0.1:35455/douyu/6829849
