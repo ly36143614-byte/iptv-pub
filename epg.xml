@@ -102,10 +102,6 @@
     <title>Sacramento Kings at Memphis Grizzlies（NBA）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261101070000 +0800" stop="20261101080000 +0800" channel="赛程预告">
-    <title>NBA：鹈鹕 vs 老鹰</title>
-    <category>体育</category>
-  </programme>
   <programme start="20261101080000 +0800" stop="20261101083000 +0800" channel="赛程预告">
     <title>NBA：灰熊 vs 国王；雄鹿 vs 骑士；马刺 vs 森林狼</title>
     <category>体育</category>
@@ -322,8 +318,12 @@
     <title>NBA：骑士 vs 雷霆</title>
     <category>体育</category>
   </programme>
-  <programme start="20261103083000 +0800" stop="20261103103000 +0800" channel="赛程预告">
+  <programme start="20261103083000 +0800" stop="20261103090000 +0800" channel="赛程预告">
     <title>NBA：黄蜂 vs 活塞；步行者 vs 老鹰；尼克斯 vs 篮网；魔术 vs 奇才；76人 vs 公牛</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261103090000 +0800" stop="20261103110000 +0800" channel="赛程预告">
+    <title>NBA：独行侠 vs 国王；灰熊 vs 鹈鹕；森林狼 vs 雄鹿</title>
     <category>体育</category>
   </programme>
   <programme start="20261101080000 +0800" stop="20261101104012 +0800" channel="雄鹿 vs 骑士">
