@@ -22,9 +22,9 @@ http://198.58.104.90:8989/nba/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1103" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="勇士 vs 快船" tvg-chno="1104" tvg-name="勇士 vs 快船" tvg-group="篮球" group-title="篮球",勇士 vs 快船·腾讯直播
-https://hlsz.yjjcfw.com/live/10022600156.m3u8?expire=1793599329&sign=3e3e76bfbf6fe1ee4b41b149ff15e46d
+https://hlsz.yjjcfw.com/live/10022600156.m3u8?expire=1793600046&sign=ed96c951ab777582c4c48b023f3d0f0e
 #EXTINF:-1 tvg-id="勇士 vs 快船" tvg-chno="1105" tvg-name="勇士 vs 快船" tvg-group="篮球" group-title="篮球",勇士 vs 快船·咪咕直播
-https://hlsz.yjjcfw.com/live/00588328.m3u8?expire=1793599328&sign=a93d34470a7be6085932c70f6e194476
+https://hlsz.yjjcfw.com/live/00588328.m3u8?expire=1793600046&sign=04210e05be97683159d5fac4ad3a4507
 #EXTINF:-1 tvg-id="北伊利诺大学 vs 格兰布林大学" tvg-chno="1106" tvg-name="北伊利诺大学 vs 格兰布林大学" tvg-group="篮球" group-title="篮球",北伊利诺大学 vs 格兰布林大学
 http://192.168.5.35:44635/play/e073089e3a98176179ce09ea0b97f4af821ac806
 #EXTINF:-1 tvg-id="墨尔本联 vs 新西兰破坏者" tvg-chno="1107" tvg-name="墨尔本联 vs 新西兰破坏者" tvg-group="篮球" group-title="篮球",墨尔本联 vs 新西兰破坏者
@@ -45,8 +45,8 @@ http://192.168.5.35:44635/play/c800fa20e926dfe1077274b09ba64db4c2021de4
 http://192.168.5.35:44635/play/27aab6db37313cb5a9e6fe86ba71c906fdc0b3d3
 #EXTINF:-1 tvg-id="梅里马克学院 vs 阿帕拉契亚州立大学" tvg-chno="1115" tvg-name="梅里马克学院 vs 阿帕拉契亚州立大学" tvg-group="篮球" group-title="篮球",梅里马克学院 vs 阿帕拉契亚州立大学
 http://192.168.5.35:44635/play/349191127451d683f988f3d9ffaae70c15363d4c
-#EXTINF:-1 tvg-id="步行者 vs 篮网" tvg-chno="1116" tvg-name="步行者 vs 篮网" tvg-group="篮球" group-title="篮球",步行者 vs 篮网·咪咕直播
-https://hlsz.yjjcfw.com/live/00588327.m3u8?expire=1793599326&sign=e886d331a893bd95fcfb8f5047c2f954
+#EXTINF:-1 tvg-id="步行者 vs 篮网" tvg-chno="1116" tvg-name="步行者 vs 篮网" tvg-group="篮球" group-title="篮球",步行者 vs 篮网
+http://192.168.5.35:44635/play/c7134319c4161d27a2b357c29ba4809497ef37bb
 #EXTINF:-1 tvg-id="江山 vs 安吉" tvg-chno="1117" tvg-name="江山 vs 安吉" tvg-group="篮球" group-title="篮球",江山 vs 安吉
 http://192.168.5.35:44635/play/414b61c4ccd5a01226cfe33e91c3a02872122a01
 #EXTINF:-1 tvg-id="海波因特大学 vs 自由大学" tvg-chno="1118" tvg-name="海波因特大学 vs 自由大学" tvg-group="篮球" group-title="篮球",海波因特大学 vs 自由大学
@@ -54,9 +54,9 @@ http://192.168.5.35:44635/play/7988a10a38578e8852f7138eab256d624ebf0112
 #EXTINF:-1 tvg-id="海波因特大学 vs 自由大学" tvg-chno="1119" tvg-name="海波因特大学 vs 自由大学" tvg-group="篮球" group-title="篮球",海波因特大学 vs 自由大学
 http://192.168.5.35:44635/play/d5ca76861948e316bfa7aacd63b18b5bd23c95c6
 #EXTINF:-1 tvg-id="湖人 vs 猛龙" tvg-chno="1120" tvg-name="湖人 vs 猛龙" tvg-group="篮球" group-title="篮球",湖人 vs 猛龙·腾讯直播
-https://hlsz.yjjcfw.com/live/10022600157.m3u8?expire=1793599330&sign=0ae0ab80899b15d74456b3dabaea54cb
+https://hlsz.yjjcfw.com/live/10022600157.m3u8?expire=1793600048&sign=a4e041a4f7b1e7c91dc3b386bf0b8efd
 #EXTINF:-1 tvg-id="湖人 vs 猛龙" tvg-chno="1121" tvg-name="湖人 vs 猛龙" tvg-group="篮球" group-title="篮球",湖人 vs 猛龙·咪咕直播
-https://hlsz.yjjcfw.com/live/00588329.m3u8?expire=1793599330&sign=859ffb23df9789863321956a5cd662e2
+https://hlsz.yjjcfw.com/live/00588329.m3u8?expire=1793600048&sign=1b78d56b539a40c4ef4db82b595f40c8
 #EXTINF:-1 tvg-id="贝尔格莱德游击 vs 克卢日纳波卡" tvg-chno="1122" tvg-name="贝尔格莱德游击 vs 克卢日纳波卡" tvg-group="篮球" group-title="篮球",贝尔格莱德游击 vs 克卢日纳波卡
 http://192.168.5.35:44635/play/8c49889449e180931197cda9da27ffb68df19bc3
 #EXTINF:-1 tvg-id="阿尔泰巴尔瑙尔 vs 坦波夫" tvg-chno="1123" tvg-name="阿尔泰巴尔瑙尔 vs 坦波夫" tvg-group="篮球" group-title="篮球",阿尔泰巴尔瑙尔 vs 坦波夫
@@ -121,19 +121,21 @@ http://192.168.5.35:44635/play/40eb8385c5e759df3370fbd19b07311811bf766f
 http://192.168.5.35:44635/play/045a6960e6811a8d91cdc32f317ede41c779c36d
 #EXTINF:-1 tvg-id="班加罗尔城 vs 特克尼克" tvg-chno="1226" tvg-name="班加罗尔城 vs 特克尼克" tvg-group="足球" group-title="足球",班加罗尔城 vs 特克尼克
 http://192.168.5.35:44635/play/43dad471cf9516f571843388d15abeb2ba532e3a
-#EXTINF:-1 tvg-id="萨克拉门托 vs 塔尔萨钻机工" tvg-chno="1227" tvg-name="萨克拉门托 vs 塔尔萨钻机工" tvg-group="足球" group-title="足球",萨克拉门托 vs 塔尔萨钻机工
-http://192.168.5.35:44635/play/f53936e756c8d3a4adf6940f4b9a93431f396290
+#EXTINF:-1 tvg-id="科达古 vs 反叛者SC" tvg-chno="1227" tvg-name="科达古 vs 反叛者SC" tvg-group="足球" group-title="足球",科达古 vs 反叛者SC
+http://192.168.5.35:44635/play/addbc082fe6c470b13ffb53ba5dff6e970371572
 #EXTINF:-1 tvg-id="萨克拉门托 vs 塔尔萨钻机工" tvg-chno="1228" tvg-name="萨克拉门托 vs 塔尔萨钻机工" tvg-group="足球" group-title="足球",萨克拉门托 vs 塔尔萨钻机工
+http://192.168.5.35:44635/play/f53936e756c8d3a4adf6940f4b9a93431f396290
+#EXTINF:-1 tvg-id="萨克拉门托 vs 塔尔萨钻机工" tvg-chno="1229" tvg-name="萨克拉门托 vs 塔尔萨钻机工" tvg-group="足球" group-title="足球",萨克拉门托 vs 塔尔萨钻机工
 http://192.168.5.35:44635/play/fa9732beed503c19ec0b55e8ec91aeec59371a9f
-#EXTINF:-1 tvg-id="蓝十字 vs 莱昂" tvg-chno="1229" tvg-name="蓝十字 vs 莱昂" tvg-group="足球" group-title="足球",蓝十字 vs 莱昂
-http://192.168.5.35:44635/play/cfce95e0a49b4337b0de93163500278e593c6c62
 #EXTINF:-1 tvg-id="蓝十字 vs 莱昂" tvg-chno="1230" tvg-name="蓝十字 vs 莱昂" tvg-group="足球" group-title="足球",蓝十字 vs 莱昂
+http://192.168.5.35:44635/play/cfce95e0a49b4337b0de93163500278e593c6c62
+#EXTINF:-1 tvg-id="蓝十字 vs 莱昂" tvg-chno="1231" tvg-name="蓝十字 vs 莱昂" tvg-group="足球" group-title="足球",蓝十字 vs 莱昂
 http://192.168.5.35:44635/play/d2a3d58e5feef26bfe535af076e0873dfc2cfb8c
-#EXTINF:-1 tvg-id="重庆青训U15 vs 杭州U15" tvg-chno="1231" tvg-name="重庆青训U15 vs 杭州U15" tvg-group="足球" group-title="足球",重庆青训U15 vs 杭州U15
+#EXTINF:-1 tvg-id="重庆青训U15 vs 杭州U15" tvg-chno="1232" tvg-name="重庆青训U15 vs 杭州U15" tvg-group="足球" group-title="足球",重庆青训U15 vs 杭州U15
 http://192.168.5.35:44635/play/c4e842ae3931f74d8a697afc3febafeecb186984
-#EXTINF:-1 tvg-id="马那瓜 vs UNAN马纳瓜" tvg-chno="1232" tvg-name="马那瓜 vs UNAN马纳瓜" tvg-group="足球" group-title="足球",马那瓜 vs UNAN马纳瓜
-http://192.168.5.35:44635/play/9c6689f20d484b6fd5008bb8316f4d069e96f8df
 #EXTINF:-1 tvg-id="马那瓜 vs UNAN马纳瓜" tvg-chno="1233" tvg-name="马那瓜 vs UNAN马纳瓜" tvg-group="足球" group-title="足球",马那瓜 vs UNAN马纳瓜
+http://192.168.5.35:44635/play/9c6689f20d484b6fd5008bb8316f4d069e96f8df
+#EXTINF:-1 tvg-id="马那瓜 vs UNAN马纳瓜" tvg-chno="1234" tvg-name="马那瓜 vs UNAN马纳瓜" tvg-group="足球" group-title="足球",马那瓜 vs UNAN马纳瓜
 http://192.168.5.35:44635/play/ccedc193217217ea5b267eb7ce7b38e07130b446
 #EXTINF:-1 tvg-id="NFL·Network" tvg-chno="1301" tvg-name="NFL·Network" tvg-group="综合体育" group-title="综合体育",NFL·Network
 http://198.58.104.90:8989/nfl/index.m3u8
