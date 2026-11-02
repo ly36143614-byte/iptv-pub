@@ -93,13 +93,17 @@ http://192.168.5.35:44635/play/cd2480b193eed50b1771699868ded5f1d0f6269c
 http://192.168.5.35:44635/play/5cfaee7a9fb8437087564781fd76f806eb42bb41
 #EXTINF:-1 tvg-id="普莱西亚B队 vs 亚历山德里亚" tvg-chno="1204" tvg-name="普莱西亚B队 vs 亚历山德里亚" tvg-group="足球" group-title="足球",普莱西亚B队 vs 亚历山德里亚
 http://192.168.5.35:44635/play/3b053b12391382e0aa1b82d0793e8087329167f3
-#EXTINF:-1 tvg-id="科瓦利夫卡科洛斯B队 vs 梅塔利斯特" tvg-chno="1205" tvg-name="科瓦利夫卡科洛斯B队 vs 梅塔利斯特" tvg-group="足球" group-title="足球",科瓦利夫卡科洛斯B队 vs 梅塔利斯特
+#EXTINF:-1 tvg-id="格拉菲卡 vs 克鲁舍瓦茨进步" tvg-chno="1205" tvg-name="格拉菲卡 vs 克鲁舍瓦茨进步" tvg-group="足球" group-title="足球",格拉菲卡 vs 克鲁舍瓦茨进步
+http://192.168.5.35:44635/play/96e939157a26132061421c77e867afd9bf6dd62a
+#EXTINF:-1 tvg-id="格拉菲卡 vs 克鲁舍瓦茨进步" tvg-chno="1206" tvg-name="格拉菲卡 vs 克鲁舍瓦茨进步" tvg-group="足球" group-title="足球",格拉菲卡 vs 克鲁舍瓦茨进步
+http://192.168.5.35:44635/play/d60a180b34e2ddc4e83e3d572bc7c30e1eb96c2c
+#EXTINF:-1 tvg-id="科瓦利夫卡科洛斯B队 vs 梅塔利斯特" tvg-chno="1207" tvg-name="科瓦利夫卡科洛斯B队 vs 梅塔利斯特" tvg-group="足球" group-title="足球",科瓦利夫卡科洛斯B队 vs 梅塔利斯特
 http://192.168.5.35:44635/play/d2ed2b566c68edb131ca8681e688a1556d4cbdbb
-#EXTINF:-1 tvg-id="科瓦利夫卡科洛斯B队 vs 梅塔利斯特" tvg-chno="1206" tvg-name="科瓦利夫卡科洛斯B队 vs 梅塔利斯特" tvg-group="足球" group-title="足球",科瓦利夫卡科洛斯B队 vs 梅塔利斯特
+#EXTINF:-1 tvg-id="科瓦利夫卡科洛斯B队 vs 梅塔利斯特" tvg-chno="1208" tvg-name="科瓦利夫卡科洛斯B队 vs 梅塔利斯特" tvg-group="足球" group-title="足球",科瓦利夫卡科洛斯B队 vs 梅塔利斯特
 http://192.168.5.35:44635/play/d4e6856939d9a0ef5bd0c38e017d9d628e76e186
-#EXTINF:-1 tvg-id="高美尔B队 vs 明斯克B队" tvg-chno="1207" tvg-name="高美尔B队 vs 明斯克B队" tvg-group="足球" group-title="足球",高美尔B队 vs 明斯克B队
+#EXTINF:-1 tvg-id="高美尔B队 vs 明斯克B队" tvg-chno="1209" tvg-name="高美尔B队 vs 明斯克B队" tvg-group="足球" group-title="足球",高美尔B队 vs 明斯克B队
 http://192.168.5.35:44635/play/d598bfaa81e83761bf794050cce8be3ca42cd063
-#EXTINF:-1 tvg-id="高美尔B队 vs 明斯克B队" tvg-chno="1208" tvg-name="高美尔B队 vs 明斯克B队" tvg-group="足球" group-title="足球",高美尔B队 vs 明斯克B队
+#EXTINF:-1 tvg-id="高美尔B队 vs 明斯克B队" tvg-chno="1210" tvg-name="高美尔B队 vs 明斯克B队" tvg-group="足球" group-title="足球",高美尔B队 vs 明斯克B队
 http://192.168.5.35:44635/play/4db358717bb43214fbde3d75f69da09619a1f2ae
 #EXTINF:-1 tvg-id="NFL·Network" tvg-chno="1301" tvg-name="NFL·Network" tvg-group="综合体育" group-title="综合体育",NFL·Network
 http://198.58.104.90:8989/nfl/index.m3u8
@@ -113,15 +117,13 @@ http://198.58.104.90:8989/nhl/index.m3u8
 http://198.58.104.90:8989/ballysportssouth/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1306" tvg-name="ESPN" tvg-group="综合体育" group-title="综合体育",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1307" tvg-name="Tennis Channel" tvg-group="综合体育" group-title="综合体育",Tennis Channel
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1308" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1307" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1309" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1308" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1310" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1309" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1311" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1310" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
@@ -166,7 +168,7 @@ http://192.168.5.35:44635/play/2b72ac1970db1240dd2eca545ab6ea5c8a7ee76c
 #EXTINF:-1 tvg-id="TBD vs TBD" tvg-chno="1411" tvg-name="TBD vs TBD" tvg-group="DOTA2" group-title="DOTA2",TBD vs TBD
 http://192.168.5.35:44635/play/f5c4139d5cef68497e432c5e643defe70a7c8921
 #EXTINF:-1 tvg-id="TBD vs TBD" tvg-chno="1412" tvg-name="TBD vs TBD" tvg-group="DOTA2" group-title="DOTA2",TBD vs TBD
-http://192.168.5.35:44635/play/30ff2ddcab1198dcd17824da94d41bc76b724b07
+http://192.168.5.35:44635/play/9b78258aa00bc9629a75cf0c69221858be07e625
 #EXTINF:-1 tvg-id="Zenith vs Direborn" tvg-chno="1413" tvg-name="Zenith vs Direborn" tvg-group="DOTA2" group-title="DOTA2",Zenith vs Direborn
 http://192.168.5.35:44635/play/57bb31d9827fe93ee8f85b03e370cf46a773dfb7
 #EXTINF:-1 tvg-id="Zenith vs Direborn" tvg-chno="1414" tvg-name="Zenith vs Direborn" tvg-group="DOTA2" group-title="DOTA2",Zenith vs Direborn
