@@ -121,9 +121,11 @@ http://192.168.5.35:44635/play/80a6e1e522f65a9df5030b90646cbefb907d698a
 http://192.168.5.35:44635/play/4303dfd58d07fbea744cd6ce9babfba95f746952
 #EXTINF:-1 tvg-id="科达古 vs 反叛者SC" tvg-chno="1228" tvg-name="科达古 vs 反叛者SC" tvg-group="足球" group-title="足球",科达古 vs 反叛者SC
 http://192.168.5.35:44635/play/ce39ef2888e9d6995296e4ccaf018ff391ac7f2e
-#EXTINF:-1 tvg-id="重庆青训U15 vs 杭州U15" tvg-chno="1229" tvg-name="重庆青训U15 vs 杭州U15" tvg-group="足球" group-title="足球",重庆青训U15 vs 杭州U15
-http://192.168.5.35:44635/play/3d0733c4e8099c6a1ad848cce7f79e9b3795206c
+#EXTINF:-1 tvg-id="索尔亚 vs 杜纳伊夫齐" tvg-chno="1229" tvg-name="索尔亚 vs 杜纳伊夫齐" tvg-group="足球" group-title="足球",索尔亚 vs 杜纳伊夫齐
+http://192.168.5.35:44635/play/213c291ef4fdce0e20b273a962c229688dd7c4d8
 #EXTINF:-1 tvg-id="重庆青训U15 vs 杭州U15" tvg-chno="1230" tvg-name="重庆青训U15 vs 杭州U15" tvg-group="足球" group-title="足球",重庆青训U15 vs 杭州U15
+http://192.168.5.35:44635/play/3d0733c4e8099c6a1ad848cce7f79e9b3795206c
+#EXTINF:-1 tvg-id="重庆青训U15 vs 杭州U15" tvg-chno="1231" tvg-name="重庆青训U15 vs 杭州U15" tvg-group="足球" group-title="足球",重庆青训U15 vs 杭州U15
 http://192.168.5.35:44635/play/b600659192d2471c490facec2074fb433cbdece7
 #EXTINF:-1 tvg-id="NFL·Network" tvg-chno="1301" tvg-name="NFL·Network" tvg-group="综合体育" group-title="综合体育",NFL·Network
 http://198.58.104.90:8989/nfl/index.m3u8
