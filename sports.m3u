@@ -50,9 +50,9 @@ http://192.168.5.35:44635/play/349191127451d683f988f3d9ffaae70c15363d4c
 #EXTINF:-1 tvg-id="江山 vs 安吉" tvg-chno="1117" tvg-name="江山 vs 安吉" tvg-group="篮球" group-title="篮球",江山 vs 安吉
 http://192.168.5.35:44635/play/414b61c4ccd5a01226cfe33e91c3a02872122a01
 #EXTINF:-1 tvg-id="海波因特大学 vs 自由大学" tvg-chno="1118" tvg-name="海波因特大学 vs 自由大学" tvg-group="篮球" group-title="篮球",海波因特大学 vs 自由大学
-http://192.168.5.35:44635/play/7988a10a38578e8852f7138eab256d624ebf0112
-#EXTINF:-1 tvg-id="海波因特大学 vs 自由大学" tvg-chno="1119" tvg-name="海波因特大学 vs 自由大学" tvg-group="篮球" group-title="篮球",海波因特大学 vs 自由大学
 http://192.168.5.35:44635/play/d5ca76861948e316bfa7aacd63b18b5bd23c95c6
+#EXTINF:-1 tvg-id="海波因特大学 vs 自由大学" tvg-chno="1119" tvg-name="海波因特大学 vs 自由大学" tvg-group="篮球" group-title="篮球",海波因特大学 vs 自由大学
+http://192.168.5.35:44635/play/7988a10a38578e8852f7138eab256d624ebf0112
 #EXTINF:-1 tvg-id="湖人 vs 猛龙" tvg-chno="1120" tvg-name="湖人 vs 猛龙" tvg-group="篮球" group-title="篮球",湖人 vs 猛龙·腾讯直播
 https://hlsz.yjjcfw.com/live/10022600157.m3u8?expire=1793607858&sign=b284c737f965251bdc2114b6b48b7aef
 #EXTINF:-1 tvg-id="湖人 vs 猛龙" tvg-chno="1121" tvg-name="湖人 vs 猛龙" tvg-group="篮球" group-title="篮球",湖人 vs 猛龙·咪咕直播
@@ -131,13 +131,9 @@ http://192.168.5.35:44635/play/80a6e1e522f65a9df5030b90646cbefb907d698a
 http://192.168.5.35:44635/play/4303dfd58d07fbea744cd6ce9babfba95f746952
 #EXTINF:-1 tvg-id="科达古 vs 反叛者SC" tvg-chno="1233" tvg-name="科达古 vs 反叛者SC" tvg-group="足球" group-title="足球",科达古 vs 反叛者SC
 http://192.168.5.35:44635/play/ce39ef2888e9d6995296e4ccaf018ff391ac7f2e
-#EXTINF:-1 tvg-id="萨克拉门托 vs 塔尔萨钻机工" tvg-chno="1234" tvg-name="萨克拉门托 vs 塔尔萨钻机工" tvg-group="足球" group-title="足球",萨克拉门托 vs 塔尔萨钻机工
-http://192.168.5.35:44635/play/f53936e756c8d3a4adf6940f4b9a93431f396290
-#EXTINF:-1 tvg-id="萨克拉门托 vs 塔尔萨钻机工" tvg-chno="1235" tvg-name="萨克拉门托 vs 塔尔萨钻机工" tvg-group="足球" group-title="足球",萨克拉门托 vs 塔尔萨钻机工
-http://192.168.5.35:44635/play/fa9732beed503c19ec0b55e8ec91aeec59371a9f
-#EXTINF:-1 tvg-id="重庆青训U15 vs 杭州U15" tvg-chno="1236" tvg-name="重庆青训U15 vs 杭州U15" tvg-group="足球" group-title="足球",重庆青训U15 vs 杭州U15
+#EXTINF:-1 tvg-id="重庆青训U15 vs 杭州U15" tvg-chno="1234" tvg-name="重庆青训U15 vs 杭州U15" tvg-group="足球" group-title="足球",重庆青训U15 vs 杭州U15
 http://192.168.5.35:44635/play/3d0733c4e8099c6a1ad848cce7f79e9b3795206c
-#EXTINF:-1 tvg-id="重庆青训U15 vs 杭州U15" tvg-chno="1237" tvg-name="重庆青训U15 vs 杭州U15" tvg-group="足球" group-title="足球",重庆青训U15 vs 杭州U15
+#EXTINF:-1 tvg-id="重庆青训U15 vs 杭州U15" tvg-chno="1235" tvg-name="重庆青训U15 vs 杭州U15" tvg-group="足球" group-title="足球",重庆青训U15 vs 杭州U15
 http://192.168.5.35:44635/play/b600659192d2471c490facec2074fb433cbdece7
 #EXTINF:-1 tvg-id="NFL·Network" tvg-chno="1301" tvg-name="NFL·Network" tvg-group="综合体育" group-title="综合体育",NFL·Network
 http://198.58.104.90:8989/nfl/index.m3u8
