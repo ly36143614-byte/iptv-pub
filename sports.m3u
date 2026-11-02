@@ -72,7 +72,7 @@ http://192.168.5.35:44635/play/1808f7d1b693fe73d6a92c155eb1ed7b5ed6f02d
 #EXTINF:-1 tvg-id="迪拜 vs 扎达尔" tvg-chno="1128" tvg-name="迪拜 vs 扎达尔" tvg-group="篮球" group-title="篮球",迪拜 vs 扎达尔
 http://192.168.5.35:44635/play/e48a496299f5eff9379dd835dde93878904b9fd2
 #EXTINF:-1 tvg-id="塔什干棉农 vs 利雅得胜利" tvg-chno="1201" tvg-name="塔什干棉农 vs 利雅得胜利" tvg-group="足球" group-title="足球",塔什干棉农 vs 利雅得胜利·咪咕直播
-https://hlsz.yjjcfw.com/live/00590424.m3u8?expire=1793642887&sign=e4cab8befc9337b380f2d6b37b36d3f6
+https://hlsz.yjjcfw.com/live/00590424.m3u8?expire=1793643614&sign=8bd99e92be32b8288f38acff88cf7eb1
 #EXTINF:-1 tvg-id="克里夫巴斯 vs 基辅迪纳摩" tvg-chno="1202" tvg-name="克里夫巴斯 vs 基辅迪纳摩" tvg-group="足球" group-title="足球",克里夫巴斯 vs 基辅迪纳摩
 http://192.168.5.35:44635/play/567647a108b501ee57a7be4a259dd2729606ad2b
 #EXTINF:-1 tvg-id="克里夫巴斯 vs 基辅迪纳摩" tvg-chno="1203" tvg-name="克里夫巴斯 vs 基辅迪纳摩" tvg-group="足球" group-title="足球",克里夫巴斯 vs 基辅迪纳摩
@@ -109,8 +109,8 @@ http://198.58.104.90:8989/nhl/index.m3u8
 http://198.58.104.90:8989/ballysportssouth/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1306" tvg-name="ESPN" tvg-group="综合体育" group-title="综合体育",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1307" tvg-name="Tennis Channel" tvg-group="综合体育" group-title="综合体育",Tennis Channel
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1307" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
+https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1308" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1309" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
@@ -164,7 +164,7 @@ http://192.168.5.35:44635/play/2b72ac1970db1240dd2eca545ab6ea5c8a7ee76c
 #EXTINF:-1 tvg-id="TBD vs TBD" tvg-chno="1413" tvg-name="TBD vs TBD" tvg-group="DOTA2" group-title="DOTA2",TBD vs TBD
 http://192.168.5.35:44635/play/9b78258aa00bc9629a75cf0c69221858be07e625
 #EXTINF:-1 tvg-id="TBD vs TBD" tvg-chno="1414" tvg-name="TBD vs TBD" tvg-group="DOTA2" group-title="DOTA2",TBD vs TBD
-http://192.168.5.35:44635/play/f5c4139d5cef68497e432c5e643defe70a7c8921
+http://192.168.5.35:44635/play/30ff2ddcab1198dcd17824da94d41bc76b724b07
 #EXTINF:-1 tvg-id="Zenith vs Direborn" tvg-chno="1415" tvg-name="Zenith vs Direborn" tvg-group="DOTA2" group-title="DOTA2",Zenith vs Direborn
 http://192.168.5.35:44635/play/57bb31d9827fe93ee8f85b03e370cf46a773dfb7
 #EXTINF:-1 tvg-id="Zenith vs Direborn" tvg-chno="1416" tvg-name="Zenith vs Direborn" tvg-group="DOTA2" group-title="DOTA2",Zenith vs Direborn
