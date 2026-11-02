@@ -75,37 +75,35 @@ http://192.168.5.35:44635/play/b2cc6c26462fe7a576c4a2f01927fe1a5a759c53
 http://192.168.5.35:44635/play/a64dc02688eece88a595c0ba3cf6c71c137dfe2a
 #EXTINF:-1 tvg-id="阿尔泰巴尔瑙尔 vs 坦波夫" tvg-chno="1130" tvg-name="阿尔泰巴尔瑙尔 vs 坦波夫" tvg-group="篮球" group-title="篮球",阿尔泰巴尔瑙尔 vs 坦波夫
 http://192.168.5.35:44635/play/addf19d1b0b260b4bb29774cc71122be75704441
-#EXTINF:-1 tvg-id="龙仁三星女篮 vs 富川KEB女篮" tvg-chno="1131" tvg-name="龙仁三星女篮 vs 富川KEB女篮" tvg-group="篮球" group-title="篮球",龙仁三星女篮 vs 富川KEB女篮
-http://192.168.5.35:44635/play/2228c2cd838d8f3e243a714d1a18aa87cbc829d9
+#EXTINF:-1 tvg-id="阿帕拉契亚州立大学 vs 梅里马克学院" tvg-chno="1131" tvg-name="阿帕拉契亚州立大学 vs 梅里马克学院" tvg-group="篮球" group-title="篮球",阿帕拉契亚州立大学 vs 梅里马克学院
+http://192.168.5.35:44635/play/b49ccee796ca975498cc1dd05b4dc1fb17a432ca
 #EXTINF:-1 tvg-id="龙仁三星女篮 vs 富川KEB女篮" tvg-chno="1132" tvg-name="龙仁三星女篮 vs 富川KEB女篮" tvg-group="篮球" group-title="篮球",龙仁三星女篮 vs 富川KEB女篮
+http://192.168.5.35:44635/play/2228c2cd838d8f3e243a714d1a18aa87cbc829d9
+#EXTINF:-1 tvg-id="龙仁三星女篮 vs 富川KEB女篮" tvg-chno="1133" tvg-name="龙仁三星女篮 vs 富川KEB女篮" tvg-group="篮球" group-title="篮球",龙仁三星女篮 vs 富川KEB女篮
 http://192.168.5.35:44635/play/e1327ffde0a10778ea93b670932fc43993fd6271
-#EXTINF:-1 tvg-id="FK斯科普里 vs 施历斯" tvg-chno="1201" tvg-name="FK斯科普里 vs 施历斯" tvg-group="足球" group-title="足球",FK斯科普里 vs 施历斯
-http://192.168.5.35:44635/play/861043c4beec9039f7393e64fc4575fbbd897013
-#EXTINF:-1 tvg-id="LNZ切尔卡瑟U21 vs 哈尔科夫U21" tvg-chno="1202" tvg-name="LNZ切尔卡瑟U21 vs 哈尔科夫U21" tvg-group="足球" group-title="足球",LNZ切尔卡瑟U21 vs 哈尔科夫U21
+#EXTINF:-1 tvg-id="LNZ切尔卡瑟U21 vs 哈尔科夫U21" tvg-chno="1201" tvg-name="LNZ切尔卡瑟U21 vs 哈尔科夫U21" tvg-group="足球" group-title="足球",LNZ切尔卡瑟U21 vs 哈尔科夫U21
 http://192.168.5.35:44635/play/bc1a9149ce05073a18b96d5a3c7a03ddfa61b4c7
-#EXTINF:-1 tvg-id="LNZ切尔卡瑟U21 vs 哈尔科夫U21" tvg-chno="1203" tvg-name="LNZ切尔卡瑟U21 vs 哈尔科夫U21" tvg-group="足球" group-title="足球",LNZ切尔卡瑟U21 vs 哈尔科夫U21
+#EXTINF:-1 tvg-id="LNZ切尔卡瑟U21 vs 哈尔科夫U21" tvg-chno="1202" tvg-name="LNZ切尔卡瑟U21 vs 哈尔科夫U21" tvg-group="足球" group-title="足球",LNZ切尔卡瑟U21 vs 哈尔科夫U21
 http://192.168.5.35:44635/play/49c8dad0c936e3eb92ce58bdf70adacbc69f1699
-#EXTINF:-1 tvg-id="克里夫巴斯 vs 基辅迪纳摩" tvg-chno="1204" tvg-name="克里夫巴斯 vs 基辅迪纳摩" tvg-group="足球" group-title="足球",克里夫巴斯 vs 基辅迪纳摩
-http://192.168.5.35:44635/play/f468c091a6765acd1d0e5b4bba87d99a02d49554
-#EXTINF:-1 tvg-id="布哈拉国立大学 vs 加云" tvg-chno="1205" tvg-name="布哈拉国立大学 vs 加云" tvg-group="足球" group-title="足球",布哈拉国立大学 vs 加云
+#EXTINF:-1 tvg-id="布哈拉国立大学 vs 加云" tvg-chno="1203" tvg-name="布哈拉国立大学 vs 加云" tvg-group="足球" group-title="足球",布哈拉国立大学 vs 加云
 http://192.168.5.35:44635/play/f0044292e6c5ebfb29ad7e7d5d9a3faef3f7f2d4
-#EXTINF:-1 tvg-id="布哈拉国立大学 vs 加云" tvg-chno="1206" tvg-name="布哈拉国立大学 vs 加云" tvg-group="足球" group-title="足球",布哈拉国立大学 vs 加云
+#EXTINF:-1 tvg-id="布哈拉国立大学 vs 加云" tvg-chno="1204" tvg-name="布哈拉国立大学 vs 加云" tvg-group="足球" group-title="足球",布哈拉国立大学 vs 加云
 http://192.168.5.35:44635/play/6b71394019e65eaa277d020c2e9ba2c27d5ab322
-#EXTINF:-1 tvg-id="恩波利青年队 vs 卡利亚里U20" tvg-chno="1207" tvg-name="恩波利青年队 vs 卡利亚里U20" tvg-group="足球" group-title="足球",恩波利青年队 vs 卡利亚里U20
+#EXTINF:-1 tvg-id="恩波利青年队 vs 卡利亚里U20" tvg-chno="1205" tvg-name="恩波利青年队 vs 卡利亚里U20" tvg-group="足球" group-title="足球",恩波利青年队 vs 卡利亚里U20
 http://192.168.5.35:44635/play/3cfb8b8f10a86bcf85fcd16dbe1812f71f65efca
-#EXTINF:-1 tvg-id="恩波利青年队 vs 卡利亚里U20" tvg-chno="1208" tvg-name="恩波利青年队 vs 卡利亚里U20" tvg-group="足球" group-title="足球",恩波利青年队 vs 卡利亚里U20
+#EXTINF:-1 tvg-id="恩波利青年队 vs 卡利亚里U20" tvg-chno="1206" tvg-name="恩波利青年队 vs 卡利亚里U20" tvg-group="足球" group-title="足球",恩波利青年队 vs 卡利亚里U20
 http://192.168.5.35:44635/play/e644a386d3ad35a8efc8fbf9b6d9037e25436116
-#EXTINF:-1 tvg-id="科瓦利夫卡科洛斯B队 vs 梅塔利斯特" tvg-chno="1209" tvg-name="科瓦利夫卡科洛斯B队 vs 梅塔利斯特" tvg-group="足球" group-title="足球",科瓦利夫卡科洛斯B队 vs 梅塔利斯特
+#EXTINF:-1 tvg-id="科瓦利夫卡科洛斯B队 vs 梅塔利斯特" tvg-chno="1207" tvg-name="科瓦利夫卡科洛斯B队 vs 梅塔利斯特" tvg-group="足球" group-title="足球",科瓦利夫卡科洛斯B队 vs 梅塔利斯特
 http://192.168.5.35:44635/play/d2ed2b566c68edb131ca8681e688a1556d4cbdbb
-#EXTINF:-1 tvg-id="科瓦利夫卡科洛斯B队 vs 梅塔利斯特" tvg-chno="1210" tvg-name="科瓦利夫卡科洛斯B队 vs 梅塔利斯特" tvg-group="足球" group-title="足球",科瓦利夫卡科洛斯B队 vs 梅塔利斯特
+#EXTINF:-1 tvg-id="科瓦利夫卡科洛斯B队 vs 梅塔利斯特" tvg-chno="1208" tvg-name="科瓦利夫卡科洛斯B队 vs 梅塔利斯特" tvg-group="足球" group-title="足球",科瓦利夫卡科洛斯B队 vs 梅塔利斯特
 http://192.168.5.35:44635/play/d4e6856939d9a0ef5bd0c38e017d9d628e76e186
-#EXTINF:-1 tvg-id="科瓦利夫卡科洛斯青年队 vs 波利西亚日托米尔U21" tvg-chno="1211" tvg-name="科瓦利夫卡科洛斯青年队 vs 波利西亚日托米尔U21" tvg-group="足球" group-title="足球",科瓦利夫卡科洛斯青年队 vs 波利西亚日托米尔U21
+#EXTINF:-1 tvg-id="科瓦利夫卡科洛斯青年队 vs 波利西亚日托米尔U21" tvg-chno="1209" tvg-name="科瓦利夫卡科洛斯青年队 vs 波利西亚日托米尔U21" tvg-group="足球" group-title="足球",科瓦利夫卡科洛斯青年队 vs 波利西亚日托米尔U21
 http://192.168.5.35:44635/play/9d8a20f91e1ec6f2d67f54ea45082e719487fc54
-#EXTINF:-1 tvg-id="科瓦利夫卡科洛斯青年队 vs 波利西亚日托米尔U21" tvg-chno="1212" tvg-name="科瓦利夫卡科洛斯青年队 vs 波利西亚日托米尔U21" tvg-group="足球" group-title="足球",科瓦利夫卡科洛斯青年队 vs 波利西亚日托米尔U21
+#EXTINF:-1 tvg-id="科瓦利夫卡科洛斯青年队 vs 波利西亚日托米尔U21" tvg-chno="1210" tvg-name="科瓦利夫卡科洛斯青年队 vs 波利西亚日托米尔U21" tvg-group="足球" group-title="足球",科瓦利夫卡科洛斯青年队 vs 波利西亚日托米尔U21
 http://192.168.5.35:44635/play/80a6e1e522f65a9df5030b90646cbefb907d698a
-#EXTINF:-1 tvg-id="索尔亚 vs 杜纳伊夫齐" tvg-chno="1213" tvg-name="索尔亚 vs 杜纳伊夫齐" tvg-group="足球" group-title="足球",索尔亚 vs 杜纳伊夫齐
+#EXTINF:-1 tvg-id="索尔亚 vs 杜纳伊夫齐" tvg-chno="1211" tvg-name="索尔亚 vs 杜纳伊夫齐" tvg-group="足球" group-title="足球",索尔亚 vs 杜纳伊夫齐
 http://192.168.5.35:44635/play/1a2e49e52ecde5d1390460d913d9b3003b01f053
-#EXTINF:-1 tvg-id="索尔亚 vs 杜纳伊夫齐" tvg-chno="1214" tvg-name="索尔亚 vs 杜纳伊夫齐" tvg-group="足球" group-title="足球",索尔亚 vs 杜纳伊夫齐
+#EXTINF:-1 tvg-id="索尔亚 vs 杜纳伊夫齐" tvg-chno="1212" tvg-name="索尔亚 vs 杜纳伊夫齐" tvg-group="足球" group-title="足球",索尔亚 vs 杜纳伊夫齐
 http://192.168.5.35:44635/play/7a81c96f0a7610f3d3be86c6bee787cdddcd8d3f
 #EXTINF:-1 tvg-id="NFL·Network" tvg-chno="1301" tvg-name="NFL·Network" tvg-group="综合体育" group-title="综合体育",NFL·Network
 http://198.58.104.90:8989/nfl/index.m3u8
