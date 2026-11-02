@@ -5,6 +5,7 @@
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="NFL Network"><display-name>NFL Network</display-name></channel>
+  <channel id="Stray vs Lens"><display-name>Stray vs Lens</display-name></channel>
   <channel id="乌法迪纳摩B队 vs 叶尼塞B队"><display-name>乌法迪纳摩B队 vs 叶尼塞B队</display-name></channel>
   <channel id="内夫特亚尼克泰坦女篮B队 vs 新西伯利亚迪纳摩B队女篮"><display-name>内夫特亚尼克泰坦女篮B队 vs 新西伯利亚迪纳摩B队女篮</display-name></channel>
   <channel id="帕尔马B队 vs 圣彼得堡泽尼特B队"><display-name>帕尔马B队 vs 圣彼得堡泽尼特B队</display-name></channel>
@@ -80,6 +81,10 @@
   </programme>
   <programme start="20261108223000 +0800" stop="20261109014948 +0800" channel="NFL Network">
     <title>Cincinnati Bengals at Atlanta Falcons（NFL）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261102190000 +0800" stop="20261102213000 +0800" channel="Stray vs Lens">
+    <title>Stray vs LENS（FME S5 - November 2）</title>
     <category>体育</category>
   </programme>
   <programme start="20261025011004 +0800" stop="20261025015548 +0800" channel="乌法迪纳摩B队 vs 叶尼塞B队">
