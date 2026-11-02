@@ -6,7 +6,6 @@
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="NFL Network"><display-name>NFL Network</display-name></channel>
   <channel id="Zenith vs Team Kinetix"><display-name>Zenith vs Team Kinetix</display-name></channel>
-  <channel id="勇士 vs 快船"><display-name>勇士 vs 快船</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
   <channel id="湖人 vs 猛龙"><display-name>湖人 vs 猛龙</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
@@ -86,20 +85,12 @@
     <title>ZENITH vs Kinetix（EPL World SEA S19 - November 2）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261102093000 +0800" stop="20261102121012 +0800" channel="勇士 vs 快船">
-    <title>LA Clippers at Golden State Warriors 已结束（NBA）</title>
-    <category>体育</category>
-  </programme>
   <programme start="20261103083000 +0800" stop="20261103111012 +0800" channel="活塞">
     <title>NBA：黄蜂 vs 活塞</title>
     <category>体育</category>
   </programme>
   <programme start="20261102100000 +0800" stop="20261102124012 +0800" channel="湖人 vs 猛龙">
     <title>Toronto Raptors at Los Angeles Lakers 已结束（NBA）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261102120000 +0800" stop="20261102150000 +0800" channel="赛程预告">
-    <title>Dota2：ZENITH vs Kinetix（EPL World SEA S19）</title>
     <category>体育</category>
   </programme>
   <programme start="20261102150000 +0800" stop="20261102180000 +0800" channel="赛程预告">
@@ -235,7 +226,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261104014500 +0800" stop="20261104020000 +0800" channel="赛程预告">
-    <title>欧冠：顿涅茨克矿工 vs 葡萄牙体育；加拉塔萨雷 vs 斯图加特</title>
+    <title>欧冠：加拉塔萨 vs 斯图加特；顿涅茨克矿工 vs 葡萄牙体育；加拉塔萨雷 vs 斯图加特</title>
     <category>体育</category>
   </programme>
   <programme start="20261104020000 +0800" stop="20261104021500 +0800" channel="赛程预告">
@@ -251,7 +242,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261104040000 +0800" stop="20261104060000 +0800" channel="赛程预告">
-    <title>欧冠：曼联 vs 罗马；LASK林茨 vs 布拉迪斯拉发；博德闪耀 vs 里尔；马德里竞技 vs 拜仁慕尼黑；比利亚雷亚尔 vs 巴黎圣日耳曼；巴塞罗那 vs 阿斯顿维拉；费耶诺德 vs 国际米兰</title>
+    <title>欧冠：马竞 vs 拜仁；LASK林茨 vs 布拉迪斯；费耶诺德 vs 国际米兰；曼联 vs 罗马；巴萨 vs 维拉；比利亚雷 vs 巴黎圣曼；博德闪耀 vs 里尔；LASK林茨 vs 布拉迪斯拉发；马德里竞技 vs 拜仁慕尼黑；比利亚雷亚尔 vs 巴黎圣日耳曼；巴塞罗那 vs 阿斯顿维拉</title>
     <category>体育</category>
   </programme>
 </tv>
