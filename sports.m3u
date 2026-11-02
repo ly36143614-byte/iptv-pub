@@ -22,48 +22,52 @@ http://198.58.104.90:8989/nba/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1103" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="UGMK女篮 vs 叶尼塞女篮" tvg-chno="1104" tvg-name="UGMK女篮 vs 叶尼塞女篮" tvg-group="篮球" group-title="篮球",UGMK女篮 vs 叶尼塞女篮
-http://192.168.5.35:44635/play/dbb9d92bbfca812c7efbf540b9cbdf4ef98828c2
-#EXTINF:-1 tvg-id="乌法迪纳摩B队 vs 叶尼塞B队" tvg-chno="1105" tvg-name="乌法迪纳摩B队 vs 叶尼塞B队" tvg-group="篮球" group-title="篮球",乌法迪纳摩B队 vs 叶尼塞B队
-http://192.168.5.35:44635/play/5320a85dc752ce781d3cdf14756cdd8267668c38
+http://192.168.5.35:44635/play/757697dcd74c2377e391891b850f6bfd17aea83f
+#EXTINF:-1 tvg-id="UGMK女篮 vs 叶尼塞女篮" tvg-chno="1105" tvg-name="UGMK女篮 vs 叶尼塞女篮" tvg-group="篮球" group-title="篮球",UGMK女篮 vs 叶尼塞女篮
+http://192.168.5.35:44635/play/bda96d9791973eb5920530fa43ef5adbfc7a571e
 #EXTINF:-1 tvg-id="乌法迪纳摩B队 vs 叶尼塞B队" tvg-chno="1106" tvg-name="乌法迪纳摩B队 vs 叶尼塞B队" tvg-group="篮球" group-title="篮球",乌法迪纳摩B队 vs 叶尼塞B队
+http://192.168.5.35:44635/play/5320a85dc752ce781d3cdf14756cdd8267668c38
+#EXTINF:-1 tvg-id="乌法迪纳摩B队 vs 叶尼塞B队" tvg-chno="1107" tvg-name="乌法迪纳摩B队 vs 叶尼塞B队" tvg-group="篮球" group-title="篮球",乌法迪纳摩B队 vs 叶尼塞B队
 http://192.168.5.35:44635/play/1c707162da6b4dc15cb300f84524cb8305942b32
-#EXTINF:-1 tvg-id="内夫特亚尼克泰坦女篮B队 vs 新西伯利亚迪纳摩B队女篮" tvg-chno="1107" tvg-name="内夫特亚尼克泰坦女篮B队 vs 新西伯利亚迪纳摩B队女篮" tvg-group="篮球" group-title="篮球",内夫特亚尼克泰坦女篮B队 vs 新西伯利亚迪纳摩B队女篮
-http://192.168.5.35:44635/play/b0aa38a76c8238a565f9a6b1e25342fdf9334c7f
-#EXTINF:-1 tvg-id="北伊利诺大学 vs 格兰布林大学" tvg-chno="1108" tvg-name="北伊利诺大学 vs 格兰布林大学" tvg-group="篮球" group-title="篮球",北伊利诺大学 vs 格兰布林大学
+#EXTINF:-1 tvg-id="内夫特亚尼克泰坦女篮B队 vs 新西伯利亚迪纳摩B队女篮" tvg-chno="1108" tvg-name="内夫特亚尼克泰坦女篮B队 vs 新西伯利亚迪纳摩B队女篮" tvg-group="篮球" group-title="篮球",内夫特亚尼克泰坦女篮B队 vs 新西伯利亚迪纳摩B队女篮
+http://192.168.5.35:44635/play/f9d6985aa8a677564284b2466abc98eda27c09f5
+#EXTINF:-1 tvg-id="内夫特亚尼克泰坦女篮B队 vs 新西伯利亚迪纳摩B队女篮" tvg-chno="1109" tvg-name="内夫特亚尼克泰坦女篮B队 vs 新西伯利亚迪纳摩B队女篮" tvg-group="篮球" group-title="篮球",内夫特亚尼克泰坦女篮B队 vs 新西伯利亚迪纳摩B队女篮
+http://192.168.5.35:44635/play/a86462e6b7705dbc443807c8312972bb9448387a
+#EXTINF:-1 tvg-id="北伊利诺大学 vs 格兰布林大学" tvg-chno="1110" tvg-name="北伊利诺大学 vs 格兰布林大学" tvg-group="篮球" group-title="篮球",北伊利诺大学 vs 格兰布林大学
 http://192.168.5.35:44635/play/e073089e3a98176179ce09ea0b97f4af821ac806
-#EXTINF:-1 tvg-id="夏洛特皇后大学 vs 温斯罗普大学" tvg-chno="1109" tvg-name="夏洛特皇后大学 vs 温斯罗普大学" tvg-group="篮球" group-title="篮球",夏洛特皇后大学 vs 温斯罗普大学
+#EXTINF:-1 tvg-id="夏洛特皇后大学 vs 温斯罗普大学" tvg-chno="1111" tvg-name="夏洛特皇后大学 vs 温斯罗普大学" tvg-group="篮球" group-title="篮球",夏洛特皇后大学 vs 温斯罗普大学
 http://192.168.5.35:44635/play/0bec46af8c8e457a4558b1c576ddf691116db73e
-#EXTINF:-1 tvg-id="大邱石油公社飞马 vs 安养赤红火箭" tvg-chno="1110" tvg-name="大邱石油公社飞马 vs 安养赤红火箭" tvg-group="篮球" group-title="篮球",大邱石油公社飞马 vs 安养赤红火箭
+#EXTINF:-1 tvg-id="大邱石油公社飞马 vs 安养赤红火箭" tvg-chno="1112" tvg-name="大邱石油公社飞马 vs 安养赤红火箭" tvg-group="篮球" group-title="篮球",大邱石油公社飞马 vs 安养赤红火箭
 http://192.168.5.35:44635/play/1f83ea40f2b0337b8706b4301144d70321419a1c
-#EXTINF:-1 tvg-id="大邱石油公社飞马 vs 安养赤红火箭" tvg-chno="1111" tvg-name="大邱石油公社飞马 vs 安养赤红火箭" tvg-group="篮球" group-title="篮球",大邱石油公社飞马 vs 安养赤红火箭
+#EXTINF:-1 tvg-id="大邱石油公社飞马 vs 安养赤红火箭" tvg-chno="1113" tvg-name="大邱石油公社飞马 vs 安养赤红火箭" tvg-group="篮球" group-title="篮球",大邱石油公社飞马 vs 安养赤红火箭
 http://192.168.5.35:44635/play/3c02bc703bf3891998ae5333411b7e5c49ef5fab
-#EXTINF:-1 tvg-id="尤格拉 vs 马钢城冶金" tvg-chno="1112" tvg-name="尤格拉 vs 马钢城冶金" tvg-group="篮球" group-title="篮球",尤格拉 vs 马钢城冶金
+#EXTINF:-1 tvg-id="尤格拉 vs 马钢城冶金" tvg-chno="1114" tvg-name="尤格拉 vs 马钢城冶金" tvg-group="篮球" group-title="篮球",尤格拉 vs 马钢城冶金
 http://192.168.5.35:44635/play/498cd91505ae0d7b0c6ed4ba51a21c720a1f52b8
-#EXTINF:-1 tvg-id="帕尔马B队 vs 圣彼得堡泽尼特B队" tvg-chno="1113" tvg-name="帕尔马B队 vs 圣彼得堡泽尼特B队" tvg-group="篮球" group-title="篮球",帕尔马B队 vs 圣彼得堡泽尼特B队
+#EXTINF:-1 tvg-id="帕尔马B队 vs 圣彼得堡泽尼特B队" tvg-chno="1115" tvg-name="帕尔马B队 vs 圣彼得堡泽尼特B队" tvg-group="篮球" group-title="篮球",帕尔马B队 vs 圣彼得堡泽尼特B队
 http://192.168.5.35:44635/play/8152298a1f716f495885bd208771eb4bd8631c35
-#EXTINF:-1 tvg-id="帕尔马B队 vs 圣彼得堡泽尼特B队" tvg-chno="1114" tvg-name="帕尔马B队 vs 圣彼得堡泽尼特B队" tvg-group="篮球" group-title="篮球",帕尔马B队 vs 圣彼得堡泽尼特B队
+#EXTINF:-1 tvg-id="帕尔马B队 vs 圣彼得堡泽尼特B队" tvg-chno="1116" tvg-name="帕尔马B队 vs 圣彼得堡泽尼特B队" tvg-group="篮球" group-title="篮球",帕尔马B队 vs 圣彼得堡泽尼特B队
 http://192.168.5.35:44635/play/3b53e07479a0a24760e2b4b90fde93bb22273234
-#EXTINF:-1 tvg-id="新西伯利亚 vs 伊泽夫斯克" tvg-chno="1115" tvg-name="新西伯利亚 vs 伊泽夫斯克" tvg-group="篮球" group-title="篮球",新西伯利亚 vs 伊泽夫斯克
+#EXTINF:-1 tvg-id="新西伯利亚 vs 伊泽夫斯克" tvg-chno="1117" tvg-name="新西伯利亚 vs 伊泽夫斯克" tvg-group="篮球" group-title="篮球",新西伯利亚 vs 伊泽夫斯克
 http://192.168.5.35:44635/play/75971df3154bef50e60398b8f96f7ca9e337e3cc
-#EXTINF:-1 tvg-id="普陀 vs 余姚" tvg-chno="1116" tvg-name="普陀 vs 余姚" tvg-group="篮球" group-title="篮球",普陀 vs 余姚
+#EXTINF:-1 tvg-id="普陀 vs 余姚" tvg-chno="1118" tvg-name="普陀 vs 余姚" tvg-group="篮球" group-title="篮球",普陀 vs 余姚
 http://192.168.5.35:44635/play/9dd3a7bc84e3d185d7978114de6f16372e8aa370
-#EXTINF:-1 tvg-id="杭州 vs 桐乡" tvg-chno="1117" tvg-name="杭州 vs 桐乡" tvg-group="篮球" group-title="篮球",杭州 vs 桐乡
+#EXTINF:-1 tvg-id="杭州 vs 桐乡" tvg-chno="1119" tvg-name="杭州 vs 桐乡" tvg-group="篮球" group-title="篮球",杭州 vs 桐乡
 http://192.168.5.35:44635/play/c800fa20e926dfe1077274b09ba64db4c2021de4
-#EXTINF:-1 tvg-id="梅里马克学院 vs 阿帕拉契亚州立大学" tvg-chno="1118" tvg-name="梅里马克学院 vs 阿帕拉契亚州立大学" tvg-group="篮球" group-title="篮球",梅里马克学院 vs 阿帕拉契亚州立大学
+#EXTINF:-1 tvg-id="梅里马克学院 vs 阿帕拉契亚州立大学" tvg-chno="1120" tvg-name="梅里马克学院 vs 阿帕拉契亚州立大学" tvg-group="篮球" group-title="篮球",梅里马克学院 vs 阿帕拉契亚州立大学
 http://192.168.5.35:44635/play/349191127451d683f988f3d9ffaae70c15363d4c
-#EXTINF:-1 tvg-id="江山 vs 安吉" tvg-chno="1119" tvg-name="江山 vs 安吉" tvg-group="篮球" group-title="篮球",江山 vs 安吉
+#EXTINF:-1 tvg-id="江山 vs 安吉" tvg-chno="1121" tvg-name="江山 vs 安吉" tvg-group="篮球" group-title="篮球",江山 vs 安吉
 http://192.168.5.35:44635/play/414b61c4ccd5a01226cfe33e91c3a02872122a01
-#EXTINF:-1 tvg-id="海波因特大学 vs 自由大学" tvg-chno="1120" tvg-name="海波因特大学 vs 自由大学" tvg-group="篮球" group-title="篮球",海波因特大学 vs 自由大学
+#EXTINF:-1 tvg-id="海波因特大学 vs 自由大学" tvg-chno="1122" tvg-name="海波因特大学 vs 自由大学" tvg-group="篮球" group-title="篮球",海波因特大学 vs 自由大学
 http://192.168.5.35:44635/play/7988a10a38578e8852f7138eab256d624ebf0112
-#EXTINF:-1 tvg-id="贝尔格莱德游击 vs 克卢日纳波卡" tvg-chno="1121" tvg-name="贝尔格莱德游击 vs 克卢日纳波卡" tvg-group="篮球" group-title="篮球",贝尔格莱德游击 vs 克卢日纳波卡
+#EXTINF:-1 tvg-id="贝尔格莱德游击 vs 克卢日纳波卡" tvg-chno="1123" tvg-name="贝尔格莱德游击 vs 克卢日纳波卡" tvg-group="篮球" group-title="篮球",贝尔格莱德游击 vs 克卢日纳波卡
 http://192.168.5.35:44635/play/8c49889449e180931197cda9da27ffb68df19bc3
-#EXTINF:-1 tvg-id="阿尔泰巴尔瑙尔 vs 坦波夫" tvg-chno="1122" tvg-name="阿尔泰巴尔瑙尔 vs 坦波夫" tvg-group="篮球" group-title="篮球",阿尔泰巴尔瑙尔 vs 坦波夫
+#EXTINF:-1 tvg-id="阿尔泰巴尔瑙尔 vs 坦波夫" tvg-chno="1124" tvg-name="阿尔泰巴尔瑙尔 vs 坦波夫" tvg-group="篮球" group-title="篮球",阿尔泰巴尔瑙尔 vs 坦波夫
 http://192.168.5.35:44635/play/731539eb74bbc6d925bb69a8836f6e2321442a23
-#EXTINF:-1 tvg-id="阿帕拉契亚州立大学 vs 梅里马克学院" tvg-chno="1123" tvg-name="阿帕拉契亚州立大学 vs 梅里马克学院" tvg-group="篮球" group-title="篮球",阿帕拉契亚州立大学 vs 梅里马克学院
+#EXTINF:-1 tvg-id="阿帕拉契亚州立大学 vs 梅里马克学院" tvg-chno="1125" tvg-name="阿帕拉契亚州立大学 vs 梅里马克学院" tvg-group="篮球" group-title="篮球",阿帕拉契亚州立大学 vs 梅里马克学院
 http://192.168.5.35:44635/play/6caa9e9d29b154d6cc3f5799d52a018d9be7e4c6
-#EXTINF:-1 tvg-id="龙仁三星女篮 vs 富川KEB女篮" tvg-chno="1124" tvg-name="龙仁三星女篮 vs 富川KEB女篮" tvg-group="篮球" group-title="篮球",龙仁三星女篮 vs 富川KEB女篮
+#EXTINF:-1 tvg-id="龙仁三星女篮 vs 富川KEB女篮" tvg-chno="1126" tvg-name="龙仁三星女篮 vs 富川KEB女篮" tvg-group="篮球" group-title="篮球",龙仁三星女篮 vs 富川KEB女篮
 http://192.168.5.35:44635/play/2228c2cd838d8f3e243a714d1a18aa87cbc829d9
-#EXTINF:-1 tvg-id="龙仁三星女篮 vs 富川KEB女篮" tvg-chno="1125" tvg-name="龙仁三星女篮 vs 富川KEB女篮" tvg-group="篮球" group-title="篮球",龙仁三星女篮 vs 富川KEB女篮
+#EXTINF:-1 tvg-id="龙仁三星女篮 vs 富川KEB女篮" tvg-chno="1127" tvg-name="龙仁三星女篮 vs 富川KEB女篮" tvg-group="篮球" group-title="篮球",龙仁三星女篮 vs 富川KEB女篮
 http://192.168.5.35:44635/play/e1327ffde0a10778ea93b670932fc43993fd6271
 #EXTINF:-1 tvg-id="FK斯科普里 vs 施历斯" tvg-chno="1201" tvg-name="FK斯科普里 vs 施历斯" tvg-group="足球" group-title="足球",FK斯科普里 vs 施历斯
 http://192.168.5.35:44635/play/0e81268954bdf4765fd7a9289689c0ba48cbbcb9
@@ -114,10 +118,12 @@ http://192.168.5.35:44635/play/1e7e95ef3bf73ea6e365059c92ee020234ddbfe8
 #EXTINF:-1 tvg-id="特拉布宗体育女足 vs 贝西克塔斯女足" tvg-chno="1224" tvg-name="特拉布宗体育女足 vs 贝西克塔斯女足" tvg-group="足球" group-title="足球",特拉布宗体育女足 vs 贝西克塔斯女足
 http://192.168.5.35:44635/play/7b7f8cfc8c97dfe7048fb1a0d4c8077f59c58ca3
 #EXTINF:-1 tvg-id="索尔亚 vs 杜纳伊夫齐" tvg-chno="1225" tvg-name="索尔亚 vs 杜纳伊夫齐" tvg-group="足球" group-title="足球",索尔亚 vs 杜纳伊夫齐
-http://192.168.5.35:44635/play/213c291ef4fdce0e20b273a962c229688dd7c4d8
-#EXTINF:-1 tvg-id="累西腓体育U19 vs 格雷米奥RS U19" tvg-chno="1226" tvg-name="累西腓体育U19 vs 格雷米奥RS U19" tvg-group="足球" group-title="足球",累西腓体育U19 vs 格雷米奥RS U19
+http://192.168.5.35:44635/play/1a2e49e52ecde5d1390460d913d9b3003b01f053
+#EXTINF:-1 tvg-id="索尔亚 vs 杜纳伊夫齐" tvg-chno="1226" tvg-name="索尔亚 vs 杜纳伊夫齐" tvg-group="足球" group-title="足球",索尔亚 vs 杜纳伊夫齐
+http://192.168.5.35:44635/play/7a81c96f0a7610f3d3be86c6bee787cdddcd8d3f
+#EXTINF:-1 tvg-id="累西腓体育U19 vs 格雷米奥RS U19" tvg-chno="1227" tvg-name="累西腓体育U19 vs 格雷米奥RS U19" tvg-group="足球" group-title="足球",累西腓体育U19 vs 格雷米奥RS U19
 http://192.168.5.35:44635/play/592694ef80abcc6d41e142c99d45cfcef7d1f801
-#EXTINF:-1 tvg-id="韦拉克鲁斯体育U19 vs 桑托斯U19" tvg-chno="1227" tvg-name="韦拉克鲁斯体育U19 vs 桑托斯U19" tvg-group="足球" group-title="足球",韦拉克鲁斯体育U19 vs 桑托斯U19
+#EXTINF:-1 tvg-id="韦拉克鲁斯体育U19 vs 桑托斯U19" tvg-chno="1228" tvg-name="韦拉克鲁斯体育U19 vs 桑托斯U19" tvg-group="足球" group-title="足球",韦拉克鲁斯体育U19 vs 桑托斯U19
 http://192.168.5.35:44635/play/f674befa15a6fa53db228b3daa6870b4abfb5d96
 #EXTINF:-1 tvg-id="NFL·Network" tvg-chno="1301" tvg-name="NFL·Network" tvg-group="综合体育" group-title="综合体育",NFL·Network
 http://198.58.104.90:8989/nfl/index.m3u8
@@ -167,25 +173,29 @@ http://192.168.5.35:44635/play/3450bce67065e4d829b8c4d07f280a7205a1129d
 http://192.168.5.35:44635/play/76d79aee85857aff58302c1347fe6bdd26b25d08
 #EXTINF:-1 tvg-id="Rostik vs Cooman" tvg-chno="1403" tvg-name="Rostik vs Cooman" tvg-group="DOTA2" group-title="DOTA2",Rostik vs Cooman
 http://192.168.5.35:44635/play/95e5e16160a267d3a911069e1df31caf9516ead4
-#EXTINF:-1 tvg-id="Synapse vs SOLID" tvg-chno="1404" tvg-name="Synapse vs SOLID" tvg-group="DOTA2" group-title="DOTA2",Synapse vs SOLID
+#EXTINF:-1 tvg-id="Stray vs Lens" tvg-chno="1404" tvg-name="Stray vs Lens" tvg-group="DOTA2" group-title="DOTA2",Stray vs Lens
+http://192.168.5.35:44635/play/91a16301dc758309cbb2e9c55ed2612318fb7ca7
+#EXTINF:-1 tvg-id="Stray vs Lens" tvg-chno="1405" tvg-name="Stray vs Lens" tvg-group="DOTA2" group-title="DOTA2",Stray vs Lens
+http://192.168.5.35:44635/play/85064e4b09cae8492eec568328869ebce0e12823
+#EXTINF:-1 tvg-id="Synapse vs SOLID" tvg-chno="1406" tvg-name="Synapse vs SOLID" tvg-group="DOTA2" group-title="DOTA2",Synapse vs SOLID
 http://192.168.5.35:44635/play/8fa399279f75ab288a2799a517acf9d8d0fc7c57
-#EXTINF:-1 tvg-id="Synapse vs SOLID" tvg-chno="1405" tvg-name="Synapse vs SOLID" tvg-group="DOTA2" group-title="DOTA2",Synapse vs SOLID
+#EXTINF:-1 tvg-id="Synapse vs SOLID" tvg-chno="1407" tvg-name="Synapse vs SOLID" tvg-group="DOTA2" group-title="DOTA2",Synapse vs SOLID
 http://192.168.5.35:44635/play/2b72ac1970db1240dd2eca545ab6ea5c8a7ee76c
-#EXTINF:-1 tvg-id="TBD vs TBD" tvg-chno="1406" tvg-name="TBD vs TBD" tvg-group="DOTA2" group-title="DOTA2",TBD vs TBD
+#EXTINF:-1 tvg-id="TBD vs TBD" tvg-chno="1408" tvg-name="TBD vs TBD" tvg-group="DOTA2" group-title="DOTA2",TBD vs TBD
 http://192.168.5.35:44635/play/9b78258aa00bc9629a75cf0c69221858be07e625
-#EXTINF:-1 tvg-id="Team Legion vs L1ga Team" tvg-chno="1407" tvg-name="Team Legion vs L1ga Team" tvg-group="DOTA2" group-title="DOTA2",Team Legion vs L1ga Team
+#EXTINF:-1 tvg-id="Team Legion vs L1ga Team" tvg-chno="1409" tvg-name="Team Legion vs L1ga Team" tvg-group="DOTA2" group-title="DOTA2",Team Legion vs L1ga Team
 http://192.168.5.35:44635/play/8035cfbc72e7b756bdef98afc5fe9e3f20db9163
-#EXTINF:-1 tvg-id="Zenith vs Direborn" tvg-chno="1408" tvg-name="Zenith vs Direborn" tvg-group="DOTA2" group-title="DOTA2",Zenith vs Direborn
+#EXTINF:-1 tvg-id="Zenith vs Direborn" tvg-chno="1410" tvg-name="Zenith vs Direborn" tvg-group="DOTA2" group-title="DOTA2",Zenith vs Direborn
 http://192.168.5.35:44635/play/57bb31d9827fe93ee8f85b03e370cf46a773dfb7
-#EXTINF:-1 tvg-id="Zenith vs Direborn" tvg-chno="1409" tvg-name="Zenith vs Direborn" tvg-group="DOTA2" group-title="DOTA2",Zenith vs Direborn
+#EXTINF:-1 tvg-id="Zenith vs Direborn" tvg-chno="1411" tvg-name="Zenith vs Direborn" tvg-group="DOTA2" group-title="DOTA2",Zenith vs Direborn
 http://192.168.5.35:44635/play/2cca677c472f8287cd9bdc039a8c820d6d2ed19f
-#EXTINF:-1 tvg-id="Zenith vs Team Kinetix" tvg-chno="1410" tvg-name="Zenith vs Team Kinetix" tvg-group="DOTA2" group-title="DOTA2",Zenith vs Team Kinetix
+#EXTINF:-1 tvg-id="Zenith vs Team Kinetix" tvg-chno="1412" tvg-name="Zenith vs Team Kinetix" tvg-group="DOTA2" group-title="DOTA2",Zenith vs Team Kinetix
 http://192.168.5.35:44635/play/e2b2229071b81e57c49a54d458320cdb97a49ff7
-#EXTINF:-1 tvg-id="Zenith vs Team Kinetix" tvg-chno="1411" tvg-name="Zenith vs Team Kinetix" tvg-group="DOTA2" group-title="DOTA2",Zenith vs Team Kinetix
+#EXTINF:-1 tvg-id="Zenith vs Team Kinetix" tvg-chno="1413" tvg-name="Zenith vs Team Kinetix" tvg-group="DOTA2" group-title="DOTA2",Zenith vs Team Kinetix
 http://192.168.5.35:44635/play/be08345fcdb305f9e23a45f30ea01048c9aa9d7f
-#EXTINF:-1 tvg-id="potn9ki- vs HellNight-" tvg-chno="1412" tvg-name="potn9ki- vs HellNight-" tvg-group="DOTA2" group-title="DOTA2",potn9ki- vs HellNight-
+#EXTINF:-1 tvg-id="potn9ki- vs HellNight-" tvg-chno="1414" tvg-name="potn9ki- vs HellNight-" tvg-group="DOTA2" group-title="DOTA2",potn9ki- vs HellNight-
 http://192.168.5.35:44635/play/cf852c79725b502444a6e9b2a1e1e4789e82fd7c
-#EXTINF:-1 tvg-id="potn9ki- vs HellNight-" tvg-chno="1413" tvg-name="potn9ki- vs HellNight-" tvg-group="DOTA2" group-title="DOTA2",potn9ki- vs HellNight-
+#EXTINF:-1 tvg-id="potn9ki- vs HellNight-" tvg-chno="1415" tvg-name="potn9ki- vs HellNight-" tvg-group="DOTA2" group-title="DOTA2",potn9ki- vs HellNight-
 http://192.168.5.35:44635/play/3d44d88f5f4d5d784cb48230d997339b484e5796
 #EXTINF:-1 tvg-id="11-02 湖人 vs 猛龙" tvg-chno="1501" tvg-name="11-02 湖人 vs 猛龙" tvg-group="NBA回放" group-title="NBA回放",11-02 湖人 vs 猛龙
 http://192.168.5.35:8098/f/2026-11-02%20%E6%B9%96%E4%BA%BA%20vs%20%E7%8C%9B%E9%BE%99.mkv
