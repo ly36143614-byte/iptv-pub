@@ -22,7 +22,7 @@ http://198.58.104.90:8989/nba/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1103" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="勇士 vs 快船" tvg-chno="1104" tvg-name="勇士 vs 快船" tvg-group="篮球" group-title="篮球",勇士 vs 快船·咪咕直播
-https://hlsz.yjjcfw.com/live/00588328.m3u8?expire=1793607246&sign=63a4f551d73e33378db158815d1693ed
+https://hlsz.yjjcfw.com/live/00588328.m3u8?expire=1793607856&sign=ff09e9295cac375a7ca69807e90005bc
 #EXTINF:-1 tvg-id="北伊利诺大学 vs 格兰布林大学" tvg-chno="1105" tvg-name="北伊利诺大学 vs 格兰布林大学" tvg-group="篮球" group-title="篮球",北伊利诺大学 vs 格兰布林大学
 http://192.168.5.35:44635/play/e073089e3a98176179ce09ea0b97f4af821ac806
 #EXTINF:-1 tvg-id="墨尔本联 vs 新西兰破坏者" tvg-chno="1106" tvg-name="墨尔本联 vs 新西兰破坏者" tvg-group="篮球" group-title="篮球",墨尔本联 vs 新西兰破坏者
@@ -54,9 +54,9 @@ http://192.168.5.35:44635/play/7988a10a38578e8852f7138eab256d624ebf0112
 #EXTINF:-1 tvg-id="海波因特大学 vs 自由大学" tvg-chno="1119" tvg-name="海波因特大学 vs 自由大学" tvg-group="篮球" group-title="篮球",海波因特大学 vs 自由大学
 http://192.168.5.35:44635/play/d5ca76861948e316bfa7aacd63b18b5bd23c95c6
 #EXTINF:-1 tvg-id="湖人 vs 猛龙" tvg-chno="1120" tvg-name="湖人 vs 猛龙" tvg-group="篮球" group-title="篮球",湖人 vs 猛龙·腾讯直播
-https://hlsz.yjjcfw.com/live/10022600157.m3u8?expire=1793607248&sign=95dbe79d703a791c642938f706e48099
+https://hlsz.yjjcfw.com/live/10022600157.m3u8?expire=1793607858&sign=b284c737f965251bdc2114b6b48b7aef
 #EXTINF:-1 tvg-id="湖人 vs 猛龙" tvg-chno="1121" tvg-name="湖人 vs 猛龙" tvg-group="篮球" group-title="篮球",湖人 vs 猛龙·咪咕直播
-https://hlsz.yjjcfw.com/live/00588329.m3u8?expire=1793607248&sign=e0920a73f78b9084bb422b49ab301a86
+https://hlsz.yjjcfw.com/live/00588329.m3u8?expire=1793607859&sign=e11798fdffd6c2bf9823bee70b177780
 #EXTINF:-1 tvg-id="贝尔格莱德游击 vs 克卢日纳波卡" tvg-chno="1122" tvg-name="贝尔格莱德游击 vs 克卢日纳波卡" tvg-group="篮球" group-title="篮球",贝尔格莱德游击 vs 克卢日纳波卡
 http://192.168.5.35:44635/play/8c49889449e180931197cda9da27ffb68df19bc3
 #EXTINF:-1 tvg-id="阿尔泰巴尔瑙尔 vs 坦波夫" tvg-chno="1123" tvg-name="阿尔泰巴尔瑙尔 vs 坦波夫" tvg-group="篮球" group-title="篮球",阿尔泰巴尔瑙尔 vs 坦波夫
