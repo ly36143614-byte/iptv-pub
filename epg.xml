@@ -6,7 +6,6 @@
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="NFL Network"><display-name>NFL Network</display-name></channel>
   <channel id="Stray vs Lens"><display-name>Stray vs Lens</display-name></channel>
-  <channel id="帕尔马B队 vs 圣彼得堡泽尼特B队"><display-name>帕尔马B队 vs 圣彼得堡泽尼特B队</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <programme start="20261102020000 +0800" stop="20261102051948 +0800" channel="CBS">
@@ -85,10 +84,6 @@
     <title>Stray vs LENS（FME S5 - November 2）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261025011004 +0800" stop="20261025015548 +0800" channel="帕尔马B队 vs 圣彼得堡泽尼特B队">
-    <title>Dawn Bulls vs Yellow Submarine（EPL Masters 2026 ）</title>
-    <category>体育</category>
-  </programme>
   <programme start="20261103083000 +0800" stop="20261103111012 +0800" channel="活塞">
     <title>NBA：黄蜂 vs 活塞</title>
     <category>体育</category>
@@ -122,7 +117,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261103000000 +0800" stop="20261103013000 +0800" channel="赛程预告">
-    <title>芬超：国际图尔 vs 赫尔火花；亚冠精英：迪拜祈祷 vs 巴格达空军；亚冠精英：大不里士拖拉机 vs 费尔干纳油工；亚冠精英：多哈萨德 vs 吉达国民；Dota2：NAVI vs Nemiga（EPL Masters III）</title>
+    <title>芬超：国际图尔 vs 赫尔火花；亚冠精英：多哈萨德 vs 吉达国民；亚冠精英：大不里士拖拉机 vs 费尔干纳油工；亚冠精英：迪拜祈祷 vs 巴格达空军；Dota2：NAVI vs Nemiga（EPL Masters III）</title>
     <category>体育</category>
   </programme>
   <programme start="20261103013000 +0800" stop="20261103020000 +0800" channel="赛程预告">
@@ -246,7 +241,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261104040000 +0800" stop="20261104153000 +0800" channel="赛程预告">
-    <title>欧冠：马竞 vs 拜仁；LASK林茨 vs 布拉迪斯；费耶诺德 vs 国际米兰；曼联 vs 罗马；巴萨 vs 维拉；比利亚雷 vs 巴黎圣曼；博德闪耀 vs 里尔；LASK林茨 vs 布拉迪斯拉发；比利亚雷亚尔 vs 巴黎圣日耳曼；马德里竞技 vs 拜仁慕尼黑；巴塞罗那 vs 阿斯顿维拉</title>
+    <title>欧冠：马竞 vs 拜仁；LASK林茨 vs 布拉迪斯；费耶诺德 vs 国际米兰；曼联 vs 罗马；巴萨 vs 维拉；比利亚雷 vs 巴黎圣曼；博德闪耀 vs 里尔；LASK林茨 vs 布拉迪斯拉发；巴塞罗那 vs 阿斯顿维拉；比利亚雷亚尔 vs 巴黎圣日耳曼；马德里竞技 vs 拜仁慕尼黑</title>
     <category>体育</category>
   </programme>
   <programme start="20261104153000 +0800" stop="20261104180000 +0800" channel="赛程预告">
