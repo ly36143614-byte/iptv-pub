@@ -22,9 +22,9 @@ http://198.58.104.90:8989/nba/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1103" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="勇士 vs 快船" tvg-chno="1104" tvg-name="勇士 vs 快船" tvg-group="篮球" group-title="篮球",勇士 vs 快船·腾讯直播
-https://hlsz.yjjcfw.com/live/10022600156.m3u8?expire=1793604511&sign=e5b9360131a11228d9902ed7fca76d3f
+https://hlsz.yjjcfw.com/live/10022600156.m3u8?expire=1793605207&sign=094d64609a687e98d33366226ba944d8
 #EXTINF:-1 tvg-id="勇士 vs 快船" tvg-chno="1105" tvg-name="勇士 vs 快船" tvg-group="篮球" group-title="篮球",勇士 vs 快船·咪咕直播
-https://hlsz.yjjcfw.com/live/00588328.m3u8?expire=1793604511&sign=17bbac6b8265dbdd5c457b9e499f144e
+https://hlsz.yjjcfw.com/live/00588328.m3u8?expire=1793605207&sign=d25416ccd877466a2a07f4313c37b401
 #EXTINF:-1 tvg-id="北伊利诺大学 vs 格兰布林大学" tvg-chno="1106" tvg-name="北伊利诺大学 vs 格兰布林大学" tvg-group="篮球" group-title="篮球",北伊利诺大学 vs 格兰布林大学
 http://192.168.5.35:44635/play/e073089e3a98176179ce09ea0b97f4af821ac806
 #EXTINF:-1 tvg-id="墨尔本联 vs 新西兰破坏者" tvg-chno="1107" tvg-name="墨尔本联 vs 新西兰破坏者" tvg-group="篮球" group-title="篮球",墨尔本联 vs 新西兰破坏者
@@ -50,13 +50,13 @@ http://192.168.5.35:44635/play/349191127451d683f988f3d9ffaae70c15363d4c
 #EXTINF:-1 tvg-id="江山 vs 安吉" tvg-chno="1117" tvg-name="江山 vs 安吉" tvg-group="篮球" group-title="篮球",江山 vs 安吉
 http://192.168.5.35:44635/play/414b61c4ccd5a01226cfe33e91c3a02872122a01
 #EXTINF:-1 tvg-id="海波因特大学 vs 自由大学" tvg-chno="1118" tvg-name="海波因特大学 vs 自由大学" tvg-group="篮球" group-title="篮球",海波因特大学 vs 自由大学
-http://192.168.5.35:44635/play/7988a10a38578e8852f7138eab256d624ebf0112
-#EXTINF:-1 tvg-id="海波因特大学 vs 自由大学" tvg-chno="1119" tvg-name="海波因特大学 vs 自由大学" tvg-group="篮球" group-title="篮球",海波因特大学 vs 自由大学
 http://192.168.5.35:44635/play/d5ca76861948e316bfa7aacd63b18b5bd23c95c6
+#EXTINF:-1 tvg-id="海波因特大学 vs 自由大学" tvg-chno="1119" tvg-name="海波因特大学 vs 自由大学" tvg-group="篮球" group-title="篮球",海波因特大学 vs 自由大学
+http://192.168.5.35:44635/play/7988a10a38578e8852f7138eab256d624ebf0112
 #EXTINF:-1 tvg-id="湖人 vs 猛龙" tvg-chno="1120" tvg-name="湖人 vs 猛龙" tvg-group="篮球" group-title="篮球",湖人 vs 猛龙·腾讯直播
-https://hlsz.yjjcfw.com/live/10022600157.m3u8?expire=1793604513&sign=afcc4a1697719828c2bc219a22176a7c
+https://hlsz.yjjcfw.com/live/10022600157.m3u8?expire=1793605209&sign=cf8337a24c87ccac2efca90fc15ca0d9
 #EXTINF:-1 tvg-id="湖人 vs 猛龙" tvg-chno="1121" tvg-name="湖人 vs 猛龙" tvg-group="篮球" group-title="篮球",湖人 vs 猛龙·咪咕直播
-https://hlsz.yjjcfw.com/live/00588329.m3u8?expire=1793604513&sign=b5de502a590f84474429a84ef34068d2
+https://hlsz.yjjcfw.com/live/00588329.m3u8?expire=1793605209&sign=62c276cb21f156cdfc706fbd05727316
 #EXTINF:-1 tvg-id="贝尔格莱德游击 vs 克卢日纳波卡" tvg-chno="1122" tvg-name="贝尔格莱德游击 vs 克卢日纳波卡" tvg-group="篮球" group-title="篮球",贝尔格莱德游击 vs 克卢日纳波卡
 http://192.168.5.35:44635/play/8c49889449e180931197cda9da27ffb68df19bc3
 #EXTINF:-1 tvg-id="阿尔泰巴尔瑙尔 vs 坦波夫" tvg-chno="1123" tvg-name="阿尔泰巴尔瑙尔 vs 坦波夫" tvg-group="篮球" group-title="篮球",阿尔泰巴尔瑙尔 vs 坦波夫
