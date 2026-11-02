@@ -93,9 +93,13 @@ http://192.168.5.35:44635/play/cd2480b193eed50b1771699868ded5f1d0f6269c
 http://192.168.5.35:44635/play/5cfaee7a9fb8437087564781fd76f806eb42bb41
 #EXTINF:-1 tvg-id="普莱西亚B队 vs 亚历山德里亚" tvg-chno="1204" tvg-name="普莱西亚B队 vs 亚历山德里亚" tvg-group="足球" group-title="足球",普莱西亚B队 vs 亚历山德里亚
 http://192.168.5.35:44635/play/3b053b12391382e0aa1b82d0793e8087329167f3
-#EXTINF:-1 tvg-id="高美尔B队 vs 明斯克B队" tvg-chno="1205" tvg-name="高美尔B队 vs 明斯克B队" tvg-group="足球" group-title="足球",高美尔B队 vs 明斯克B队
+#EXTINF:-1 tvg-id="科瓦利夫卡科洛斯B队 vs 梅塔利斯特" tvg-chno="1205" tvg-name="科瓦利夫卡科洛斯B队 vs 梅塔利斯特" tvg-group="足球" group-title="足球",科瓦利夫卡科洛斯B队 vs 梅塔利斯特
+http://192.168.5.35:44635/play/d2ed2b566c68edb131ca8681e688a1556d4cbdbb
+#EXTINF:-1 tvg-id="科瓦利夫卡科洛斯B队 vs 梅塔利斯特" tvg-chno="1206" tvg-name="科瓦利夫卡科洛斯B队 vs 梅塔利斯特" tvg-group="足球" group-title="足球",科瓦利夫卡科洛斯B队 vs 梅塔利斯特
+http://192.168.5.35:44635/play/d4e6856939d9a0ef5bd0c38e017d9d628e76e186
+#EXTINF:-1 tvg-id="高美尔B队 vs 明斯克B队" tvg-chno="1207" tvg-name="高美尔B队 vs 明斯克B队" tvg-group="足球" group-title="足球",高美尔B队 vs 明斯克B队
 http://192.168.5.35:44635/play/d598bfaa81e83761bf794050cce8be3ca42cd063
-#EXTINF:-1 tvg-id="高美尔B队 vs 明斯克B队" tvg-chno="1206" tvg-name="高美尔B队 vs 明斯克B队" tvg-group="足球" group-title="足球",高美尔B队 vs 明斯克B队
+#EXTINF:-1 tvg-id="高美尔B队 vs 明斯克B队" tvg-chno="1208" tvg-name="高美尔B队 vs 明斯克B队" tvg-group="足球" group-title="足球",高美尔B队 vs 明斯克B队
 http://192.168.5.35:44635/play/4db358717bb43214fbde3d75f69da09619a1f2ae
 #EXTINF:-1 tvg-id="NFL·Network" tvg-chno="1301" tvg-name="NFL·Network" tvg-group="综合体育" group-title="综合体育",NFL·Network
 http://198.58.104.90:8989/nfl/index.m3u8
