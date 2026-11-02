@@ -22,9 +22,9 @@ http://198.58.104.90:8989/nba/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1103" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="勇士 vs 快船" tvg-chno="1104" tvg-name="勇士 vs 快船" tvg-group="篮球" group-title="篮球",勇士 vs 快船·腾讯直播
-https://hlsz.yjjcfw.com/live/10022600156.m3u8?expire=1793600651&sign=95208c9c83bb3588df0b8582f9df8635
+https://hlsz.yjjcfw.com/live/10022600156.m3u8?expire=1793601259&sign=6d1dc8e5329b4e6fa880d8eec6682258
 #EXTINF:-1 tvg-id="勇士 vs 快船" tvg-chno="1105" tvg-name="勇士 vs 快船" tvg-group="篮球" group-title="篮球",勇士 vs 快船·咪咕直播
-https://hlsz.yjjcfw.com/live/00588328.m3u8?expire=1793600650&sign=f752694ed55428c93373a4c18c993336
+https://hlsz.yjjcfw.com/live/00588328.m3u8?expire=1793601258&sign=8c17465ff40a49b8f7641f8e31977d7d
 #EXTINF:-1 tvg-id="北伊利诺大学 vs 格兰布林大学" tvg-chno="1106" tvg-name="北伊利诺大学 vs 格兰布林大学" tvg-group="篮球" group-title="篮球",北伊利诺大学 vs 格兰布林大学
 http://192.168.5.35:44635/play/e073089e3a98176179ce09ea0b97f4af821ac806
 #EXTINF:-1 tvg-id="墨尔本联 vs 新西兰破坏者" tvg-chno="1107" tvg-name="墨尔本联 vs 新西兰破坏者" tvg-group="篮球" group-title="篮球",墨尔本联 vs 新西兰破坏者
@@ -47,25 +47,23 @@ http://192.168.5.35:44635/play/c800fa20e926dfe1077274b09ba64db4c2021de4
 http://192.168.5.35:44635/play/27aab6db37313cb5a9e6fe86ba71c906fdc0b3d3
 #EXTINF:-1 tvg-id="梅里马克学院 vs 阿帕拉契亚州立大学" tvg-chno="1116" tvg-name="梅里马克学院 vs 阿帕拉契亚州立大学" tvg-group="篮球" group-title="篮球",梅里马克学院 vs 阿帕拉契亚州立大学
 http://192.168.5.35:44635/play/349191127451d683f988f3d9ffaae70c15363d4c
-#EXTINF:-1 tvg-id="步行者 vs 篮网" tvg-chno="1117" tvg-name="步行者 vs 篮网" tvg-group="篮球" group-title="篮球",步行者 vs 篮网
-http://192.168.5.35:44635/play/c7134319c4161d27a2b357c29ba4809497ef37bb
-#EXTINF:-1 tvg-id="江山 vs 安吉" tvg-chno="1118" tvg-name="江山 vs 安吉" tvg-group="篮球" group-title="篮球",江山 vs 安吉
+#EXTINF:-1 tvg-id="江山 vs 安吉" tvg-chno="1117" tvg-name="江山 vs 安吉" tvg-group="篮球" group-title="篮球",江山 vs 安吉
 http://192.168.5.35:44635/play/414b61c4ccd5a01226cfe33e91c3a02872122a01
+#EXTINF:-1 tvg-id="海波因特大学 vs 自由大学" tvg-chno="1118" tvg-name="海波因特大学 vs 自由大学" tvg-group="篮球" group-title="篮球",海波因特大学 vs 自由大学
+http://192.168.5.35:44635/play/7988a10a38578e8852f7138eab256d624ebf0112
 #EXTINF:-1 tvg-id="海波因特大学 vs 自由大学" tvg-chno="1119" tvg-name="海波因特大学 vs 自由大学" tvg-group="篮球" group-title="篮球",海波因特大学 vs 自由大学
 http://192.168.5.35:44635/play/d5ca76861948e316bfa7aacd63b18b5bd23c95c6
-#EXTINF:-1 tvg-id="海波因特大学 vs 自由大学" tvg-chno="1120" tvg-name="海波因特大学 vs 自由大学" tvg-group="篮球" group-title="篮球",海波因特大学 vs 自由大学
-http://192.168.5.35:44635/play/7988a10a38578e8852f7138eab256d624ebf0112
-#EXTINF:-1 tvg-id="湖人 vs 猛龙" tvg-chno="1121" tvg-name="湖人 vs 猛龙" tvg-group="篮球" group-title="篮球",湖人 vs 猛龙·腾讯直播
-https://hlsz.yjjcfw.com/live/10022600157.m3u8?expire=1793600652&sign=9eb5c9505116b308cf3c567c10bab9e1
-#EXTINF:-1 tvg-id="湖人 vs 猛龙" tvg-chno="1122" tvg-name="湖人 vs 猛龙" tvg-group="篮球" group-title="篮球",湖人 vs 猛龙·咪咕直播
-https://hlsz.yjjcfw.com/live/00588329.m3u8?expire=1793600653&sign=e9c241d475e5523e1f7f683f5711471d
-#EXTINF:-1 tvg-id="贝尔格莱德游击 vs 克卢日纳波卡" tvg-chno="1123" tvg-name="贝尔格莱德游击 vs 克卢日纳波卡" tvg-group="篮球" group-title="篮球",贝尔格莱德游击 vs 克卢日纳波卡
+#EXTINF:-1 tvg-id="湖人 vs 猛龙" tvg-chno="1120" tvg-name="湖人 vs 猛龙" tvg-group="篮球" group-title="篮球",湖人 vs 猛龙·腾讯直播
+https://hlsz.yjjcfw.com/live/10022600157.m3u8?expire=1793601265&sign=62b387b8396018532bbbebd70be862b4
+#EXTINF:-1 tvg-id="湖人 vs 猛龙" tvg-chno="1121" tvg-name="湖人 vs 猛龙" tvg-group="篮球" group-title="篮球",湖人 vs 猛龙·咪咕直播
+https://hlsz.yjjcfw.com/live/00588329.m3u8?expire=1793601266&sign=63b6be5657a0a2d02a66b1bce2dc78f1
+#EXTINF:-1 tvg-id="贝尔格莱德游击 vs 克卢日纳波卡" tvg-chno="1122" tvg-name="贝尔格莱德游击 vs 克卢日纳波卡" tvg-group="篮球" group-title="篮球",贝尔格莱德游击 vs 克卢日纳波卡
 http://192.168.5.35:44635/play/8c49889449e180931197cda9da27ffb68df19bc3
-#EXTINF:-1 tvg-id="阿尔泰巴尔瑙尔 vs 坦波夫" tvg-chno="1124" tvg-name="阿尔泰巴尔瑙尔 vs 坦波夫" tvg-group="篮球" group-title="篮球",阿尔泰巴尔瑙尔 vs 坦波夫
+#EXTINF:-1 tvg-id="阿尔泰巴尔瑙尔 vs 坦波夫" tvg-chno="1123" tvg-name="阿尔泰巴尔瑙尔 vs 坦波夫" tvg-group="篮球" group-title="篮球",阿尔泰巴尔瑙尔 vs 坦波夫
 http://192.168.5.35:44635/play/731539eb74bbc6d925bb69a8836f6e2321442a23
-#EXTINF:-1 tvg-id="阿帕拉契亚州立大学 vs 梅里马克学院" tvg-chno="1125" tvg-name="阿帕拉契亚州立大学 vs 梅里马克学院" tvg-group="篮球" group-title="篮球",阿帕拉契亚州立大学 vs 梅里马克学院
+#EXTINF:-1 tvg-id="阿帕拉契亚州立大学 vs 梅里马克学院" tvg-chno="1124" tvg-name="阿帕拉契亚州立大学 vs 梅里马克学院" tvg-group="篮球" group-title="篮球",阿帕拉契亚州立大学 vs 梅里马克学院
 http://192.168.5.35:44635/play/6caa9e9d29b154d6cc3f5799d52a018d9be7e4c6
-#EXTINF:-1 tvg-id="龙仁三星女篮 vs 富川KEB女篮" tvg-chno="1126" tvg-name="龙仁三星女篮 vs 富川KEB女篮" tvg-group="篮球" group-title="篮球",龙仁三星女篮 vs 富川KEB女篮
+#EXTINF:-1 tvg-id="龙仁三星女篮 vs 富川KEB女篮" tvg-chno="1125" tvg-name="龙仁三星女篮 vs 富川KEB女篮" tvg-group="篮球" group-title="篮球",龙仁三星女篮 vs 富川KEB女篮
 http://192.168.5.35:44635/play/bea97c83c5c3d0d6fc5eb7051d45465b4307c3a2
 #EXTINF:-1 tvg-id="中央骏马 vs 德仁FC" tvg-chno="1201" tvg-name="中央骏马 vs 德仁FC" tvg-group="足球" group-title="足球",中央骏马 vs 德仁FC
 http://192.168.5.35:44635/play/206eb26b269c4af52e4a03d3659d63863074fab5
