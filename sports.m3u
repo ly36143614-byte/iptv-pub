@@ -181,29 +181,27 @@ http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1360" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="Dota2中文·完美世界" tvg-chno="1401" tvg-name="Dota2中文·完美世界" tvg-group="DOTA2" group-title="DOTA2",Dota2中文·完美世界
-http://127.0.0.1:35455/douyu/6829849
-#EXTINF:-1 tvg-id="HKR vs Xipto" tvg-chno="1402" tvg-name="HKR vs Xipto" tvg-group="DOTA2" group-title="DOTA2",HKR vs Xipto
+#EXTINF:-1 tvg-id="HKR vs Xipto" tvg-chno="1401" tvg-name="HKR vs Xipto" tvg-group="DOTA2" group-title="DOTA2",HKR vs Xipto
 http://192.168.5.35:44635/play/3450bce67065e4d829b8c4d07f280a7205a1129d
-#EXTINF:-1 tvg-id="HKR vs Xipto" tvg-chno="1403" tvg-name="HKR vs Xipto" tvg-group="DOTA2" group-title="DOTA2",HKR vs Xipto
+#EXTINF:-1 tvg-id="HKR vs Xipto" tvg-chno="1402" tvg-name="HKR vs Xipto" tvg-group="DOTA2" group-title="DOTA2",HKR vs Xipto
 http://192.168.5.35:44635/play/76d79aee85857aff58302c1347fe6bdd26b25d08
-#EXTINF:-1 tvg-id="Synapse vs SOLID" tvg-chno="1404" tvg-name="Synapse vs SOLID" tvg-group="DOTA2" group-title="DOTA2",Synapse vs SOLID
+#EXTINF:-1 tvg-id="Synapse vs SOLID" tvg-chno="1403" tvg-name="Synapse vs SOLID" tvg-group="DOTA2" group-title="DOTA2",Synapse vs SOLID
 http://192.168.5.35:44635/play/8fa399279f75ab288a2799a517acf9d8d0fc7c57
-#EXTINF:-1 tvg-id="Synapse vs SOLID" tvg-chno="1405" tvg-name="Synapse vs SOLID" tvg-group="DOTA2" group-title="DOTA2",Synapse vs SOLID
+#EXTINF:-1 tvg-id="Synapse vs SOLID" tvg-chno="1404" tvg-name="Synapse vs SOLID" tvg-group="DOTA2" group-title="DOTA2",Synapse vs SOLID
 http://192.168.5.35:44635/play/2b72ac1970db1240dd2eca545ab6ea5c8a7ee76c
-#EXTINF:-1 tvg-id="Team Legion vs L1ga Team" tvg-chno="1406" tvg-name="Team Legion vs L1ga Team" tvg-group="DOTA2" group-title="DOTA2",Team Legion vs L1ga Team
+#EXTINF:-1 tvg-id="Team Legion vs L1ga Team" tvg-chno="1405" tvg-name="Team Legion vs L1ga Team" tvg-group="DOTA2" group-title="DOTA2",Team Legion vs L1ga Team
 http://192.168.5.35:44635/play/a724cd6e47a52ed878bf137564521c3e9c888c35
-#EXTINF:-1 tvg-id="Zenith vs Direborn" tvg-chno="1407" tvg-name="Zenith vs Direborn" tvg-group="DOTA2" group-title="DOTA2",Zenith vs Direborn
+#EXTINF:-1 tvg-id="Zenith vs Direborn" tvg-chno="1406" tvg-name="Zenith vs Direborn" tvg-group="DOTA2" group-title="DOTA2",Zenith vs Direborn
 http://192.168.5.35:44635/play/57bb31d9827fe93ee8f85b03e370cf46a773dfb7
-#EXTINF:-1 tvg-id="Zenith vs Direborn" tvg-chno="1408" tvg-name="Zenith vs Direborn" tvg-group="DOTA2" group-title="DOTA2",Zenith vs Direborn
+#EXTINF:-1 tvg-id="Zenith vs Direborn" tvg-chno="1407" tvg-name="Zenith vs Direborn" tvg-group="DOTA2" group-title="DOTA2",Zenith vs Direborn
 http://192.168.5.35:44635/play/2cca677c472f8287cd9bdc039a8c820d6d2ed19f
-#EXTINF:-1 tvg-id="Zenith vs Team Kinetix" tvg-chno="1409" tvg-name="Zenith vs Team Kinetix" tvg-group="DOTA2" group-title="DOTA2",Zenith vs Team Kinetix
+#EXTINF:-1 tvg-id="Zenith vs Team Kinetix" tvg-chno="1408" tvg-name="Zenith vs Team Kinetix" tvg-group="DOTA2" group-title="DOTA2",Zenith vs Team Kinetix
 http://192.168.5.35:44635/play/e2b2229071b81e57c49a54d458320cdb97a49ff7
-#EXTINF:-1 tvg-id="Zenith vs Team Kinetix" tvg-chno="1410" tvg-name="Zenith vs Team Kinetix" tvg-group="DOTA2" group-title="DOTA2",Zenith vs Team Kinetix
+#EXTINF:-1 tvg-id="Zenith vs Team Kinetix" tvg-chno="1409" tvg-name="Zenith vs Team Kinetix" tvg-group="DOTA2" group-title="DOTA2",Zenith vs Team Kinetix
 http://192.168.5.35:44635/play/be08345fcdb305f9e23a45f30ea01048c9aa9d7f
-#EXTINF:-1 tvg-id="potn9ki- vs HellNight-" tvg-chno="1411" tvg-name="potn9ki- vs HellNight-" tvg-group="DOTA2" group-title="DOTA2",potn9ki- vs HellNight-
+#EXTINF:-1 tvg-id="potn9ki- vs HellNight-" tvg-chno="1410" tvg-name="potn9ki- vs HellNight-" tvg-group="DOTA2" group-title="DOTA2",potn9ki- vs HellNight-
 http://192.168.5.35:44635/play/cf852c79725b502444a6e9b2a1e1e4789e82fd7c
-#EXTINF:-1 tvg-id="potn9ki- vs HellNight-" tvg-chno="1412" tvg-name="potn9ki- vs HellNight-" tvg-group="DOTA2" group-title="DOTA2",potn9ki- vs HellNight-
+#EXTINF:-1 tvg-id="potn9ki- vs HellNight-" tvg-chno="1411" tvg-name="potn9ki- vs HellNight-" tvg-group="DOTA2" group-title="DOTA2",potn9ki- vs HellNight-
 http://192.168.5.35:44635/play/3d44d88f5f4d5d784cb48230d997339b484e5796
 #EXTINF:-1 tvg-id="11-01 黄蜂 vs 76人" tvg-chno="1501" tvg-name="11-01 黄蜂 vs 76人" tvg-group="NBA回放" group-title="NBA回放",11-01 黄蜂 vs 76人
 http://192.168.5.35:8098/f/2026-11-01%20%E9%BB%84%E8%9C%82%20vs%2076%E4%BA%BA.mkv
