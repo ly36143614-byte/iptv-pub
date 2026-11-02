@@ -50,9 +50,9 @@ http://192.168.5.35:44635/play/349191127451d683f988f3d9ffaae70c15363d4c
 #EXTINF:-1 tvg-id="江山 vs 安吉" tvg-chno="1117" tvg-name="江山 vs 安吉" tvg-group="篮球" group-title="篮球",江山 vs 安吉
 http://192.168.5.35:44635/play/414b61c4ccd5a01226cfe33e91c3a02872122a01
 #EXTINF:-1 tvg-id="海波因特大学 vs 自由大学" tvg-chno="1118" tvg-name="海波因特大学 vs 自由大学" tvg-group="篮球" group-title="篮球",海波因特大学 vs 自由大学
-http://192.168.5.35:44635/play/7988a10a38578e8852f7138eab256d624ebf0112
-#EXTINF:-1 tvg-id="海波因特大学 vs 自由大学" tvg-chno="1119" tvg-name="海波因特大学 vs 自由大学" tvg-group="篮球" group-title="篮球",海波因特大学 vs 自由大学
 http://192.168.5.35:44635/play/d5ca76861948e316bfa7aacd63b18b5bd23c95c6
+#EXTINF:-1 tvg-id="海波因特大学 vs 自由大学" tvg-chno="1119" tvg-name="海波因特大学 vs 自由大学" tvg-group="篮球" group-title="篮球",海波因特大学 vs 自由大学
+http://192.168.5.35:44635/play/7988a10a38578e8852f7138eab256d624ebf0112
 #EXTINF:-1 tvg-id="湖人 vs 猛龙" tvg-chno="1120" tvg-name="湖人 vs 猛龙" tvg-group="篮球" group-title="篮球",湖人 vs 猛龙·腾讯直播
 https://hlsz.yjjcfw.com/live/10022600157.m3u8?expire=1793601968&sign=729b4866ebf5808a86839f79298e467c
 #EXTINF:-1 tvg-id="湖人 vs 猛龙" tvg-chno="1121" tvg-name="湖人 vs 猛龙" tvg-group="篮球" group-title="篮球",湖人 vs 猛龙·咪咕直播
@@ -87,59 +87,61 @@ http://192.168.5.35:44635/play/4796a43af285da08b7324b9ee46a420a110ab816
 http://192.168.5.35:44635/play/e178e361a358798ad00c06d82f527cef2ee727d6
 #EXTINF:-1 tvg-id="新墨西哥联 vs 凤凰重生" tvg-chno="1211" tvg-name="新墨西哥联 vs 凤凰重生" tvg-group="足球" group-title="足球",新墨西哥联 vs 凤凰重生
 http://192.168.5.35:44635/play/e387c8182ddde400a7ae25be785e4aa7c5011672
-#EXTINF:-1 tvg-id="查英特U21 vs 泰港U21" tvg-chno="1212" tvg-name="查英特U21 vs 泰港U21" tvg-group="足球" group-title="足球",查英特U21 vs 泰港U21
+#EXTINF:-1 tvg-id="曼谷联U21 vs 孔敬联U21" tvg-chno="1212" tvg-name="曼谷联U21 vs 孔敬联U21" tvg-group="足球" group-title="足球",曼谷联U21 vs 孔敬联U21
+http://192.168.5.35:44635/play/7fa8317e8b6f4bd275e31e23b60590716183774c
+#EXTINF:-1 tvg-id="查英特U21 vs 泰港U21" tvg-chno="1213" tvg-name="查英特U21 vs 泰港U21" tvg-group="足球" group-title="足球",查英特U21 vs 泰港U21
 http://192.168.5.35:44635/play/1181a2486988abb6443a5d0530a947984cdf6768
-#EXTINF:-1 tvg-id="标准列日U15 vs 上海申花U15" tvg-chno="1213" tvg-name="标准列日U15 vs 上海申花U15" tvg-group="足球" group-title="足球",标准列日U15 vs 上海申花U15
-http://192.168.5.35:44635/play/8629d36c2029c492f75d93c4ca23e9b90d9b2215
 #EXTINF:-1 tvg-id="标准列日U15 vs 上海申花U15" tvg-chno="1214" tvg-name="标准列日U15 vs 上海申花U15" tvg-group="足球" group-title="足球",标准列日U15 vs 上海申花U15
+http://192.168.5.35:44635/play/8629d36c2029c492f75d93c4ca23e9b90d9b2215
+#EXTINF:-1 tvg-id="标准列日U15 vs 上海申花U15" tvg-chno="1215" tvg-name="标准列日U15 vs 上海申花U15" tvg-group="足球" group-title="足球",标准列日U15 vs 上海申花U15
 http://192.168.5.35:44635/play/e24d7b54bb0d2d073f02f436fec221206c0fc7df
-#EXTINF:-1 tvg-id="桑坦德竞技U15 vs 塔什干足协U15" tvg-chno="1215" tvg-name="桑坦德竞技U15 vs 塔什干足协U15" tvg-group="足球" group-title="足球",桑坦德竞技U15 vs 塔什干足协U15
-http://192.168.5.35:44635/play/a19fb73afb39e8cab6833eb77dd7df8fc688b043
 #EXTINF:-1 tvg-id="桑坦德竞技U15 vs 塔什干足协U15" tvg-chno="1216" tvg-name="桑坦德竞技U15 vs 塔什干足协U15" tvg-group="足球" group-title="足球",桑坦德竞技U15 vs 塔什干足协U15
+http://192.168.5.35:44635/play/a19fb73afb39e8cab6833eb77dd7df8fc688b043
+#EXTINF:-1 tvg-id="桑坦德竞技U15 vs 塔什干足协U15" tvg-chno="1217" tvg-name="桑坦德竞技U15 vs 塔什干足协U15" tvg-group="足球" group-title="足球",桑坦德竞技U15 vs 塔什干足协U15
 http://192.168.5.35:44635/play/c5069cfcd2547c0484593ce10f4bfa03170e4147
-#EXTINF:-1 tvg-id="江苏U15 vs 贝尔格莱德游击队U15" tvg-chno="1217" tvg-name="江苏U15 vs 贝尔格莱德游击队U15" tvg-group="足球" group-title="足球",江苏U15 vs 贝尔格莱德游击队U15
-http://192.168.5.35:44635/play/5bb32bdc8e49d9e9048184c9dec8e796e0bc871f
 #EXTINF:-1 tvg-id="江苏U15 vs 贝尔格莱德游击队U15" tvg-chno="1218" tvg-name="江苏U15 vs 贝尔格莱德游击队U15" tvg-group="足球" group-title="足球",江苏U15 vs 贝尔格莱德游击队U15
+http://192.168.5.35:44635/play/5bb32bdc8e49d9e9048184c9dec8e796e0bc871f
+#EXTINF:-1 tvg-id="江苏U15 vs 贝尔格莱德游击队U15" tvg-chno="1219" tvg-name="江苏U15 vs 贝尔格莱德游击队U15" tvg-group="足球" group-title="足球",江苏U15 vs 贝尔格莱德游击队U15
 http://192.168.5.35:44635/play/53822f20df18b242653d638d3d551312af275612
-#EXTINF:-1 tvg-id="波特兰伐木工 vs 休斯敦迪纳摩" tvg-chno="1219" tvg-name="波特兰伐木工 vs 休斯敦迪纳摩" tvg-group="足球" group-title="足球",波特兰伐木工 vs 休斯敦迪纳摩
-http://192.168.5.35:44635/play/c9ca043e9ee0d5487f78cc679d86e41e72e77d3a
 #EXTINF:-1 tvg-id="波特兰伐木工 vs 休斯敦迪纳摩" tvg-chno="1220" tvg-name="波特兰伐木工 vs 休斯敦迪纳摩" tvg-group="足球" group-title="足球",波特兰伐木工 vs 休斯敦迪纳摩
+http://192.168.5.35:44635/play/c9ca043e9ee0d5487f78cc679d86e41e72e77d3a
+#EXTINF:-1 tvg-id="波特兰伐木工 vs 休斯敦迪纳摩" tvg-chno="1221" tvg-name="波特兰伐木工 vs 休斯敦迪纳摩" tvg-group="足球" group-title="足球",波特兰伐木工 vs 休斯敦迪纳摩
 http://192.168.5.35:44635/play/91d8beab8163125d5cc529074d8d6198170b1176
-#EXTINF:-1 tvg-id="洛杉矶FC vs 明尼苏达联" tvg-chno="1221" tvg-name="洛杉矶FC vs 明尼苏达联" tvg-group="足球" group-title="足球",洛杉矶FC vs 明尼苏达联
-http://192.168.5.35:44635/play/f0e79dd35b81ac6260c5446c746a4595ddb56190
 #EXTINF:-1 tvg-id="洛杉矶FC vs 明尼苏达联" tvg-chno="1222" tvg-name="洛杉矶FC vs 明尼苏达联" tvg-group="足球" group-title="足球",洛杉矶FC vs 明尼苏达联
+http://192.168.5.35:44635/play/f0e79dd35b81ac6260c5446c746a4595ddb56190
+#EXTINF:-1 tvg-id="洛杉矶FC vs 明尼苏达联" tvg-chno="1223" tvg-name="洛杉矶FC vs 明尼苏达联" tvg-group="足球" group-title="足球",洛杉矶FC vs 明尼苏达联
 http://192.168.5.35:44635/play/f603a1bf6ac680d03c63b7c709e5f2579ef00546
-#EXTINF:-1 tvg-id="浙江U15 vs 浙江足管中心U15" tvg-chno="1223" tvg-name="浙江U15 vs 浙江足管中心U15" tvg-group="足球" group-title="足球",浙江U15 vs 浙江足管中心U15
-http://192.168.5.35:44635/play/1c6d577e0323552252947d65fba801f7bb33e096
 #EXTINF:-1 tvg-id="浙江U15 vs 浙江足管中心U15" tvg-chno="1224" tvg-name="浙江U15 vs 浙江足管中心U15" tvg-group="足球" group-title="足球",浙江U15 vs 浙江足管中心U15
+http://192.168.5.35:44635/play/1c6d577e0323552252947d65fba801f7bb33e096
+#EXTINF:-1 tvg-id="浙江U15 vs 浙江足管中心U15" tvg-chno="1225" tvg-name="浙江U15 vs 浙江足管中心U15" tvg-group="足球" group-title="足球",浙江U15 vs 浙江足管中心U15
 http://192.168.5.35:44635/play/941fc0ed859077d2a075cf465e78eb1951e64ca6
-#EXTINF:-1 tvg-id="猎人FC vs 乌兰巴托FC" tvg-chno="1225" tvg-name="猎人FC vs 乌兰巴托FC" tvg-group="足球" group-title="足球",猎人FC vs 乌兰巴托FC
-http://192.168.5.35:44635/play/40eb8385c5e759df3370fbd19b07311811bf766f
 #EXTINF:-1 tvg-id="猎人FC vs 乌兰巴托FC" tvg-chno="1226" tvg-name="猎人FC vs 乌兰巴托FC" tvg-group="足球" group-title="足球",猎人FC vs 乌兰巴托FC
+http://192.168.5.35:44635/play/40eb8385c5e759df3370fbd19b07311811bf766f
+#EXTINF:-1 tvg-id="猎人FC vs 乌兰巴托FC" tvg-chno="1227" tvg-name="猎人FC vs 乌兰巴托FC" tvg-group="足球" group-title="足球",猎人FC vs 乌兰巴托FC
 http://192.168.5.35:44635/play/045a6960e6811a8d91cdc32f317ede41c779c36d
-#EXTINF:-1 tvg-id="班加罗尔城 vs 特克尼克" tvg-chno="1227" tvg-name="班加罗尔城 vs 特克尼克" tvg-group="足球" group-title="足球",班加罗尔城 vs 特克尼克
-http://192.168.5.35:44635/play/f10a4bd35b96d7a65857179d980afe4672534136
 #EXTINF:-1 tvg-id="班加罗尔城 vs 特克尼克" tvg-chno="1228" tvg-name="班加罗尔城 vs 特克尼克" tvg-group="足球" group-title="足球",班加罗尔城 vs 特克尼克
+http://192.168.5.35:44635/play/f10a4bd35b96d7a65857179d980afe4672534136
+#EXTINF:-1 tvg-id="班加罗尔城 vs 特克尼克" tvg-chno="1229" tvg-name="班加罗尔城 vs 特克尼克" tvg-group="足球" group-title="足球",班加罗尔城 vs 特克尼克
 http://192.168.5.35:44635/play/8b7c3b78c2014aa786a7e172238724c989def84c
-#EXTINF:-1 tvg-id="科达古 vs 反叛者SC" tvg-chno="1229" tvg-name="科达古 vs 反叛者SC" tvg-group="足球" group-title="足球",科达古 vs 反叛者SC
-http://192.168.5.35:44635/play/4303dfd58d07fbea744cd6ce9babfba95f746952
 #EXTINF:-1 tvg-id="科达古 vs 反叛者SC" tvg-chno="1230" tvg-name="科达古 vs 反叛者SC" tvg-group="足球" group-title="足球",科达古 vs 反叛者SC
+http://192.168.5.35:44635/play/4303dfd58d07fbea744cd6ce9babfba95f746952
+#EXTINF:-1 tvg-id="科达古 vs 反叛者SC" tvg-chno="1231" tvg-name="科达古 vs 反叛者SC" tvg-group="足球" group-title="足球",科达古 vs 反叛者SC
 http://192.168.5.35:44635/play/ce39ef2888e9d6995296e4ccaf018ff391ac7f2e
-#EXTINF:-1 tvg-id="萨克拉门托 vs 塔尔萨钻机工" tvg-chno="1231" tvg-name="萨克拉门托 vs 塔尔萨钻机工" tvg-group="足球" group-title="足球",萨克拉门托 vs 塔尔萨钻机工
-http://192.168.5.35:44635/play/f53936e756c8d3a4adf6940f4b9a93431f396290
 #EXTINF:-1 tvg-id="萨克拉门托 vs 塔尔萨钻机工" tvg-chno="1232" tvg-name="萨克拉门托 vs 塔尔萨钻机工" tvg-group="足球" group-title="足球",萨克拉门托 vs 塔尔萨钻机工
+http://192.168.5.35:44635/play/f53936e756c8d3a4adf6940f4b9a93431f396290
+#EXTINF:-1 tvg-id="萨克拉门托 vs 塔尔萨钻机工" tvg-chno="1233" tvg-name="萨克拉门托 vs 塔尔萨钻机工" tvg-group="足球" group-title="足球",萨克拉门托 vs 塔尔萨钻机工
 http://192.168.5.35:44635/play/fa9732beed503c19ec0b55e8ec91aeec59371a9f
-#EXTINF:-1 tvg-id="蓝十字 vs 莱昂" tvg-chno="1233" tvg-name="蓝十字 vs 莱昂" tvg-group="足球" group-title="足球",蓝十字 vs 莱昂
-http://192.168.5.35:44635/play/cfce95e0a49b4337b0de93163500278e593c6c62
 #EXTINF:-1 tvg-id="蓝十字 vs 莱昂" tvg-chno="1234" tvg-name="蓝十字 vs 莱昂" tvg-group="足球" group-title="足球",蓝十字 vs 莱昂
+http://192.168.5.35:44635/play/cfce95e0a49b4337b0de93163500278e593c6c62
+#EXTINF:-1 tvg-id="蓝十字 vs 莱昂" tvg-chno="1235" tvg-name="蓝十字 vs 莱昂" tvg-group="足球" group-title="足球",蓝十字 vs 莱昂
 http://192.168.5.35:44635/play/d2a3d58e5feef26bfe535af076e0873dfc2cfb8c
-#EXTINF:-1 tvg-id="重庆青训U15 vs 杭州U15" tvg-chno="1235" tvg-name="重庆青训U15 vs 杭州U15" tvg-group="足球" group-title="足球",重庆青训U15 vs 杭州U15
-http://192.168.5.35:44635/play/3d0733c4e8099c6a1ad848cce7f79e9b3795206c
 #EXTINF:-1 tvg-id="重庆青训U15 vs 杭州U15" tvg-chno="1236" tvg-name="重庆青训U15 vs 杭州U15" tvg-group="足球" group-title="足球",重庆青训U15 vs 杭州U15
+http://192.168.5.35:44635/play/3d0733c4e8099c6a1ad848cce7f79e9b3795206c
+#EXTINF:-1 tvg-id="重庆青训U15 vs 杭州U15" tvg-chno="1237" tvg-name="重庆青训U15 vs 杭州U15" tvg-group="足球" group-title="足球",重庆青训U15 vs 杭州U15
 http://192.168.5.35:44635/play/b600659192d2471c490facec2074fb433cbdece7
-#EXTINF:-1 tvg-id="马那瓜 vs UNAN马纳瓜" tvg-chno="1237" tvg-name="马那瓜 vs UNAN马纳瓜" tvg-group="足球" group-title="足球",马那瓜 vs UNAN马纳瓜
-http://192.168.5.35:44635/play/9c6689f20d484b6fd5008bb8316f4d069e96f8df
 #EXTINF:-1 tvg-id="马那瓜 vs UNAN马纳瓜" tvg-chno="1238" tvg-name="马那瓜 vs UNAN马纳瓜" tvg-group="足球" group-title="足球",马那瓜 vs UNAN马纳瓜
+http://192.168.5.35:44635/play/9c6689f20d484b6fd5008bb8316f4d069e96f8df
+#EXTINF:-1 tvg-id="马那瓜 vs UNAN马纳瓜" tvg-chno="1239" tvg-name="马那瓜 vs UNAN马纳瓜" tvg-group="足球" group-title="足球",马那瓜 vs UNAN马纳瓜
 http://192.168.5.35:44635/play/ccedc193217217ea5b267eb7ce7b38e07130b446
 #EXTINF:-1 tvg-id="NFL·Network" tvg-chno="1301" tvg-name="NFL·Network" tvg-group="综合体育" group-title="综合体育",NFL·Network
 http://198.58.104.90:8989/nfl/index.m3u8
