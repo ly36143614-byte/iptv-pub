@@ -6,7 +6,6 @@
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="NFL Network"><display-name>NFL Network</display-name></channel>
   <channel id="OG vs Yes"><display-name>OG vs Yes</display-name></channel>
-  <channel id="Stray vs Lens"><display-name>Stray vs Lens</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <programme start="20261102020000 +0800" stop="20261102051948 +0800" channel="CBS">
@@ -83,10 +82,6 @@
   </programme>
   <programme start="20261102210000 +0800" stop="20261102233000 +0800" channel="OG vs Yes">
     <title>OG vs YeS（EPL Masters III - Playoffs）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261102190000 +0800" stop="20261102213000 +0800" channel="Stray vs Lens">
-    <title>Stray vs LENS（FME S5 - November 2）</title>
     <category>体育</category>
   </programme>
   <programme start="20261103083000 +0800" stop="20261103111012 +0800" channel="活塞">
