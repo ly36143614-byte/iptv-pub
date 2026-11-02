@@ -65,12 +65,14 @@ http://192.168.5.35:44635/play/da591f9d8da8525b4128dddc2559a7c6b8c0504b
 http://192.168.5.35:44635/play/e0b8a4a0231642c1af4138fc797bddf0a1af74fa
 #EXTINF:-1 tvg-id="科勒基尔女篮 vs 梅尔辛女篮" tvg-chno="1125" tvg-name="科勒基尔女篮 vs 梅尔辛女篮" tvg-group="篮球" group-title="篮球",科勒基尔女篮 vs 梅尔辛女篮
 http://192.168.5.35:44635/play/e407dd39edb9ed58d45723c10c750565597d5143
-#EXTINF:-1 tvg-id="莫瑟尔 vs 莱恩哈特" tvg-chno="1126" tvg-name="莫瑟尔 vs 莱恩哈特" tvg-group="篮球" group-title="篮球",莫瑟尔 vs 莱恩哈特
+#EXTINF:-1 tvg-id="莫斯科MBA女篮 vs 石油人女篮" tvg-chno="1126" tvg-name="莫斯科MBA女篮 vs 石油人女篮" tvg-group="篮球" group-title="篮球",莫斯科MBA女篮 vs 石油人女篮
+http://192.168.5.35:44635/play/e62d094baefd18b5040aa29bc122bd05663f1447
+#EXTINF:-1 tvg-id="莫瑟尔 vs 莱恩哈特" tvg-chno="1127" tvg-name="莫瑟尔 vs 莱恩哈特" tvg-group="篮球" group-title="篮球",莫瑟尔 vs 莱恩哈特
 http://192.168.5.35:44635/play/1808f7d1b693fe73d6a92c155eb1ed7b5ed6f02d
-#EXTINF:-1 tvg-id="迪拜 vs 扎达尔" tvg-chno="1127" tvg-name="迪拜 vs 扎达尔" tvg-group="篮球" group-title="篮球",迪拜 vs 扎达尔
+#EXTINF:-1 tvg-id="迪拜 vs 扎达尔" tvg-chno="1128" tvg-name="迪拜 vs 扎达尔" tvg-group="篮球" group-title="篮球",迪拜 vs 扎达尔
 http://192.168.5.35:44635/play/e48a496299f5eff9379dd835dde93878904b9fd2
 #EXTINF:-1 tvg-id="塔什干棉农 vs 利雅得胜利" tvg-chno="1201" tvg-name="塔什干棉农 vs 利雅得胜利" tvg-group="足球" group-title="足球",塔什干棉农 vs 利雅得胜利·咪咕直播
-https://hlsz.yjjcfw.com/live/00590424.m3u8?expire=1793641687&sign=486e7b31976d80074c77cc70933670ee
+https://hlsz.yjjcfw.com/live/00590424.m3u8?expire=1793642287&sign=28e9aab064b70645420003fe4eb91ba0
 #EXTINF:-1 tvg-id="利布拉什德 vs 铁达杜利斯" tvg-chno="1202" tvg-name="利布拉什德 vs 铁达杜利斯" tvg-group="足球" group-title="足球",利布拉什德 vs 铁达杜利斯
 http://192.168.5.35:44635/play/51f1ae6f7d4dd0cca54165669813595a8906e87e
 #EXTINF:-1 tvg-id="利布拉什德 vs 铁达杜利斯" tvg-chno="1203" tvg-name="利布拉什德 vs 铁达杜利斯" tvg-group="足球" group-title="足球",利布拉什德 vs 铁达杜利斯
@@ -95,9 +97,13 @@ http://192.168.5.35:44635/play/d60a180b34e2ddc4e83e3d572bc7c30e1eb96c2c
 http://192.168.5.35:44635/play/442cff808be55c1bfba7a36ca9735033250fe3e6
 #EXTINF:-1 tvg-id="沃拉 vs 迪纳摩城" tvg-chno="1213" tvg-name="沃拉 vs 迪纳摩城" tvg-group="足球" group-title="足球",沃拉 vs 迪纳摩城
 http://192.168.5.35:44635/play/56401ee5a4538cdd860c9069e587b97e26046871
-#EXTINF:-1 tvg-id="莫洛迪兹诺 vs 奥斯波维奇" tvg-chno="1214" tvg-name="莫洛迪兹诺 vs 奥斯波维奇" tvg-group="足球" group-title="足球",莫洛迪兹诺 vs 奥斯波维奇
+#EXTINF:-1 tvg-id="特内里费 vs 安道尔FC" tvg-chno="1214" tvg-name="特内里费 vs 安道尔FC" tvg-group="足球" group-title="足球",特内里费 vs 安道尔FC
+http://192.168.5.35:44635/play/9868a70f53d40d7e7319488f2de0619cfbfb046c
+#EXTINF:-1 tvg-id="特内里费 vs 安道尔FC" tvg-chno="1215" tvg-name="特内里费 vs 安道尔FC" tvg-group="足球" group-title="足球",特内里费 vs 安道尔FC
+http://192.168.5.35:44635/play/e18ad8e09093091abcfe8178be8dbb8c91cdbfa2
+#EXTINF:-1 tvg-id="莫洛迪兹诺 vs 奥斯波维奇" tvg-chno="1216" tvg-name="莫洛迪兹诺 vs 奥斯波维奇" tvg-group="足球" group-title="足球",莫洛迪兹诺 vs 奥斯波维奇
 http://192.168.5.35:44635/play/4e3f214a5f918d356ead44249f8f8c52a4fa8e07
-#EXTINF:-1 tvg-id="莫洛迪兹诺 vs 奥斯波维奇" tvg-chno="1215" tvg-name="莫洛迪兹诺 vs 奥斯波维奇" tvg-group="足球" group-title="足球",莫洛迪兹诺 vs 奥斯波维奇
+#EXTINF:-1 tvg-id="莫洛迪兹诺 vs 奥斯波维奇" tvg-chno="1217" tvg-name="莫洛迪兹诺 vs 奥斯波维奇" tvg-group="足球" group-title="足球",莫洛迪兹诺 vs 奥斯波维奇
 http://192.168.5.35:44635/play/0bbe6187a5a24319b7cb1345052778540738872c
 #EXTINF:-1 tvg-id="NFL·Network" tvg-chno="1301" tvg-name="NFL·Network" tvg-group="综合体育" group-title="综合体育",NFL·Network
 http://198.58.104.90:8989/nfl/index.m3u8
@@ -137,9 +143,7 @@ https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1358" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1359" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1360" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1359" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="AB vs OB" tvg-chno="1401" tvg-name="AB vs OB" tvg-group="DOTA2" group-title="DOTA2",AB vs OB
 http://192.168.5.35:44635/play/05a5e1d5190740d2166ddf021d88853198c18f85
@@ -162,9 +166,9 @@ http://192.168.5.35:44635/play/8fa399279f75ab288a2799a517acf9d8d0fc7c57
 #EXTINF:-1 tvg-id="Synapse vs SOLID" tvg-chno="1410" tvg-name="Synapse vs SOLID" tvg-group="DOTA2" group-title="DOTA2",Synapse vs SOLID
 http://192.168.5.35:44635/play/2b72ac1970db1240dd2eca545ab6ea5c8a7ee76c
 #EXTINF:-1 tvg-id="TBD vs TBD" tvg-chno="1411" tvg-name="TBD vs TBD" tvg-group="DOTA2" group-title="DOTA2",TBD vs TBD
-http://192.168.5.35:44635/play/9b78258aa00bc9629a75cf0c69221858be07e625
-#EXTINF:-1 tvg-id="TBD vs TBD" tvg-chno="1412" tvg-name="TBD vs TBD" tvg-group="DOTA2" group-title="DOTA2",TBD vs TBD
 http://192.168.5.35:44635/play/f5c4139d5cef68497e432c5e643defe70a7c8921
+#EXTINF:-1 tvg-id="TBD vs TBD" tvg-chno="1412" tvg-name="TBD vs TBD" tvg-group="DOTA2" group-title="DOTA2",TBD vs TBD
+http://192.168.5.35:44635/play/30ff2ddcab1198dcd17824da94d41bc76b724b07
 #EXTINF:-1 tvg-id="Zenith vs Direborn" tvg-chno="1413" tvg-name="Zenith vs Direborn" tvg-group="DOTA2" group-title="DOTA2",Zenith vs Direborn
 http://192.168.5.35:44635/play/57bb31d9827fe93ee8f85b03e370cf46a773dfb7
 #EXTINF:-1 tvg-id="Zenith vs Direborn" tvg-chno="1414" tvg-name="Zenith vs Direborn" tvg-group="DOTA2" group-title="DOTA2",Zenith vs Direborn
