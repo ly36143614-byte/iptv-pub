@@ -56,7 +56,9 @@ http://192.168.5.35:44635/play/731539eb74bbc6d925bb69a8836f6e2321442a23
 #EXTINF:-1 tvg-id="阿帕拉契亚州立大学 vs 梅里马克学院" tvg-chno="1120" tvg-name="阿帕拉契亚州立大学 vs 梅里马克学院" tvg-group="篮球" group-title="篮球",阿帕拉契亚州立大学 vs 梅里马克学院
 http://192.168.5.35:44635/play/6caa9e9d29b154d6cc3f5799d52a018d9be7e4c6
 #EXTINF:-1 tvg-id="龙仁三星女篮 vs 富川KEB女篮" tvg-chno="1121" tvg-name="龙仁三星女篮 vs 富川KEB女篮" tvg-group="篮球" group-title="篮球",龙仁三星女篮 vs 富川KEB女篮
-http://192.168.5.35:44635/play/10f8ffcaa2fc6387e825e69885999d4fee6dcb3e
+http://192.168.5.35:44635/play/2228c2cd838d8f3e243a714d1a18aa87cbc829d9
+#EXTINF:-1 tvg-id="龙仁三星女篮 vs 富川KEB女篮" tvg-chno="1122" tvg-name="龙仁三星女篮 vs 富川KEB女篮" tvg-group="篮球" group-title="篮球",龙仁三星女篮 vs 富川KEB女篮
+http://192.168.5.35:44635/play/e1327ffde0a10778ea93b670932fc43993fd6271
 #EXTINF:-1 tvg-id="FK斯科普里 vs 施历斯" tvg-chno="1201" tvg-name="FK斯科普里 vs 施历斯" tvg-group="足球" group-title="足球",FK斯科普里 vs 施历斯
 http://192.168.5.35:44635/play/0e81268954bdf4765fd7a9289689c0ba48cbbcb9
 #EXTINF:-1 tvg-id="LNZ切尔卡瑟U21 vs 哈尔科夫U21" tvg-chno="1202" tvg-name="LNZ切尔卡瑟U21 vs 哈尔科夫U21" tvg-group="足球" group-title="足球",LNZ切尔卡瑟U21 vs 哈尔科夫U21
@@ -106,14 +108,10 @@ http://192.168.5.35:44635/play/1e7e95ef3bf73ea6e365059c92ee020234ddbfe8
 #EXTINF:-1 tvg-id="特拉布宗体育女足 vs 贝西克塔斯女足" tvg-chno="1224" tvg-name="特拉布宗体育女足 vs 贝西克塔斯女足" tvg-group="足球" group-title="足球",特拉布宗体育女足 vs 贝西克塔斯女足
 http://192.168.5.35:44635/play/7b7f8cfc8c97dfe7048fb1a0d4c8077f59c58ca3
 #EXTINF:-1 tvg-id="科瓦利夫卡科洛斯B队 vs 梅塔利斯特" tvg-chno="1225" tvg-name="科瓦利夫卡科洛斯B队 vs 梅塔利斯特" tvg-group="足球" group-title="足球",科瓦利夫卡科洛斯B队 vs 梅塔利斯特
-http://192.168.5.35:44635/play/e5cc093cbfb41932f62f64e1acf5c8c5a7762aa5
+http://192.168.5.35:44635/play/ecce6298a4f174e54333db6fd824e54864b76482
 #EXTINF:-1 tvg-id="科瓦利夫卡科洛斯青年队 vs 波利西亚日托米尔U21" tvg-chno="1226" tvg-name="科瓦利夫卡科洛斯青年队 vs 波利西亚日托米尔U21" tvg-group="足球" group-title="足球",科瓦利夫卡科洛斯青年队 vs 波利西亚日托米尔U21
-http://192.168.5.35:44635/play/279586da38e5310893bc08916c4eed54f9a0e534
-#EXTINF:-1 tvg-id="科达古 vs 反叛者SC" tvg-chno="1227" tvg-name="科达古 vs 反叛者SC" tvg-group="足球" group-title="足球",科达古 vs 反叛者SC
-http://192.168.5.35:44635/play/4303dfd58d07fbea744cd6ce9babfba95f746952
-#EXTINF:-1 tvg-id="科达古 vs 反叛者SC" tvg-chno="1228" tvg-name="科达古 vs 反叛者SC" tvg-group="足球" group-title="足球",科达古 vs 反叛者SC
-http://192.168.5.35:44635/play/ce39ef2888e9d6995296e4ccaf018ff391ac7f2e
-#EXTINF:-1 tvg-id="索尔亚 vs 杜纳伊夫齐" tvg-chno="1229" tvg-name="索尔亚 vs 杜纳伊夫齐" tvg-group="足球" group-title="足球",索尔亚 vs 杜纳伊夫齐
+http://192.168.5.35:44635/play/3696ffc19743535f8279c26eccde626c3f35ad1d
+#EXTINF:-1 tvg-id="索尔亚 vs 杜纳伊夫齐" tvg-chno="1227" tvg-name="索尔亚 vs 杜纳伊夫齐" tvg-group="足球" group-title="足球",索尔亚 vs 杜纳伊夫齐
 http://192.168.5.35:44635/play/213c291ef4fdce0e20b273a962c229688dd7c4d8
 #EXTINF:-1 tvg-id="NFL·Network" tvg-chno="1301" tvg-name="NFL·Network" tvg-group="综合体育" group-title="综合体育",NFL·Network
 http://198.58.104.90:8989/nfl/index.m3u8
@@ -167,19 +165,21 @@ http://192.168.5.35:44635/play/95e5e16160a267d3a911069e1df31caf9516ead4
 http://192.168.5.35:44635/play/8fa399279f75ab288a2799a517acf9d8d0fc7c57
 #EXTINF:-1 tvg-id="Synapse vs SOLID" tvg-chno="1405" tvg-name="Synapse vs SOLID" tvg-group="DOTA2" group-title="DOTA2",Synapse vs SOLID
 http://192.168.5.35:44635/play/2b72ac1970db1240dd2eca545ab6ea5c8a7ee76c
-#EXTINF:-1 tvg-id="Team Legion vs L1ga Team" tvg-chno="1406" tvg-name="Team Legion vs L1ga Team" tvg-group="DOTA2" group-title="DOTA2",Team Legion vs L1ga Team
-http://192.168.5.35:44635/play/a724cd6e47a52ed878bf137564521c3e9c888c35
-#EXTINF:-1 tvg-id="Zenith vs Direborn" tvg-chno="1407" tvg-name="Zenith vs Direborn" tvg-group="DOTA2" group-title="DOTA2",Zenith vs Direborn
-http://192.168.5.35:44635/play/57bb31d9827fe93ee8f85b03e370cf46a773dfb7
+#EXTINF:-1 tvg-id="TBD vs TBD" tvg-chno="1406" tvg-name="TBD vs TBD" tvg-group="DOTA2" group-title="DOTA2",TBD vs TBD
+http://192.168.5.35:44635/play/9b78258aa00bc9629a75cf0c69221858be07e625
+#EXTINF:-1 tvg-id="Team Legion vs L1ga Team" tvg-chno="1407" tvg-name="Team Legion vs L1ga Team" tvg-group="DOTA2" group-title="DOTA2",Team Legion vs L1ga Team
+http://192.168.5.35:44635/play/8035cfbc72e7b756bdef98afc5fe9e3f20db9163
 #EXTINF:-1 tvg-id="Zenith vs Direborn" tvg-chno="1408" tvg-name="Zenith vs Direborn" tvg-group="DOTA2" group-title="DOTA2",Zenith vs Direborn
+http://192.168.5.35:44635/play/57bb31d9827fe93ee8f85b03e370cf46a773dfb7
+#EXTINF:-1 tvg-id="Zenith vs Direborn" tvg-chno="1409" tvg-name="Zenith vs Direborn" tvg-group="DOTA2" group-title="DOTA2",Zenith vs Direborn
 http://192.168.5.35:44635/play/2cca677c472f8287cd9bdc039a8c820d6d2ed19f
-#EXTINF:-1 tvg-id="Zenith vs Team Kinetix" tvg-chno="1409" tvg-name="Zenith vs Team Kinetix" tvg-group="DOTA2" group-title="DOTA2",Zenith vs Team Kinetix
-http://192.168.5.35:44635/play/e2b2229071b81e57c49a54d458320cdb97a49ff7
 #EXTINF:-1 tvg-id="Zenith vs Team Kinetix" tvg-chno="1410" tvg-name="Zenith vs Team Kinetix" tvg-group="DOTA2" group-title="DOTA2",Zenith vs Team Kinetix
+http://192.168.5.35:44635/play/e2b2229071b81e57c49a54d458320cdb97a49ff7
+#EXTINF:-1 tvg-id="Zenith vs Team Kinetix" tvg-chno="1411" tvg-name="Zenith vs Team Kinetix" tvg-group="DOTA2" group-title="DOTA2",Zenith vs Team Kinetix
 http://192.168.5.35:44635/play/be08345fcdb305f9e23a45f30ea01048c9aa9d7f
-#EXTINF:-1 tvg-id="potn9ki- vs HellNight-" tvg-chno="1411" tvg-name="potn9ki- vs HellNight-" tvg-group="DOTA2" group-title="DOTA2",potn9ki- vs HellNight-
-http://192.168.5.35:44635/play/cf852c79725b502444a6e9b2a1e1e4789e82fd7c
 #EXTINF:-1 tvg-id="potn9ki- vs HellNight-" tvg-chno="1412" tvg-name="potn9ki- vs HellNight-" tvg-group="DOTA2" group-title="DOTA2",potn9ki- vs HellNight-
+http://192.168.5.35:44635/play/cf852c79725b502444a6e9b2a1e1e4789e82fd7c
+#EXTINF:-1 tvg-id="potn9ki- vs HellNight-" tvg-chno="1413" tvg-name="potn9ki- vs HellNight-" tvg-group="DOTA2" group-title="DOTA2",potn9ki- vs HellNight-
 http://192.168.5.35:44635/play/3d44d88f5f4d5d784cb48230d997339b484e5796
 #EXTINF:-1 tvg-id="11-02 湖人 vs 猛龙" tvg-chno="1501" tvg-name="11-02 湖人 vs 猛龙" tvg-group="NBA回放" group-title="NBA回放",11-02 湖人 vs 猛龙
 http://192.168.5.35:8098/f/2026-11-02%20%E6%B9%96%E4%BA%BA%20vs%20%E7%8C%9B%E9%BE%99.mkv
