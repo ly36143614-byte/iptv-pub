@@ -7,7 +7,6 @@
   <channel id="NFL Network"><display-name>NFL Network</display-name></channel>
   <channel id="Team Legion vs OG"><display-name>Team Legion vs OG</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
-  <channel id="舒拉克B队 vs 阿拉拉特亚美尼亚B队"><display-name>舒拉克B队 vs 阿拉拉特亚美尼亚B队</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <programme start="20261109020000 +0800" stop="20261109051948 +0800" channel="CBS">
     <title>New York Jets at Kansas City Chiefs（NFL）</title>
@@ -59,10 +58,6 @@
   </programme>
   <programme start="20261105080000 +0800" stop="20261105104012 +0800" channel="活塞">
     <title>NBA：活塞 vs 76人</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261104150000 +0800" stop="20261104173000 +0800" channel="舒拉克B队 vs 阿拉拉特亚美尼亚B队">
-    <title>RBear vs Db（EPL World SEA S19 - Playoffs）</title>
     <category>体育</category>
   </programme>
   <programme start="20261103180000 +0800" stop="20261103190000 +0800" channel="赛程预告">
