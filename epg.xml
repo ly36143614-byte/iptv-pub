@@ -10,10 +10,10 @@
   <channel id="森林狼 vs 雄鹿"><display-name>森林狼 vs 雄鹿</display-name></channel>
   <channel id="步行者 vs 老鹰"><display-name>步行者 vs 老鹰</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
+  <channel id="火箭 vs 凯尔特人"><display-name>火箭 vs 凯尔特人</display-name></channel>
   <channel id="灰熊 vs 鹈鹕"><display-name>灰熊 vs 鹈鹕</display-name></channel>
   <channel id="独行侠 vs 国王"><display-name>独行侠 vs 国王</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
-  <channel id="魔术 vs 奇才"><display-name>魔术 vs 奇才</display-name></channel>
   <channel id="黄蜂 vs 活塞"><display-name>黄蜂 vs 活塞</display-name></channel>
   <programme start="20261103083000 +0800" stop="20261103111012 +0800" channel="76人 vs 公牛">
     <title>Chicago Bulls at Philadelphia 76ers 已结束（NBA）</title>
@@ -77,6 +77,10 @@
   </programme>
   <programme start="20261105080000 +0800" stop="20261105104012 +0800" channel="活塞">
     <title>NBA：活塞 vs 76人</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261103093000 +0800" stop="20261103121012 +0800" channel="火箭 vs 凯尔特人">
+    <title>Boston Celtics at Houston Rockets（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261103090000 +0800" stop="20261103114012 +0800" channel="灰熊 vs 鹈鹕">
@@ -253,10 +257,6 @@
   </programme>
   <programme start="20261105110000 +0800" stop="20261105130000 +0800" channel="赛程预告">
     <title>NBA：国王 vs 湖人</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261103083000 +0800" stop="20261103111012 +0800" channel="魔术 vs 奇才">
-    <title>Washington Wizards at Orlando Magic 已结束（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261103083000 +0800" stop="20261103111012 +0800" channel="黄蜂 vs 活塞">
