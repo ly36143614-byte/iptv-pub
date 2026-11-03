@@ -115,21 +115,23 @@ http://192.168.5.35:44635/play/76c07f5c0b42fc685a92ffc3e2837d1e548ea173
 http://192.168.5.35:35456/jrs/%E7%BA%BD%E5%8D%A1%E6%96%AF%E5%B0%94%E5%96%B7%E6%B0%94%E6%9C%BA%20vs%20%E4%B8%8A%E6%B5%B7%E6%B5%B7%E6%B8%AF%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-id="纽卡斯尔喷气机 vs 上海海港" tvg-chno="1222" tvg-name="纽卡斯尔喷气机 vs 上海海港" tvg-group="足球" group-title="足球",纽卡斯尔喷气机 vs 上海海港·聚合备用
 http://192.168.5.35:44635/play/8144a43016c811b98d06666b2103315b24465dad
-#EXTINF:-1 tvg-id="苏格兰U16 vs 葡萄牙U16" tvg-chno="1223" tvg-name="苏格兰U16 vs 葡萄牙U16" tvg-group="足球" group-title="足球",苏格兰U16 vs 葡萄牙U16
+#EXTINF:-1 tvg-id="舰队联合 vs 蒙通联" tvg-chno="1223" tvg-name="舰队联合 vs 蒙通联" tvg-group="足球" group-title="足球",舰队联合 vs 蒙通联
+http://192.168.5.35:44635/play/ed8531772c12a0c15aaab1cc415f3fa1546eedd5
+#EXTINF:-1 tvg-id="苏格兰U16 vs 葡萄牙U16" tvg-chno="1224" tvg-name="苏格兰U16 vs 葡萄牙U16" tvg-group="足球" group-title="足球",苏格兰U16 vs 葡萄牙U16
 http://192.168.5.35:44635/play/c2157e40f16c48bd31c3ff55ede38a04c3243ee6
-#EXTINF:-1 tvg-id="西拉贡 vs 阿雷马" tvg-chno="1224" tvg-name="西拉贡 vs 阿雷马" tvg-group="足球" group-title="足球",西拉贡 vs 阿雷马
+#EXTINF:-1 tvg-id="西拉贡 vs 阿雷马" tvg-chno="1225" tvg-name="西拉贡 vs 阿雷马" tvg-group="足球" group-title="足球",西拉贡 vs 阿雷马
 http://192.168.5.35:44635/play/0598fe010281497e96e3a67103c6a7a8a67a6a4f
-#EXTINF:-1 tvg-id="重庆奥体女足 vs 河南女足" tvg-chno="1225" tvg-name="重庆奥体女足 vs 河南女足" tvg-group="足球" group-title="足球",重庆奥体女足 vs 河南女足
-http://192.168.5.35:44635/play/70997894bfebb38a46210a971e900b20f4bdd097
 #EXTINF:-1 tvg-id="重庆奥体女足 vs 河南女足" tvg-chno="1226" tvg-name="重庆奥体女足 vs 河南女足" tvg-group="足球" group-title="足球",重庆奥体女足 vs 河南女足
+http://192.168.5.35:44635/play/70997894bfebb38a46210a971e900b20f4bdd097
+#EXTINF:-1 tvg-id="重庆奥体女足 vs 河南女足" tvg-chno="1227" tvg-name="重庆奥体女足 vs 河南女足" tvg-group="足球" group-title="足球",重庆奥体女足 vs 河南女足
 http://192.168.5.35:44635/play/1d61cf9a625b56c4f3f6209964438547cb71b346
-#EXTINF:-1 tvg-id="重庆青训U15 vs 桑坦德竞技U15" tvg-chno="1227" tvg-name="重庆青训U15 vs 桑坦德竞技U15" tvg-group="足球" group-title="足球",重庆青训U15 vs 桑坦德竞技U15
-http://192.168.5.35:44635/play/a3d20e82c9b066592272220afebf2685b74db440
 #EXTINF:-1 tvg-id="重庆青训U15 vs 桑坦德竞技U15" tvg-chno="1228" tvg-name="重庆青训U15 vs 桑坦德竞技U15" tvg-group="足球" group-title="足球",重庆青训U15 vs 桑坦德竞技U15
+http://192.168.5.35:44635/play/a3d20e82c9b066592272220afebf2685b74db440
+#EXTINF:-1 tvg-id="重庆青训U15 vs 桑坦德竞技U15" tvg-chno="1229" tvg-name="重庆青训U15 vs 桑坦德竞技U15" tvg-group="足球" group-title="足球",重庆青训U15 vs 桑坦德竞技U15
 http://192.168.5.35:44635/play/bac93b86eecee435ec6c289879791b0545f443ae
-#EXTINF:-1 tvg-id="阿格尼普拉 vs 班加罗尔联合会" tvg-chno="1229" tvg-name="阿格尼普拉 vs 班加罗尔联合会" tvg-group="足球" group-title="足球",阿格尼普拉 vs 班加罗尔联合会
-http://192.168.5.35:44635/play/a316f0bea617c476a5b03269c1ec1215f4520548
 #EXTINF:-1 tvg-id="阿格尼普拉 vs 班加罗尔联合会" tvg-chno="1230" tvg-name="阿格尼普拉 vs 班加罗尔联合会" tvg-group="足球" group-title="足球",阿格尼普拉 vs 班加罗尔联合会
+http://192.168.5.35:44635/play/a316f0bea617c476a5b03269c1ec1215f4520548
+#EXTINF:-1 tvg-id="阿格尼普拉 vs 班加罗尔联合会" tvg-chno="1231" tvg-name="阿格尼普拉 vs 班加罗尔联合会" tvg-group="足球" group-title="足球",阿格尼普拉 vs 班加罗尔联合会
 http://192.168.5.35:44635/play/228536734e34dd0a4cf2bf39871fa59840cb3252
 #EXTINF:-1 tvg-id="NFL·Network" tvg-chno="1301" tvg-name="NFL·Network" tvg-group="综合体育" group-title="综合体育",NFL·Network
 http://198.58.104.90:8989/nfl/index.m3u8
@@ -213,13 +215,9 @@ http://192.168.5.35:44635/play/f9c1cb81a32d4ecbc5abf7c707c2f6dffd0664f7
 http://192.168.5.35:44635/play/c95527892ac1ceba23b3b232facad4c1be54d9e6
 #EXTINF:-1 tvg-id="Xipto vs PuckChamp" tvg-chno="1418" tvg-name="Xipto vs PuckChamp" tvg-group="DOTA2" group-title="DOTA2",Xipto vs PuckChamp
 http://192.168.5.35:44635/play/e87319dd111e1ace540e1ce40dd3d9aea7bd2a98
-#EXTINF:-1 tvg-id="Zenith vs CD" tvg-chno="1419" tvg-name="Zenith vs CD" tvg-group="DOTA2" group-title="DOTA2",Zenith vs CD
-http://192.168.5.35:44635/play/819b086a47d497b13a462f1496323904b933ce8d
-#EXTINF:-1 tvg-id="Zenith vs CD" tvg-chno="1420" tvg-name="Zenith vs CD" tvg-group="DOTA2" group-title="DOTA2",Zenith vs CD
-http://192.168.5.35:44635/play/216b02654b8b5ff83d100bf909c5b6c5cedeb96a
-#EXTINF:-1 tvg-id="oveA vs No Hoodwink" tvg-chno="1421" tvg-name="oveA vs No Hoodwink" tvg-group="DOTA2" group-title="DOTA2",oveA vs No Hoodwink
+#EXTINF:-1 tvg-id="oveA vs No Hoodwink" tvg-chno="1419" tvg-name="oveA vs No Hoodwink" tvg-group="DOTA2" group-title="DOTA2",oveA vs No Hoodwink
 http://192.168.5.35:44635/play/95ae58761ffc85f725931ba551b058045bd80cb7
-#EXTINF:-1 tvg-id="oveA vs No Hoodwink" tvg-chno="1422" tvg-name="oveA vs No Hoodwink" tvg-group="DOTA2" group-title="DOTA2",oveA vs No Hoodwink
+#EXTINF:-1 tvg-id="oveA vs No Hoodwink" tvg-chno="1420" tvg-name="oveA vs No Hoodwink" tvg-group="DOTA2" group-title="DOTA2",oveA vs No Hoodwink
 http://192.168.5.35:44635/play/a6f5495e87fd7121628b4a59988a34c2dd4c1c47
 #EXTINF:-1 tvg-id="11-03 黄蜂 vs 活塞" tvg-chno="1501" tvg-name="11-03 黄蜂 vs 活塞" tvg-group="NBA回放" group-title="NBA回放",11-03 黄蜂 vs 活塞
 http://192.168.5.35:8098/f/2026-11-03%20%E9%BB%84%E8%9C%82%20vs%20%E6%B4%BB%E5%A1%9E.mkv
