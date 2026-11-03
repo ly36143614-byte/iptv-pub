@@ -21,19 +21,17 @@ http://23.237.104.106:8080/USA_NBA/index.m3u8
 http://198.58.104.90:8989/nba/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1103" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="骑士 vs 雷霆" tvg-chno="1104" tvg-name="骑士 vs 雷霆" tvg-group="篮球" group-title="篮球",骑士 vs 雷霆·咪咕直播
-https://hlsz.yjjcfw.com/live/00588330.m3u8?expire=1793678054&sign=6d2031416e0d7d9999a3640662af5636
-#EXTINF:-1 tvg-id="拉拉纳加 vs 阿特纳斯ASC" tvg-chno="1105" tvg-name="拉拉纳加 vs 阿特纳斯ASC" tvg-group="篮球" group-title="篮球",拉拉纳加 vs 阿特纳斯ASC
-http://192.168.5.35:44635/play/4fab71c49885c4c053e87f7ad4af71451f7a9191
-#EXTINF:-1 tvg-id="拉拉纳加 vs 阿特纳斯ASC" tvg-chno="1106" tvg-name="拉拉纳加 vs 阿特纳斯ASC" tvg-group="篮球" group-title="篮球",拉拉纳加 vs 阿特纳斯ASC
-http://192.168.5.35:44635/play/f4e5923de10252e98ff7849f2fe5ff0e8b224e11
-#EXTINF:-1 tvg-id="杜克大学 vs 西点军校" tvg-chno="1107" tvg-name="杜克大学 vs 西点军校" tvg-group="篮球" group-title="篮球",杜克大学 vs 西点军校
+#EXTINF:-1 tvg-id="骑士 vs 雷霆" tvg-chno="1104" tvg-name="骑士 vs 雷霆" tvg-group="篮球" group-title="篮球",骑士 vs 雷霆·腾讯直播
+https://hlsz.yjjcfw.com/live/10022600158.m3u8?expire=1793678782&sign=abc22e9de25de13fc517f456bb5746b1
+#EXTINF:-1 tvg-id="骑士 vs 雷霆" tvg-chno="1105" tvg-name="骑士 vs 雷霆" tvg-group="篮球" group-title="篮球",骑士 vs 雷霆·咪咕直播
+https://hlsz.yjjcfw.com/live/00588330.m3u8?expire=1793678783&sign=0f2ffe81a1778654a25a332fb687e396
+#EXTINF:-1 tvg-id="杜克大学 vs 西点军校" tvg-chno="1106" tvg-name="杜克大学 vs 西点军校" tvg-group="篮球" group-title="篮球",杜克大学 vs 西点军校
 http://192.168.5.35:44635/play/8b28b46c6248feed8d7531aa784d35bc1c7836ca
-#EXTINF:-1 tvg-id="杜克大学 vs 西点军校" tvg-chno="1108" tvg-name="杜克大学 vs 西点军校" tvg-group="篮球" group-title="篮球",杜克大学 vs 西点军校
+#EXTINF:-1 tvg-id="杜克大学 vs 西点军校" tvg-chno="1107" tvg-name="杜克大学 vs 西点军校" tvg-group="篮球" group-title="篮球",杜克大学 vs 西点军校
 http://192.168.5.35:44635/play/57658313dd9b1f8f142f6b55ef00a81ca421d57d
-#EXTINF:-1 tvg-id="莱德大学女篮 vs 新泽西理工女篮" tvg-chno="1109" tvg-name="莱德大学女篮 vs 新泽西理工女篮" tvg-group="篮球" group-title="篮球",莱德大学女篮 vs 新泽西理工女篮
+#EXTINF:-1 tvg-id="莱德大学女篮 vs 新泽西理工女篮" tvg-chno="1108" tvg-name="莱德大学女篮 vs 新泽西理工女篮" tvg-group="篮球" group-title="篮球",莱德大学女篮 vs 新泽西理工女篮
 http://192.168.5.35:44635/play/d49235f0d354de3b47945f7a301bc129d99187ef
-#EXTINF:-1 tvg-id="莱德大学女篮 vs 新泽西理工女篮" tvg-chno="1110" tvg-name="莱德大学女篮 vs 新泽西理工女篮" tvg-group="篮球" group-title="篮球",莱德大学女篮 vs 新泽西理工女篮
+#EXTINF:-1 tvg-id="莱德大学女篮 vs 新泽西理工女篮" tvg-chno="1109" tvg-name="莱德大学女篮 vs 新泽西理工女篮" tvg-group="篮球" group-title="篮球",莱德大学女篮 vs 新泽西理工女篮
 http://192.168.5.35:44635/play/e99e4054c8d0712f7579b6a9a4b169f49e8103bb
 #EXTINF:-1 tvg-id="上海申花U15 vs 杭州U15" tvg-chno="1201" tvg-name="上海申花U15 vs 杭州U15" tvg-group="足球" group-title="足球",上海申花U15 vs 杭州U15
 http://192.168.5.35:44635/play/3c69ecb38cf3e11362dfcd06bffa2e0d5ec91c05
@@ -123,13 +121,15 @@ http://198.58.104.90:8989/nhl/index.m3u8
 http://198.58.104.90:8989/ballysportssouth/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1306" tvg-name="ESPN" tvg-group="综合体育" group-title="综合体育",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1307" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1307" tvg-name="Tennis Channel" tvg-group="综合体育" group-title="综合体育",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1308" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1308" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1309" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1309" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1310" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1310" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1311" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
