@@ -7,9 +7,9 @@
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="NFL Network"><display-name>NFL Network</display-name></channel>
   <channel id="尼克斯 vs 篮网"><display-name>尼克斯 vs 篮网</display-name></channel>
+  <channel id="森林狼 vs 雄鹿"><display-name>森林狼 vs 雄鹿</display-name></channel>
   <channel id="步行者 vs 老鹰"><display-name>步行者 vs 老鹰</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
-  <channel id="灰熊 vs 鹈鹕"><display-name>灰熊 vs 鹈鹕</display-name></channel>
   <channel id="独行侠 vs 国王"><display-name>独行侠 vs 国王</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <channel id="骑士 vs 雷霆"><display-name>骑士 vs 雷霆</display-name></channel>
@@ -67,6 +67,10 @@
     <title>Brooklyn Nets at New York Knicks（NBA）</title>
     <category>体育</category>
   </programme>
+  <programme start="20261103090000 +0800" stop="20261103114012 +0800" channel="森林狼 vs 雄鹿">
+    <title>Milwaukee Bucks at Minnesota Timberwolves（NBA）</title>
+    <category>体育</category>
+  </programme>
   <programme start="20261103083000 +0800" stop="20261103111012 +0800" channel="步行者 vs 老鹰">
     <title>Atlanta Hawks at Indiana Pacers（NBA）</title>
     <category>体育</category>
@@ -77,10 +81,6 @@
   </programme>
   <programme start="20261105080000 +0800" stop="20261105104012 +0800" channel="活塞">
     <title>NBA：活塞 vs 76人</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261103090000 +0800" stop="20261103114012 +0800" channel="灰熊 vs 鹈鹕">
-    <title>New Orleans Pelicans at Memphis Grizzlies（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261103090000 +0800" stop="20261103114012 +0800" channel="独行侠 vs 国王">
