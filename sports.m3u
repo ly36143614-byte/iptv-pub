@@ -93,8 +93,6 @@ http://192.168.5.35:44635/play/eb701a75e63cace8a5a2289cb01480901cbee423
 http://192.168.5.35:44635/play/bd6604fb3928918b11a681cdcf1e823fec5c5675
 #EXTINF:-1 tvg-id="路易斯维尔大学 vs 查他努加大学" tvg-chno="1139" tvg-name="路易斯维尔大学 vs 查他努加大学" tvg-group="篮球" group-title="篮球",路易斯维尔大学 vs 查他努加大学
 http://192.168.5.35:44635/play/d6f90933c81a6afdad6aaa38269b0a40277c86b2
-#EXTINF:-1 tvg-id="黑豹 vs 太阳" tvg-chno="1140" tvg-name="黑豹 vs 太阳" tvg-group="篮球" group-title="篮球",黑豹 vs 太阳
-http://192.168.5.35:44635/play/e44a19d14b65ae9f82a11027af81cb3940b9435e
 #EXTINF:-1 tvg-id="ASC艾瑟 vs 班加罗尔根源" tvg-chno="1201" tvg-name="ASC艾瑟 vs 班加罗尔根源" tvg-group="足球" group-title="足球",ASC艾瑟 vs 班加罗尔根源
 http://192.168.5.35:44635/play/b14685e5a7e605784cc199c0063e67b2ed39a32f
 #EXTINF:-1 tvg-id="ASC艾瑟 vs 班加罗尔根源" tvg-chno="1202" tvg-name="ASC艾瑟 vs 班加罗尔根源" tvg-group="足球" group-title="足球",ASC艾瑟 vs 班加罗尔根源
@@ -275,11 +273,13 @@ http://192.168.5.35:8098/f/2026-11-03%20%E7%81%AB%E7%AE%AD%20vs%20%E5%87%AF%E5%B
 http://192.168.5.35:8098/f/2026-11-03%20%E6%AD%A5%E8%A1%8C%E8%80%85%20vs%20%E8%80%81%E9%B9%B0.mkv
 #EXTINF:-1 tvg-id="11-03 森林狼 vs 雄鹿" tvg-chno="1509" tvg-name="11-03 森林狼 vs 雄鹿" tvg-group="NBA回放" group-title="NBA回放",11-03 森林狼 vs 雄鹿
 http://192.168.5.35:8098/f/2026-11-03%20%E6%A3%AE%E6%9E%97%E7%8B%BC%20vs%20%E9%9B%84%E9%B9%BF.mkv
-#EXTINF:-1 tvg-id="11-03 尼克斯 vs 篮网" tvg-chno="1510" tvg-name="11-03 尼克斯 vs 篮网" tvg-group="NBA回放" group-title="NBA回放",11-03 尼克斯 vs 篮网
+#EXTINF:-1 tvg-id="11-03 掘金 vs 开拓者" tvg-chno="1510" tvg-name="11-03 掘金 vs 开拓者" tvg-group="NBA回放" group-title="NBA回放",11-03 掘金 vs 开拓者
+http://192.168.5.35:8098/f/2026-11-03%20%E6%8E%98%E9%87%91%20vs%20%E5%BC%80%E6%8B%93%E8%80%85.mkv
+#EXTINF:-1 tvg-id="11-03 尼克斯 vs 篮网" tvg-chno="1511" tvg-name="11-03 尼克斯 vs 篮网" tvg-group="NBA回放" group-title="NBA回放",11-03 尼克斯 vs 篮网
 http://192.168.5.35:8098/f/2026-11-03%20%E5%B0%BC%E5%85%8B%E6%96%AF%20vs%20%E7%AF%AE%E7%BD%91.mkv
-#EXTINF:-1 tvg-id="11-03 76人 vs 公牛" tvg-chno="1511" tvg-name="11-03 76人 vs 公牛" tvg-group="NBA回放" group-title="NBA回放",11-03 76人 vs 公牛
+#EXTINF:-1 tvg-id="11-03 76人 vs 公牛" tvg-chno="1512" tvg-name="11-03 76人 vs 公牛" tvg-group="NBA回放" group-title="NBA回放",11-03 76人 vs 公牛
 http://192.168.5.35:8098/f/2026-11-03%2076%E4%BA%BA%20vs%20%E5%85%AC%E7%89%9B.mkv
-#EXTINF:-1 tvg-id="11-02 湖人 vs 猛龙" tvg-chno="1512" tvg-name="11-02 湖人 vs 猛龙" tvg-group="NBA回放" group-title="NBA回放",11-02 湖人 vs 猛龙
+#EXTINF:-1 tvg-id="11-02 湖人 vs 猛龙" tvg-chno="1513" tvg-name="11-02 湖人 vs 猛龙" tvg-group="NBA回放" group-title="NBA回放",11-02 湖人 vs 猛龙
 http://192.168.5.35:8098/f/2026-11-02%20%E6%B9%96%E4%BA%BA%20vs%20%E7%8C%9B%E9%BE%99.mkv
-#EXTINF:-1 tvg-id="11-02 勇士 vs 快船" tvg-chno="1513" tvg-name="11-02 勇士 vs 快船" tvg-group="NBA回放" group-title="NBA回放",11-02 勇士 vs 快船
+#EXTINF:-1 tvg-id="11-02 勇士 vs 快船" tvg-chno="1514" tvg-name="11-02 勇士 vs 快船" tvg-group="NBA回放" group-title="NBA回放",11-02 勇士 vs 快船
 http://192.168.5.35:8098/f/2026-11-02%20%E5%8B%87%E5%A3%AB%20vs%20%E5%BF%AB%E8%88%B9.mkv
