@@ -13,7 +13,7 @@ http://192.168.5.35:35456/team/%E7%9A%87%E9%A9%AC
 http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E9%A6%96%E9%92%A2
 #EXTINF:-1 tvg-id="活塞" tvg-chno="1006" tvg-name="活塞" tvg-group="关注" group-title="关注",活塞｜11-05 08:00 76人
 http://192.168.5.35:35456/team/%E6%B4%BB%E5%A1%9E
-#EXTINF:-1 tvg-id="北京国安" tvg-chno="1007" tvg-name="北京国安" tvg-group="关注" group-title="关注",北京国安｜11-03 20:15 曼谷港务
+#EXTINF:-1 tvg-id="北京国安" tvg-chno="1007" tvg-name="北京国安" tvg-group="关注" group-title="关注",北京国安｜直播中 vs 曼谷港务
 http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1101" tvg-name="NBA TV" tvg-group="篮球" group-title="篮球",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
@@ -95,13 +95,9 @@ http://192.168.5.35:44635/play/0d33d155c1b1aaa99533ece6fddf3d0e99a4226a
 http://192.168.5.35:44635/play/326e23d9eb8fc21cae4deccadf711adfcf3821c7
 #EXTINF:-1 tvg-id="卡夫巴斯U21 vs 基辅迪纳摩青年队" tvg-chno="1208" tvg-name="卡夫巴斯U21 vs 基辅迪纳摩青年队" tvg-group="足球" group-title="足球",卡夫巴斯U21 vs 基辅迪纳摩青年队
 http://192.168.5.35:44635/play/889d4bb6bbf62cc0199a390fd3f3f9afcdb6b85d
-#EXTINF:-1 tvg-id="卡帕提U21 vs 库德里夫卡尼瓦U21" tvg-chno="1209" tvg-name="卡帕提U21 vs 库德里夫卡尼瓦U21" tvg-group="足球" group-title="足球",卡帕提U21 vs 库德里夫卡尼瓦U21
-http://192.168.5.35:44635/play/b1b7ca45150a082e53e55eb45672c4a2ae34d037
-#EXTINF:-1 tvg-id="卡帕提U21 vs 库德里夫卡尼瓦U21" tvg-chno="1210" tvg-name="卡帕提U21 vs 库德里夫卡尼瓦U21" tvg-group="足球" group-title="足球",卡帕提U21 vs 库德里夫卡尼瓦U21
-http://192.168.5.35:44635/play/51047141d6befe2afa9a6384e077048e3119b85e
-#EXTINF:-1 tvg-id="埃什特雷拉U23 vs 辛达卡拉U23" tvg-chno="1211" tvg-name="埃什特雷拉U23 vs 辛达卡拉U23" tvg-group="足球" group-title="足球",埃什特雷拉U23 vs 辛达卡拉U23
+#EXTINF:-1 tvg-id="埃什特雷拉U23 vs 辛达卡拉U23" tvg-chno="1209" tvg-name="埃什特雷拉U23 vs 辛达卡拉U23" tvg-group="足球" group-title="足球",埃什特雷拉U23 vs 辛达卡拉U23
 http://192.168.5.35:44635/play/b944a060b0245570263002b447f4969db2cd4113
-#EXTINF:-1 tvg-id="埃什特雷拉U23 vs 辛达卡拉U23" tvg-chno="1212" tvg-name="埃什特雷拉U23 vs 辛达卡拉U23" tvg-group="足球" group-title="足球",埃什特雷拉U23 vs 辛达卡拉U23
+#EXTINF:-1 tvg-id="埃什特雷拉U23 vs 辛达卡拉U23" tvg-chno="1210" tvg-name="埃什特雷拉U23 vs 辛达卡拉U23" tvg-group="足球" group-title="足球",埃什特雷拉U23 vs 辛达卡拉U23
 http://192.168.5.35:44635/play/f7b73248e315bb647ec56277e959d10b048c6ac9
 #EXTINF:-1 tvg-id="NFL·Network" tvg-chno="1301" tvg-name="NFL·Network" tvg-group="综合体育" group-title="综合体育",NFL·Network
 http://198.58.104.90:8989/nfl/index.m3u8
