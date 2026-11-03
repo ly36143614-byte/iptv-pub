@@ -22,16 +22,28 @@ http://198.58.104.90:8989/nba/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1103" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="骑士 vs 雷霆" tvg-chno="1104" tvg-name="骑士 vs 雷霆" tvg-group="篮球" group-title="篮球",骑士 vs 雷霆·腾讯直播
-https://hlsz.yjjcfw.com/live/10022600158.m3u8?expire=1793679485&sign=a078c074e9c42c16215620ac77de1d0f
+https://hlsz.yjjcfw.com/live/10022600158.m3u8?expire=1793680089&sign=a325b45294e95909fcf4cc2438c998d1
 #EXTINF:-1 tvg-id="骑士 vs 雷霆" tvg-chno="1105" tvg-name="骑士 vs 雷霆" tvg-group="篮球" group-title="篮球",骑士 vs 雷霆·咪咕直播
-https://hlsz.yjjcfw.com/live/00588330.m3u8?expire=1793679486&sign=08bd02dd288ae2fea8b722c76854a469
-#EXTINF:-1 tvg-id="杜克大学 vs 西点军校" tvg-chno="1106" tvg-name="杜克大学 vs 西点军校" tvg-group="篮球" group-title="篮球",杜克大学 vs 西点军校
+https://hlsz.yjjcfw.com/live/00588330.m3u8?expire=1793680089&sign=c096ae3bfeac7de511f91a5116e3ebc7
+#EXTINF:-1 tvg-id="黄蜂 vs 活塞" tvg-chno="1106" tvg-name="黄蜂 vs 活塞" tvg-group="篮球" group-title="篮球",黄蜂 vs 活塞·咪咕直播
+https://hlsz.yjjcfw.com/live/00588334.m3u8?expire=1793680091&sign=337745030f8e73d9352a958961f8cd79
+#EXTINF:-1 tvg-id="步行者 vs 老鹰" tvg-chno="1107" tvg-name="步行者 vs 老鹰" tvg-group="篮球" group-title="篮球",步行者 vs 老鹰·咪咕直播
+https://hlsz.yjjcfw.com/live/00588331.m3u8?expire=1793680093&sign=3336f262f2aaaaea27ca1f91ade7cebe
+#EXTINF:-1 tvg-id="尼克斯 vs 篮网" tvg-chno="1108" tvg-name="尼克斯 vs 篮网" tvg-group="篮球" group-title="篮球",尼克斯 vs 篮网·咪咕直播
+https://hlsz.yjjcfw.com/live/00588332.m3u8?expire=1793680095&sign=ca83111bf820dfd713bdc3d6fbf50c43
+#EXTINF:-1 tvg-id="魔术 vs 奇才" tvg-chno="1109" tvg-name="魔术 vs 奇才" tvg-group="篮球" group-title="篮球",魔术 vs 奇才·咪咕直播
+https://hlsz.yjjcfw.com/live/00588333.m3u8?expire=1793680097&sign=beb05b73d4df556372316345382136a6
+#EXTINF:-1 tvg-id="76人 vs 公牛" tvg-chno="1110" tvg-name="76人 vs 公牛" tvg-group="篮球" group-title="篮球",76人 vs 公牛·腾讯直播
+https://hlsz.yjjcfw.com/live/10022600163.m3u8?expire=1793680099&sign=d902bb67f23357bb0e954b524c677954
+#EXTINF:-1 tvg-id="76人 vs 公牛" tvg-chno="1111" tvg-name="76人 vs 公牛" tvg-group="篮球" group-title="篮球",76人 vs 公牛·咪咕直播
+https://hlsz.yjjcfw.com/live/00588335.m3u8?expire=1793680099&sign=e464813440bcb647b59dd9c651733777
+#EXTINF:-1 tvg-id="杜克大学 vs 西点军校" tvg-chno="1112" tvg-name="杜克大学 vs 西点军校" tvg-group="篮球" group-title="篮球",杜克大学 vs 西点军校
 http://192.168.5.35:44635/play/8b28b46c6248feed8d7531aa784d35bc1c7836ca
-#EXTINF:-1 tvg-id="杜克大学 vs 西点军校" tvg-chno="1107" tvg-name="杜克大学 vs 西点军校" tvg-group="篮球" group-title="篮球",杜克大学 vs 西点军校
+#EXTINF:-1 tvg-id="杜克大学 vs 西点军校" tvg-chno="1113" tvg-name="杜克大学 vs 西点军校" tvg-group="篮球" group-title="篮球",杜克大学 vs 西点军校
 http://192.168.5.35:44635/play/57658313dd9b1f8f142f6b55ef00a81ca421d57d
-#EXTINF:-1 tvg-id="莱德大学女篮 vs 新泽西理工女篮" tvg-chno="1108" tvg-name="莱德大学女篮 vs 新泽西理工女篮" tvg-group="篮球" group-title="篮球",莱德大学女篮 vs 新泽西理工女篮
+#EXTINF:-1 tvg-id="莱德大学女篮 vs 新泽西理工女篮" tvg-chno="1114" tvg-name="莱德大学女篮 vs 新泽西理工女篮" tvg-group="篮球" group-title="篮球",莱德大学女篮 vs 新泽西理工女篮
 http://192.168.5.35:44635/play/d49235f0d354de3b47945f7a301bc129d99187ef
-#EXTINF:-1 tvg-id="莱德大学女篮 vs 新泽西理工女篮" tvg-chno="1109" tvg-name="莱德大学女篮 vs 新泽西理工女篮" tvg-group="篮球" group-title="篮球",莱德大学女篮 vs 新泽西理工女篮
+#EXTINF:-1 tvg-id="莱德大学女篮 vs 新泽西理工女篮" tvg-chno="1115" tvg-name="莱德大学女篮 vs 新泽西理工女篮" tvg-group="篮球" group-title="篮球",莱德大学女篮 vs 新泽西理工女篮
 http://192.168.5.35:44635/play/e99e4054c8d0712f7579b6a9a4b169f49e8103bb
 #EXTINF:-1 tvg-id="上海申花U15 vs 杭州U15" tvg-chno="1201" tvg-name="上海申花U15 vs 杭州U15" tvg-group="足球" group-title="足球",上海申花U15 vs 杭州U15
 http://192.168.5.35:44635/play/3c69ecb38cf3e11362dfcd06bffa2e0d5ec91c05
@@ -139,9 +151,7 @@ https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1358" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1359" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1360" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1359" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="AB vs OB" tvg-chno="1401" tvg-name="AB vs OB" tvg-group="DOTA2" group-title="DOTA2",AB vs OB
 http://192.168.5.35:44635/play/05a5e1d5190740d2166ddf021d88853198c18f85
