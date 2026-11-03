@@ -87,17 +87,13 @@ http://192.168.5.35:35456/jrs/%E6%B2%B3%E5%86%85%E5%85%AC%E5%AE%89%20vs%20%E4%BA
 http://192.168.5.35:44635/play/326e23d9eb8fc21cae4deccadf711adfcf3821c7
 #EXTINF:-1 tvg-id="卡夫巴斯U21 vs 基辅迪纳摩青年队" tvg-chno="1203" tvg-name="卡夫巴斯U21 vs 基辅迪纳摩青年队" tvg-group="足球" group-title="足球",卡夫巴斯U21 vs 基辅迪纳摩青年队
 http://192.168.5.35:44635/play/889d4bb6bbf62cc0199a390fd3f3f9afcdb6b85d
-#EXTINF:-1 tvg-id="埃什特雷拉U23 vs 辛达卡拉U23" tvg-chno="1204" tvg-name="埃什特雷拉U23 vs 辛达卡拉U23" tvg-group="足球" group-title="足球",埃什特雷拉U23 vs 辛达卡拉U23
-http://192.168.5.35:44635/play/b944a060b0245570263002b447f4969db2cd4113
-#EXTINF:-1 tvg-id="埃什特雷拉U23 vs 辛达卡拉U23" tvg-chno="1205" tvg-name="埃什特雷拉U23 vs 辛达卡拉U23" tvg-group="足球" group-title="足球",埃什特雷拉U23 vs 辛达卡拉U23
-http://192.168.5.35:44635/play/f7b73248e315bb647ec56277e959d10b048c6ac9
-#EXTINF:-1 tvg-id="棉兰 vs 佩西加雅加达" tvg-chno="1206" tvg-name="棉兰 vs 佩西加雅加达" tvg-group="足球" group-title="足球",棉兰 vs 佩西加雅加达
+#EXTINF:-1 tvg-id="棉兰 vs 佩西加雅加达" tvg-chno="1204" tvg-name="棉兰 vs 佩西加雅加达" tvg-group="足球" group-title="足球",棉兰 vs 佩西加雅加达
 http://192.168.5.35:44635/play/507eafabf46148b5e7c6881ecbd0116cf739eb8c
-#EXTINF:-1 tvg-id="棉兰 vs 佩西加雅加达" tvg-chno="1207" tvg-name="棉兰 vs 佩西加雅加达" tvg-group="足球" group-title="足球",棉兰 vs 佩西加雅加达
+#EXTINF:-1 tvg-id="棉兰 vs 佩西加雅加达" tvg-chno="1205" tvg-name="棉兰 vs 佩西加雅加达" tvg-group="足球" group-title="足球",棉兰 vs 佩西加雅加达
 http://192.168.5.35:44635/play/4c2e7e5a75c4f3b49729aa226ac6f58f37a70bfb
-#EXTINF:-1 tvg-id="泰港 vs 北京国安" tvg-chno="1208" tvg-name="泰港 vs 北京国安" tvg-group="足球" group-title="足球",泰港 vs 北京国安·咪咕直播
+#EXTINF:-1 tvg-id="泰港 vs 北京国安" tvg-chno="1206" tvg-name="泰港 vs 北京国安" tvg-group="足球" group-title="足球",泰港 vs 北京国安·咪咕直播
 http://192.168.5.35:35456/jrs/%E6%B3%B0%E6%B8%AF%20vs%20%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD
-#EXTINF:-1 tvg-id="泰港 vs 北京国安" tvg-chno="1209" tvg-name="泰港 vs 北京国安" tvg-group="足球" group-title="足球",泰港 vs 北京国安·聚合备用
+#EXTINF:-1 tvg-id="泰港 vs 北京国安" tvg-chno="1207" tvg-name="泰港 vs 北京国安" tvg-group="足球" group-title="足球",泰港 vs 北京国安·聚合备用
 http://192.168.5.35:44635/play/930aaa334a52307c822bbabcc56dd367d1325e2c
 #EXTINF:-1 tvg-id="NFL·Network" tvg-chno="1301" tvg-name="NFL·Network" tvg-group="综合体育" group-title="综合体育",NFL·Network
 http://198.58.104.90:8989/nfl/index.m3u8
