@@ -13,7 +13,7 @@ http://192.168.5.35:35456/team/%E7%9A%87%E9%A9%AC
 http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E9%A6%96%E9%92%A2
 #EXTINF:-1 tvg-id="活塞" tvg-chno="1006" tvg-name="活塞" tvg-group="关注" group-title="关注",活塞｜11-05 08:00 76人
 http://192.168.5.35:35456/team/%E6%B4%BB%E5%A1%9E
-#EXTINF:-1 tvg-id="北京国安" tvg-chno="1007" tvg-name="北京国安" tvg-group="关注" group-title="关注",北京国安｜直播中 vs 曼谷港务
+#EXTINF:-1 tvg-id="北京国安" tvg-chno="1007" tvg-name="北京国安" tvg-group="关注" group-title="关注",北京国安｜直播中 vs 泰港
 http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1101" tvg-name="NBA TV" tvg-group="篮球" group-title="篮球",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
@@ -81,23 +81,21 @@ http://192.168.5.35:44635/play/51ab5b536fc9a9e7b8a4f3d76438f3d572830a21
 http://192.168.5.35:44635/play/df7a714ff9f133b390c9d2ef2dd62d6888224640
 #EXTINF:-1 tvg-id="全北现代 vs 柔佛新山" tvg-chno="1201" tvg-name="全北现代 vs 柔佛新山" tvg-group="足球" group-title="足球",全北现代 vs 柔佛新山·咪咕直播
 http://192.168.5.35:35456/jrs/%E5%85%A8%E5%8C%97%E7%8E%B0%E4%BB%A3%20vs%20%E6%9F%94%E4%BD%9B%E6%96%B0%E5%B1%B1%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD
-#EXTINF:-1 tvg-id="神户胜利船 vs 拉查武里" tvg-chno="1202" tvg-name="神户胜利船 vs 拉查武里" tvg-group="足球" group-title="足球",神户胜利船 vs 拉查武里·咪咕直播
-http://192.168.5.35:35456/jrs/%E7%A5%9E%E6%88%B7%E8%83%9C%E5%88%A9%E8%88%B9%20vs%20%E6%8B%89%E6%9F%A5%E6%AD%A6%E9%87%8C%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD
-#EXTINF:-1 tvg-id="河内公安 vs 京都不死鸟" tvg-chno="1203" tvg-name="河内公安 vs 京都不死鸟" tvg-group="足球" group-title="足球",河内公安 vs 京都不死鸟·咪咕直播
+#EXTINF:-1 tvg-id="河内公安 vs 京都不死鸟" tvg-chno="1202" tvg-name="河内公安 vs 京都不死鸟" tvg-group="足球" group-title="足球",河内公安 vs 京都不死鸟·咪咕直播
 http://192.168.5.35:35456/jrs/%E6%B2%B3%E5%86%85%E5%85%AC%E5%AE%89%20vs%20%E4%BA%AC%E9%83%BD%E4%B8%8D%E6%AD%BB%E9%B8%9F%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD
-#EXTINF:-1 tvg-id="泰港 vs 北京国安" tvg-chno="1204" tvg-name="泰港 vs 北京国安" tvg-group="足球" group-title="足球",泰港 vs 北京国安·咪咕直播
+#EXTINF:-1 tvg-id="泰港 vs 北京国安" tvg-chno="1203" tvg-name="泰港 vs 北京国安" tvg-group="足球" group-title="足球",泰港 vs 北京国安·咪咕直播
 http://192.168.5.35:35456/jrs/%E6%B3%B0%E6%B8%AF%20vs%20%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD
-#EXTINF:-1 tvg-id="南美联合 vs 印度斯坦航空SC" tvg-chno="1205" tvg-name="南美联合 vs 印度斯坦航空SC" tvg-group="足球" group-title="足球",南美联合 vs 印度斯坦航空SC
+#EXTINF:-1 tvg-id="南美联合 vs 印度斯坦航空SC" tvg-chno="1204" tvg-name="南美联合 vs 印度斯坦航空SC" tvg-group="足球" group-title="足球",南美联合 vs 印度斯坦航空SC
 http://192.168.5.35:44635/play/08250f181d563284253159c9c73e06765b03b79b
-#EXTINF:-1 tvg-id="南美联合 vs 印度斯坦航空SC" tvg-chno="1206" tvg-name="南美联合 vs 印度斯坦航空SC" tvg-group="足球" group-title="足球",南美联合 vs 印度斯坦航空SC
+#EXTINF:-1 tvg-id="南美联合 vs 印度斯坦航空SC" tvg-chno="1205" tvg-name="南美联合 vs 印度斯坦航空SC" tvg-group="足球" group-title="足球",南美联合 vs 印度斯坦航空SC
 http://192.168.5.35:44635/play/0d33d155c1b1aaa99533ece6fddf3d0e99a4226a
-#EXTINF:-1 tvg-id="卡夫巴斯U21 vs 基辅迪纳摩青年队" tvg-chno="1207" tvg-name="卡夫巴斯U21 vs 基辅迪纳摩青年队" tvg-group="足球" group-title="足球",卡夫巴斯U21 vs 基辅迪纳摩青年队
+#EXTINF:-1 tvg-id="卡夫巴斯U21 vs 基辅迪纳摩青年队" tvg-chno="1206" tvg-name="卡夫巴斯U21 vs 基辅迪纳摩青年队" tvg-group="足球" group-title="足球",卡夫巴斯U21 vs 基辅迪纳摩青年队
 http://192.168.5.35:44635/play/326e23d9eb8fc21cae4deccadf711adfcf3821c7
-#EXTINF:-1 tvg-id="卡夫巴斯U21 vs 基辅迪纳摩青年队" tvg-chno="1208" tvg-name="卡夫巴斯U21 vs 基辅迪纳摩青年队" tvg-group="足球" group-title="足球",卡夫巴斯U21 vs 基辅迪纳摩青年队
+#EXTINF:-1 tvg-id="卡夫巴斯U21 vs 基辅迪纳摩青年队" tvg-chno="1207" tvg-name="卡夫巴斯U21 vs 基辅迪纳摩青年队" tvg-group="足球" group-title="足球",卡夫巴斯U21 vs 基辅迪纳摩青年队
 http://192.168.5.35:44635/play/889d4bb6bbf62cc0199a390fd3f3f9afcdb6b85d
-#EXTINF:-1 tvg-id="埃什特雷拉U23 vs 辛达卡拉U23" tvg-chno="1209" tvg-name="埃什特雷拉U23 vs 辛达卡拉U23" tvg-group="足球" group-title="足球",埃什特雷拉U23 vs 辛达卡拉U23
+#EXTINF:-1 tvg-id="埃什特雷拉U23 vs 辛达卡拉U23" tvg-chno="1208" tvg-name="埃什特雷拉U23 vs 辛达卡拉U23" tvg-group="足球" group-title="足球",埃什特雷拉U23 vs 辛达卡拉U23
 http://192.168.5.35:44635/play/b944a060b0245570263002b447f4969db2cd4113
-#EXTINF:-1 tvg-id="埃什特雷拉U23 vs 辛达卡拉U23" tvg-chno="1210" tvg-name="埃什特雷拉U23 vs 辛达卡拉U23" tvg-group="足球" group-title="足球",埃什特雷拉U23 vs 辛达卡拉U23
+#EXTINF:-1 tvg-id="埃什特雷拉U23 vs 辛达卡拉U23" tvg-chno="1209" tvg-name="埃什特雷拉U23 vs 辛达卡拉U23" tvg-group="足球" group-title="足球",埃什特雷拉U23 vs 辛达卡拉U23
 http://192.168.5.35:44635/play/f7b73248e315bb647ec56277e959d10b048c6ac9
 #EXTINF:-1 tvg-id="NFL·Network" tvg-chno="1301" tvg-name="NFL·Network" tvg-group="综合体育" group-title="综合体育",NFL·Network
 http://198.58.104.90:8989/nfl/index.m3u8
