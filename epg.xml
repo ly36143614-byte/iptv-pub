@@ -6,7 +6,8 @@
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="NFL Network"><display-name>NFL Network</display-name></channel>
   <channel id="RB vs Zenith"><display-name>RB vs Zenith</display-name></channel>
-  <channel id="掘金 vs 开拓者"><display-name>掘金 vs 开拓者</display-name></channel>
+  <channel id="勇士 vs 太阳"><display-name>勇士 vs 太阳</display-name></channel>
+  <channel id="快船 vs 猛龙"><display-name>快船 vs 猛龙</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
   <channel id="湖人 vs 热火"><display-name>湖人 vs 热火</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
@@ -58,8 +59,12 @@
     <title>RBear vs ZENITH（EPL World SEA S19 - Playoffs）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261103100000 +0800" stop="20261103124012 +0800" channel="掘金 vs 开拓者">
-    <title>Portland Trail Blazers at Denver Nuggets 已结束（NBA）</title>
+  <programme start="20261103110000 +0800" stop="20261103134012 +0800" channel="勇士 vs 太阳">
+    <title>Phoenix Suns at Golden State Warriors（NBA）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261103110000 +0800" stop="20261103134012 +0800" channel="快船 vs 猛龙">
+    <title>Toronto Raptors at LA Clippers（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261105080000 +0800" stop="20261105104012 +0800" channel="活塞">
