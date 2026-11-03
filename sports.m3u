@@ -37,64 +37,64 @@ http://192.168.5.35:35456/jrs/%E5%BF%AB%E8%88%B9%20vs%20%E7%8C%9B%E9%BE%99%C2%B7
 http://192.168.5.35:35456/jrs/%E6%B9%96%E4%BA%BA%20vs%20%E7%83%AD%E7%81%AB%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-id="湖人 vs 热火" tvg-chno="1111" tvg-name="湖人 vs 热火" tvg-group="篮球" group-title="篮球",湖人 vs 热火·腾讯直播
 http://192.168.5.35:35456/jrs/%E6%B9%96%E4%BA%BA%20vs%20%E7%83%AD%E7%81%AB%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD
-#EXTINF:-1 tvg-id="俄克拉荷马州立大学 vs 红雀医学院" tvg-chno="1112" tvg-name="俄克拉荷马州立大学 vs 红雀医学院" tvg-group="篮球" group-title="篮球",俄克拉荷马州立大学 vs 红雀医学院
-http://192.168.5.35:44635/play/01a1db8888915969067922f452631a2accccbc69
-#EXTINF:-1 tvg-id="俄勒冈州立大学 vs 韦伯州立大学" tvg-chno="1113" tvg-name="俄勒冈州立大学 vs 韦伯州立大学" tvg-group="篮球" group-title="篮球",俄勒冈州立大学 vs 韦伯州立大学
-http://192.168.5.35:44635/play/7f657986d335c737cf76a5933fb1012c9b275cb3
+#EXTINF:-1 tvg-id="亚利桑那州立大学 vs 东田纳西州立大学" tvg-chno="1112" tvg-name="亚利桑那州立大学 vs 东田纳西州立大学" tvg-group="篮球" group-title="篮球",亚利桑那州立大学 vs 东田纳西州立大学
+http://192.168.5.35:44635/play/90427eeaf28d6212fb46b42f9b04c243ac5a33f6
+#EXTINF:-1 tvg-id="亚利桑那州立大学 vs 东田纳西州立大学" tvg-chno="1113" tvg-name="亚利桑那州立大学 vs 东田纳西州立大学" tvg-group="篮球" group-title="篮球",亚利桑那州立大学 vs 东田纳西州立大学
+http://192.168.5.35:44635/play/4cb2abe67d9dd6f9abb3ab1e345eba5a54c08b85
 #EXTINF:-1 tvg-id="俄勒冈州立大学 vs 韦伯州立大学" tvg-chno="1114" tvg-name="俄勒冈州立大学 vs 韦伯州立大学" tvg-group="篮球" group-title="篮球",俄勒冈州立大学 vs 韦伯州立大学
+http://192.168.5.35:44635/play/7f657986d335c737cf76a5933fb1012c9b275cb3
+#EXTINF:-1 tvg-id="俄勒冈州立大学 vs 韦伯州立大学" tvg-chno="1115" tvg-name="俄勒冈州立大学 vs 韦伯州立大学" tvg-group="篮球" group-title="篮球",俄勒冈州立大学 vs 韦伯州立大学
 http://192.168.5.35:44635/play/cdd9069d415c1850130fdc2567311ca7ac2f8428
-#EXTINF:-1 tvg-id="加州大学圣塔巴巴拉分校 vs n" tvg-chno="1115" tvg-name="加州大学圣塔巴巴拉分校 vs n" tvg-group="篮球" group-title="篮球",加州大学圣塔巴巴拉分校 vs n
+#EXTINF:-1 tvg-id="加州大学圣地亚哥分校 vs 怀蒂埃尔" tvg-chno="1116" tvg-name="加州大学圣地亚哥分校 vs 怀蒂埃尔" tvg-group="篮球" group-title="篮球",加州大学圣地亚哥分校 vs 怀蒂埃尔
+http://192.168.5.35:44635/play/441645115cd681fac138a66611255158291e645a
+#EXTINF:-1 tvg-id="加州大学圣地亚哥分校 vs 怀蒂埃尔" tvg-chno="1117" tvg-name="加州大学圣地亚哥分校 vs 怀蒂埃尔" tvg-group="篮球" group-title="篮球",加州大学圣地亚哥分校 vs 怀蒂埃尔
+http://192.168.5.35:44635/play/12e7815f428b381304176a98e246a4ac7ce6c896
+#EXTINF:-1 tvg-id="加州大学圣塔巴巴拉分校 vs n" tvg-chno="1118" tvg-name="加州大学圣塔巴巴拉分校 vs n" tvg-group="篮球" group-title="篮球",加州大学圣塔巴巴拉分校 vs n
 http://192.168.5.35:44635/play/1806b43461f74e4bec14f1a3a7d1ef3ca09d2020
-#EXTINF:-1 tvg-id="加州州立弗雷斯诺分校 vs 菲兹诺" tvg-chno="1116" tvg-name="加州州立弗雷斯诺分校 vs 菲兹诺" tvg-group="篮球" group-title="篮球",加州州立弗雷斯诺分校 vs 菲兹诺
-http://192.168.5.35:44635/play/5f1ddc5a09195bca47259861507cc5360b670c6f
-#EXTINF:-1 tvg-id="北科罗拉多大学 vs 科罗拉多学院" tvg-chno="1117" tvg-name="北科罗拉多大学 vs 科罗拉多学院" tvg-group="篮球" group-title="篮球",北科罗拉多大学 vs 科罗拉多学院
+#EXTINF:-1 tvg-id="加州大学河滨分校 vs 拉文大学" tvg-chno="1119" tvg-name="加州大学河滨分校 vs 拉文大学" tvg-group="篮球" group-title="篮球",加州大学河滨分校 vs 拉文大学
+http://192.168.5.35:44635/play/19fb4f76e1827da395c0086e2040fc278ae7cf2e
+#EXTINF:-1 tvg-id="加州大学河滨分校 vs 拉文大学" tvg-chno="1120" tvg-name="加州大学河滨分校 vs 拉文大学" tvg-group="篮球" group-title="篮球",加州大学河滨分校 vs 拉文大学
+http://192.168.5.35:44635/play/1eaa4c1ed05c147bf78b005db3c25c8d7707eb2e
+#EXTINF:-1 tvg-id="北科罗拉多大学 vs 科罗拉多学院" tvg-chno="1121" tvg-name="北科罗拉多大学 vs 科罗拉多学院" tvg-group="篮球" group-title="篮球",北科罗拉多大学 vs 科罗拉多学院
 http://192.168.5.35:44635/play/f0dd186797ffb4a924a477251ed41dca49b1ecc9
-#EXTINF:-1 tvg-id="北科罗拉多大学 vs 科罗拉多学院" tvg-chno="1118" tvg-name="北科罗拉多大学 vs 科罗拉多学院" tvg-group="篮球" group-title="篮球",北科罗拉多大学 vs 科罗拉多学院
+#EXTINF:-1 tvg-id="北科罗拉多大学 vs 科罗拉多学院" tvg-chno="1122" tvg-name="北科罗拉多大学 vs 科罗拉多学院" tvg-group="篮球" group-title="篮球",北科罗拉多大学 vs 科罗拉多学院
 http://192.168.5.35:44635/play/fb4279eae4c132ca03859640d779ae1b35142331
-#EXTINF:-1 tvg-id="圣地亚戈大学 vs n" tvg-chno="1119" tvg-name="圣地亚戈大学 vs n" tvg-group="篮球" group-title="篮球",圣地亚戈大学 vs n
+#EXTINF:-1 tvg-id="圣地亚戈大学 vs n" tvg-chno="1123" tvg-name="圣地亚戈大学 vs n" tvg-group="篮球" group-title="篮球",圣地亚戈大学 vs n
 http://192.168.5.35:44635/play/ca12d3e77c9902d9886439995077e806dd698d0e
-#EXTINF:-1 tvg-id="圣地亚戈大学 vs 毕约拉大学" tvg-chno="1120" tvg-name="圣地亚戈大学 vs 毕约拉大学" tvg-group="篮球" group-title="篮球",圣地亚戈大学 vs 毕约拉大学
+#EXTINF:-1 tvg-id="圣地亚戈大学 vs 毕约拉大学" tvg-chno="1124" tvg-name="圣地亚戈大学 vs 毕约拉大学" tvg-group="篮球" group-title="篮球",圣地亚戈大学 vs 毕约拉大学
 http://192.168.5.35:44635/play/7f9acd81b13ec13e106d9bd4f4efa0e19813ecaf
-#EXTINF:-1 tvg-id="圣地亚戈大学 vs 毕约拉大学" tvg-chno="1121" tvg-name="圣地亚戈大学 vs 毕约拉大学" tvg-group="篮球" group-title="篮球",圣地亚戈大学 vs 毕约拉大学
+#EXTINF:-1 tvg-id="圣地亚戈大学 vs 毕约拉大学" tvg-chno="1125" tvg-name="圣地亚戈大学 vs 毕约拉大学" tvg-group="篮球" group-title="篮球",圣地亚戈大学 vs 毕约拉大学
 http://192.168.5.35:44635/play/c4bf36008186b46afe9c32781bf4c48f05a2bcf1
-#EXTINF:-1 tvg-id="康涅狄格大学 vs 加德纳韦伯大学" tvg-chno="1122" tvg-name="康涅狄格大学 vs 加德纳韦伯大学" tvg-group="篮球" group-title="篮球",康涅狄格大学 vs 加德纳韦伯大学
-http://192.168.5.35:44635/play/9de433063940bc740190b42e04d66e35a5a4eb04
-#EXTINF:-1 tvg-id="德克萨斯大学 vs 芝加哥州立大学" tvg-chno="1123" tvg-name="德克萨斯大学 vs 芝加哥州立大学" tvg-group="篮球" group-title="篮球",德克萨斯大学 vs 芝加哥州立大学
-http://192.168.5.35:44635/play/adfdb1748b7e5fe73b31ddf83ed32b4d82581ac7
-#EXTINF:-1 tvg-id="掘金 vs 开拓者" tvg-chno="1124" tvg-name="掘金 vs 开拓者" tvg-group="篮球" group-title="篮球",掘金 vs 开拓者·腾讯直播
+#EXTINF:-1 tvg-id="掘金 vs 开拓者" tvg-chno="1126" tvg-name="掘金 vs 开拓者" tvg-group="篮球" group-title="篮球",掘金 vs 开拓者·腾讯直播
 http://192.168.5.35:35456/jrs/%E6%8E%98%E9%87%91%20vs%20%E5%BC%80%E6%8B%93%E8%80%85%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD
-#EXTINF:-1 tvg-id="掘金 vs 开拓者" tvg-chno="1125" tvg-name="掘金 vs 开拓者" tvg-group="篮球" group-title="篮球",掘金 vs 开拓者·咪咕直播
+#EXTINF:-1 tvg-id="掘金 vs 开拓者" tvg-chno="1127" tvg-name="掘金 vs 开拓者" tvg-group="篮球" group-title="篮球",掘金 vs 开拓者·咪咕直播
 http://192.168.5.35:35456/jrs/%E6%8E%98%E9%87%91%20vs%20%E5%BC%80%E6%8B%93%E8%80%85%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD
-#EXTINF:-1 tvg-id="掘金 vs 开拓者" tvg-chno="1126" tvg-name="掘金 vs 开拓者" tvg-group="篮球" group-title="篮球",掘金 vs 开拓者·聚合备用
+#EXTINF:-1 tvg-id="掘金 vs 开拓者" tvg-chno="1128" tvg-name="掘金 vs 开拓者" tvg-group="篮球" group-title="篮球",掘金 vs 开拓者·聚合备用
 http://192.168.5.35:44635/play/2763544e556379bda96a48445fc9ac90649de426
-#EXTINF:-1 tvg-id="杨百翰大学 vs 俄亥俄州立大学" tvg-chno="1127" tvg-name="杨百翰大学 vs 俄亥俄州立大学" tvg-group="篮球" group-title="篮球",杨百翰大学 vs 俄亥俄州立大学
+#EXTINF:-1 tvg-id="斯坦福大学 vs 东华盛顿大学" tvg-chno="1129" tvg-name="斯坦福大学 vs 东华盛顿大学" tvg-group="篮球" group-title="篮球",斯坦福大学 vs 东华盛顿大学
+http://192.168.5.35:44635/play/85b7821f909fb361b8f47b04c2a3a17544c2e448
+#EXTINF:-1 tvg-id="斯坦福大学 vs 东华盛顿大学" tvg-chno="1130" tvg-name="斯坦福大学 vs 东华盛顿大学" tvg-group="篮球" group-title="篮球",斯坦福大学 vs 东华盛顿大学
+http://192.168.5.35:44635/play/2af2e1e77c69cb591533460d969c7a0812972548
+#EXTINF:-1 tvg-id="杨百翰大学 vs 俄亥俄州立大学" tvg-chno="1131" tvg-name="杨百翰大学 vs 俄亥俄州立大学" tvg-group="篮球" group-title="篮球",杨百翰大学 vs 俄亥俄州立大学
 http://192.168.5.35:44635/play/19d4008f38237331e62f44a02c83e7b4762b0356
-#EXTINF:-1 tvg-id="火箭 vs 凯尔特人" tvg-chno="1128" tvg-name="火箭 vs 凯尔特人" tvg-group="篮球" group-title="篮球",火箭 vs 凯尔特人·腾讯直播
-http://192.168.5.35:35456/jrs/%E7%81%AB%E7%AE%AD%20vs%20%E5%87%AF%E5%B0%94%E7%89%B9%E4%BA%BA%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD
-#EXTINF:-1 tvg-id="火箭 vs 凯尔特人" tvg-chno="1129" tvg-name="火箭 vs 凯尔特人" tvg-group="篮球" group-title="篮球",火箭 vs 凯尔特人·咪咕直播
+#EXTINF:-1 tvg-id="火箭 vs 凯尔特人" tvg-chno="1132" tvg-name="火箭 vs 凯尔特人" tvg-group="篮球" group-title="篮球",火箭 vs 凯尔特人·咪咕直播
 http://192.168.5.35:35456/jrs/%E7%81%AB%E7%AE%AD%20vs%20%E5%87%AF%E5%B0%94%E7%89%B9%E4%BA%BA%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD
-#EXTINF:-1 tvg-id="火箭 vs 凯尔特人" tvg-chno="1130" tvg-name="火箭 vs 凯尔特人" tvg-group="篮球" group-title="篮球",火箭 vs 凯尔特人·聚合备用
+#EXTINF:-1 tvg-id="火箭 vs 凯尔特人" tvg-chno="1133" tvg-name="火箭 vs 凯尔特人" tvg-group="篮球" group-title="篮球",火箭 vs 凯尔特人·聚合备用
 http://192.168.5.35:44635/play/f3d6ef44e7e43910de4a12dd1574633ad26a6f4e
-#EXTINF:-1 tvg-id="犹他大学 vs 加州州立大学长滩分校" tvg-chno="1131" tvg-name="犹他大学 vs 加州州立大学长滩分校" tvg-group="篮球" group-title="篮球",犹他大学 vs 加州州立大学长滩分校
-http://192.168.5.35:44635/play/d584d14bddafdb6d78f0e3392f5e27870aa61685
-#EXTINF:-1 tvg-id="犹他州立大学 vs 爱达荷州立大学" tvg-chno="1132" tvg-name="犹他州立大学 vs 爱达荷州立大学" tvg-group="篮球" group-title="篮球",犹他州立大学 vs 爱达荷州立大学
+#EXTINF:-1 tvg-id="爱达荷大学 vs 乔治福克斯大学" tvg-chno="1134" tvg-name="爱达荷大学 vs 乔治福克斯大学" tvg-group="篮球" group-title="篮球",爱达荷大学 vs 乔治福克斯大学
+http://192.168.5.35:44635/play/d127cb67564755bde1feb7b54aa28f90d4d26fa5
+#EXTINF:-1 tvg-id="爱达荷大学 vs 乔治福克斯大学" tvg-chno="1135" tvg-name="爱达荷大学 vs 乔治福克斯大学" tvg-group="篮球" group-title="篮球",爱达荷大学 vs 乔治福克斯大学
+http://192.168.5.35:44635/play/d2b0f33047bddc6135d2f3b9524333ffb04f3b6b
+#EXTINF:-1 tvg-id="犹他州立大学 vs 爱达荷州立大学" tvg-chno="1136" tvg-name="犹他州立大学 vs 爱达荷州立大学" tvg-group="篮球" group-title="篮球",犹他州立大学 vs 爱达荷州立大学
 http://192.168.5.35:44635/play/5d86e0ab706b8669e037923bb44e47228d2b70cd
-#EXTINF:-1 tvg-id="犹他州立大学 vs 爱达荷州立大学" tvg-chno="1133" tvg-name="犹他州立大学 vs 爱达荷州立大学" tvg-group="篮球" group-title="篮球",犹他州立大学 vs 爱达荷州立大学
+#EXTINF:-1 tvg-id="犹他州立大学 vs 爱达荷州立大学" tvg-chno="1137" tvg-name="犹他州立大学 vs 爱达荷州立大学" tvg-group="篮球" group-title="篮球",犹他州立大学 vs 爱达荷州立大学
 http://192.168.5.35:44635/play/6e5b908f88091a44561df845a6257ff6816ed330
-#EXTINF:-1 tvg-id="科罗拉多大学 vs 阿比利基督大学" tvg-chno="1134" tvg-name="科罗拉多大学 vs 阿比利基督大学" tvg-group="篮球" group-title="篮球",科罗拉多大学 vs 阿比利基督大学
-http://192.168.5.35:44635/play/b89f9f38e5f0d3e6c319120cb8b73745bcadfbf7
-#EXTINF:-1 tvg-id="萨克拉门托州立大学 vs 杰赛普大学" tvg-chno="1135" tvg-name="萨克拉门托州立大学 vs 杰赛普大学" tvg-group="篮球" group-title="篮球",萨克拉门托州立大学 vs 杰赛普大学
+#EXTINF:-1 tvg-id="科罗拉多州立大学 vs 蒙大拿州立大学" tvg-chno="1138" tvg-name="科罗拉多州立大学 vs 蒙大拿州立大学" tvg-group="篮球" group-title="篮球",科罗拉多州立大学 vs 蒙大拿州立大学
+http://192.168.5.35:44635/play/c5fe198ce3f0981d68933f40635cda3398f5b4db
+#EXTINF:-1 tvg-id="科罗拉多州立大学 vs 蒙大拿州立大学" tvg-chno="1139" tvg-name="科罗拉多州立大学 vs 蒙大拿州立大学" tvg-group="篮球" group-title="篮球",科罗拉多州立大学 vs 蒙大拿州立大学
+http://192.168.5.35:44635/play/35abf24da31802d798394ae9606153b43ae20b57
+#EXTINF:-1 tvg-id="萨克拉门托州立大学 vs 杰赛普大学" tvg-chno="1140" tvg-name="萨克拉门托州立大学 vs 杰赛普大学" tvg-group="篮球" group-title="篮球",萨克拉门托州立大学 vs 杰赛普大学
 http://192.168.5.35:44635/play/eb701a75e63cace8a5a2289cb01480901cbee423
-#EXTINF:-1 tvg-id="萨克拉门托州立大学 vs 杰赛普大学" tvg-chno="1136" tvg-name="萨克拉门托州立大学 vs 杰赛普大学" tvg-group="篮球" group-title="篮球",萨克拉门托州立大学 vs 杰赛普大学
-http://192.168.5.35:44635/play/bd6604fb3928918b11a681cdcf1e823fec5c5675
-#EXTINF:-1 tvg-id="贝勒大学 vs 西北州立大学" tvg-chno="1137" tvg-name="贝勒大学 vs 西北州立大学" tvg-group="篮球" group-title="篮球",贝勒大学 vs 西北州立大学
-http://192.168.5.35:44635/play/d0aac4b0632a05215c5e3349a574c67864582489
-#EXTINF:-1 tvg-id="贝勒大学 vs 西北州立大学" tvg-chno="1138" tvg-name="贝勒大学 vs 西北州立大学" tvg-group="篮球" group-title="篮球",贝勒大学 vs 西北州立大学
-http://192.168.5.35:44635/play/b963898c2af6368b590d9972c0fdca6376d8c84c
-#EXTINF:-1 tvg-id="马刺 vs 爵士" tvg-chno="1139" tvg-name="马刺 vs 爵士" tvg-group="篮球" group-title="篮球",马刺 vs 爵士·腾讯直播
-http://192.168.5.35:35456/jrs/%E9%A9%AC%E5%88%BA%20vs%20%E7%88%B5%E5%A3%AB%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD
-#EXTINF:-1 tvg-id="马刺 vs 爵士" tvg-chno="1140" tvg-name="马刺 vs 爵士" tvg-group="篮球" group-title="篮球",马刺 vs 爵士·咪咕直播
-http://192.168.5.35:35456/jrs/%E9%A9%AC%E5%88%BA%20vs%20%E7%88%B5%E5%A3%AB%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-id="ASC艾瑟 vs 班加罗尔根源" tvg-chno="1201" tvg-name="ASC艾瑟 vs 班加罗尔根源" tvg-group="足球" group-title="足球",ASC艾瑟 vs 班加罗尔根源
 http://192.168.5.35:44635/play/b14685e5a7e605784cc199c0063e67b2ed39a32f
 #EXTINF:-1 tvg-id="ASC艾瑟 vs 班加罗尔根源" tvg-chno="1202" tvg-name="ASC艾瑟 vs 班加罗尔根源" tvg-group="足球" group-title="足球",ASC艾瑟 vs 班加罗尔根源
