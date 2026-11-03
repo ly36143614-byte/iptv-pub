@@ -53,12 +53,8 @@ https://hlsz.yjjcfw.com/live/00588336.m3u8?expire=1793684299&sign=b1fb9021dd72b5
 https://hlsz.yjjcfw.com/live/10022600165.m3u8?expire=1793684300&sign=50b44b6f05804de5c384a5b6e9e155a4
 #EXTINF:-1 tvg-id="灰熊 vs 鹈鹕" tvg-chno="1119" tvg-name="灰熊 vs 鹈鹕" tvg-group="篮球" group-title="篮球",灰熊 vs 鹈鹕·咪咕直播
 https://hlsz.yjjcfw.com/live/00588338.m3u8?expire=1793684301&sign=14ea87138166cc580278b01c437f67ed
-#EXTINF:-1 tvg-id="乔治城大学 vs 马里兰洛约拉分校" tvg-chno="1120" tvg-name="乔治城大学 vs 马里兰洛约拉分校" tvg-group="篮球" group-title="篮球",乔治城大学 vs 马里兰洛约拉分校
-http://192.168.5.35:44635/play/157ff1c7fe593660cca3a55e22105879c438e56c
-#EXTINF:-1 tvg-id="佛罗里达大学 vs 迈阿密大学" tvg-chno="1121" tvg-name="佛罗里达大学 vs 迈阿密大学" tvg-group="篮球" group-title="篮球",佛罗里达大学 vs 迈阿密大学
-http://192.168.5.35:44635/play/55b7116c626ef41a3b32499229dee626ddadeda5
-#EXTINF:-1 tvg-id="佛罗里达大学 vs 迈阿密大学" tvg-chno="1122" tvg-name="佛罗里达大学 vs 迈阿密大学" tvg-group="篮球" group-title="篮球",佛罗里达大学 vs 迈阿密大学
-http://192.168.5.35:44635/play/87d3c17f9423103d3fc2a93379240bb081411055
+#EXTINF:-1 tvg-id="莱斯大学 vs 达拉斯基督" tvg-chno="1120" tvg-name="莱斯大学 vs 达拉斯基督" tvg-group="篮球" group-title="篮球",莱斯大学 vs 达拉斯基督
+http://192.168.5.35:44635/play/ea138e37ee95a97b0803bef64533d15ec3c7d3b7
 #EXTINF:-1 tvg-id="RB大宫松鼠 vs 磐城FC" tvg-chno="1201" tvg-name="RB大宫松鼠 vs 磐城FC" tvg-group="足球" group-title="足球",RB大宫松鼠 vs 磐城FC
 http://192.168.5.35:44635/play/41f0907379f26326f3e9adc89c6578a1d09624d0
 #EXTINF:-1 tvg-id="上海申花U15 vs 杭州U15" tvg-chno="1202" tvg-name="上海申花U15 vs 杭州U15" tvg-group="足球" group-title="足球",上海申花U15 vs 杭州U15
@@ -87,41 +83,37 @@ http://192.168.5.35:44635/play/0e2b9c1c04b27ad8074adf7a9f4636340e17b8d9
 http://192.168.5.35:44635/play/5e97e8a7ae5db1e486b19a60eed5a69f290f9bcf
 #EXTINF:-1 tvg-id="康塞普西翁 vs 帕莱斯蒂诺" tvg-chno="1214" tvg-name="康塞普西翁 vs 帕莱斯蒂诺" tvg-group="足球" group-title="足球",康塞普西翁 vs 帕莱斯蒂诺
 http://192.168.5.35:44635/play/87d332b413c12e1054c3891091696071f882d64e
-#EXTINF:-1 tvg-id="戈亚斯 vs 雷加塔斯巴西" tvg-chno="1215" tvg-name="戈亚斯 vs 雷加塔斯巴西" tvg-group="足球" group-title="足球",戈亚斯 vs 雷加塔斯巴西
-http://192.168.5.35:44635/play/3201f21c9fe2bb0c0742d1d7679f23a9b22dc7d7
-#EXTINF:-1 tvg-id="戈亚斯 vs 雷加塔斯巴西" tvg-chno="1216" tvg-name="戈亚斯 vs 雷加塔斯巴西" tvg-group="足球" group-title="足球",戈亚斯 vs 雷加塔斯巴西
-http://192.168.5.35:44635/play/fe348cdb16f76cf73d76595cc99e8d7ef7b58de7
-#EXTINF:-1 tvg-id="横滨FC vs 秋田蓝闪电" tvg-chno="1217" tvg-name="横滨FC vs 秋田蓝闪电" tvg-group="足球" group-title="足球",横滨FC vs 秋田蓝闪电
+#EXTINF:-1 tvg-id="横滨FC vs 秋田蓝闪电" tvg-chno="1215" tvg-name="横滨FC vs 秋田蓝闪电" tvg-group="足球" group-title="足球",横滨FC vs 秋田蓝闪电
 http://192.168.5.35:44635/play/8329a7f378a5ac501c2bbddc95fb7553e9a95d30
-#EXTINF:-1 tvg-id="江苏U15 vs 伯恩茅斯U15" tvg-chno="1218" tvg-name="江苏U15 vs 伯恩茅斯U15" tvg-group="足球" group-title="足球",江苏U15 vs 伯恩茅斯U15
+#EXTINF:-1 tvg-id="江苏U15 vs 伯恩茅斯U15" tvg-chno="1216" tvg-name="江苏U15 vs 伯恩茅斯U15" tvg-group="足球" group-title="足球",江苏U15 vs 伯恩茅斯U15
 http://192.168.5.35:44635/play/5c92db0633467b244e9a24c84e2cc08b823aeea8
-#EXTINF:-1 tvg-id="江苏U15 vs 伯恩茅斯U15" tvg-chno="1219" tvg-name="江苏U15 vs 伯恩茅斯U15" tvg-group="足球" group-title="足球",江苏U15 vs 伯恩茅斯U15
+#EXTINF:-1 tvg-id="江苏U15 vs 伯恩茅斯U15" tvg-chno="1217" tvg-name="江苏U15 vs 伯恩茅斯U15" tvg-group="足球" group-title="足球",江苏U15 vs 伯恩茅斯U15
 http://192.168.5.35:44635/play/a9346f04004b456c3a29e5cfcfe85a658d36efb6
-#EXTINF:-1 tvg-id="浙江足管中心U15 vs 泰国清迈队U15" tvg-chno="1220" tvg-name="浙江足管中心U15 vs 泰国清迈队U15" tvg-group="足球" group-title="足球",浙江足管中心U15 vs 泰国清迈队U15
+#EXTINF:-1 tvg-id="浙江足管中心U15 vs 泰国清迈队U15" tvg-chno="1218" tvg-name="浙江足管中心U15 vs 泰国清迈队U15" tvg-group="足球" group-title="足球",浙江足管中心U15 vs 泰国清迈队U15
 http://192.168.5.35:44635/play/8cd2ffb22fff3ced667eb7a825867b81a5c7dbb9
-#EXTINF:-1 tvg-id="浙江足管中心U15 vs 泰国清迈队U15" tvg-chno="1221" tvg-name="浙江足管中心U15 vs 泰国清迈队U15" tvg-group="足球" group-title="足球",浙江足管中心U15 vs 泰国清迈队U15
+#EXTINF:-1 tvg-id="浙江足管中心U15 vs 泰国清迈队U15" tvg-chno="1219" tvg-name="浙江足管中心U15 vs 泰国清迈队U15" tvg-group="足球" group-title="足球",浙江足管中心U15 vs 泰国清迈队U15
 http://192.168.5.35:44635/play/e22e6435aa9862325e886ccfe9ffe70154d6d39b
-#EXTINF:-1 tvg-id="湘南丽海 vs 鸟栖砂岩" tvg-chno="1222" tvg-name="湘南丽海 vs 鸟栖砂岩" tvg-group="足球" group-title="足球",湘南丽海 vs 鸟栖砂岩
+#EXTINF:-1 tvg-id="湘南丽海 vs 鸟栖砂岩" tvg-chno="1220" tvg-name="湘南丽海 vs 鸟栖砂岩" tvg-group="足球" group-title="足球",湘南丽海 vs 鸟栖砂岩
 http://192.168.5.35:44635/play/20b0f042e5e7ed77756e96445c56014762b97ad3
-#EXTINF:-1 tvg-id="苏奇特佩基 vs 马拉卡特高" tvg-chno="1223" tvg-name="苏奇特佩基 vs 马拉卡特高" tvg-group="足球" group-title="足球",苏奇特佩基 vs 马拉卡特高
+#EXTINF:-1 tvg-id="苏奇特佩基 vs 马拉卡特高" tvg-chno="1221" tvg-name="苏奇特佩基 vs 马拉卡特高" tvg-group="足球" group-title="足球",苏奇特佩基 vs 马拉卡特高
 http://192.168.5.35:44635/play/276ad7cd841cee1600e07a63107fdb2bb60ca327
-#EXTINF:-1 tvg-id="莱昂女足 vs 圣路易斯竞技女足" tvg-chno="1224" tvg-name="莱昂女足 vs 圣路易斯竞技女足" tvg-group="足球" group-title="足球",莱昂女足 vs 圣路易斯竞技女足
+#EXTINF:-1 tvg-id="莱昂女足 vs 圣路易斯竞技女足" tvg-chno="1222" tvg-name="莱昂女足 vs 圣路易斯竞技女足" tvg-group="足球" group-title="足球",莱昂女足 vs 圣路易斯竞技女足
 http://192.168.5.35:44635/play/434b693d453e364983cb9bfbc80847ca77aed9c7
-#EXTINF:-1 tvg-id="莱昂女足 vs 圣路易斯竞技女足" tvg-chno="1225" tvg-name="莱昂女足 vs 圣路易斯竞技女足" tvg-group="足球" group-title="足球",莱昂女足 vs 圣路易斯竞技女足
+#EXTINF:-1 tvg-id="莱昂女足 vs 圣路易斯竞技女足" tvg-chno="1223" tvg-name="莱昂女足 vs 圣路易斯竞技女足" tvg-group="足球" group-title="足球",莱昂女足 vs 圣路易斯竞技女足
 http://192.168.5.35:44635/play/692578a931fa62b20ca8098b7e111a4a14428029
-#EXTINF:-1 tvg-id="藤枝MYFC vs 磐田喜悦" tvg-chno="1226" tvg-name="藤枝MYFC vs 磐田喜悦" tvg-group="足球" group-title="足球",藤枝MYFC vs 磐田喜悦
+#EXTINF:-1 tvg-id="藤枝MYFC vs 磐田喜悦" tvg-chno="1224" tvg-name="藤枝MYFC vs 磐田喜悦" tvg-group="足球" group-title="足球",藤枝MYFC vs 磐田喜悦
 http://192.168.5.35:44635/play/eebc78b9b654bc31a69d80a154ff320e9d781d4a
-#EXTINF:-1 tvg-id="贝尔格莱德游击队U15 vs 浙江U15" tvg-chno="1227" tvg-name="贝尔格莱德游击队U15 vs 浙江U15" tvg-group="足球" group-title="足球",贝尔格莱德游击队U15 vs 浙江U15
+#EXTINF:-1 tvg-id="贝尔格莱德游击队U15 vs 浙江U15" tvg-chno="1225" tvg-name="贝尔格莱德游击队U15 vs 浙江U15" tvg-group="足球" group-title="足球",贝尔格莱德游击队U15 vs 浙江U15
 http://192.168.5.35:44635/play/48a5ff4b661ecfb3ac1e9b0575e1ee49044dc377
-#EXTINF:-1 tvg-id="贝尔格莱德游击队U15 vs 浙江U15" tvg-chno="1228" tvg-name="贝尔格莱德游击队U15 vs 浙江U15" tvg-group="足球" group-title="足球",贝尔格莱德游击队U15 vs 浙江U15
+#EXTINF:-1 tvg-id="贝尔格莱德游击队U15 vs 浙江U15" tvg-chno="1226" tvg-name="贝尔格莱德游击队U15 vs 浙江U15" tvg-group="足球" group-title="足球",贝尔格莱德游击队U15 vs 浙江U15
 http://192.168.5.35:44635/play/615b000f2070d2339418b6781602035f9a2cb733
-#EXTINF:-1 tvg-id="金斯敦水房 vs 金斯敦骑兵" tvg-chno="1229" tvg-name="金斯敦水房 vs 金斯敦骑兵" tvg-group="足球" group-title="足球",金斯敦水房 vs 金斯敦骑兵
+#EXTINF:-1 tvg-id="金斯敦水房 vs 金斯敦骑兵" tvg-chno="1227" tvg-name="金斯敦水房 vs 金斯敦骑兵" tvg-group="足球" group-title="足球",金斯敦水房 vs 金斯敦骑兵
 http://192.168.5.35:44635/play/38ba4b0b8f47e1f85c12f2e5cc6026f2564b6b5e
-#EXTINF:-1 tvg-id="金斯敦水房 vs 金斯敦骑兵" tvg-chno="1230" tvg-name="金斯敦水房 vs 金斯敦骑兵" tvg-group="足球" group-title="足球",金斯敦水房 vs 金斯敦骑兵
+#EXTINF:-1 tvg-id="金斯敦水房 vs 金斯敦骑兵" tvg-chno="1228" tvg-name="金斯敦水房 vs 金斯敦骑兵" tvg-group="足球" group-title="足球",金斯敦水房 vs 金斯敦骑兵
 http://192.168.5.35:44635/play/ce6b7a979abcd5ad427f86150b99462e50a22765
-#EXTINF:-1 tvg-id="门多萨独立 vs 班菲尔德" tvg-chno="1231" tvg-name="门多萨独立 vs 班菲尔德" tvg-group="足球" group-title="足球",门多萨独立 vs 班菲尔德
+#EXTINF:-1 tvg-id="门多萨独立 vs 班菲尔德" tvg-chno="1229" tvg-name="门多萨独立 vs 班菲尔德" tvg-group="足球" group-title="足球",门多萨独立 vs 班菲尔德
 http://192.168.5.35:44635/play/adcc0e9008a8a6406abfdca12702e311929ca812
-#EXTINF:-1 tvg-id="门多萨独立 vs 班菲尔德" tvg-chno="1232" tvg-name="门多萨独立 vs 班菲尔德" tvg-group="足球" group-title="足球",门多萨独立 vs 班菲尔德
+#EXTINF:-1 tvg-id="门多萨独立 vs 班菲尔德" tvg-chno="1230" tvg-name="门多萨独立 vs 班菲尔德" tvg-group="足球" group-title="足球",门多萨独立 vs 班菲尔德
 http://192.168.5.35:44635/play/f827c79d4e7dcca21303e79e02bd0a68d7624233
 #EXTINF:-1 tvg-id="NFL·Network" tvg-chno="1301" tvg-name="NFL·Network" tvg-group="综合体育" group-title="综合体育",NFL·Network
 http://198.58.104.90:8989/nfl/index.m3u8
