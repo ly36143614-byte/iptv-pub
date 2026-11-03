@@ -6,6 +6,8 @@
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="NFL Network"><display-name>NFL Network</display-name></channel>
   <channel id="Nemiga vs CH"><display-name>Nemiga vs CH</display-name></channel>
+  <channel id="Stray vs Daxak"><display-name>Stray vs Daxak</display-name></channel>
+  <channel id="Team Legion vs OG"><display-name>Team Legion vs OG</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <programme start="20261109020000 +0800" stop="20261109051948 +0800" channel="CBS">
@@ -54,6 +56,14 @@
   </programme>
   <programme start="20261103213000 +0800" stop="20261104000000 +0800" channel="Nemiga vs CH">
     <title>Nemiga vs CHero（EPL Masters III - Playoffs）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261103223000 +0800" stop="20261104010000 +0800" channel="Stray vs Daxak">
+    <title>Stray vs DAXAK（FME S5 - November 3）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261103202531 +0800" stop="20261103205946 +0800" channel="Team Legion vs OG">
+    <title>OG vs LEGION（EPL Masters 2026 ）</title>
     <category>体育</category>
   </programme>
   <programme start="20261105080000 +0800" stop="20261105104012 +0800" channel="活塞">
