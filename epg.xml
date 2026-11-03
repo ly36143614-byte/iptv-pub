@@ -5,11 +5,7 @@
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="NFL Network"><display-name>NFL Network</display-name></channel>
-  <channel id="RB vs Zenith"><display-name>RB vs Zenith</display-name></channel>
-  <channel id="勇士 vs 太阳"><display-name>勇士 vs 太阳</display-name></channel>
-  <channel id="快船 vs 猛龙"><display-name>快船 vs 猛龙</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
-  <channel id="湖人 vs 热火"><display-name>湖人 vs 热火</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <programme start="20261109020000 +0800" stop="20261109051948 +0800" channel="CBS">
     <title>New York Jets at Kansas City Chiefs（NFL）</title>
@@ -55,84 +51,32 @@
     <title>Cincinnati Bengals at Atlanta Falcons（NFL）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261103120000 +0800" stop="20261103143000 +0800" channel="RB vs Zenith">
-    <title>RBear vs ZENITH（EPL World SEA S19 - Playoffs）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261103110000 +0800" stop="20261103134012 +0800" channel="勇士 vs 太阳">
-    <title>Phoenix Suns at Golden State Warriors 已结束（NBA）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261103110000 +0800" stop="20261103134012 +0800" channel="快船 vs 猛龙">
-    <title>Toronto Raptors at LA Clippers 已结束（NBA）</title>
-    <category>体育</category>
-  </programme>
   <programme start="20261105080000 +0800" stop="20261105104012 +0800" channel="活塞">
     <title>NBA：活塞 vs 76人</title>
     <category>体育</category>
   </programme>
-  <programme start="20261103110000 +0800" stop="20261103134012 +0800" channel="湖人 vs 热火">
-    <title>Miami Heat at Los Angeles Lakers 已结束（NBA）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261103150000 +0800" stop="20261103154500 +0800" channel="赛程预告">
-    <title>Dota2：Db vs YG（EPL World SEA S19）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261103154500 +0800" stop="20261103170000 +0800" channel="赛程预告">
+  <programme start="20261103154500 +0800" stop="20261103180000 +0800" channel="赛程预告">
     <title>亚冠精英：纽喷气机 vs 上海海港；纽卡斯尔喷气机 vs 上海海港</title>
     <category>体育</category>
   </programme>
-  <programme start="20261103170000 +0800" stop="20261103180000 +0800" channel="赛程预告">
-    <title>Dota2：oveA vs NH（EPC Season 3）</title>
+  <programme start="20261103180000 +0800" stop="20261103201500 +0800" channel="赛程预告">
+    <title>亚冠精英：柏太阳神 vs 大田市民；全北现代 vs 柔佛新山；神户胜利船 vs 拉查武里</title>
     <category>体育</category>
   </programme>
-  <programme start="20261103180000 +0800" stop="20261103190000 +0800" channel="赛程预告">
-    <title>亚冠精英：柏太阳神 vs 大田市民；亚冠精英：全北现代 vs 柔佛新山；亚冠精英：神户胜利船 vs 拉查武里；Dota2：LEGION vs OG（EPL Masters III）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261103190000 +0800" stop="20261103200000 +0800" channel="赛程预告">
-    <title>Dota2：rfk vs LENS（FME S5）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261103200000 +0800" stop="20261103201500 +0800" channel="赛程预告">
-    <title>Dota2：angry vs oblood（EPC Season 3）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261103201500 +0800" stop="20261103210000 +0800" channel="赛程预告">
+  <programme start="20261103201500 +0800" stop="20261104000000 +0800" channel="赛程预告">
     <title>亚冠精英：曼谷港务 vs 北京国安；泰港 vs 北京国安；河内公安 vs 京都不死鸟</title>
     <category>体育</category>
   </programme>
-  <programme start="20261103210000 +0800" stop="20261103223000 +0800" channel="赛程预告">
-    <title>Dota2：Xipto vs PC（Asgard Championship S2）；Nemiga vs CHero（EPL Masters III）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261103223000 +0800" stop="20261103230000 +0800" channel="赛程预告">
-    <title>Dota2：Stray vs DAXAK（FME S5）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261103230000 +0800" stop="20261104000000 +0800" channel="赛程预告">
-    <title>Dota2：oblood vs RH（EPC Season 3）</title>
-    <category>体育</category>
-  </programme>
   <programme start="20261104000000 +0800" stop="20261104014500 +0800" channel="赛程预告">
-    <title>亚冠精英：德黑兰独立 vs 北方体育；Dota2：ICxI vs angry（Asgard Championship S2）；Dota2：HULI vs YeS（EPL Masters III）</title>
+    <title>亚冠精英：德黑兰独立 vs 北方体育</title>
     <category>体育</category>
   </programme>
-  <programme start="20261104014500 +0800" stop="20261104020000 +0800" channel="赛程预告">
+  <programme start="20261104014500 +0800" stop="20261104021500 +0800" channel="赛程预告">
     <title>欧冠：加拉塔萨 vs 斯图加特；顿涅茨克矿工 vs 葡萄牙体育；加拉塔萨雷 vs 斯图加特</title>
     <category>体育</category>
   </programme>
-  <programme start="20261104020000 +0800" stop="20261104021500 +0800" channel="赛程预告">
-    <title>Dota2：Hokori vs Synapse（EPC Season 3）；Cooman vs iLTW（FME S5）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261104021500 +0800" stop="20261104030000 +0800" channel="赛程预告">
+  <programme start="20261104021500 +0800" stop="20261104040000 +0800" channel="赛程预告">
     <title>亚冠精英：利雅得新月 vs 迪拜国民</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261104030000 +0800" stop="20261104040000 +0800" channel="赛程预告">
-    <title>Dota2：potn9k vs TTS（Asgard Championship S2）；NAVI vs GL（EPL Masters III）</title>
     <category>体育</category>
   </programme>
   <programme start="20261104040000 +0800" stop="20261104153000 +0800" channel="赛程预告">
@@ -143,56 +87,36 @@
     <title>足球：广东晨星创尔特 vs 江苏常晋</title>
     <category>体育</category>
   </programme>
-  <programme start="20261104180000 +0800" stop="20261104190000 +0800" channel="赛程预告">
-    <title>亚冠精英：浦项制铁 vs 大阪钢巴；亚冠精英：浦项铁人 vs 大阪钢巴；Dota2：PC vs ICxI（Asgard Championship S2）</title>
+  <programme start="20261104180000 +0800" stop="20261104193000 +0800" channel="赛程预告">
+    <title>亚冠精英：浦项制铁 vs 大阪钢巴；浦项铁人 vs 大阪钢巴</title>
     <category>体育</category>
   </programme>
-  <programme start="20261104190000 +0800" stop="20261104193000 +0800" channel="赛程预告">
-    <title>Dota2：LENS vs DAXAK（FME S5）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261104193000 +0800" stop="20261104200000 +0800" channel="赛程预告">
+  <programme start="20261104193000 +0800" stop="20261104201500 +0800" channel="赛程预告">
     <title>足球：武汉联镇 vs 吴川青年</title>
     <category>体育</category>
   </programme>
-  <programme start="20261104200000 +0800" stop="20261104201500 +0800" channel="赛程预告">
-    <title>Dota2：Xipto vs Synapse（EPC Season 3）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261104201500 +0800" stop="20261104210000 +0800" channel="赛程预告">
+  <programme start="20261104201500 +0800" stop="20261104223000 +0800" channel="赛程预告">
     <title>亚冠精英：布里兰 vs 鹿岛鹿角；武里南联 vs 鹿岛鹿角</title>
     <category>体育</category>
   </programme>
-  <programme start="20261104210000 +0800" stop="20261104223000 +0800" channel="赛程预告">
-    <title>Dota2：Z10 vs angry（Asgard Championship S2）</title>
-    <category>体育</category>
-  </programme>
   <programme start="20261104223000 +0800" stop="20261104230000 +0800" channel="赛程预告">
-    <title>足球：纳萨夫女足 vs 北京城建女足；Dota2：rfk vs iLTW（FME S5）</title>
+    <title>足球：纳萨夫女足 vs 北京城建女足</title>
     <category>体育</category>
   </programme>
   <programme start="20261104230000 +0800" stop="20261104233000 +0800" channel="赛程预告">
     <title>足球：日本女足U17 vs 朝鲜女足U17</title>
     <category>体育</category>
   </programme>
-  <programme start="20261104233000 +0800" stop="20261105000000 +0800" channel="赛程预告">
+  <programme start="20261104233000 +0800" stop="20261105014500 +0800" channel="赛程预告">
     <title>欧联杯：雷恩 vs 奥林匹亚科斯</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261105000000 +0800" stop="20261105014500 +0800" channel="赛程预告">
-    <title>Dota2：Spirit.A vs Xipto（Asgard Championship S2）</title>
     <category>体育</category>
   </programme>
   <programme start="20261105014500 +0800" stop="20261105020000 +0800" channel="赛程预告">
     <title>欧冠：费内巴切 vs 利物浦；雅典AEK vs 皇家马德里</title>
     <category>体育</category>
   </programme>
-  <programme start="20261105020000 +0800" stop="20261105030000 +0800" channel="赛程预告">
-    <title>足球：巴西女足U17 vs 尼日利亚女足U17；Dota2：Cooman vs Stray（FME S5）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261105030000 +0800" stop="20261105040000 +0800" channel="赛程预告">
-    <title>Dota2：Allied vs Lynx（Asgard Championship S2）</title>
+  <programme start="20261105020000 +0800" stop="20261105040000 +0800" channel="赛程预告">
+    <title>足球：巴西女足U17 vs 尼日利亚女足U17</title>
     <category>体育</category>
   </programme>
   <programme start="20261105040000 +0800" stop="20261105080000 +0800" channel="赛程预告">
