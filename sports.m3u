@@ -69,29 +69,31 @@ http://192.168.5.35:44635/play/4125072c0fe7ae532e0e9c1cecbbf55e4242c4ba
 http://192.168.5.35:44635/play/6d064c0b3c8263c78f047b591814a009372e2541
 #EXTINF:-1 tvg-id="东孟加拉 vs 锡卜" tvg-chno="1201" tvg-name="东孟加拉 vs 锡卜" tvg-group="足球" group-title="足球",东孟加拉 vs 锡卜·咪咕直播
 http://192.168.5.35:35456/jrs/%E4%B8%9C%E5%AD%9F%E5%8A%A0%E6%8B%89%20vs%20%E9%94%A1%E5%8D%9C%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD
-#EXTINF:-1 tvg-id="扎达拉洛维 vs 斯拉文" tvg-chno="1202" tvg-name="扎达拉洛维 vs 斯拉文" tvg-group="足球" group-title="足球",扎达拉洛维 vs 斯拉文
-http://192.168.5.35:44635/play/05cad7bec5e24b2f6d818ca44fef3be6d0373dcd
+#EXTINF:-1 tvg-id="东孟加拉 vs 锡卜" tvg-chno="1202" tvg-name="东孟加拉 vs 锡卜" tvg-group="足球" group-title="足球",东孟加拉 vs 锡卜·聚合备用
+http://192.168.5.35:44635/play/233841df9c58430c8fef7b60e55bb193bb67270c
 #EXTINF:-1 tvg-id="扎达拉洛维 vs 斯拉文" tvg-chno="1203" tvg-name="扎达拉洛维 vs 斯拉文" tvg-group="足球" group-title="足球",扎达拉洛维 vs 斯拉文
+http://192.168.5.35:44635/play/05cad7bec5e24b2f6d818ca44fef3be6d0373dcd
+#EXTINF:-1 tvg-id="扎达拉洛维 vs 斯拉文" tvg-chno="1204" tvg-name="扎达拉洛维 vs 斯拉文" tvg-group="足球" group-title="足球",扎达拉洛维 vs 斯拉文
 http://192.168.5.35:44635/play/d748c08c23090e97fa556d2c7ff8438b111ddc27
-#EXTINF:-1 tvg-id="曼彻斯特联U19 vs 罗马U19" tvg-chno="1204" tvg-name="曼彻斯特联U19 vs 罗马U19" tvg-group="足球" group-title="足球",曼彻斯特联U19 vs 罗马U19
-http://192.168.5.35:44635/play/87607b3c04683354b2a13b3ecdeb6ac1537ede9f
 #EXTINF:-1 tvg-id="曼彻斯特联U19 vs 罗马U19" tvg-chno="1205" tvg-name="曼彻斯特联U19 vs 罗马U19" tvg-group="足球" group-title="足球",曼彻斯特联U19 vs 罗马U19
+http://192.168.5.35:44635/play/87607b3c04683354b2a13b3ecdeb6ac1537ede9f
+#EXTINF:-1 tvg-id="曼彻斯特联U19 vs 罗马U19" tvg-chno="1206" tvg-name="曼彻斯特联U19 vs 罗马U19" tvg-group="足球" group-title="足球",曼彻斯特联U19 vs 罗马U19
 http://192.168.5.35:44635/play/ca70c3af3e24d5171f77f7ca3307ff69f5fcac7b
-#EXTINF:-1 tvg-id="棉兰 vs 佩西加雅加达" tvg-chno="1206" tvg-name="棉兰 vs 佩西加雅加达" tvg-group="足球" group-title="足球",棉兰 vs 佩西加雅加达
-http://192.168.5.35:44635/play/507eafabf46148b5e7c6881ecbd0116cf739eb8c
 #EXTINF:-1 tvg-id="棉兰 vs 佩西加雅加达" tvg-chno="1207" tvg-name="棉兰 vs 佩西加雅加达" tvg-group="足球" group-title="足球",棉兰 vs 佩西加雅加达
+http://192.168.5.35:44635/play/507eafabf46148b5e7c6881ecbd0116cf739eb8c
+#EXTINF:-1 tvg-id="棉兰 vs 佩西加雅加达" tvg-chno="1208" tvg-name="棉兰 vs 佩西加雅加达" tvg-group="足球" group-title="足球",棉兰 vs 佩西加雅加达
 http://192.168.5.35:44635/play/4c2e7e5a75c4f3b49729aa226ac6f58f37a70bfb
-#EXTINF:-1 tvg-id="河内公安 vs 京都不死鸟" tvg-chno="1208" tvg-name="河内公安 vs 京都不死鸟" tvg-group="足球" group-title="足球",河内公安 vs 京都不死鸟·咪咕直播
+#EXTINF:-1 tvg-id="河内公安 vs 京都不死鸟" tvg-chno="1209" tvg-name="河内公安 vs 京都不死鸟" tvg-group="足球" group-title="足球",河内公安 vs 京都不死鸟·咪咕直播
 http://192.168.5.35:35456/jrs/%E6%B2%B3%E5%86%85%E5%85%AC%E5%AE%89%20vs%20%E4%BA%AC%E9%83%BD%E4%B8%8D%E6%AD%BB%E9%B8%9F%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD
-#EXTINF:-1 tvg-id="河内公安 vs 京都不死鸟" tvg-chno="1209" tvg-name="河内公安 vs 京都不死鸟" tvg-group="足球" group-title="足球",河内公安 vs 京都不死鸟·聚合备用
+#EXTINF:-1 tvg-id="河内公安 vs 京都不死鸟" tvg-chno="1210" tvg-name="河内公安 vs 京都不死鸟" tvg-group="足球" group-title="足球",河内公安 vs 京都不死鸟·聚合备用
 http://192.168.5.35:44635/play/a68b068c8727575cae63b0740ade609a833fcb00
-#EXTINF:-1 tvg-id="泰港 vs 北京国安" tvg-chno="1210" tvg-name="泰港 vs 北京国安" tvg-group="足球" group-title="足球",泰港 vs 北京国安·咪咕直播
+#EXTINF:-1 tvg-id="泰港 vs 北京国安" tvg-chno="1211" tvg-name="泰港 vs 北京国安" tvg-group="足球" group-title="足球",泰港 vs 北京国安·咪咕直播
 http://192.168.5.35:35456/jrs/%E6%B3%B0%E6%B8%AF%20vs%20%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD
-#EXTINF:-1 tvg-id="泰港 vs 北京国安" tvg-chno="1211" tvg-name="泰港 vs 北京国安" tvg-group="足球" group-title="足球",泰港 vs 北京国安·聚合备用
+#EXTINF:-1 tvg-id="泰港 vs 北京国安" tvg-chno="1212" tvg-name="泰港 vs 北京国安" tvg-group="足球" group-title="足球",泰港 vs 北京国安·聚合备用
 http://192.168.5.35:44635/play/930aaa334a52307c822bbabcc56dd367d1325e2c
-#EXTINF:-1 tvg-id="达马克 vs 阿科多" tvg-chno="1212" tvg-name="达马克 vs 阿科多" tvg-group="足球" group-title="足球",达马克 vs 阿科多
-http://192.168.5.35:44635/play/9b23873e8e34af895e68a61f17cb47766efb8696
 #EXTINF:-1 tvg-id="达马克 vs 阿科多" tvg-chno="1213" tvg-name="达马克 vs 阿科多" tvg-group="足球" group-title="足球",达马克 vs 阿科多
+http://192.168.5.35:44635/play/9b23873e8e34af895e68a61f17cb47766efb8696
+#EXTINF:-1 tvg-id="达马克 vs 阿科多" tvg-chno="1214" tvg-name="达马克 vs 阿科多" tvg-group="足球" group-title="足球",达马克 vs 阿科多
 http://192.168.5.35:44635/play/37a9eeb1cd9cb67fcee6ec6232ab63fb5e819a49
 #EXTINF:-1 tvg-id="NFL·Network" tvg-chno="1301" tvg-name="NFL·Network" tvg-group="综合体育" group-title="综合体育",NFL·Network
 http://198.58.104.90:8989/nfl/index.m3u8
@@ -105,15 +107,13 @@ http://198.58.104.90:8989/nhl/index.m3u8
 http://198.58.104.90:8989/ballysportssouth/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1306" tvg-name="ESPN" tvg-group="综合体育" group-title="综合体育",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1307" tvg-name="Tennis Channel" tvg-group="综合体育" group-title="综合体育",Tennis Channel
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1308" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1307" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1309" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1308" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1310" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1309" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1311" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1310" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
