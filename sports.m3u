@@ -22,41 +22,61 @@ http://198.58.104.90:8989/nba/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1103" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="骑士 vs 雷霆" tvg-chno="1104" tvg-name="骑士 vs 雷霆" tvg-group="篮球" group-title="篮球",骑士 vs 雷霆·腾讯直播
-https://hlsz.yjjcfw.com/live/10022600158.m3u8?expire=1793685723&sign=94d4b83b90fd31c6b314311cd1c567eb
+https://hlsz.yjjcfw.com/live/10022600158.m3u8?expire=1793686333&sign=912e8c3cc491d48430d1b55bf0fb9e72
 #EXTINF:-1 tvg-id="骑士 vs 雷霆" tvg-chno="1105" tvg-name="骑士 vs 雷霆" tvg-group="篮球" group-title="篮球",骑士 vs 雷霆·咪咕直播
-https://hlsz.yjjcfw.com/live/00588330.m3u8?expire=1793685723&sign=9e74e4ca56f01944f6ebf55e3fddb4ad
+https://hlsz.yjjcfw.com/live/00588330.m3u8?expire=1793686333&sign=c5ed05ba8f2b8c56ca9f86d40e85298e
 #EXTINF:-1 tvg-id="黄蜂 vs 活塞" tvg-chno="1106" tvg-name="黄蜂 vs 活塞" tvg-group="篮球" group-title="篮球",黄蜂 vs 活塞·腾讯直播
-https://txycdn3.video.qq.com/1397702402.m3u8?time=1793671327&cdn=txycdn&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkey_AQQgIFaAFCIWXalsoXgNWhW7XMQe8xrgfM4xTNpBZfGC2uW5EDO1CfAQLfsUrjOWlOw0u0YBcItZOCLFmLv4fVNKwkvTz4mRHn2Tjd8jnl7p963MRExRRNo5d-73DhUTPTgI55UZ3ltSlW4GkVV72L1bO0fH2tuKjDnaZnaBuaic7lCNxbwNXOAwfkcecgNAbqi8n4ouPQvHA1ZRVsfcJMN8vt7jNlkHbvCm2Iv2h0i9QjsDNAyhDbYwqRlwDMDJgQJTHSkhrTnRo5SVk6_png8cHkGwnM56hJGf7HpJ8gdwBizBvh87XlD72nA3QS0oHx8yz7PcrmBcCtRPcGU1n0357YbwgtfekS-6rs2ESvASu642Bxc2Li7tztQIQN9s2KlTxkEORsQ_VEn4co_lWDec3abG7C9rOi9UJIOSAXDVgyz1j7pfgfbd9-0vpuXPx9kcmcLWNPZICcRqVdOFqaz3IWhdUhTaOZgdCNi8PJAunnaDUI2gKfkiF5lCYXZzFnlt4uEFeXnLwgbOP2oAS_Hv4UQKMtMD07oSt6hl7wi93Ognvq4U&drmtype=0
+https://txycdn6.video.qq.com/1397702402.m3u8?time=1793671937&cdn=txycdn&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkey_AQQgIKSc799T8I3AofwrbohFDVLmWNOCftfEj-vGemPQJ2KzEFa93eNDAba0foG029JrwxUBcP4n4Ft5akTa2mwKE7BLfoGbxDcB_JC4ccyfubT0vu6zQBQ4mm4CPK_EFBJKKXfrzu1R1IBoOUTvdiQjs_Hr4A_8t2NZsHhKYvwUtoVheoJZFq2K7Iwfii_2UWSzu_tn3m8DmFCf7VAuuk7SZPZdqEc8kpLzq9HWlJb9XJZ21__adtlA8GCN_qDBvVnSO7O-jxSbksQGT_Kk7ialR3ZT1bk-EawrAzM_pKREz3k85du7FZcxMz8QhElsxNqlyl-aue2c8skGwDYEinYRNSqDBRvP7DhlEqK2KIAvsSrpCLdbdISAfHNJpA1QKs9XR2UDm1SOAwz-yR1JymAV1hoNZYjtrlWlK38cNkghPE6eDo4UlQpCgUp-ELv00Gdr6jFEpLmZNIn1IY7e4DaFdD-xF2SRtyXpOdtB6XCREP23dxnnlndHITSw2_wCzvz6yoRfY6bbUIbDkA6bDhUZ4qUe6cruY4uZjKF12bO1_RluIYd4&drmtype=0
 #EXTINF:-1 tvg-id="黄蜂 vs 活塞" tvg-chno="1107" tvg-name="黄蜂 vs 活塞" tvg-group="篮球" group-title="篮球",黄蜂 vs 活塞·咪咕直播
-https://hlsz.yjjcfw.com/live/00588334.m3u8?expire=1793685727&sign=dcd8662a74b8f8699cf97d722e204cc8
+https://hlsz.yjjcfw.com/live/00588334.m3u8?expire=1793686337&sign=ed5dda82e1e4afd71e3b4bdc542b1878
 #EXTINF:-1 tvg-id="步行者 vs 老鹰" tvg-chno="1108" tvg-name="步行者 vs 老鹰" tvg-group="篮球" group-title="篮球",步行者 vs 老鹰·腾讯直播
-https://hlsz.yjjcfw.com/live/10022600160.m3u8?expire=1793685729&sign=82e65827e740d694005beafc45377638
+https://hlsz.yjjcfw.com/live/10022600160.m3u8?expire=1793686338&sign=ec197f971d6325a9e624686ffcaf1a1b
 #EXTINF:-1 tvg-id="步行者 vs 老鹰" tvg-chno="1109" tvg-name="步行者 vs 老鹰" tvg-group="篮球" group-title="篮球",步行者 vs 老鹰·咪咕直播
-https://hlsz.yjjcfw.com/live/00588331.m3u8?expire=1793685729&sign=14f6e6a208a1da6cbd5dd871881fe26e
+https://hlsz.yjjcfw.com/live/00588331.m3u8?expire=1793686339&sign=a7959d2ab5218e9f68fdeb83ec94c091
 #EXTINF:-1 tvg-id="尼克斯 vs 篮网" tvg-chno="1110" tvg-name="尼克斯 vs 篮网" tvg-group="篮球" group-title="篮球",尼克斯 vs 篮网·腾讯直播
-https://hlsz.yjjcfw.com/live/10022600161.m3u8?expire=1793685731&sign=7cc8895b2dc2374ed305334c891787b9
+https://hlsz.yjjcfw.com/live/10022600161.m3u8?expire=1793686340&sign=69a529bbf2f2e0689432214a9888b621
 #EXTINF:-1 tvg-id="尼克斯 vs 篮网" tvg-chno="1111" tvg-name="尼克斯 vs 篮网" tvg-group="篮球" group-title="篮球",尼克斯 vs 篮网·咪咕直播
-https://hlsz.yjjcfw.com/live/00588332.m3u8?expire=1793685731&sign=f50314140ad891efa2ebbc3751b83b4b
+https://hlsz.yjjcfw.com/live/00588332.m3u8?expire=1793686341&sign=d3856b0b00ab74c9414530b90bf6c04b
 #EXTINF:-1 tvg-id="魔术 vs 奇才" tvg-chno="1112" tvg-name="魔术 vs 奇才" tvg-group="篮球" group-title="篮球",魔术 vs 奇才·腾讯直播
-https://hlsz.yjjcfw.com/live/10022600162.m3u8?expire=1793685733&sign=066125d82970a61c759bc8d2a7ea00b2
+https://hlsz.yjjcfw.com/live/10022600162.m3u8?expire=1793686342&sign=800932799f3fad228952a7398f695c24
 #EXTINF:-1 tvg-id="魔术 vs 奇才" tvg-chno="1113" tvg-name="魔术 vs 奇才" tvg-group="篮球" group-title="篮球",魔术 vs 奇才·咪咕直播
-https://hlsz.yjjcfw.com/live/00588333.m3u8?expire=1793685733&sign=4a07fe66971493f82d53b3b1768c12d4
+https://hlsz.yjjcfw.com/live/00588333.m3u8?expire=1793686343&sign=9651c80dfd641526cfb2b00485e9e54c
 #EXTINF:-1 tvg-id="76人 vs 公牛" tvg-chno="1114" tvg-name="76人 vs 公牛" tvg-group="篮球" group-title="篮球",76人 vs 公牛·腾讯直播
-https://hlsz.yjjcfw.com/live/10022600163.m3u8?expire=1793685735&sign=5a2da28a030f52357bbac98a39a985b3
+https://hlsz.yjjcfw.com/live/10022600163.m3u8?expire=1793686344&sign=69aeb7493374798f537b97f8f1c5213c
 #EXTINF:-1 tvg-id="76人 vs 公牛" tvg-chno="1115" tvg-name="76人 vs 公牛" tvg-group="篮球" group-title="篮球",76人 vs 公牛·咪咕直播
-https://hlsz.yjjcfw.com/live/00588335.m3u8?expire=1793685735&sign=55c74738fa448a0929d483ccd66fc6a5
+https://hlsz.yjjcfw.com/live/00588335.m3u8?expire=1793686345&sign=fa0c9c533b9ddbe27b1ee9285af90c6e
 #EXTINF:-1 tvg-id="独行侠 vs 国王" tvg-chno="1116" tvg-name="独行侠 vs 国王" tvg-group="篮球" group-title="篮球",独行侠 vs 国王·腾讯直播
-https://hlsz.yjjcfw.com/live/10022600164.m3u8?expire=1793685737&sign=03b325ab27a9b995c15c7e6d2e442293
+https://hlsz.yjjcfw.com/live/10022600164.m3u8?expire=1793686351&sign=9e0d8400acaef300500c690281bacd00
 #EXTINF:-1 tvg-id="独行侠 vs 国王" tvg-chno="1117" tvg-name="独行侠 vs 国王" tvg-group="篮球" group-title="篮球",独行侠 vs 国王·咪咕直播
-https://hlsz.yjjcfw.com/live/00588336.m3u8?expire=1793685737&sign=36558b1a0163a096e796782d1930c0df
+https://hlsz.yjjcfw.com/live/00588336.m3u8?expire=1793686351&sign=65b72197c01e4f5f80b14510943237ad
 #EXTINF:-1 tvg-id="灰熊 vs 鹈鹕" tvg-chno="1118" tvg-name="灰熊 vs 鹈鹕" tvg-group="篮球" group-title="篮球",灰熊 vs 鹈鹕·腾讯直播
-https://hlsz.yjjcfw.com/live/10022600165.m3u8?expire=1793685738&sign=99c540dd77bcd569f6b5140490f4a289
+https://hlsz.yjjcfw.com/live/10022600165.m3u8?expire=1793686353&sign=cd944b807b099eea60735311f5b57cbc
 #EXTINF:-1 tvg-id="灰熊 vs 鹈鹕" tvg-chno="1119" tvg-name="灰熊 vs 鹈鹕" tvg-group="篮球" group-title="篮球",灰熊 vs 鹈鹕·咪咕直播
-https://hlsz.yjjcfw.com/live/00588338.m3u8?expire=1793685739&sign=3a1e87f9deb4a0eff8e830ecf8b9a486
-#EXTINF:-1 tvg-id="北卡罗莱纳大学 vs 西卡罗来纳大学" tvg-chno="1120" tvg-name="北卡罗莱纳大学 vs 西卡罗来纳大学" tvg-group="篮球" group-title="篮球",北卡罗莱纳大学 vs 西卡罗来纳大学
-http://192.168.5.35:44635/play/23a08780765811a689d0887cb590cc381f5f9cee
+https://hlsz.yjjcfw.com/live/00588338.m3u8?expire=1793686353&sign=0248ae0931ee9633a960db7dbc86b016
+#EXTINF:-1 tvg-id="克莱姆森大学 vs 斯泰森大学" tvg-chno="1120" tvg-name="克莱姆森大学 vs 斯泰森大学" tvg-group="篮球" group-title="篮球",克莱姆森大学 vs 斯泰森大学
+http://192.168.5.35:44635/play/4d097fc55ac9524ff393d2ebf96f9d1664bece05
 #EXTINF:-1 tvg-id="北卡罗莱纳大学 vs 西卡罗来纳大学" tvg-chno="1121" tvg-name="北卡罗莱纳大学 vs 西卡罗来纳大学" tvg-group="篮球" group-title="篮球",北卡罗莱纳大学 vs 西卡罗来纳大学
+http://192.168.5.35:44635/play/23a08780765811a689d0887cb590cc381f5f9cee
+#EXTINF:-1 tvg-id="北卡罗莱纳大学 vs 西卡罗来纳大学" tvg-chno="1122" tvg-name="北卡罗莱纳大学 vs 西卡罗来纳大学" tvg-group="篮球" group-title="篮球",北卡罗莱纳大学 vs 西卡罗来纳大学
 http://192.168.5.35:44635/play/d32fd877156c9ed5d67d690e729a30c6104144de
+#EXTINF:-1 tvg-id="印第安纳大学 vs 东伊利诺大学" tvg-chno="1123" tvg-name="印第安纳大学 vs 东伊利诺大学" tvg-group="篮球" group-title="篮球",印第安纳大学 vs 东伊利诺大学
+http://192.168.5.35:44635/play/acf3b6b3bcc83f7cd188010999e79c5718fd99a5
+#EXTINF:-1 tvg-id="印第安纳州立大学 vs 夏洛特大学" tvg-chno="1124" tvg-name="印第安纳州立大学 vs 夏洛特大学" tvg-group="篮球" group-title="篮球",印第安纳州立大学 vs 夏洛特大学
+http://192.168.5.35:44635/play/172310b379ff89f5d647203b0dede644ddb1fc4b
+#EXTINF:-1 tvg-id="圣博纳旺蒂大学 vs 杨斯镇州立" tvg-chno="1125" tvg-name="圣博纳旺蒂大学 vs 杨斯镇州立" tvg-group="篮球" group-title="篮球",圣博纳旺蒂大学 vs 杨斯镇州立
+http://192.168.5.35:44635/play/6c64e4e011a6eb4a7de9643ac00a9ab50f7ed32e
+#EXTINF:-1 tvg-id="密歇根州立大学 vs 昆尼皮亚克大学" tvg-chno="1126" tvg-name="密歇根州立大学 vs 昆尼皮亚克大学" tvg-group="篮球" group-title="篮球",密歇根州立大学 vs 昆尼皮亚克大学
+http://192.168.5.35:44635/play/9560a2845dd3cc79bc7aa20534e1c3e8aa9770c6
+#EXTINF:-1 tvg-id="巴特勒大学 vs 拉法叶学院" tvg-chno="1127" tvg-name="巴特勒大学 vs 拉法叶学院" tvg-group="篮球" group-title="篮球",巴特勒大学 vs 拉法叶学院
+http://192.168.5.35:44635/play/8eacb1e0712a52cd68ad9c55c3ffe8038d1855ad
+#EXTINF:-1 tvg-id="欧道明大学 vs 西密西根大学" tvg-chno="1128" tvg-name="欧道明大学 vs 西密西根大学" tvg-group="篮球" group-title="篮球",欧道明大学 vs 西密西根大学
+http://192.168.5.35:44635/play/81dfeb42341a00b02a3d89dddf715945127e40f4
+#EXTINF:-1 tvg-id="肯尼索州立 vs 中途大学" tvg-chno="1129" tvg-name="肯尼索州立 vs 中途大学" tvg-group="篮球" group-title="篮球",肯尼索州立 vs 中途大学
+http://192.168.5.35:44635/play/ce1b67fcb7cd38a23e7f421255dc0b917c938641
+#EXTINF:-1 tvg-id="里奇蒙德大学 vs 北卡阿什维尔分校" tvg-chno="1130" tvg-name="里奇蒙德大学 vs 北卡阿什维尔分校" tvg-group="篮球" group-title="篮球",里奇蒙德大学 vs 北卡阿什维尔分校
+http://192.168.5.35:44635/play/5e3ccd180a7c567f0bb8849e8354aaf8400e39c7
+#EXTINF:-1 tvg-id="雪城大学 vs 纽黑文大学" tvg-chno="1131" tvg-name="雪城大学 vs 纽黑文大学" tvg-group="篮球" group-title="篮球",雪城大学 vs 纽黑文大学
+http://192.168.5.35:44635/play/8d4e2494adcfd42e7b091039a59a16d322321241
 #EXTINF:-1 tvg-id="RB大宫松鼠 vs 磐城FC" tvg-chno="1201" tvg-name="RB大宫松鼠 vs 磐城FC" tvg-group="足球" group-title="足球",RB大宫松鼠 vs 磐城FC
 http://192.168.5.35:44635/play/010d0636309c2edfb3ebe16e267f3d609b81ec15
 #EXTINF:-1 tvg-id="RB大宫松鼠 vs 磐城FC" tvg-chno="1202" tvg-name="RB大宫松鼠 vs 磐城FC" tvg-group="足球" group-title="足球",RB大宫松鼠 vs 磐城FC
@@ -105,25 +125,29 @@ http://192.168.5.35:44635/play/e22e6435aa9862325e886ccfe9ffe70154d6d39b
 http://192.168.5.35:44635/play/a878e700eb9136e3a2088a4c11a3d94b513ed81b
 #EXTINF:-1 tvg-id="湘南丽海 vs 鸟栖砂岩" tvg-chno="1224" tvg-name="湘南丽海 vs 鸟栖砂岩" tvg-group="足球" group-title="足球",湘南丽海 vs 鸟栖砂岩
 http://192.168.5.35:44635/play/66dad25abd50d7d932b3a7226c5f7864947b74de
-#EXTINF:-1 tvg-id="莱昂女足 vs 圣路易斯竞技女足" tvg-chno="1225" tvg-name="莱昂女足 vs 圣路易斯竞技女足" tvg-group="足球" group-title="足球",莱昂女足 vs 圣路易斯竞技女足
+#EXTINF:-1 tvg-id="甲府风林 vs 新潟天鹅" tvg-chno="1225" tvg-name="甲府风林 vs 新潟天鹅" tvg-group="足球" group-title="足球",甲府风林 vs 新潟天鹅
+http://192.168.5.35:44635/play/6e7059aac4c64e3d494cda3f27a0ebe9f2adb269
+#EXTINF:-1 tvg-id="甲府风林 vs 新潟天鹅" tvg-chno="1226" tvg-name="甲府风林 vs 新潟天鹅" tvg-group="足球" group-title="足球",甲府风林 vs 新潟天鹅
+http://192.168.5.35:44635/play/b7368ccab16797fa901c3cbe25445457903a85b3
+#EXTINF:-1 tvg-id="莱昂女足 vs 圣路易斯竞技女足" tvg-chno="1227" tvg-name="莱昂女足 vs 圣路易斯竞技女足" tvg-group="足球" group-title="足球",莱昂女足 vs 圣路易斯竞技女足
 http://192.168.5.35:44635/play/434b693d453e364983cb9bfbc80847ca77aed9c7
-#EXTINF:-1 tvg-id="莱昂女足 vs 圣路易斯竞技女足" tvg-chno="1226" tvg-name="莱昂女足 vs 圣路易斯竞技女足" tvg-group="足球" group-title="足球",莱昂女足 vs 圣路易斯竞技女足
+#EXTINF:-1 tvg-id="莱昂女足 vs 圣路易斯竞技女足" tvg-chno="1228" tvg-name="莱昂女足 vs 圣路易斯竞技女足" tvg-group="足球" group-title="足球",莱昂女足 vs 圣路易斯竞技女足
 http://192.168.5.35:44635/play/692578a931fa62b20ca8098b7e111a4a14428029
-#EXTINF:-1 tvg-id="藤枝MYFC vs 磐田喜悦" tvg-chno="1227" tvg-name="藤枝MYFC vs 磐田喜悦" tvg-group="足球" group-title="足球",藤枝MYFC vs 磐田喜悦
+#EXTINF:-1 tvg-id="藤枝MYFC vs 磐田喜悦" tvg-chno="1229" tvg-name="藤枝MYFC vs 磐田喜悦" tvg-group="足球" group-title="足球",藤枝MYFC vs 磐田喜悦
 http://192.168.5.35:44635/play/0084d127635a1ff631d71cbb9b1194e3565be1ab
-#EXTINF:-1 tvg-id="藤枝MYFC vs 磐田喜悦" tvg-chno="1228" tvg-name="藤枝MYFC vs 磐田喜悦" tvg-group="足球" group-title="足球",藤枝MYFC vs 磐田喜悦
+#EXTINF:-1 tvg-id="藤枝MYFC vs 磐田喜悦" tvg-chno="1230" tvg-name="藤枝MYFC vs 磐田喜悦" tvg-group="足球" group-title="足球",藤枝MYFC vs 磐田喜悦
 http://192.168.5.35:44635/play/1c7cbe8f39ccab841afc351faa78b84b33f0cc8e
-#EXTINF:-1 tvg-id="贝尔格莱德游击队U15 vs 浙江U15" tvg-chno="1229" tvg-name="贝尔格莱德游击队U15 vs 浙江U15" tvg-group="足球" group-title="足球",贝尔格莱德游击队U15 vs 浙江U15
+#EXTINF:-1 tvg-id="贝尔格莱德游击队U15 vs 浙江U15" tvg-chno="1231" tvg-name="贝尔格莱德游击队U15 vs 浙江U15" tvg-group="足球" group-title="足球",贝尔格莱德游击队U15 vs 浙江U15
 http://192.168.5.35:44635/play/48a5ff4b661ecfb3ac1e9b0575e1ee49044dc377
-#EXTINF:-1 tvg-id="贝尔格莱德游击队U15 vs 浙江U15" tvg-chno="1230" tvg-name="贝尔格莱德游击队U15 vs 浙江U15" tvg-group="足球" group-title="足球",贝尔格莱德游击队U15 vs 浙江U15
+#EXTINF:-1 tvg-id="贝尔格莱德游击队U15 vs 浙江U15" tvg-chno="1232" tvg-name="贝尔格莱德游击队U15 vs 浙江U15" tvg-group="足球" group-title="足球",贝尔格莱德游击队U15 vs 浙江U15
 http://192.168.5.35:44635/play/615b000f2070d2339418b6781602035f9a2cb733
-#EXTINF:-1 tvg-id="金斯敦水房 vs 金斯敦骑兵" tvg-chno="1231" tvg-name="金斯敦水房 vs 金斯敦骑兵" tvg-group="足球" group-title="足球",金斯敦水房 vs 金斯敦骑兵
+#EXTINF:-1 tvg-id="金斯敦水房 vs 金斯敦骑兵" tvg-chno="1233" tvg-name="金斯敦水房 vs 金斯敦骑兵" tvg-group="足球" group-title="足球",金斯敦水房 vs 金斯敦骑兵
 http://192.168.5.35:44635/play/38ba4b0b8f47e1f85c12f2e5cc6026f2564b6b5e
-#EXTINF:-1 tvg-id="金斯敦水房 vs 金斯敦骑兵" tvg-chno="1232" tvg-name="金斯敦水房 vs 金斯敦骑兵" tvg-group="足球" group-title="足球",金斯敦水房 vs 金斯敦骑兵
+#EXTINF:-1 tvg-id="金斯敦水房 vs 金斯敦骑兵" tvg-chno="1234" tvg-name="金斯敦水房 vs 金斯敦骑兵" tvg-group="足球" group-title="足球",金斯敦水房 vs 金斯敦骑兵
 http://192.168.5.35:44635/play/ce6b7a979abcd5ad427f86150b99462e50a22765
-#EXTINF:-1 tvg-id="门多萨独立 vs 班菲尔德" tvg-chno="1233" tvg-name="门多萨独立 vs 班菲尔德" tvg-group="足球" group-title="足球",门多萨独立 vs 班菲尔德
+#EXTINF:-1 tvg-id="门多萨独立 vs 班菲尔德" tvg-chno="1235" tvg-name="门多萨独立 vs 班菲尔德" tvg-group="足球" group-title="足球",门多萨独立 vs 班菲尔德
 http://192.168.5.35:44635/play/adcc0e9008a8a6406abfdca12702e311929ca812
-#EXTINF:-1 tvg-id="门多萨独立 vs 班菲尔德" tvg-chno="1234" tvg-name="门多萨独立 vs 班菲尔德" tvg-group="足球" group-title="足球",门多萨独立 vs 班菲尔德
+#EXTINF:-1 tvg-id="门多萨独立 vs 班菲尔德" tvg-chno="1236" tvg-name="门多萨独立 vs 班菲尔德" tvg-group="足球" group-title="足球",门多萨独立 vs 班菲尔德
 http://192.168.5.35:44635/play/f827c79d4e7dcca21303e79e02bd0a68d7624233
 #EXTINF:-1 tvg-id="NFL·Network" tvg-chno="1301" tvg-name="NFL·Network" tvg-group="综合体育" group-title="综合体育",NFL·Network
 http://198.58.104.90:8989/nfl/index.m3u8
