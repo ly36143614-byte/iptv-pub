@@ -43,14 +43,14 @@ http://192.168.5.35:44635/play/f86bf8a490196849c9f2b160664697cc66823f23
 http://192.168.5.35:44635/play/83e8feb3b3525eb4fefc0003ad0917f1106500ad
 #EXTINF:-1 tvg-id="勇士 vs 太阳" tvg-chno="1114" tvg-name="勇士 vs 太阳" tvg-group="篮球" group-title="篮球",勇士 vs 太阳
 http://192.168.5.35:44635/play/5df3fff9e8c9c0931ca6b89795f5e6bed4b84891
-#EXTINF:-1 tvg-id="华盛顿大学 vs 科尔盖特大学" tvg-chno="1115" tvg-name="华盛顿大学 vs 科尔盖特大学" tvg-group="篮球" group-title="篮球",华盛顿大学 vs 科尔盖特大学
-http://192.168.5.35:44635/play/4bbca9fa52c79a7c627c075d26aee3bb0a675e92
-#EXTINF:-1 tvg-id="南犹他大学 vs n" tvg-chno="1116" tvg-name="南犹他大学 vs n" tvg-group="篮球" group-title="篮球",南犹他大学 vs n
+#EXTINF:-1 tvg-id="南犹他大学 vs n" tvg-chno="1115" tvg-name="南犹他大学 vs n" tvg-group="篮球" group-title="篮球",南犹他大学 vs n
 http://192.168.5.35:44635/play/e733ae88b0b755585d73e6cb7157a22ba56a9fb8
-#EXTINF:-1 tvg-id="夏威夷大学 vs 西雅图大学" tvg-chno="1117" tvg-name="夏威夷大学 vs 西雅图大学" tvg-group="篮球" group-title="篮球",夏威夷大学 vs 西雅图大学
+#EXTINF:-1 tvg-id="夏威夷大学 vs 西雅图大学" tvg-chno="1116" tvg-name="夏威夷大学 vs 西雅图大学" tvg-group="篮球" group-title="篮球",夏威夷大学 vs 西雅图大学
 http://192.168.5.35:44635/play/a9e74ebc00527aa07d551906cfea2777ea29465d
-#EXTINF:-1 tvg-id="奎松胡斯克尔 vs 比南拉古纳" tvg-chno="1118" tvg-name="奎松胡斯克尔 vs 比南拉古纳" tvg-group="篮球" group-title="篮球",奎松胡斯克尔 vs 比南拉古纳
+#EXTINF:-1 tvg-id="奎松胡斯克尔 vs 比南拉古纳" tvg-chno="1117" tvg-name="奎松胡斯克尔 vs 比南拉古纳" tvg-group="篮球" group-title="篮球",奎松胡斯克尔 vs 比南拉古纳
 http://192.168.5.35:44635/play/65c2287d69d1728412d3405622f47b2ea2ec5c36
+#EXTINF:-1 tvg-id="布拉干库亚斯 vs 圣胡安骑士" tvg-chno="1118" tvg-name="布拉干库亚斯 vs 圣胡安骑士" tvg-group="篮球" group-title="篮球",布拉干库亚斯 vs 圣胡安骑士
+http://192.168.5.35:44635/play/72aa446d919a309170dc49d3618a44676ab16229
 #EXTINF:-1 tvg-id="康仁福建 vs 崇德飞鹰" tvg-chno="1119" tvg-name="康仁福建 vs 崇德飞鹰" tvg-group="篮球" group-title="篮球",康仁福建 vs 崇德飞鹰
 http://192.168.5.35:44635/play/b8891b68010ff4a3aa8a736ad7be09c979ac7d0f
 #EXTINF:-1 tvg-id="快船 vs 猛龙" tvg-chno="1120" tvg-name="快船 vs 猛龙" tvg-group="篮球" group-title="篮球",快船 vs 猛龙
@@ -185,15 +185,13 @@ http://198.58.104.90:8989/nfl/index.m3u8
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NBC" tvg-chno="1355" tvg-name="NBC" tvg-group="体育综合" group-title="体育综合",NBC
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
-#EXTINF:-1 tvg-id="F1·Formula" tvg-chno="1356" tvg-name="F1·Formula" tvg-group="体育综合" group-title="体育综合",F1·Formula
-https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
-#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1357" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
+#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1356" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1358" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1357" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1359" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1358" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1360" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1359" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="AB vs OB" tvg-chno="1401" tvg-name="AB vs OB" tvg-group="DOTA2" group-title="DOTA2",AB vs OB
 http://192.168.5.35:44635/play/f04eec12347a28ef2305b04c0f31da6ed1f88864
