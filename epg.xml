@@ -56,6 +56,10 @@
     <title>NBA：黄蜂 vs 活塞</title>
     <category>体育</category>
   </programme>
+  <programme start="20261105080000 +0800" stop="20261105104012 +0800" channel="活塞">
+    <title>NBA：活塞 vs 76人</title>
+    <category>体育</category>
+  </programme>
   <programme start="20261103070000 +0800" stop="20261103080000 +0800" channel="赛程预告">
     <title>巴甲：巴甘蒂诺红牛 vs 桑托斯</title>
     <category>体育</category>
@@ -208,8 +212,12 @@
     <title>Dota2：Allied vs Lynx（Asgard Championship S2）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261105040000 +0800" stop="20261105060000 +0800" channel="赛程预告">
+  <programme start="20261105040000 +0800" stop="20261105080000 +0800" channel="赛程预告">
     <title>欧冠：多特蒙德 vs 皇家贝蒂斯；布拉格斯拉维亚 vs 阿森纳；RB莱比锡 vs 曼城；波尔图 vs 那不勒斯；朗斯 vs 科莫；维京 vs 沙巴巴库；埃因霍温 vs 布鲁日</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261105080000 +0800" stop="20261105100000 +0800" channel="赛程预告">
+    <title>NBA：活塞 vs 76人；奇才 vs 老鹰</title>
     <category>体育</category>
   </programme>
   <programme start="20261103080000 +0800" stop="20261103104012 +0800" channel="骑士 vs 雷霆">
