@@ -54,72 +54,44 @@
     <title>NBA：活塞 vs 76人</title>
     <category>体育</category>
   </programme>
-  <programme start="20261104120000 +0800" stop="20261104150000 +0800" channel="赛程预告">
-    <title>Dota2：YG vs Resp（EPL World SEA S19）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261104150000 +0800" stop="20261104153000 +0800" channel="赛程预告">
-    <title>Dota2：RBear vs Db（EPL World SEA S19）</title>
-    <category>体育</category>
-  </programme>
   <programme start="20261104153000 +0800" stop="20261104180000 +0800" channel="赛程预告">
     <title>足球：广东晨星创尔特 vs 江苏常晋</title>
     <category>体育</category>
   </programme>
-  <programme start="20261104180000 +0800" stop="20261104190000 +0800" channel="赛程预告">
-    <title>亚冠精英：浦项制铁 vs 大阪钢巴；亚冠精英：浦项铁人 vs 大阪钢巴；Dota2：ZENITH vs CD（EPL World SEA S19）；Dota2：PC vs ICxI（Asgard Championship S2）</title>
+  <programme start="20261104180000 +0800" stop="20261104193000 +0800" channel="赛程预告">
+    <title>亚冠精英：浦项制铁 vs 大阪钢巴；浦项铁人 vs 大阪钢巴</title>
     <category>体育</category>
   </programme>
-  <programme start="20261104190000 +0800" stop="20261104193000 +0800" channel="赛程预告">
-    <title>Dota2：YeS vs NAVI（EPL Masters III）；LENS vs DAXAK（FME S5）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261104193000 +0800" stop="20261104200000 +0800" channel="赛程预告">
+  <programme start="20261104193000 +0800" stop="20261104201500 +0800" channel="赛程预告">
     <title>足球：武汉联镇 vs 吴川青年</title>
     <category>体育</category>
   </programme>
-  <programme start="20261104200000 +0800" stop="20261104201500 +0800" channel="赛程预告">
-    <title>Dota2：Xipto vs Synapse（EPC Season 3）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261104201500 +0800" stop="20261104210000 +0800" channel="赛程预告">
+  <programme start="20261104201500 +0800" stop="20261104223000 +0800" channel="赛程预告">
     <title>亚冠精英：布里兰 vs 鹿岛鹿角；武里南联 vs 鹿岛鹿角</title>
     <category>体育</category>
   </programme>
-  <programme start="20261104210000 +0800" stop="20261104223000 +0800" channel="赛程预告">
-    <title>Dota2：Z10 vs angry（Asgard Championship S2）；GL vs OG（EPL Masters III）</title>
-    <category>体育</category>
-  </programme>
   <programme start="20261104223000 +0800" stop="20261104230000 +0800" channel="赛程预告">
-    <title>足球：纳萨夫女足 vs 北京城建女足；Dota2：rfk vs iLTW（FME S5）</title>
+    <title>足球：纳萨夫女足 vs 北京城建女足</title>
     <category>体育</category>
   </programme>
   <programme start="20261104230000 +0800" stop="20261104233000 +0800" channel="赛程预告">
     <title>足球：日本女足U17 vs 朝鲜女足U17</title>
     <category>体育</category>
   </programme>
-  <programme start="20261104233000 +0800" stop="20261105000000 +0800" channel="赛程预告">
+  <programme start="20261104233000 +0800" stop="20261105014500 +0800" channel="赛程预告">
     <title>欧罗巴：雷恩 vs 奥林匹亚；欧联杯：雷恩 vs 奥林匹亚科斯</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261105000000 +0800" stop="20261105014500 +0800" channel="赛程预告">
-    <title>Dota2：Spirit.A vs Xipto（Asgard Championship S2）；HULI vs CHero（EPL Masters III）</title>
     <category>体育</category>
   </programme>
   <programme start="20261105014500 +0800" stop="20261105020000 +0800" channel="赛程预告">
     <title>欧冠：费内巴切 vs 利物浦；雅典AEK vs 皇家马德里</title>
     <category>体育</category>
   </programme>
-  <programme start="20261105020000 +0800" stop="20261105030000 +0800" channel="赛程预告">
-    <title>足球：巴西女足U17 vs 尼日利亚女足U17；Dota2：Cooman vs Stray（FME S5）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261105030000 +0800" stop="20261105040000 +0800" channel="赛程预告">
-    <title>Dota2：Allied vs Lynx（Asgard Championship S2）</title>
+  <programme start="20261105020000 +0800" stop="20261105040000 +0800" channel="赛程预告">
+    <title>足球：巴西女足U17 vs 尼日利亚女足U17</title>
     <category>体育</category>
   </programme>
   <programme start="20261105040000 +0800" stop="20261105080000 +0800" channel="赛程预告">
-    <title>欧冠：莱红牛 vs 曼城；欧冠：波尔图 vs 那不勒斯；欧冠：埃因霍温 vs 布鲁日；欧冠：多特蒙德 vs 贝蒂斯；欧冠：维京 vs 萨巴赫；欧冠：朗斯 vs 科莫；欧冠：斯拉维亚 vs 阿森纳；英冠：布城 vs 伍尔弗；欧冠：RB莱比锡 vs 曼城；欧冠：多特蒙德 vs 皇家贝蒂斯；欧冠：布拉格斯拉维亚 vs 阿森纳；欧冠：维京 vs 沙巴巴库</title>
+    <title>欧冠：莱红牛 vs 曼城；欧冠：波尔图 vs 那不勒斯；欧冠：埃因霍温 vs 布鲁日；欧冠：多特蒙德 vs 贝蒂斯；欧冠：维京 vs 萨巴赫；欧冠：朗斯 vs 科莫；欧冠：斯拉维亚 vs 阿森纳；英冠：布城 vs 伍尔弗；欧冠：RB莱比锡 vs 曼城；欧冠：维京 vs 沙巴巴库；欧冠：多特蒙德 vs 皇家贝蒂斯；欧冠：布拉格斯拉维亚 vs 阿森纳</title>
     <category>体育</category>
   </programme>
   <programme start="20261105080000 +0800" stop="20261105083000 +0800" channel="赛程预告">
@@ -154,40 +126,16 @@
     <title>NBA：快船 vs 热火</title>
     <category>体育</category>
   </programme>
-  <programme start="20261105180000 +0800" stop="20261105190000 +0800" channel="赛程预告">
-    <title>亚冠二级：町田泽维亚 vs 上海申花；Dota2：angry vs Spirit.A（Asgard Championship S2）</title>
+  <programme start="20261105180000 +0800" stop="20261106014500 +0800" channel="赛程预告">
+    <title>亚冠二级：町田泽维亚 vs 上海申花</title>
     <category>体育</category>
   </programme>
-  <programme start="20261105190000 +0800" stop="20261105210000 +0800" channel="赛程预告">
-    <title>Dota2：rfk vs DAXAK（FME S5）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261105210000 +0800" stop="20261105223000 +0800" channel="赛程预告">
-    <title>Dota2：Lynx vs TTS（Asgard Championship S2）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261105223000 +0800" stop="20261106000000 +0800" channel="赛程预告">
-    <title>Dota2：LENS vs Cooman（FME S5）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261106000000 +0800" stop="20261106014500 +0800" channel="赛程预告">
-    <title>Dota2：Xipto vs Z10（Asgard Championship S2）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261106014500 +0800" stop="20261106020000 +0800" channel="赛程预告">
-    <title>亚特兰大：亚特兰大 vs 阿拉木图凯拉特；弗赖堡：特拉布宗 vs 弗赖堡；欧联杯：索菲亚列夫斯基 vs 乔治罗尼亚；欧联杯：利勒斯特罗姆 vs 比尔森胜利；欧联杯：奈梅亨 vs 奥莫尼亚；欧联杯：皇家社会 vs 里昂；欧联杯：布拉格斯巴达 vs 伯恩茅斯；欧联杯：AC米兰 vs 费伦茨瓦罗斯；欧联杯：安德莱赫特 vs 萨尔茨堡红牛；欧联杯：水晶宫 vs 霍芬海姆</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261106020000 +0800" stop="20261106030000 +0800" channel="赛程预告">
-    <title>Dota2：iLTW vs Stray（FME S5）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261106030000 +0800" stop="20261106040000 +0800" channel="赛程预告">
-    <title>Dota2：Synapse vs Allied（Asgard Championship S2）</title>
+  <programme start="20261106014500 +0800" stop="20261106040000 +0800" channel="赛程预告">
+    <title>亚特兰大：亚特兰大 vs 阿拉木图凯拉特；弗赖堡：特拉布宗 vs 弗赖堡；欧联杯：安德莱赫特 vs 萨尔茨堡红牛；欧联杯：AC米兰 vs 费伦茨瓦罗斯；欧联杯：水晶宫 vs 霍芬海姆；欧联杯：布拉格斯巴达 vs 伯恩茅斯；欧联杯：索菲亚列夫斯基 vs 乔治罗尼亚；欧联杯：皇家社会 vs 里昂；欧联杯：利勒斯特罗姆 vs 比尔森胜利；欧联杯：奈梅亨 vs 奥莫尼亚</title>
     <category>体育</category>
   </programme>
   <programme start="20261106040000 +0800" stop="20261106063000 +0800" channel="赛程预告">
-    <title>摩纳哥：摩纳哥 vs 北西兰；布莱顿：赫塔费 vs 布莱顿；欧联杯：桑德兰 vs 萨格勒布迪纳摩；欧联杯：塞尔塔 vs 圣吉罗斯；欧联杯：格拉茨风暴 vs 采列；欧联杯：凯尔特人 vs 贝西克塔斯；欧联杯：杜连斯 vs 亚拉腊-亚美尼亚；欧联杯：贝尔谢巴夏普尔 vs OFI克里特；欧联杯：阿尔克马尔 vs 尤文图斯；欧联杯：勒沃库森 vs 马赛；本菲卡：本菲卡 vs 波兹南莱赫</title>
+    <title>摩纳哥：摩纳哥 vs 北西兰；布莱顿：赫塔费 vs 布莱顿；欧联杯：凯尔特人 vs 贝西克塔斯；欧联杯：阿尔克马尔 vs 尤文图斯；欧联杯：杜连斯 vs 亚拉腊-亚美尼亚；欧联杯：桑德兰 vs 萨格勒布迪纳摩；本菲卡：本菲卡 vs 波兹南莱赫；欧联杯：勒沃库森 vs 马赛；欧联杯：格拉茨风暴 vs 采列；欧联杯：塞尔塔 vs 圣吉罗斯；欧联杯：贝尔谢巴夏普尔 vs OFI克里特</title>
     <category>体育</category>
   </programme>
   <programme start="20261106063000 +0800" stop="20261106100000 +0800" channel="赛程预告">
