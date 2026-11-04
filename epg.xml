@@ -5,6 +5,7 @@
   <channel id="Lens vs Daxak"><display-name>Lens vs Daxak</display-name></channel>
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
+  <channel id="Xipto vs Synapse"><display-name>Xipto vs Synapse</display-name></channel>
   <channel id="Yes vs NaVi"><display-name>Yes vs NaVi</display-name></channel>
   <channel id="Zenith vs CD"><display-name>Zenith vs CD</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
@@ -55,6 +56,10 @@
   </programme>
   <programme start="20261109092000 +0800" stop="20261109123948 +0800" channel="NBC">
     <title>Tampa Bay Buccaneers at Chicago Bears（NFL）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261104200000 +0800" stop="20261104223000 +0800" channel="Xipto vs Synapse">
+    <title>Xipto vs Synapse（EPC Season 3 - November 4）</title>
     <category>体育</category>
   </programme>
   <programme start="20261104190000 +0800" stop="20261104213000 +0800" channel="Yes vs NaVi">
