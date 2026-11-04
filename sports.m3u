@@ -61,23 +61,35 @@ http://192.168.5.35:44635/play/bd34be963912e5927bcacdb64a7391632751dda7
 http://192.168.5.35:44635/play/98f902ffc6f77a3ee98b003b7df61c9bc94c3013
 #EXTINF:-1 tvg-id="非洲人 vs US莫纳斯提尔" tvg-chno="1123" tvg-name="非洲人 vs US莫纳斯提尔" tvg-group="篮球" group-title="篮球",非洲人 vs US莫纳斯提尔
 http://192.168.5.35:44635/play/56f8cd06e15224ab0e8b13ecefbf09c9ffe927a8
-#EXTINF:-1 tvg-id="武里南联 vs 鹿岛鹿角" tvg-chno="1201" tvg-name="武里南联 vs 鹿岛鹿角" tvg-group="足球" group-title="足球",武里南联 vs 鹿岛鹿角·咪咕直播
-http://192.168.5.35:35456/jrs/%E6%AD%A6%E9%87%8C%E5%8D%97%E8%81%94%20vs%20%E9%B9%BF%E5%B2%9B%E9%B9%BF%E8%A7%92%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD
-#EXTINF:-1 tvg-id="阿卡达格 vs 高尔高赫" tvg-chno="1202" tvg-name="阿卡达格 vs 高尔高赫" tvg-group="足球" group-title="足球",阿卡达格 vs 高尔高赫·咪咕直播
+#EXTINF:-1 tvg-id="阿卡达格 vs 高尔高赫" tvg-chno="1201" tvg-name="阿卡达格 vs 高尔高赫" tvg-group="足球" group-title="足球",阿卡达格 vs 高尔高赫·咪咕直播
 http://192.168.5.35:35456/jrs/%E9%98%BF%E5%8D%A1%E8%BE%BE%E6%A0%BC%20vs%20%E9%AB%98%E5%B0%94%E9%AB%98%E8%B5%AB%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD
+#EXTINF:-1 tvg-id="伊洛瓦底女足 vs 神户雌狮女足" tvg-chno="1202" tvg-name="伊洛瓦底女足 vs 神户雌狮女足" tvg-group="足球" group-title="足球",伊洛瓦底女足 vs 神户雌狮女足
+http://192.168.5.35:44635/play/80168c6e68442dce4af7c21e47ec8be95f4e6ad2
+#EXTINF:-1 tvg-id="伊洛瓦底女足 vs 神户雌狮女足" tvg-chno="1203" tvg-name="伊洛瓦底女足 vs 神户雌狮女足" tvg-group="足球" group-title="足球",伊洛瓦底女足 vs 神户雌狮女足
+http://192.168.5.35:44635/play/f6bfd748f11a3196c9e44f44d37cbb4d2ae94af1
+#EXTINF:-1 tvg-id="武里南联 vs 鹿岛鹿角" tvg-chno="1204" tvg-name="武里南联 vs 鹿岛鹿角" tvg-group="足球" group-title="足球",武里南联 vs 鹿岛鹿角·咪咕直播
+http://192.168.5.35:35456/jrs/%E6%AD%A6%E9%87%8C%E5%8D%97%E8%81%94%20vs%20%E9%B9%BF%E5%B2%9B%E9%B9%BF%E8%A7%92%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD
+#EXTINF:-1 tvg-id="武里南联 vs 鹿岛鹿角" tvg-chno="1205" tvg-name="武里南联 vs 鹿岛鹿角" tvg-group="足球" group-title="足球",武里南联 vs 鹿岛鹿角·聚合备用
+http://192.168.5.35:44635/play/03732f428d20be2481d69884639eac580f87fb28
+#EXTINF:-1 tvg-id="马尼拉挖掘者 vs 图洛伊" tvg-chno="1206" tvg-name="马尼拉挖掘者 vs 图洛伊" tvg-group="足球" group-title="足球",马尼拉挖掘者 vs 图洛伊
+http://192.168.5.35:44635/play/3418b2415387818cf9d30e53e48b5b2c933162fb
+#EXTINF:-1 tvg-id="马尼拉挖掘者 vs 图洛伊" tvg-chno="1207" tvg-name="马尼拉挖掘者 vs 图洛伊" tvg-group="足球" group-title="足球",马尼拉挖掘者 vs 图洛伊
+http://192.168.5.35:44635/play/7f3fab475de1f067baefde74f4eb955687207163
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NFL·NBC" tvg-chno="1302" tvg-name="NFL·NBC" tvg-group="综合体育" group-title="综合体育",NFL·NBC
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1303" tvg-name="ESPN" tvg-group="综合体育" group-title="综合体育",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1304" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1304" tvg-name="Tennis Channel" tvg-group="综合体育" group-title="综合体育",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1305" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1305" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1306" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1307" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1307" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1308" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
