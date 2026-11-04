@@ -19,10 +19,10 @@ http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1102" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="伊萨贝拉女篮 vs 卡瓜斯女篮" tvg-chno="1103" tvg-name="伊萨贝拉女篮 vs 卡瓜斯女篮" tvg-group="篮球" group-title="篮球",伊萨贝拉女篮 vs 卡瓜斯女篮
-http://192.168.5.35:44635/play/a746de33fec5b18d07ef6a8269acce7afbbcfe9a
-#EXTINF:-1 tvg-id="伊萨贝拉女篮 vs 卡瓜斯女篮" tvg-chno="1104" tvg-name="伊萨贝拉女篮 vs 卡瓜斯女篮" tvg-group="篮球" group-title="篮球",伊萨贝拉女篮 vs 卡瓜斯女篮
-http://192.168.5.35:44635/play/47256b489ffe309e44df175dc43281a5e62545ac
+#EXTINF:-1 tvg-id="东华盛顿女篮 vs 犹他大学女篮" tvg-chno="1103" tvg-name="东华盛顿女篮 vs 犹他大学女篮" tvg-group="篮球" group-title="篮球",东华盛顿女篮 vs 犹他大学女篮
+http://192.168.5.35:44635/play/c49331c8aaaf77ae9d0ea17d3d3d7c9ebb6a9e25
+#EXTINF:-1 tvg-id="东华盛顿女篮 vs 犹他大学女篮" tvg-chno="1104" tvg-name="东华盛顿女篮 vs 犹他大学女篮" tvg-group="篮球" group-title="篮球",东华盛顿女篮 vs 犹他大学女篮
+http://192.168.5.35:44635/play/09db484abf444b38eb937ae21a635fc771b1f721
 #EXTINF:-1 tvg-id="休斯顿基督大学 vs 拉克里斯蒂安" tvg-chno="1105" tvg-name="休斯顿基督大学 vs 拉克里斯蒂安" tvg-group="篮球" group-title="篮球",休斯顿基督大学 vs 拉克里斯蒂安
 http://192.168.5.35:44635/play/b759195cf726d27c8c893c231363d8705a6b5fca
 #EXTINF:-1 tvg-id="休斯顿基督大学 vs 拉克里斯蒂安" tvg-chno="1106" tvg-name="休斯顿基督大学 vs 拉克里斯蒂安" tvg-group="篮球" group-title="篮球",休斯顿基督大学 vs 拉克里斯蒂安
@@ -31,92 +31,112 @@ http://192.168.5.35:44635/play/b0535a4bfc3c9196d9329eacad989eaa660124fb
 http://192.168.5.35:44635/play/a767ac9d48fa78d83aa4225889a87c6af9081f78
 #EXTINF:-1 tvg-id="佐治亚理工学院 vs 汉普顿大学" tvg-chno="1108" tvg-name="佐治亚理工学院 vs 汉普顿大学" tvg-group="篮球" group-title="篮球",佐治亚理工学院 vs 汉普顿大学
 http://192.168.5.35:44635/play/f188fe356fc2fbc45a3f3cc50a734905ed668b81
-#EXTINF:-1 tvg-id="弗吉尼亚大学 vs 德雷塞尔大学" tvg-chno="1109" tvg-name="弗吉尼亚大学 vs 德雷塞尔大学" tvg-group="篮球" group-title="篮球",弗吉尼亚大学 vs 德雷塞尔大学
+#EXTINF:-1 tvg-id="北爱荷华大学 vs 康奈尔大学" tvg-chno="1109" tvg-name="北爱荷华大学 vs 康奈尔大学" tvg-group="篮球" group-title="篮球",北爱荷华大学 vs 康奈尔大学
+http://192.168.5.35:44635/play/a88b17d510b424af86de262eb9d6a4876c13097a
+#EXTINF:-1 tvg-id="北爱荷华大学 vs 康奈尔大学" tvg-chno="1110" tvg-name="北爱荷华大学 vs 康奈尔大学" tvg-group="篮球" group-title="篮球",北爱荷华大学 vs 康奈尔大学
+http://192.168.5.35:44635/play/cc566daad23642bace1234ad2d39bd545a9dfaf7
+#EXTINF:-1 tvg-id="堪萨斯州立大学 vs 南达科他州立大学" tvg-chno="1111" tvg-name="堪萨斯州立大学 vs 南达科他州立大学" tvg-group="篮球" group-title="篮球",堪萨斯州立大学 vs 南达科他州立大学
+http://192.168.5.35:44635/play/a09b5b424a4da364c1f597af342251b81dfd0855
+#EXTINF:-1 tvg-id="堪萨斯州立大学 vs 南达科他州立大学" tvg-chno="1112" tvg-name="堪萨斯州立大学 vs 南达科他州立大学" tvg-group="篮球" group-title="篮球",堪萨斯州立大学 vs 南达科他州立大学
+http://192.168.5.35:44635/play/22ddb089cf93067837c83a4ddc1118b463bbff2f
+#EXTINF:-1 tvg-id="密苏里大学 vs 克利夫兰州立大学" tvg-chno="1113" tvg-name="密苏里大学 vs 克利夫兰州立大学" tvg-group="篮球" group-title="篮球",密苏里大学 vs 克利夫兰州立大学
+http://192.168.5.35:44635/play/0d622649f00d9281924d39d2ccbdc1b6fbfb648a
+#EXTINF:-1 tvg-id="密苏里大学 vs 克利夫兰州立大学" tvg-chno="1114" tvg-name="密苏里大学 vs 克利夫兰州立大学" tvg-group="篮球" group-title="篮球",密苏里大学 vs 克利夫兰州立大学
+http://192.168.5.35:44635/play/faf55c29a2158509b4f6943257e4f67d0b9111be
+#EXTINF:-1 tvg-id="弗吉尼亚大学 vs 德雷塞尔大学" tvg-chno="1115" tvg-name="弗吉尼亚大学 vs 德雷塞尔大学" tvg-group="篮球" group-title="篮球",弗吉尼亚大学 vs 德雷塞尔大学
 http://192.168.5.35:44635/play/2948f21ca3ce7dd6ed032471475c896d2eacc2da
-#EXTINF:-1 tvg-id="弗吉尼亚大学 vs 德雷塞尔大学" tvg-chno="1110" tvg-name="弗吉尼亚大学 vs 德雷塞尔大学" tvg-group="篮球" group-title="篮球",弗吉尼亚大学 vs 德雷塞尔大学
+#EXTINF:-1 tvg-id="弗吉尼亚大学 vs 德雷塞尔大学" tvg-chno="1116" tvg-name="弗吉尼亚大学 vs 德雷塞尔大学" tvg-group="篮球" group-title="篮球",弗吉尼亚大学 vs 德雷塞尔大学
 http://192.168.5.35:44635/play/c3f18e33e469d32bf2e55233a443c949989c1ed2
-#EXTINF:-1 tvg-id="杜肯大学 vs 普渡大学韦恩堡分校" tvg-chno="1111" tvg-name="杜肯大学 vs 普渡大学韦恩堡分校" tvg-group="篮球" group-title="篮球",杜肯大学 vs 普渡大学韦恩堡分校
+#EXTINF:-1 tvg-id="得州农工大学 vs 阿拉巴马州立大学" tvg-chno="1117" tvg-name="得州农工大学 vs 阿拉巴马州立大学" tvg-group="篮球" group-title="篮球",得州农工大学 vs 阿拉巴马州立大学
+http://192.168.5.35:44635/play/7cec6624ad62960b6c52c0475e90e53554bad947
+#EXTINF:-1 tvg-id="得州农工大学 vs 阿拉巴马州立大学" tvg-chno="1118" tvg-name="得州农工大学 vs 阿拉巴马州立大学" tvg-group="篮球" group-title="篮球",得州农工大学 vs 阿拉巴马州立大学
+http://192.168.5.35:44635/play/2c050313a3b35df39f34d6d6c62a1e2503edded9
+#EXTINF:-1 tvg-id="杜肯大学 vs 普渡大学韦恩堡分校" tvg-chno="1119" tvg-name="杜肯大学 vs 普渡大学韦恩堡分校" tvg-group="篮球" group-title="篮球",杜肯大学 vs 普渡大学韦恩堡分校
 http://192.168.5.35:44635/play/9d845d8417b4ccfc43c7637991fcf99455bc36ce
-#EXTINF:-1 tvg-id="杜肯大学 vs 普渡大学韦恩堡分校" tvg-chno="1112" tvg-name="杜肯大学 vs 普渡大学韦恩堡分校" tvg-group="篮球" group-title="篮球",杜肯大学 vs 普渡大学韦恩堡分校
+#EXTINF:-1 tvg-id="杜肯大学 vs 普渡大学韦恩堡分校" tvg-chno="1120" tvg-name="杜肯大学 vs 普渡大学韦恩堡分校" tvg-group="篮球" group-title="篮球",杜肯大学 vs 普渡大学韦恩堡分校
 http://192.168.5.35:44635/play/9b869830009cb787bf3743f8cd8a7985b507e888
-#EXTINF:-1 tvg-id="波士顿学院 vs 瓦格纳大学" tvg-chno="1113" tvg-name="波士顿学院 vs 瓦格纳大学" tvg-group="篮球" group-title="篮球",波士顿学院 vs 瓦格纳大学
+#EXTINF:-1 tvg-id="波士顿学院 vs 瓦格纳大学" tvg-chno="1121" tvg-name="波士顿学院 vs 瓦格纳大学" tvg-group="篮球" group-title="篮球",波士顿学院 vs 瓦格纳大学
 http://192.168.5.35:44635/play/7fb047dbb450e5b78787816434ed801384e612e6
-#EXTINF:-1 tvg-id="波士顿学院 vs 瓦格纳大学" tvg-chno="1114" tvg-name="波士顿学院 vs 瓦格纳大学" tvg-group="篮球" group-title="篮球",波士顿学院 vs 瓦格纳大学
+#EXTINF:-1 tvg-id="波士顿学院 vs 瓦格纳大学" tvg-chno="1122" tvg-name="波士顿学院 vs 瓦格纳大学" tvg-group="篮球" group-title="篮球",波士顿学院 vs 瓦格纳大学
 http://192.168.5.35:44635/play/093f358a37bb4d6e64f5481da1ca827e35ae17e0
-#EXTINF:-1 tvg-id="福尔摩莎 vs 阿根廷胡宁竞技" tvg-chno="1115" tvg-name="福尔摩莎 vs 阿根廷胡宁竞技" tvg-group="篮球" group-title="篮球",福尔摩莎 vs 阿根廷胡宁竞技
+#EXTINF:-1 tvg-id="爱荷华大学 vs 利普斯科姆勃大学" tvg-chno="1123" tvg-name="爱荷华大学 vs 利普斯科姆勃大学" tvg-group="篮球" group-title="篮球",爱荷华大学 vs 利普斯科姆勃大学
+http://192.168.5.35:44635/play/510be7b47dcbf4395944771644ab72c901711c7c
+#EXTINF:-1 tvg-id="爱荷华大学 vs 利普斯科姆勃大学" tvg-chno="1124" tvg-name="爱荷华大学 vs 利普斯科姆勃大学" tvg-group="篮球" group-title="篮球",爱荷华大学 vs 利普斯科姆勃大学
+http://192.168.5.35:44635/play/b69261d6ef4e1857110433e29c42c7d5bcb692d8
+#EXTINF:-1 tvg-id="福尔摩莎 vs 阿根廷胡宁竞技" tvg-chno="1125" tvg-name="福尔摩莎 vs 阿根廷胡宁竞技" tvg-group="篮球" group-title="篮球",福尔摩莎 vs 阿根廷胡宁竞技
 http://192.168.5.35:44635/play/d3394eb5c19ab60c0f2d7e03230120fbdc278e33
-#EXTINF:-1 tvg-id="福尔摩莎 vs 阿根廷胡宁竞技" tvg-chno="1116" tvg-name="福尔摩莎 vs 阿根廷胡宁竞技" tvg-group="篮球" group-title="篮球",福尔摩莎 vs 阿根廷胡宁竞技
+#EXTINF:-1 tvg-id="福尔摩莎 vs 阿根廷胡宁竞技" tvg-chno="1126" tvg-name="福尔摩莎 vs 阿根廷胡宁竞技" tvg-group="篮球" group-title="篮球",福尔摩莎 vs 阿根廷胡宁竞技
 http://192.168.5.35:44635/play/4a89691a4d69cea0d0d89dd3a502a15e91d96d3c
-#EXTINF:-1 tvg-id="罗德岛大学 vs 圣十字学院" tvg-chno="1117" tvg-name="罗德岛大学 vs 圣十字学院" tvg-group="篮球" group-title="篮球",罗德岛大学 vs 圣十字学院
-http://192.168.5.35:44635/play/17c08790d70c998c0e32101cdee1c85351c5ea3d
-#EXTINF:-1 tvg-id="罗德岛大学 vs 圣十字学院" tvg-chno="1118" tvg-name="罗德岛大学 vs 圣十字学院" tvg-group="篮球" group-title="篮球",罗德岛大学 vs 圣十字学院
-http://192.168.5.35:44635/play/0ae20ff4f469fe830298028ca572dbd05c13c5dd
-#EXTINF:-1 tvg-id="肯塔基大学 vs 曼哈顿大学" tvg-chno="1119" tvg-name="肯塔基大学 vs 曼哈顿大学" tvg-group="篮球" group-title="篮球",肯塔基大学 vs 曼哈顿大学
-http://192.168.5.35:44635/play/d0e932d9b5c18cc8515a957572c9bbef13f5aa10
-#EXTINF:-1 tvg-id="肯塔基大学 vs 曼哈顿大学" tvg-chno="1120" tvg-name="肯塔基大学 vs 曼哈顿大学" tvg-group="篮球" group-title="篮球",肯塔基大学 vs 曼哈顿大学
-http://192.168.5.35:44635/play/4d831efc0e4370e7e1f8dc5f5657e1ca2477d00d
-#EXTINF:-1 tvg-id="胡安迪亚斯女篮 vs 卡罗莱纳巨人女篮" tvg-chno="1121" tvg-name="胡安迪亚斯女篮 vs 卡罗莱纳巨人女篮" tvg-group="篮球" group-title="篮球",胡安迪亚斯女篮 vs 卡罗莱纳巨人女篮
-http://192.168.5.35:44635/play/f5636a5f484f7a49907bb3dd2833718dfca50c6a
-#EXTINF:-1 tvg-id="胡安迪亚斯女篮 vs 卡罗莱纳巨人女篮" tvg-chno="1122" tvg-name="胡安迪亚斯女篮 vs 卡罗莱纳巨人女篮" tvg-group="篮球" group-title="篮球",胡安迪亚斯女篮 vs 卡罗莱纳巨人女篮
-http://192.168.5.35:44635/play/c45e7f8e102f946f517dbdd3899cea03814d36a9
-#EXTINF:-1 tvg-id="阿拉巴马大学 vs 萨姆休斯顿州立大学" tvg-chno="1123" tvg-name="阿拉巴马大学 vs 萨姆休斯顿州立大学" tvg-group="篮球" group-title="篮球",阿拉巴马大学 vs 萨姆休斯顿州立大学
+#EXTINF:-1 tvg-id="路易斯安那州立大学 vs 新奥尔良大学" tvg-chno="1127" tvg-name="路易斯安那州立大学 vs 新奥尔良大学" tvg-group="篮球" group-title="篮球",路易斯安那州立大学 vs 新奥尔良大学
+http://192.168.5.35:44635/play/6b75510af0da74d3a6fe3e48329359f7450ae335
+#EXTINF:-1 tvg-id="阿拉巴马大学 vs 萨姆休斯顿州立大学" tvg-chno="1128" tvg-name="阿拉巴马大学 vs 萨姆休斯顿州立大学" tvg-group="篮球" group-title="篮球",阿拉巴马大学 vs 萨姆休斯顿州立大学
 http://192.168.5.35:44635/play/26b114d3b6c4192292db8d77707b16488f1480cf
-#EXTINF:-1 tvg-id="阿拉巴马大学 vs 萨姆休斯顿州立大学" tvg-chno="1124" tvg-name="阿拉巴马大学 vs 萨姆休斯顿州立大学" tvg-group="篮球" group-title="篮球",阿拉巴马大学 vs 萨姆休斯顿州立大学
+#EXTINF:-1 tvg-id="阿拉巴马大学 vs 萨姆休斯顿州立大学" tvg-chno="1129" tvg-name="阿拉巴马大学 vs 萨姆休斯顿州立大学" tvg-group="篮球" group-title="篮球",阿拉巴马大学 vs 萨姆休斯顿州立大学
 http://192.168.5.35:44635/play/f4f6559a2f4dc14e96def587c73b949941128eda
-#EXTINF:-1 tvg-id="阿特纳斯 vs 吉纳西亚科摩多罗" tvg-chno="1125" tvg-name="阿特纳斯 vs 吉纳西亚科摩多罗" tvg-group="篮球" group-title="篮球",阿特纳斯 vs 吉纳西亚科摩多罗
+#EXTINF:-1 tvg-id="阿特纳斯 vs 吉纳西亚科摩多罗" tvg-chno="1130" tvg-name="阿特纳斯 vs 吉纳西亚科摩多罗" tvg-group="篮球" group-title="篮球",阿特纳斯 vs 吉纳西亚科摩多罗
 http://192.168.5.35:44635/play/9997c70c4644989dc1bdb3452a9523902c667c1e
-#EXTINF:-1 tvg-id="阿特纳斯 vs 吉纳西亚科摩多罗" tvg-chno="1126" tvg-name="阿特纳斯 vs 吉纳西亚科摩多罗" tvg-group="篮球" group-title="篮球",阿特纳斯 vs 吉纳西亚科摩多罗
+#EXTINF:-1 tvg-id="阿特纳斯 vs 吉纳西亚科摩多罗" tvg-chno="1131" tvg-name="阿特纳斯 vs 吉纳西亚科摩多罗" tvg-group="篮球" group-title="篮球",阿特纳斯 vs 吉纳西亚科摩多罗
 http://192.168.5.35:44635/play/9f7319080efee0d75de71af8468971fb6035c0af
-#EXTINF:-1 tvg-id="马尔文 vs 比佳亚" tvg-chno="1127" tvg-name="马尔文 vs 比佳亚" tvg-group="篮球" group-title="篮球",马尔文 vs 比佳亚
+#EXTINF:-1 tvg-id="阿肯色大学 vs 阿肯色大学派恩布拉夫分校" tvg-chno="1132" tvg-name="阿肯色大学 vs 阿肯色大学派恩布拉夫分校" tvg-group="篮球" group-title="篮球",阿肯色大学 vs 阿肯色大学派恩布拉夫分校
+http://192.168.5.35:44635/play/6c47328a305d3d639b6242b2980ee691ebfcd329
+#EXTINF:-1 tvg-id="阿肯色大学 vs 阿肯色大学派恩布拉夫分校" tvg-chno="1133" tvg-name="阿肯色大学 vs 阿肯色大学派恩布拉夫分校" tvg-group="篮球" group-title="篮球",阿肯色大学 vs 阿肯色大学派恩布拉夫分校
+http://192.168.5.35:44635/play/43421354f70e85a8b694884c8f2ba8690916be92
+#EXTINF:-1 tvg-id="马尔文 vs 比佳亚" tvg-chno="1134" tvg-name="马尔文 vs 比佳亚" tvg-group="篮球" group-title="篮球",马尔文 vs 比佳亚
 http://192.168.5.35:44635/play/e5a7f3520885bfa677e3ae0c26e4d20d971ec26e
-#EXTINF:-1 tvg-id="马尔文 vs 比佳亚" tvg-chno="1128" tvg-name="马尔文 vs 比佳亚" tvg-group="篮球" group-title="篮球",马尔文 vs 比佳亚
+#EXTINF:-1 tvg-id="马尔文 vs 比佳亚" tvg-chno="1135" tvg-name="马尔文 vs 比佳亚" tvg-group="篮球" group-title="篮球",马尔文 vs 比佳亚
 http://192.168.5.35:44635/play/120213e49e26a825d0fe0fb32db8ec08b1378220
 #EXTINF:-1 tvg-id="FC大阪 vs 熊本深红" tvg-chno="1201" tvg-name="FC大阪 vs 熊本深红" tvg-group="足球" group-title="足球",FC大阪 vs 熊本深红
-http://192.168.5.35:44635/play/4ffc9d662180fb7671c565cb42e80c9216589e6e
-#EXTINF:-1 tvg-id="J-利斯FC vs 横河武藏野FC" tvg-chno="1202" tvg-name="J-利斯FC vs 横河武藏野FC" tvg-group="足球" group-title="足球",J-利斯FC vs 横河武藏野FC
-http://192.168.5.35:44635/play/28b32c4c0dbd893cabb58dd12386305c24155375
+http://192.168.5.35:44635/play/97a1da685e3511366b614290c255fc8776fba59f
+#EXTINF:-1 tvg-id="FC大阪 vs 熊本深红" tvg-chno="1202" tvg-name="FC大阪 vs 熊本深红" tvg-group="足球" group-title="足球",FC大阪 vs 熊本深红
+http://192.168.5.35:44635/play/df749330b4b2c7b36496022aa2bd416b813c5c3e
 #EXTINF:-1 tvg-id="J-利斯FC vs 横河武藏野FC" tvg-chno="1203" tvg-name="J-利斯FC vs 横河武藏野FC" tvg-group="足球" group-title="足球",J-利斯FC vs 横河武藏野FC
+http://192.168.5.35:44635/play/28b32c4c0dbd893cabb58dd12386305c24155375
+#EXTINF:-1 tvg-id="J-利斯FC vs 横河武藏野FC" tvg-chno="1204" tvg-name="J-利斯FC vs 横河武藏野FC" tvg-group="足球" group-title="足球",J-利斯FC vs 横河武藏野FC
 http://192.168.5.35:44635/play/bd6d61e61d258e1dfe11d86d7b6fe0535109047d
-#EXTINF:-1 tvg-id="乌冬班占联 vs 泰路警察" tvg-chno="1204" tvg-name="乌冬班占联 vs 泰路警察" tvg-group="足球" group-title="足球",乌冬班占联 vs 泰路警察
+#EXTINF:-1 tvg-id="乌冬班占联 vs 泰路警察" tvg-chno="1205" tvg-name="乌冬班占联 vs 泰路警察" tvg-group="足球" group-title="足球",乌冬班占联 vs 泰路警察
 http://192.168.5.35:44635/play/701783a06004e891f459f7fc2ae3e9115faa94d5
-#EXTINF:-1 tvg-id="利马联盟 vs 西恩夏诺" tvg-chno="1205" tvg-name="利马联盟 vs 西恩夏诺" tvg-group="足球" group-title="足球",利马联盟 vs 西恩夏诺
-http://192.168.5.35:44635/play/886e01a8b2dab562e8b4a85544a97f81b64755e6
 #EXTINF:-1 tvg-id="利马联盟 vs 西恩夏诺" tvg-chno="1206" tvg-name="利马联盟 vs 西恩夏诺" tvg-group="足球" group-title="足球",利马联盟 vs 西恩夏诺
+http://192.168.5.35:44635/play/886e01a8b2dab562e8b4a85544a97f81b64755e6
+#EXTINF:-1 tvg-id="利马联盟 vs 西恩夏诺" tvg-chno="1207" tvg-name="利马联盟 vs 西恩夏诺" tvg-group="足球" group-title="足球",利马联盟 vs 西恩夏诺
 http://192.168.5.35:44635/play/9a4aca4a1fcd87abeefe5a39b7e94a40bc47d15c
-#EXTINF:-1 tvg-id="卡塔根纳 vs 奎迪奥" tvg-chno="1207" tvg-name="卡塔根纳 vs 奎迪奥" tvg-group="足球" group-title="足球",卡塔根纳 vs 奎迪奥
-http://192.168.5.35:44635/play/0d8fa3a7aa5e83ebcecd13e56a15d099d74bb2af
 #EXTINF:-1 tvg-id="卡塔根纳 vs 奎迪奥" tvg-chno="1208" tvg-name="卡塔根纳 vs 奎迪奥" tvg-group="足球" group-title="足球",卡塔根纳 vs 奎迪奥
+http://192.168.5.35:44635/play/0d8fa3a7aa5e83ebcecd13e56a15d099d74bb2af
+#EXTINF:-1 tvg-id="卡塔根纳 vs 奎迪奥" tvg-chno="1209" tvg-name="卡塔根纳 vs 奎迪奥" tvg-group="足球" group-title="足球",卡塔根纳 vs 奎迪奥
 http://192.168.5.35:44635/play/ea92130903831d33c831d603fb9791d3a91c57df
-#EXTINF:-1 tvg-id="古里斯坦 vs 塔什干火车头B队" tvg-chno="1209" tvg-name="古里斯坦 vs 塔什干火车头B队" tvg-group="足球" group-title="足球",古里斯坦 vs 塔什干火车头B队
+#EXTINF:-1 tvg-id="古里斯坦 vs 塔什干火车头B队" tvg-chno="1210" tvg-name="古里斯坦 vs 塔什干火车头B队" tvg-group="足球" group-title="足球",古里斯坦 vs 塔什干火车头B队
 http://192.168.5.35:44635/play/1c1a750039d15bf2d61f639383908b866e9f47dd
-#EXTINF:-1 tvg-id="叶尼塞 vs 下诺夫哥罗德" tvg-chno="1210" tvg-name="叶尼塞 vs 下诺夫哥罗德" tvg-group="足球" group-title="足球",叶尼塞 vs 下诺夫哥罗德
+#EXTINF:-1 tvg-id="叶尼塞 vs 下诺夫哥罗德" tvg-chno="1211" tvg-name="叶尼塞 vs 下诺夫哥罗德" tvg-group="足球" group-title="足球",叶尼塞 vs 下诺夫哥罗德
 http://192.168.5.35:44635/play/196bbc737a7944a7994bb2662aa95e12a9f2aa70
-#EXTINF:-1 tvg-id="埃桑战士 vs 塔銮联" tvg-chno="1211" tvg-name="埃桑战士 vs 塔銮联" tvg-group="足球" group-title="足球",埃桑战士 vs 塔銮联
+#EXTINF:-1 tvg-id="埃桑战士 vs 塔銮联" tvg-chno="1212" tvg-name="埃桑战士 vs 塔銮联" tvg-group="足球" group-title="足球",埃桑战士 vs 塔銮联
 http://192.168.5.35:44635/play/c02f38798839df10b0cae7b654399c95fb792113
-#EXTINF:-1 tvg-id="墨尔本胜利 vs 万隆" tvg-chno="1212" tvg-name="墨尔本胜利 vs 万隆" tvg-group="足球" group-title="足球",墨尔本胜利 vs 万隆
-http://192.168.5.35:44635/play/1bd54049bb697bf1706cd14cfb5063eaeb0b7bef
-#EXTINF:-1 tvg-id="大城府 vs 北碧府动力" tvg-chno="1213" tvg-name="大城府 vs 北碧府动力" tvg-group="足球" group-title="足球",大城府 vs 北碧府动力
+#EXTINF:-1 tvg-id="墨尔本胜利 vs 万隆" tvg-chno="1213" tvg-name="墨尔本胜利 vs 万隆" tvg-group="足球" group-title="足球",墨尔本胜利 vs 万隆
+http://192.168.5.35:44635/play/c03ded06cac2c757c97d56ac3cf5479da16e4e66
+#EXTINF:-1 tvg-id="墨尔本胜利 vs 万隆" tvg-chno="1214" tvg-name="墨尔本胜利 vs 万隆" tvg-group="足球" group-title="足球",墨尔本胜利 vs 万隆
+http://192.168.5.35:44635/play/3bafc695efe5c8e2e050855aaf6fde06af8add0f
+#EXTINF:-1 tvg-id="大城府 vs 北碧府动力" tvg-chno="1215" tvg-name="大城府 vs 北碧府动力" tvg-group="足球" group-title="足球",大城府 vs 北碧府动力
 http://192.168.5.35:44635/play/763d2e292b69208748473634b794bd10562ec239
-#EXTINF:-1 tvg-id="大连足校女足 vs 山东体彩女足B队" tvg-chno="1214" tvg-name="大连足校女足 vs 山东体彩女足B队" tvg-group="足球" group-title="足球",大连足校女足 vs 山东体彩女足B队
+#EXTINF:-1 tvg-id="大连足校女足 vs 山东体彩女足B队" tvg-chno="1216" tvg-name="大连足校女足 vs 山东体彩女足B队" tvg-group="足球" group-title="足球",大连足校女足 vs 山东体彩女足B队
 http://192.168.5.35:44635/play/2c73ff3389ead390e14d9c710cb0e6087b1083e1
-#EXTINF:-1 tvg-id="天津圣德女足 vs 浙江杭州女足B队" tvg-chno="1215" tvg-name="天津圣德女足 vs 浙江杭州女足B队" tvg-group="足球" group-title="足球",天津圣德女足 vs 浙江杭州女足B队
+#EXTINF:-1 tvg-id="天津圣德女足 vs 浙江杭州女足B队" tvg-chno="1217" tvg-name="天津圣德女足 vs 浙江杭州女足B队" tvg-group="足球" group-title="足球",天津圣德女足 vs 浙江杭州女足B队
 http://192.168.5.35:44635/play/a6e49b57eaba822e2e03a7206ca237cce2f936eb
-#EXTINF:-1 tvg-id="山西喜华女足 vs 广东体彩粤湛女足" tvg-chno="1216" tvg-name="山西喜华女足 vs 广东体彩粤湛女足" tvg-group="足球" group-title="足球",山西喜华女足 vs 广东体彩粤湛女足
+#EXTINF:-1 tvg-id="山西喜华女足 vs 广东体彩粤湛女足" tvg-chno="1218" tvg-name="山西喜华女足 vs 广东体彩粤湛女足" tvg-group="足球" group-title="足球",山西喜华女足 vs 广东体彩粤湛女足
 http://192.168.5.35:44635/play/9801d017a35cbb315f8474865d3ad996d9c0392d
-#EXTINF:-1 tvg-id="巴西国际 vs 科里蒂巴" tvg-chno="1217" tvg-name="巴西国际 vs 科里蒂巴" tvg-group="足球" group-title="足球",巴西国际 vs 科里蒂巴
+#EXTINF:-1 tvg-id="巴西国际 vs 科里蒂巴" tvg-chno="1219" tvg-name="巴西国际 vs 科里蒂巴" tvg-group="足球" group-title="足球",巴西国际 vs 科里蒂巴
 http://192.168.5.35:44635/play/edc0b7c11b23a56335c767cb02593fa66a509937
-#EXTINF:-1 tvg-id="巴西国际 vs 科里蒂巴" tvg-chno="1218" tvg-name="巴西国际 vs 科里蒂巴" tvg-group="足球" group-title="足球",巴西国际 vs 科里蒂巴
+#EXTINF:-1 tvg-id="巴西国际 vs 科里蒂巴" tvg-chno="1220" tvg-name="巴西国际 vs 科里蒂巴" tvg-group="足球" group-title="足球",巴西国际 vs 科里蒂巴
 http://192.168.5.35:44635/play/cc004703433069681ab875e546ea65bdbd21258f
-#EXTINF:-1 tvg-id="普卢克登联 vs 沙敦府" tvg-chno="1219" tvg-name="普卢克登联 vs 沙敦府" tvg-group="足球" group-title="足球",普卢克登联 vs 沙敦府
+#EXTINF:-1 tvg-id="普卢克登联 vs 沙敦府" tvg-chno="1221" tvg-name="普卢克登联 vs 沙敦府" tvg-group="足球" group-title="足球",普卢克登联 vs 沙敦府
 http://192.168.5.35:44635/play/9c01688f8c13fc221f1585c911f9bc203edd33f5
-#EXTINF:-1 tvg-id="班加罗尔B队 vs 班加罗尔梦幻联" tvg-chno="1220" tvg-name="班加罗尔B队 vs 班加罗尔梦幻联" tvg-group="足球" group-title="足球",班加罗尔B队 vs 班加罗尔梦幻联
+#EXTINF:-1 tvg-id="班加罗尔B队 vs 班加罗尔梦幻联" tvg-chno="1222" tvg-name="班加罗尔B队 vs 班加罗尔梦幻联" tvg-group="足球" group-title="足球",班加罗尔B队 vs 班加罗尔梦幻联
 http://192.168.5.35:44635/play/1e0c6a1f30581526e70bdd0270df10bbe32e4455
-#EXTINF:-1 tvg-id="皇家班加罗尔 vs 斯图拉德" tvg-chno="1221" tvg-name="皇家班加罗尔 vs 斯图拉德" tvg-group="足球" group-title="足球",皇家班加罗尔 vs 斯图拉德
+#EXTINF:-1 tvg-id="皇家班加罗尔 vs 斯图拉德" tvg-chno="1223" tvg-name="皇家班加罗尔 vs 斯图拉德" tvg-group="足球" group-title="足球",皇家班加罗尔 vs 斯图拉德
 http://192.168.5.35:44635/play/7848700f22dd594edfd85a309e6376f0227ca09a
-#EXTINF:-1 tvg-id="菲律宾陆军 vs 阿兹卡尔斯发展" tvg-chno="1222" tvg-name="菲律宾陆军 vs 阿兹卡尔斯发展" tvg-group="足球" group-title="足球",菲律宾陆军 vs 阿兹卡尔斯发展
+#EXTINF:-1 tvg-id="菲律宾陆军 vs 阿兹卡尔斯发展" tvg-chno="1224" tvg-name="菲律宾陆军 vs 阿兹卡尔斯发展" tvg-group="足球" group-title="足球",菲律宾陆军 vs 阿兹卡尔斯发展
 http://192.168.5.35:44635/play/3faec1f31a0ce71ba95993398071abbd99475049
-#EXTINF:-1 tvg-id="辛布里勇士队 vs 佛统联" tvg-chno="1223" tvg-name="辛布里勇士队 vs 佛统联" tvg-group="足球" group-title="足球",辛布里勇士队 vs 佛统联
+#EXTINF:-1 tvg-id="辛布里勇士队 vs 佛统联" tvg-chno="1225" tvg-name="辛布里勇士队 vs 佛统联" tvg-group="足球" group-title="足球",辛布里勇士队 vs 佛统联
 http://192.168.5.35:44635/play/b0ce8edcc9eaf6af5bf5fc8b5bafcb74ed7dc0b2
+#EXTINF:-1 tvg-id="颂萨 vs 马里斯特" tvg-chno="1226" tvg-name="颂萨 vs 马里斯特" tvg-group="足球" group-title="足球",颂萨 vs 马里斯特
+http://192.168.5.35:44635/play/719d64ace6bdee158e9b38e5ea00e345604aa48a
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NFL·NBC" tvg-chno="1302" tvg-name="NFL·NBC" tvg-group="综合体育" group-title="综合体育",NFL·NBC
