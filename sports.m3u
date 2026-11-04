@@ -22,74 +22,78 @@ http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="山西兴瑞女篮 vs 石家庄英励女篮" tvg-chno="1103" tvg-name="山西兴瑞女篮 vs 石家庄英励女篮" tvg-group="篮球" group-title="篮球",山西兴瑞女篮 vs 石家庄英励女篮·咪咕直播
 http://192.168.5.35:35456/jrs/%E5%B1%B1%E8%A5%BF%E5%85%B4%E7%91%9E%E5%A5%B3%E7%AF%AE%20vs%20%E7%9F%B3%E5%AE%B6%E5%BA%84%E8%8B%B1%E5%8A%B1%E5%A5%B3%E7%AF%AE%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-id="台钢猎鹰 vs 东京电击" tvg-chno="1104" tvg-name="台钢猎鹰 vs 东京电击" tvg-group="篮球" group-title="篮球",台钢猎鹰 vs 东京电击
-http://192.168.5.35:44635/play/a876d9cd1d931b81438e5e1eb81aeebc7505ad89
-#EXTINF:-1 tvg-id="埼玉野马 vs 爱媛维京人" tvg-chno="1105" tvg-name="埼玉野马 vs 爱媛维京人" tvg-group="篮球" group-title="篮球",埼玉野马 vs 爱媛维京人
-http://192.168.5.35:44635/play/c2f68494890fd7d96f7e0a211c574081beda3420
+http://192.168.5.35:44635/play/2846f81dee815b2c28a8a5ae587c6aade64ed28d
+#EXTINF:-1 tvg-id="台钢猎鹰 vs 东京电击" tvg-chno="1105" tvg-name="台钢猎鹰 vs 东京电击" tvg-group="篮球" group-title="篮球",台钢猎鹰 vs 东京电击
+http://192.168.5.35:44635/play/65d429341fddb219a80dda59756e6a95624969c8
 #EXTINF:-1 tvg-id="埼玉野马 vs 爱媛维京人" tvg-chno="1106" tvg-name="埼玉野马 vs 爱媛维京人" tvg-group="篮球" group-title="篮球",埼玉野马 vs 爱媛维京人
+http://192.168.5.35:44635/play/c2f68494890fd7d96f7e0a211c574081beda3420
+#EXTINF:-1 tvg-id="埼玉野马 vs 爱媛维京人" tvg-chno="1107" tvg-name="埼玉野马 vs 爱媛维京人" tvg-group="篮球" group-title="篮球",埼玉野马 vs 爱媛维京人
 http://192.168.5.35:44635/play/78c11fcbaeaf52a05922e53ac37b98a647681c80
-#EXTINF:-1 tvg-id="山形飞龙 vs 东京地球之友" tvg-chno="1107" tvg-name="山形飞龙 vs 东京地球之友" tvg-group="篮球" group-title="篮球",山形飞龙 vs 东京地球之友
-http://192.168.5.35:44635/play/edd768221d8df32d93f193693054a97baf0a84f2
 #EXTINF:-1 tvg-id="山形飞龙 vs 东京地球之友" tvg-chno="1108" tvg-name="山形飞龙 vs 东京地球之友" tvg-group="篮球" group-title="篮球",山形飞龙 vs 东京地球之友
+http://192.168.5.35:44635/play/edd768221d8df32d93f193693054a97baf0a84f2
+#EXTINF:-1 tvg-id="山形飞龙 vs 东京地球之友" tvg-chno="1109" tvg-name="山形飞龙 vs 东京地球之友" tvg-group="篮球" group-title="篮球",山形飞龙 vs 东京地球之友
 http://192.168.5.35:44635/play/48612d2c191d5e15450b2906ff4721f77bc95be9
-#EXTINF:-1 tvg-id="山西兴瑞女篮 vs 河北英励女篮" tvg-chno="1109" tvg-name="山西兴瑞女篮 vs 河北英励女篮" tvg-group="篮球" group-title="篮球",山西兴瑞女篮 vs 河北英励女篮
-http://192.168.5.35:44635/play/b62a4603b75451163b398260cc126dd088127baa
 #EXTINF:-1 tvg-id="山西兴瑞女篮 vs 河北英励女篮" tvg-chno="1110" tvg-name="山西兴瑞女篮 vs 河北英励女篮" tvg-group="篮球" group-title="篮球",山西兴瑞女篮 vs 河北英励女篮
+http://192.168.5.35:44635/play/b62a4603b75451163b398260cc126dd088127baa
+#EXTINF:-1 tvg-id="山西兴瑞女篮 vs 河北英励女篮" tvg-chno="1111" tvg-name="山西兴瑞女篮 vs 河北英励女篮" tvg-group="篮球" group-title="篮球",山西兴瑞女篮 vs 河北英励女篮
 http://192.168.5.35:44635/play/57bc852db7389435d726c93cdf565c041974cdd5
-#EXTINF:-1 tvg-id="布里斯班子弹 vs 珀斯野猫" tvg-chno="1111" tvg-name="布里斯班子弹 vs 珀斯野猫" tvg-group="篮球" group-title="篮球",布里斯班子弹 vs 珀斯野猫
-http://192.168.5.35:44635/play/d1215f4a36d8cc58d4e23d7db20b91bcce399abf
 #EXTINF:-1 tvg-id="布里斯班子弹 vs 珀斯野猫" tvg-chno="1112" tvg-name="布里斯班子弹 vs 珀斯野猫" tvg-group="篮球" group-title="篮球",布里斯班子弹 vs 珀斯野猫
+http://192.168.5.35:44635/play/d1215f4a36d8cc58d4e23d7db20b91bcce399abf
+#EXTINF:-1 tvg-id="布里斯班子弹 vs 珀斯野猫" tvg-chno="1113" tvg-name="布里斯班子弹 vs 珀斯野猫" tvg-group="篮球" group-title="篮球",布里斯班子弹 vs 珀斯野猫
 http://192.168.5.35:44635/play/a82ebf59c2c5682e61c9b590b2162acb49ebc064
-#EXTINF:-1 tvg-id="战斗马鲁 vs ADU猎鹰" tvg-chno="1113" tvg-name="战斗马鲁 vs ADU猎鹰" tvg-group="篮球" group-title="篮球",战斗马鲁 vs ADU猎鹰
+#EXTINF:-1 tvg-id="广东奥普特女篮 vs 上海开元女篮" tvg-chno="1114" tvg-name="广东奥普特女篮 vs 上海开元女篮" tvg-group="篮球" group-title="篮球",广东奥普特女篮 vs 上海开元女篮
+http://192.168.5.35:44635/play/d97d7ed54cdba05587342f81ddf71e9083e056f9
+#EXTINF:-1 tvg-id="战斗马鲁 vs ADU猎鹰" tvg-chno="1115" tvg-name="战斗马鲁 vs ADU猎鹰" tvg-group="篮球" group-title="篮球",战斗马鲁 vs ADU猎鹰
 http://192.168.5.35:44635/play/a9cb9fc1b792f1dc38a59eb1aa77f0d0a7efce0a
-#EXTINF:-1 tvg-id="战斗马鲁 vs ADU猎鹰" tvg-chno="1114" tvg-name="战斗马鲁 vs ADU猎鹰" tvg-group="篮球" group-title="篮球",战斗马鲁 vs ADU猎鹰
+#EXTINF:-1 tvg-id="战斗马鲁 vs ADU猎鹰" tvg-chno="1116" tvg-name="战斗马鲁 vs ADU猎鹰" tvg-group="篮球" group-title="篮球",战斗马鲁 vs ADU猎鹰
 http://192.168.5.35:44635/play/318df68cf40e46d4075d1eb6cf426980374415d1
-#EXTINF:-1 tvg-id="新疆天山女篮 vs 大连体产女篮" tvg-chno="1115" tvg-name="新疆天山女篮 vs 大连体产女篮" tvg-group="篮球" group-title="篮球",新疆天山女篮 vs 大连体产女篮
+#EXTINF:-1 tvg-id="新疆天山女篮 vs 大连体产女篮" tvg-chno="1117" tvg-name="新疆天山女篮 vs 大连体产女篮" tvg-group="篮球" group-title="篮球",新疆天山女篮 vs 大连体产女篮
 http://192.168.5.35:44635/play/c9cb5973a85922d30545c3be81c7e890f0977ef2
-#EXTINF:-1 tvg-id="新疆天山女篮 vs 大连体产女篮" tvg-chno="1116" tvg-name="新疆天山女篮 vs 大连体产女篮" tvg-group="篮球" group-title="篮球",新疆天山女篮 vs 大连体产女篮
+#EXTINF:-1 tvg-id="新疆天山女篮 vs 大连体产女篮" tvg-chno="1118" tvg-name="新疆天山女篮 vs 大连体产女篮" tvg-group="篮球" group-title="篮球",新疆天山女篮 vs 大连体产女篮
 http://192.168.5.35:44635/play/aaaa73b236044938a3001d381cb9d9f934c4ff63
-#EXTINF:-1 tvg-id="新韩银行大鸟女篮 vs 友利银行女篮" tvg-chno="1117" tvg-name="新韩银行大鸟女篮 vs 友利银行女篮" tvg-group="篮球" group-title="篮球",新韩银行大鸟女篮 vs 友利银行女篮
+#EXTINF:-1 tvg-id="新韩银行大鸟女篮 vs 友利银行女篮" tvg-chno="1119" tvg-name="新韩银行大鸟女篮 vs 友利银行女篮" tvg-group="篮球" group-title="篮球",新韩银行大鸟女篮 vs 友利银行女篮
 http://192.168.5.35:44635/play/16195fbba1bc575e8ae26699bf65a10082120fab
-#EXTINF:-1 tvg-id="新韩银行大鸟女篮 vs 友利银行女篮" tvg-chno="1118" tvg-name="新韩银行大鸟女篮 vs 友利银行女篮" tvg-group="篮球" group-title="篮球",新韩银行大鸟女篮 vs 友利银行女篮
+#EXTINF:-1 tvg-id="新韩银行大鸟女篮 vs 友利银行女篮" tvg-chno="1120" tvg-name="新韩银行大鸟女篮 vs 友利银行女篮" tvg-group="篮球" group-title="篮球",新韩银行大鸟女篮 vs 友利银行女篮
 http://192.168.5.35:44635/play/d14bd2fe572c9d3ed64672d4dd27550a9db9befe
-#EXTINF:-1 tvg-id="熊本火山 vs 岩手大公牛" tvg-chno="1119" tvg-name="熊本火山 vs 岩手大公牛" tvg-group="篮球" group-title="篮球",熊本火山 vs 岩手大公牛
+#EXTINF:-1 tvg-id="熊本火山 vs 岩手大公牛" tvg-chno="1121" tvg-name="熊本火山 vs 岩手大公牛" tvg-group="篮球" group-title="篮球",熊本火山 vs 岩手大公牛
 http://192.168.5.35:44635/play/f1ef7719aac0d811b9ae9d334acf918862733497
-#EXTINF:-1 tvg-id="熊本火山 vs 岩手大公牛" tvg-chno="1120" tvg-name="熊本火山 vs 岩手大公牛" tvg-group="篮球" group-title="篮球",熊本火山 vs 岩手大公牛
+#EXTINF:-1 tvg-id="熊本火山 vs 岩手大公牛" tvg-chno="1122" tvg-name="熊本火山 vs 岩手大公牛" tvg-group="篮球" group-title="篮球",熊本火山 vs 岩手大公牛
 http://192.168.5.35:44635/play/2f78c4f81c5bf9db8aae68849ab4b1d7eb1a0dd0
-#EXTINF:-1 tvg-id="琉球黄金帝王 vs 香港东方" tvg-chno="1121" tvg-name="琉球黄金帝王 vs 香港东方" tvg-group="篮球" group-title="篮球",琉球黄金帝王 vs 香港东方
+#EXTINF:-1 tvg-id="琉球黄金帝王 vs 香港东方" tvg-chno="1123" tvg-name="琉球黄金帝王 vs 香港东方" tvg-group="篮球" group-title="篮球",琉球黄金帝王 vs 香港东方
 http://192.168.5.35:44635/play/3a7a92fd1b8415f67a0709d78e82d36cda032166
-#EXTINF:-1 tvg-id="琉球黄金帝王 vs 香港东方" tvg-chno="1122" tvg-name="琉球黄金帝王 vs 香港东方" tvg-group="篮球" group-title="篮球",琉球黄金帝王 vs 香港东方
+#EXTINF:-1 tvg-id="琉球黄金帝王 vs 香港东方" tvg-chno="1124" tvg-name="琉球黄金帝王 vs 香港东方" tvg-group="篮球" group-title="篮球",琉球黄金帝王 vs 香港东方
 http://192.168.5.35:44635/play/9c4ff92e7649bc3cb9820aa45737928a2565fbe3
-#EXTINF:-1 tvg-id="福井吹风 vs 鹿儿岛列布尼斯" tvg-chno="1123" tvg-name="福井吹风 vs 鹿儿岛列布尼斯" tvg-group="篮球" group-title="篮球",福井吹风 vs 鹿儿岛列布尼斯
+#EXTINF:-1 tvg-id="福井吹风 vs 鹿儿岛列布尼斯" tvg-chno="1125" tvg-name="福井吹风 vs 鹿儿岛列布尼斯" tvg-group="篮球" group-title="篮球",福井吹风 vs 鹿儿岛列布尼斯
 http://192.168.5.35:44635/play/e53f9f4cd6d5a309636d917c0d03030ea65cd657
-#EXTINF:-1 tvg-id="福井吹风 vs 鹿儿岛列布尼斯" tvg-chno="1124" tvg-name="福井吹风 vs 鹿儿岛列布尼斯" tvg-group="篮球" group-title="篮球",福井吹风 vs 鹿儿岛列布尼斯
+#EXTINF:-1 tvg-id="福井吹风 vs 鹿儿岛列布尼斯" tvg-chno="1126" tvg-name="福井吹风 vs 鹿儿岛列布尼斯" tvg-group="篮球" group-title="篮球",福井吹风 vs 鹿儿岛列布尼斯
 http://192.168.5.35:44635/play/bffe7e16a701b21e9a6b341fe52ad479eb937af7
-#EXTINF:-1 tvg-id="福冈新锐 vs 冈山三环" tvg-chno="1125" tvg-name="福冈新锐 vs 冈山三环" tvg-group="篮球" group-title="篮球",福冈新锐 vs 冈山三环
+#EXTINF:-1 tvg-id="福冈新锐 vs 冈山三环" tvg-chno="1127" tvg-name="福冈新锐 vs 冈山三环" tvg-group="篮球" group-title="篮球",福冈新锐 vs 冈山三环
 http://192.168.5.35:44635/play/a867ac8e67e29d36f8448f096109f3a4fb9c27d5
-#EXTINF:-1 tvg-id="福冈新锐 vs 冈山三环" tvg-chno="1126" tvg-name="福冈新锐 vs 冈山三环" tvg-group="篮球" group-title="篮球",福冈新锐 vs 冈山三环
+#EXTINF:-1 tvg-id="福冈新锐 vs 冈山三环" tvg-chno="1128" tvg-name="福冈新锐 vs 冈山三环" tvg-group="篮球" group-title="篮球",福冈新锐 vs 冈山三环
 http://192.168.5.35:44635/play/89c44342279e98ab46fb4c6913655ae8c6ce064c
-#EXTINF:-1 tvg-id="福岛火绊 vs 新潟天鹅" tvg-chno="1127" tvg-name="福岛火绊 vs 新潟天鹅" tvg-group="篮球" group-title="篮球",福岛火绊 vs 新潟天鹅
+#EXTINF:-1 tvg-id="福岛火绊 vs 新潟天鹅" tvg-chno="1129" tvg-name="福岛火绊 vs 新潟天鹅" tvg-group="篮球" group-title="篮球",福岛火绊 vs 新潟天鹅
 http://192.168.5.35:44635/play/544dddbbfb574f15b0b4d8ce28739f714283120b
-#EXTINF:-1 tvg-id="福岛火绊 vs 新潟天鹅" tvg-chno="1128" tvg-name="福岛火绊 vs 新潟天鹅" tvg-group="篮球" group-title="篮球",福岛火绊 vs 新潟天鹅
+#EXTINF:-1 tvg-id="福岛火绊 vs 新潟天鹅" tvg-chno="1130" tvg-name="福岛火绊 vs 新潟天鹅" tvg-group="篮球" group-title="篮球",福岛火绊 vs 新潟天鹅
 http://192.168.5.35:44635/play/e90dbdfdc4cfafdc1ad939a125ab8a2503b13cf2
-#EXTINF:-1 tvg-id="福建众腾女篮 vs 贵州极光破晓女篮" tvg-chno="1129" tvg-name="福建众腾女篮 vs 贵州极光破晓女篮" tvg-group="篮球" group-title="篮球",福建众腾女篮 vs 贵州极光破晓女篮
+#EXTINF:-1 tvg-id="福建众腾女篮 vs 贵州极光破晓女篮" tvg-chno="1131" tvg-name="福建众腾女篮 vs 贵州极光破晓女篮" tvg-group="篮球" group-title="篮球",福建众腾女篮 vs 贵州极光破晓女篮
 http://192.168.5.35:44635/play/3688b250966a3497b59fa2858c501300eeb7fe82
-#EXTINF:-1 tvg-id="福建众腾女篮 vs 贵州极光破晓女篮" tvg-chno="1130" tvg-name="福建众腾女篮 vs 贵州极光破晓女篮" tvg-group="篮球" group-title="篮球",福建众腾女篮 vs 贵州极光破晓女篮
+#EXTINF:-1 tvg-id="福建众腾女篮 vs 贵州极光破晓女篮" tvg-chno="1132" tvg-name="福建众腾女篮 vs 贵州极光破晓女篮" tvg-group="篮球" group-title="篮球",福建众腾女篮 vs 贵州极光破晓女篮
 http://192.168.5.35:44635/play/255d9a4ff9f58abc24f42cb0cc71b367b476183d
-#EXTINF:-1 tvg-id="立川骰子 vs 横滨卓越" tvg-chno="1131" tvg-name="立川骰子 vs 横滨卓越" tvg-group="篮球" group-title="篮球",立川骰子 vs 横滨卓越
+#EXTINF:-1 tvg-id="立川骰子 vs 横滨卓越" tvg-chno="1133" tvg-name="立川骰子 vs 横滨卓越" tvg-group="篮球" group-title="篮球",立川骰子 vs 横滨卓越
 http://192.168.5.35:44635/play/34e64b600551017cd8fffa9bb10c71fffa0e87e6
-#EXTINF:-1 tvg-id="立川骰子 vs 横滨卓越" tvg-chno="1132" tvg-name="立川骰子 vs 横滨卓越" tvg-group="篮球" group-title="篮球",立川骰子 vs 横滨卓越
+#EXTINF:-1 tvg-id="立川骰子 vs 横滨卓越" tvg-chno="1134" tvg-name="立川骰子 vs 横滨卓越" tvg-group="篮球" group-title="篮球",立川骰子 vs 横滨卓越
 http://192.168.5.35:44635/play/e56d3eefe4ad74ef722986d3413ad3ec15e00932
-#EXTINF:-1 tvg-id="金泽武士团 vs 东京八王子市火车" tvg-chno="1133" tvg-name="金泽武士团 vs 东京八王子市火车" tvg-group="篮球" group-title="篮球",金泽武士团 vs 东京八王子市火车
+#EXTINF:-1 tvg-id="金泽武士团 vs 东京八王子市火车" tvg-chno="1135" tvg-name="金泽武士团 vs 东京八王子市火车" tvg-group="篮球" group-title="篮球",金泽武士团 vs 东京八王子市火车
 http://192.168.5.35:44635/play/2085c82cb6ffa71674efc7e91faad21c96bfc708
-#EXTINF:-1 tvg-id="金泽武士团 vs 东京八王子市火车" tvg-chno="1134" tvg-name="金泽武士团 vs 东京八王子市火车" tvg-group="篮球" group-title="篮球",金泽武士团 vs 东京八王子市火车
+#EXTINF:-1 tvg-id="金泽武士团 vs 东京八王子市火车" tvg-chno="1136" tvg-name="金泽武士团 vs 东京八王子市火车" tvg-group="篮球" group-title="篮球",金泽武士团 vs 东京八王子市火车
 http://192.168.5.35:44635/play/259025c041a9027bb77ed0d3bc0736260917e30f
-#EXTINF:-1 tvg-id="静冈顶点 vs 名古屋战鹰" tvg-chno="1135" tvg-name="静冈顶点 vs 名古屋战鹰" tvg-group="篮球" group-title="篮球",静冈顶点 vs 名古屋战鹰
+#EXTINF:-1 tvg-id="静冈顶点 vs 名古屋战鹰" tvg-chno="1137" tvg-name="静冈顶点 vs 名古屋战鹰" tvg-group="篮球" group-title="篮球",静冈顶点 vs 名古屋战鹰
 http://192.168.5.35:44635/play/94cdf7684d868fab5c43c999ae2bb05897faeba0
-#EXTINF:-1 tvg-id="静冈顶点 vs 名古屋战鹰" tvg-chno="1136" tvg-name="静冈顶点 vs 名古屋战鹰" tvg-group="篮球" group-title="篮球",静冈顶点 vs 名古屋战鹰
+#EXTINF:-1 tvg-id="静冈顶点 vs 名古屋战鹰" tvg-chno="1138" tvg-name="静冈顶点 vs 名古屋战鹰" tvg-group="篮球" group-title="篮球",静冈顶点 vs 名古屋战鹰
 http://192.168.5.35:44635/play/307a67632b8f25d0774155bf1d2b78dfdf8bc2fd
-#EXTINF:-1 tvg-id="首尔SK骑士 vs 大邱石油公社飞马" tvg-chno="1137" tvg-name="首尔SK骑士 vs 大邱石油公社飞马" tvg-group="篮球" group-title="篮球",首尔SK骑士 vs 大邱石油公社飞马
+#EXTINF:-1 tvg-id="首尔SK骑士 vs 大邱石油公社飞马" tvg-chno="1139" tvg-name="首尔SK骑士 vs 大邱石油公社飞马" tvg-group="篮球" group-title="篮球",首尔SK骑士 vs 大邱石油公社飞马
 http://192.168.5.35:44635/play/20a97c71f191721e29b53e1ab015b1a9a359cbe8
-#EXTINF:-1 tvg-id="首尔SK骑士 vs 大邱石油公社飞马" tvg-chno="1138" tvg-name="首尔SK骑士 vs 大邱石油公社飞马" tvg-group="篮球" group-title="篮球",首尔SK骑士 vs 大邱石油公社飞马
+#EXTINF:-1 tvg-id="首尔SK骑士 vs 大邱石油公社飞马" tvg-chno="1140" tvg-name="首尔SK骑士 vs 大邱石油公社飞马" tvg-group="篮球" group-title="篮球",首尔SK骑士 vs 大邱石油公社飞马
 http://192.168.5.35:44635/play/ace1d3787d998649862d8e33b08e2154b61d3634
 #EXTINF:-1 tvg-id="陕西榆林天泽女篮 vs 厦门体育集团女篮" tvg-chno="1201" tvg-name="陕西榆林天泽女篮 vs 厦门体育集团女篮" tvg-group="足球" group-title="足球",陕西榆林天泽女篮 vs 厦门体育集团女篮·咪咕直播
 http://192.168.5.35:35456/jrs/%E9%99%95%E8%A5%BF%E6%A6%86%E6%9E%97%E5%A4%A9%E6%B3%BD%E5%A5%B3%E7%AF%AE%20vs%20%E5%8E%A6%E9%97%A8%E4%BD%93%E8%82%B2%E9%9B%86%E5%9B%A2%E5%A5%B3%E7%AF%AE%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD
