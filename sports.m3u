@@ -15,67 +15,69 @@ http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E9%A6%96%E9%92%A2
 http://192.168.5.35:35456/team/%E6%B4%BB%E5%A1%9E
 #EXTINF:-1 tvg-id="北京国安" tvg-chno="1007" tvg-name="北京国安" tvg-group="关注" group-title="关注",北京国安｜11-08 15:30 重庆铜梁龙
 http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89
-#EXTINF:-1 tvg-id="ESPN" tvg-chno="1101" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
+#EXTINF:-1 tvg-id="NBA TV" tvg-chno="1101" tvg-name="NBA TV" tvg-group="篮球" group-title="篮球",NBA TV
+http://23.237.104.106:8080/USA_NBA/index.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-chno="1102" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="东华盛顿女篮 vs 犹他大学女篮" tvg-chno="1102" tvg-name="东华盛顿女篮 vs 犹他大学女篮" tvg-group="篮球" group-title="篮球",东华盛顿女篮 vs 犹他大学女篮
-http://192.168.5.35:44635/play/c49331c8aaaf77ae9d0ea17d3d3d7c9ebb6a9e25
 #EXTINF:-1 tvg-id="东华盛顿女篮 vs 犹他大学女篮" tvg-chno="1103" tvg-name="东华盛顿女篮 vs 犹他大学女篮" tvg-group="篮球" group-title="篮球",东华盛顿女篮 vs 犹他大学女篮
+http://192.168.5.35:44635/play/c49331c8aaaf77ae9d0ea17d3d3d7c9ebb6a9e25
+#EXTINF:-1 tvg-id="东华盛顿女篮 vs 犹他大学女篮" tvg-chno="1104" tvg-name="东华盛顿女篮 vs 犹他大学女篮" tvg-group="篮球" group-title="篮球",东华盛顿女篮 vs 犹他大学女篮
 http://192.168.5.35:44635/play/09db484abf444b38eb937ae21a635fc771b1f721
-#EXTINF:-1 tvg-id="休斯顿基督大学 vs 拉克里斯蒂安" tvg-chno="1104" tvg-name="休斯顿基督大学 vs 拉克里斯蒂安" tvg-group="篮球" group-title="篮球",休斯顿基督大学 vs 拉克里斯蒂安
-http://192.168.5.35:44635/play/b759195cf726d27c8c893c231363d8705a6b5fca
 #EXTINF:-1 tvg-id="休斯顿基督大学 vs 拉克里斯蒂安" tvg-chno="1105" tvg-name="休斯顿基督大学 vs 拉克里斯蒂安" tvg-group="篮球" group-title="篮球",休斯顿基督大学 vs 拉克里斯蒂安
+http://192.168.5.35:44635/play/b759195cf726d27c8c893c231363d8705a6b5fca
+#EXTINF:-1 tvg-id="休斯顿基督大学 vs 拉克里斯蒂安" tvg-chno="1106" tvg-name="休斯顿基督大学 vs 拉克里斯蒂安" tvg-group="篮球" group-title="篮球",休斯顿基督大学 vs 拉克里斯蒂安
 http://192.168.5.35:44635/play/b0535a4bfc3c9196d9329eacad989eaa660124fb
-#EXTINF:-1 tvg-id="北爱荷华大学 vs 康奈尔大学" tvg-chno="1106" tvg-name="北爱荷华大学 vs 康奈尔大学" tvg-group="篮球" group-title="篮球",北爱荷华大学 vs 康奈尔大学
-http://192.168.5.35:44635/play/a88b17d510b424af86de262eb9d6a4876c13097a
 #EXTINF:-1 tvg-id="北爱荷华大学 vs 康奈尔大学" tvg-chno="1107" tvg-name="北爱荷华大学 vs 康奈尔大学" tvg-group="篮球" group-title="篮球",北爱荷华大学 vs 康奈尔大学
+http://192.168.5.35:44635/play/a88b17d510b424af86de262eb9d6a4876c13097a
+#EXTINF:-1 tvg-id="北爱荷华大学 vs 康奈尔大学" tvg-chno="1108" tvg-name="北爱荷华大学 vs 康奈尔大学" tvg-group="篮球" group-title="篮球",北爱荷华大学 vs 康奈尔大学
 http://192.168.5.35:44635/play/cc566daad23642bace1234ad2d39bd545a9dfaf7
-#EXTINF:-1 tvg-id="堪萨斯州立大学 vs 南达科他州立大学" tvg-chno="1108" tvg-name="堪萨斯州立大学 vs 南达科他州立大学" tvg-group="篮球" group-title="篮球",堪萨斯州立大学 vs 南达科他州立大学
-http://192.168.5.35:44635/play/a09b5b424a4da364c1f597af342251b81dfd0855
 #EXTINF:-1 tvg-id="堪萨斯州立大学 vs 南达科他州立大学" tvg-chno="1109" tvg-name="堪萨斯州立大学 vs 南达科他州立大学" tvg-group="篮球" group-title="篮球",堪萨斯州立大学 vs 南达科他州立大学
+http://192.168.5.35:44635/play/a09b5b424a4da364c1f597af342251b81dfd0855
+#EXTINF:-1 tvg-id="堪萨斯州立大学 vs 南达科他州立大学" tvg-chno="1110" tvg-name="堪萨斯州立大学 vs 南达科他州立大学" tvg-group="篮球" group-title="篮球",堪萨斯州立大学 vs 南达科他州立大学
 http://192.168.5.35:44635/play/22ddb089cf93067837c83a4ddc1118b463bbff2f
-#EXTINF:-1 tvg-id="密苏里大学 vs 克利夫兰州立大学" tvg-chno="1110" tvg-name="密苏里大学 vs 克利夫兰州立大学" tvg-group="篮球" group-title="篮球",密苏里大学 vs 克利夫兰州立大学
-http://192.168.5.35:44635/play/0d622649f00d9281924d39d2ccbdc1b6fbfb648a
 #EXTINF:-1 tvg-id="密苏里大学 vs 克利夫兰州立大学" tvg-chno="1111" tvg-name="密苏里大学 vs 克利夫兰州立大学" tvg-group="篮球" group-title="篮球",密苏里大学 vs 克利夫兰州立大学
+http://192.168.5.35:44635/play/0d622649f00d9281924d39d2ccbdc1b6fbfb648a
+#EXTINF:-1 tvg-id="密苏里大学 vs 克利夫兰州立大学" tvg-chno="1112" tvg-name="密苏里大学 vs 克利夫兰州立大学" tvg-group="篮球" group-title="篮球",密苏里大学 vs 克利夫兰州立大学
 http://192.168.5.35:44635/play/faf55c29a2158509b4f6943257e4f67d0b9111be
-#EXTINF:-1 tvg-id="弗吉尼亚大学 vs 德雷塞尔大学" tvg-chno="1112" tvg-name="弗吉尼亚大学 vs 德雷塞尔大学" tvg-group="篮球" group-title="篮球",弗吉尼亚大学 vs 德雷塞尔大学
-http://192.168.5.35:44635/play/2948f21ca3ce7dd6ed032471475c896d2eacc2da
 #EXTINF:-1 tvg-id="弗吉尼亚大学 vs 德雷塞尔大学" tvg-chno="1113" tvg-name="弗吉尼亚大学 vs 德雷塞尔大学" tvg-group="篮球" group-title="篮球",弗吉尼亚大学 vs 德雷塞尔大学
+http://192.168.5.35:44635/play/2948f21ca3ce7dd6ed032471475c896d2eacc2da
+#EXTINF:-1 tvg-id="弗吉尼亚大学 vs 德雷塞尔大学" tvg-chno="1114" tvg-name="弗吉尼亚大学 vs 德雷塞尔大学" tvg-group="篮球" group-title="篮球",弗吉尼亚大学 vs 德雷塞尔大学
 http://192.168.5.35:44635/play/c3f18e33e469d32bf2e55233a443c949989c1ed2
-#EXTINF:-1 tvg-id="得州农工大学 vs 阿拉巴马州立大学" tvg-chno="1114" tvg-name="得州农工大学 vs 阿拉巴马州立大学" tvg-group="篮球" group-title="篮球",得州农工大学 vs 阿拉巴马州立大学
-http://192.168.5.35:44635/play/7cec6624ad62960b6c52c0475e90e53554bad947
 #EXTINF:-1 tvg-id="得州农工大学 vs 阿拉巴马州立大学" tvg-chno="1115" tvg-name="得州农工大学 vs 阿拉巴马州立大学" tvg-group="篮球" group-title="篮球",得州农工大学 vs 阿拉巴马州立大学
+http://192.168.5.35:44635/play/7cec6624ad62960b6c52c0475e90e53554bad947
+#EXTINF:-1 tvg-id="得州农工大学 vs 阿拉巴马州立大学" tvg-chno="1116" tvg-name="得州农工大学 vs 阿拉巴马州立大学" tvg-group="篮球" group-title="篮球",得州农工大学 vs 阿拉巴马州立大学
 http://192.168.5.35:44635/play/2c050313a3b35df39f34d6d6c62a1e2503edded9
-#EXTINF:-1 tvg-id="新墨西哥州立大学 vs 西新墨西哥" tvg-chno="1116" tvg-name="新墨西哥州立大学 vs 西新墨西哥" tvg-group="篮球" group-title="篮球",新墨西哥州立大学 vs 西新墨西哥
-http://192.168.5.35:44635/play/17a461e02c9bf15c751d0893153bf4bfbdbc3771
 #EXTINF:-1 tvg-id="新墨西哥州立大学 vs 西新墨西哥" tvg-chno="1117" tvg-name="新墨西哥州立大学 vs 西新墨西哥" tvg-group="篮球" group-title="篮球",新墨西哥州立大学 vs 西新墨西哥
+http://192.168.5.35:44635/play/17a461e02c9bf15c751d0893153bf4bfbdbc3771
+#EXTINF:-1 tvg-id="新墨西哥州立大学 vs 西新墨西哥" tvg-chno="1118" tvg-name="新墨西哥州立大学 vs 西新墨西哥" tvg-group="篮球" group-title="篮球",新墨西哥州立大学 vs 西新墨西哥
 http://192.168.5.35:44635/play/c6e9ccea061b0812feb8f8f08051855a8e6f1cae
-#EXTINF:-1 tvg-id="爱荷华大学 vs 利普斯科姆勃大学" tvg-chno="1118" tvg-name="爱荷华大学 vs 利普斯科姆勃大学" tvg-group="篮球" group-title="篮球",爱荷华大学 vs 利普斯科姆勃大学
-http://192.168.5.35:44635/play/510be7b47dcbf4395944771644ab72c901711c7c
 #EXTINF:-1 tvg-id="爱荷华大学 vs 利普斯科姆勃大学" tvg-chno="1119" tvg-name="爱荷华大学 vs 利普斯科姆勃大学" tvg-group="篮球" group-title="篮球",爱荷华大学 vs 利普斯科姆勃大学
+http://192.168.5.35:44635/play/510be7b47dcbf4395944771644ab72c901711c7c
+#EXTINF:-1 tvg-id="爱荷华大学 vs 利普斯科姆勃大学" tvg-chno="1120" tvg-name="爱荷华大学 vs 利普斯科姆勃大学" tvg-group="篮球" group-title="篮球",爱荷华大学 vs 利普斯科姆勃大学
 http://192.168.5.35:44635/play/b69261d6ef4e1857110433e29c42c7d5bcb692d8
-#EXTINF:-1 tvg-id="福尔摩莎 vs 阿根廷胡宁竞技" tvg-chno="1120" tvg-name="福尔摩莎 vs 阿根廷胡宁竞技" tvg-group="篮球" group-title="篮球",福尔摩莎 vs 阿根廷胡宁竞技
+#EXTINF:-1 tvg-id="爱达荷州立女篮 vs 杨百翰大学女篮" tvg-chno="1121" tvg-name="爱达荷州立女篮 vs 杨百翰大学女篮" tvg-group="篮球" group-title="篮球",爱达荷州立女篮 vs 杨百翰大学女篮
+http://192.168.5.35:44635/play/23e123dd747e5159debffbabf6d9cb236b6aa586
+#EXTINF:-1 tvg-id="爱达荷州立女篮 vs 杨百翰大学女篮" tvg-chno="1122" tvg-name="爱达荷州立女篮 vs 杨百翰大学女篮" tvg-group="篮球" group-title="篮球",爱达荷州立女篮 vs 杨百翰大学女篮
+http://192.168.5.35:44635/play/6ec75ecd68b0ebca2b7162301d805e5b436db52e
+#EXTINF:-1 tvg-id="福尔摩莎 vs 阿根廷胡宁竞技" tvg-chno="1123" tvg-name="福尔摩莎 vs 阿根廷胡宁竞技" tvg-group="篮球" group-title="篮球",福尔摩莎 vs 阿根廷胡宁竞技
 http://192.168.5.35:44635/play/d3394eb5c19ab60c0f2d7e03230120fbdc278e33
-#EXTINF:-1 tvg-id="福尔摩莎 vs 阿根廷胡宁竞技" tvg-chno="1121" tvg-name="福尔摩莎 vs 阿根廷胡宁竞技" tvg-group="篮球" group-title="篮球",福尔摩莎 vs 阿根廷胡宁竞技
+#EXTINF:-1 tvg-id="福尔摩莎 vs 阿根廷胡宁竞技" tvg-chno="1124" tvg-name="福尔摩莎 vs 阿根廷胡宁竞技" tvg-group="篮球" group-title="篮球",福尔摩莎 vs 阿根廷胡宁竞技
 http://192.168.5.35:44635/play/4a89691a4d69cea0d0d89dd3a502a15e91d96d3c
-#EXTINF:-1 tvg-id="科胡特佩克 vs 圣塔特卡拉" tvg-chno="1122" tvg-name="科胡特佩克 vs 圣塔特卡拉" tvg-group="篮球" group-title="篮球",科胡特佩克 vs 圣塔特卡拉
+#EXTINF:-1 tvg-id="科胡特佩克 vs 圣塔特卡拉" tvg-chno="1125" tvg-name="科胡特佩克 vs 圣塔特卡拉" tvg-group="篮球" group-title="篮球",科胡特佩克 vs 圣塔特卡拉
 http://192.168.5.35:44635/play/feeacf426ec302464d973b8f3e776ede4be590bb
-#EXTINF:-1 tvg-id="科胡特佩克 vs 圣塔特卡拉" tvg-chno="1123" tvg-name="科胡特佩克 vs 圣塔特卡拉" tvg-group="篮球" group-title="篮球",科胡特佩克 vs 圣塔特卡拉
+#EXTINF:-1 tvg-id="科胡特佩克 vs 圣塔特卡拉" tvg-chno="1126" tvg-name="科胡特佩克 vs 圣塔特卡拉" tvg-group="篮球" group-title="篮球",科胡特佩克 vs 圣塔特卡拉
 http://192.168.5.35:44635/play/3dfe03e81357818b22c02a175d889148c976d74c
-#EXTINF:-1 tvg-id="路易斯安那州立大学 vs 新奥尔良大学" tvg-chno="1124" tvg-name="路易斯安那州立大学 vs 新奥尔良大学" tvg-group="篮球" group-title="篮球",路易斯安那州立大学 vs 新奥尔良大学
+#EXTINF:-1 tvg-id="路易斯安那州立大学 vs 新奥尔良大学" tvg-chno="1127" tvg-name="路易斯安那州立大学 vs 新奥尔良大学" tvg-group="篮球" group-title="篮球",路易斯安那州立大学 vs 新奥尔良大学
 http://192.168.5.35:44635/play/ec315fff0123879eee1edf7823587a085fd2b976
-#EXTINF:-1 tvg-id="路易斯安那州立大学 vs 新奥尔良大学" tvg-chno="1125" tvg-name="路易斯安那州立大学 vs 新奥尔良大学" tvg-group="篮球" group-title="篮球",路易斯安那州立大学 vs 新奥尔良大学
+#EXTINF:-1 tvg-id="路易斯安那州立大学 vs 新奥尔良大学" tvg-chno="1128" tvg-name="路易斯安那州立大学 vs 新奥尔良大学" tvg-group="篮球" group-title="篮球",路易斯安那州立大学 vs 新奥尔良大学
 http://192.168.5.35:44635/play/cc8dda99724e892486f14fc8502adeed70267ec5
-#EXTINF:-1 tvg-id="阿拉巴马大学 vs 萨姆休斯顿州立大学" tvg-chno="1126" tvg-name="阿拉巴马大学 vs 萨姆休斯顿州立大学" tvg-group="篮球" group-title="篮球",阿拉巴马大学 vs 萨姆休斯顿州立大学
-http://192.168.5.35:44635/play/26b114d3b6c4192292db8d77707b16488f1480cf
-#EXTINF:-1 tvg-id="阿拉巴马大学 vs 萨姆休斯顿州立大学" tvg-chno="1127" tvg-name="阿拉巴马大学 vs 萨姆休斯顿州立大学" tvg-group="篮球" group-title="篮球",阿拉巴马大学 vs 萨姆休斯顿州立大学
-http://192.168.5.35:44635/play/f4f6559a2f4dc14e96def587c73b949941128eda
-#EXTINF:-1 tvg-id="阿特纳斯 vs 吉纳西亚科摩多罗" tvg-chno="1128" tvg-name="阿特纳斯 vs 吉纳西亚科摩多罗" tvg-group="篮球" group-title="篮球",阿特纳斯 vs 吉纳西亚科摩多罗
-http://192.168.5.35:44635/play/9997c70c4644989dc1bdb3452a9523902c667c1e
 #EXTINF:-1 tvg-id="阿特纳斯 vs 吉纳西亚科摩多罗" tvg-chno="1129" tvg-name="阿特纳斯 vs 吉纳西亚科摩多罗" tvg-group="篮球" group-title="篮球",阿特纳斯 vs 吉纳西亚科摩多罗
+http://192.168.5.35:44635/play/9997c70c4644989dc1bdb3452a9523902c667c1e
+#EXTINF:-1 tvg-id="阿特纳斯 vs 吉纳西亚科摩多罗" tvg-chno="1130" tvg-name="阿特纳斯 vs 吉纳西亚科摩多罗" tvg-group="篮球" group-title="篮球",阿特纳斯 vs 吉纳西亚科摩多罗
 http://192.168.5.35:44635/play/9f7319080efee0d75de71af8468971fb6035c0af
-#EXTINF:-1 tvg-id="阿肯色大学 vs 阿肯色大学派恩布拉夫分校" tvg-chno="1130" tvg-name="阿肯色大学 vs 阿肯色大学派恩布拉夫分校" tvg-group="篮球" group-title="篮球",阿肯色大学 vs 阿肯色大学派恩布拉夫分校
-http://192.168.5.35:44635/play/6c47328a305d3d639b6242b2980ee691ebfcd329
 #EXTINF:-1 tvg-id="阿肯色大学 vs 阿肯色大学派恩布拉夫分校" tvg-chno="1131" tvg-name="阿肯色大学 vs 阿肯色大学派恩布拉夫分校" tvg-group="篮球" group-title="篮球",阿肯色大学 vs 阿肯色大学派恩布拉夫分校
+http://192.168.5.35:44635/play/6c47328a305d3d639b6242b2980ee691ebfcd329
+#EXTINF:-1 tvg-id="阿肯色大学 vs 阿肯色大学派恩布拉夫分校" tvg-chno="1132" tvg-name="阿肯色大学 vs 阿肯色大学派恩布拉夫分校" tvg-group="篮球" group-title="篮球",阿肯色大学 vs 阿肯色大学派恩布拉夫分校
 http://192.168.5.35:44635/play/43421354f70e85a8b694884c8f2ba8690916be92
 #EXTINF:-1 tvg-id="FC大阪 vs 熊本深红" tvg-chno="1201" tvg-name="FC大阪 vs 熊本深红" tvg-group="足球" group-title="足球",FC大阪 vs 熊本深红
 http://192.168.5.35:44635/play/97a1da685e3511366b614290c255fc8776fba59f
