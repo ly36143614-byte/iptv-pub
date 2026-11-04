@@ -84,8 +84,10 @@ http://192.168.5.35:44635/play/94cdf7684d868fab5c43c999ae2bb05897faeba0
 #EXTINF:-1 tvg-id="静冈顶点 vs 名古屋战鹰" tvg-chno="1134" tvg-name="静冈顶点 vs 名古屋战鹰" tvg-group="篮球" group-title="篮球",静冈顶点 vs 名古屋战鹰
 http://192.168.5.35:44635/play/307a67632b8f25d0774155bf1d2b78dfdf8bc2fd
 #EXTINF:-1 tvg-id="首尔SK骑士 vs 大邱石油公社飞马" tvg-chno="1135" tvg-name="首尔SK骑士 vs 大邱石油公社飞马" tvg-group="篮球" group-title="篮球",首尔SK骑士 vs 大邱石油公社飞马
-http://192.168.5.35:44635/play/7228120afeb11660cbc39ac37c3d4431b4883226
-#EXTINF:-1 tvg-id="高丽大学 vs 延世大学" tvg-chno="1136" tvg-name="高丽大学 vs 延世大学" tvg-group="篮球" group-title="篮球",高丽大学 vs 延世大学
+http://192.168.5.35:44635/play/20a97c71f191721e29b53e1ab015b1a9a359cbe8
+#EXTINF:-1 tvg-id="首尔SK骑士 vs 大邱石油公社飞马" tvg-chno="1136" tvg-name="首尔SK骑士 vs 大邱石油公社飞马" tvg-group="篮球" group-title="篮球",首尔SK骑士 vs 大邱石油公社飞马
+http://192.168.5.35:44635/play/ace1d3787d998649862d8e33b08e2154b61d3634
+#EXTINF:-1 tvg-id="高丽大学 vs 延世大学" tvg-chno="1137" tvg-name="高丽大学 vs 延世大学" tvg-group="篮球" group-title="篮球",高丽大学 vs 延世大学
 http://192.168.5.35:44635/play/66840763ff64f4ed5a76dc56648a5db735c1f1e4
 #EXTINF:-1 tvg-id="4.25体育队女足 vs 胡志明市女足" tvg-chno="1201" tvg-name="4.25体育队女足 vs 胡志明市女足" tvg-group="足球" group-title="足球",4.25体育队女足 vs 胡志明市女足
 http://192.168.5.35:44635/play/78f0e7eb509f4f5d3ec8d06976ecb3eb3fdf0277
@@ -142,12 +144,14 @@ http://192.168.5.35:44635/play/de9bb951ce542eec7039cbc8a68f58539d242e9d
 #EXTINF:-1 tvg-id="班加罗尔B队 vs 班加罗尔梦幻联" tvg-chno="1227" tvg-name="班加罗尔B队 vs 班加罗尔梦幻联" tvg-group="足球" group-title="足球",班加罗尔B队 vs 班加罗尔梦幻联
 http://192.168.5.35:44635/play/521ee9f8a1e819db6375996202fba278a5ba06ee
 #EXTINF:-1 tvg-id="皇家班加罗尔 vs 斯图拉德" tvg-chno="1228" tvg-name="皇家班加罗尔 vs 斯图拉德" tvg-group="足球" group-title="足球",皇家班加罗尔 vs 斯图拉德
-http://192.168.5.35:44635/play/7848700f22dd594edfd85a309e6376f0227ca09a
-#EXTINF:-1 tvg-id="菲律宾陆军 vs 阿兹卡尔斯发展" tvg-chno="1229" tvg-name="菲律宾陆军 vs 阿兹卡尔斯发展" tvg-group="足球" group-title="足球",菲律宾陆军 vs 阿兹卡尔斯发展
-http://192.168.5.35:44635/play/6b3da09699d8bd10abb409d406c0d4973786a7e6
+http://192.168.5.35:44635/play/2ea430df78f43b9babc453bea70287df542407d4
+#EXTINF:-1 tvg-id="皇家班加罗尔 vs 斯图拉德" tvg-chno="1229" tvg-name="皇家班加罗尔 vs 斯图拉德" tvg-group="足球" group-title="足球",皇家班加罗尔 vs 斯图拉德
+http://192.168.5.35:44635/play/3fb6b44d2459394842dbd29e9e6d7b1715eef0b5
 #EXTINF:-1 tvg-id="菲律宾陆军 vs 阿兹卡尔斯发展" tvg-chno="1230" tvg-name="菲律宾陆军 vs 阿兹卡尔斯发展" tvg-group="足球" group-title="足球",菲律宾陆军 vs 阿兹卡尔斯发展
+http://192.168.5.35:44635/play/6b3da09699d8bd10abb409d406c0d4973786a7e6
+#EXTINF:-1 tvg-id="菲律宾陆军 vs 阿兹卡尔斯发展" tvg-chno="1231" tvg-name="菲律宾陆军 vs 阿兹卡尔斯发展" tvg-group="足球" group-title="足球",菲律宾陆军 vs 阿兹卡尔斯发展
 http://192.168.5.35:44635/play/9093fc91d21851682b3e4d661d3173fd5ef7a807
-#EXTINF:-1 tvg-id="辛布里勇士队 vs 佛统联" tvg-chno="1231" tvg-name="辛布里勇士队 vs 佛统联" tvg-group="足球" group-title="足球",辛布里勇士队 vs 佛统联
+#EXTINF:-1 tvg-id="辛布里勇士队 vs 佛统联" tvg-chno="1232" tvg-name="辛布里勇士队 vs 佛统联" tvg-group="足球" group-title="足球",辛布里勇士队 vs 佛统联
 http://192.168.5.35:44635/play/b0ce8edcc9eaf6af5bf5fc8b5bafcb74ed7dc0b2
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
