@@ -19,38 +19,34 @@ http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1102" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="BBC莱瓦 vs 雅典耀皮里亚波利斯" tvg-chno="1103" tvg-name="BBC莱瓦 vs 雅典耀皮里亚波利斯" tvg-group="篮球" group-title="篮球",BBC莱瓦 vs 雅典耀皮里亚波利斯
-http://192.168.5.35:44635/play/7b86ab975777f7d3447841660eac2b9300077504
-#EXTINF:-1 tvg-id="乌法兹萨 vs 保利斯塔诺" tvg-chno="1104" tvg-name="乌法兹萨 vs 保利斯塔诺" tvg-group="篮球" group-title="篮球",乌法兹萨 vs 保利斯塔诺
+#EXTINF:-1 tvg-id="乌法兹萨 vs 保利斯塔诺" tvg-chno="1103" tvg-name="乌法兹萨 vs 保利斯塔诺" tvg-group="篮球" group-title="篮球",乌法兹萨 vs 保利斯塔诺
 http://192.168.5.35:44635/play/483faf547d3564fb3e624255461c736bf0061cb2
-#EXTINF:-1 tvg-id="乌法兹萨 vs 保利斯塔诺" tvg-chno="1105" tvg-name="乌法兹萨 vs 保利斯塔诺" tvg-group="篮球" group-title="篮球",乌法兹萨 vs 保利斯塔诺
+#EXTINF:-1 tvg-id="乌法兹萨 vs 保利斯塔诺" tvg-chno="1104" tvg-name="乌法兹萨 vs 保利斯塔诺" tvg-group="篮球" group-title="篮球",乌法兹萨 vs 保利斯塔诺
 http://192.168.5.35:44635/play/f19df563fe7dc4067e42b61a671c02ff04e6c11e
-#EXTINF:-1 tvg-id="北卡阿什维尔分校 vs 厄斯金学院" tvg-chno="1106" tvg-name="北卡阿什维尔分校 vs 厄斯金学院" tvg-group="篮球" group-title="篮球",北卡阿什维尔分校 vs 厄斯金学院
+#EXTINF:-1 tvg-id="北卡阿什维尔分校 vs 厄斯金学院" tvg-chno="1105" tvg-name="北卡阿什维尔分校 vs 厄斯金学院" tvg-group="篮球" group-title="篮球",北卡阿什维尔分校 vs 厄斯金学院
 http://192.168.5.35:44635/play/b48f381a27d19b13f72eb5233c500c32606b3700
-#EXTINF:-1 tvg-id="圣约瑟大学 vs 朗沃德大学" tvg-chno="1107" tvg-name="圣约瑟大学 vs 朗沃德大学" tvg-group="篮球" group-title="篮球",圣约瑟大学 vs 朗沃德大学
+#EXTINF:-1 tvg-id="圣约瑟大学 vs 朗沃德大学" tvg-chno="1106" tvg-name="圣约瑟大学 vs 朗沃德大学" tvg-group="篮球" group-title="篮球",圣约瑟大学 vs 朗沃德大学
 http://192.168.5.35:44635/play/af048c9a5f96aad4e76e9ed0ebdd822d59848a7d
-#EXTINF:-1 tvg-id="巴特勒大学 vs 菲尔莱狄更斯大学" tvg-chno="1108" tvg-name="巴特勒大学 vs 菲尔莱狄更斯大学" tvg-group="篮球" group-title="篮球",巴特勒大学 vs 菲尔莱狄更斯大学
+#EXTINF:-1 tvg-id="巴特勒大学 vs 菲尔莱狄更斯大学" tvg-chno="1107" tvg-name="巴特勒大学 vs 菲尔莱狄更斯大学" tvg-group="篮球" group-title="篮球",巴特勒大学 vs 菲尔莱狄更斯大学
 http://192.168.5.35:44635/play/d948a9824965a7462e6cba84a7d459aa0318c973
-#EXTINF:-1 tvg-id="巴西利亚 vs 弗拉门戈" tvg-chno="1109" tvg-name="巴西利亚 vs 弗拉门戈" tvg-group="篮球" group-title="篮球",巴西利亚 vs 弗拉门戈
+#EXTINF:-1 tvg-id="巴西利亚 vs 弗拉门戈" tvg-chno="1108" tvg-name="巴西利亚 vs 弗拉门戈" tvg-group="篮球" group-title="篮球",巴西利亚 vs 弗拉门戈
 http://192.168.5.35:44635/play/c21ddca025d2c1967a34f126424b85a4a99877b9
-#EXTINF:-1 tvg-id="巴西利亚 vs 弗拉门戈" tvg-chno="1110" tvg-name="巴西利亚 vs 弗拉门戈" tvg-group="篮球" group-title="篮球",巴西利亚 vs 弗拉门戈
+#EXTINF:-1 tvg-id="巴西利亚 vs 弗拉门戈" tvg-chno="1109" tvg-name="巴西利亚 vs 弗拉门戈" tvg-group="篮球" group-title="篮球",巴西利亚 vs 弗拉门戈
 http://192.168.5.35:44635/play/4d8dc30468d3521760b1b6ff923b5d7262fd9635
-#EXTINF:-1 tvg-id="拉斐尔巴里亚斯 vs 巴米索" tvg-chno="1111" tvg-name="拉斐尔巴里亚斯 vs 巴米索" tvg-group="篮球" group-title="篮球",拉斐尔巴里亚斯 vs 巴米索
+#EXTINF:-1 tvg-id="拉斐尔巴里亚斯 vs 巴米索" tvg-chno="1110" tvg-name="拉斐尔巴里亚斯 vs 巴米索" tvg-group="篮球" group-title="篮球",拉斐尔巴里亚斯 vs 巴米索
 http://192.168.5.35:44635/play/180f2dc26f0216f06462086e63b451915b113934
-#EXTINF:-1 tvg-id="摩日达斯克鲁济斯 vs 福塔雷萨" tvg-chno="1112" tvg-name="摩日达斯克鲁济斯 vs 福塔雷萨" tvg-group="篮球" group-title="篮球",摩日达斯克鲁济斯 vs 福塔雷萨
+#EXTINF:-1 tvg-id="摩日达斯克鲁济斯 vs 福塔雷萨" tvg-chno="1111" tvg-name="摩日达斯克鲁济斯 vs 福塔雷萨" tvg-group="篮球" group-title="篮球",摩日达斯克鲁济斯 vs 福塔雷萨
 http://192.168.5.35:44635/play/4e45b1c4c82a7010ae8b62086583a856c84c193a
-#EXTINF:-1 tvg-id="摩日达斯克鲁济斯 vs 福塔雷萨" tvg-chno="1113" tvg-name="摩日达斯克鲁济斯 vs 福塔雷萨" tvg-group="篮球" group-title="篮球",摩日达斯克鲁济斯 vs 福塔雷萨
+#EXTINF:-1 tvg-id="摩日达斯克鲁济斯 vs 福塔雷萨" tvg-chno="1112" tvg-name="摩日达斯克鲁济斯 vs 福塔雷萨" tvg-group="篮球" group-title="篮球",摩日达斯克鲁济斯 vs 福塔雷萨
 http://192.168.5.35:44635/play/6aedab32766ee9224842d4fa8753897f5160d96e
-#EXTINF:-1 tvg-id="欧道明大学 vs 瑞金大学" tvg-chno="1114" tvg-name="欧道明大学 vs 瑞金大学" tvg-group="篮球" group-title="篮球",欧道明大学 vs 瑞金大学
+#EXTINF:-1 tvg-id="欧道明大学 vs 瑞金大学" tvg-chno="1113" tvg-name="欧道明大学 vs 瑞金大学" tvg-group="篮球" group-title="篮球",欧道明大学 vs 瑞金大学
 http://192.168.5.35:44635/play/4668eb450d5310f721a37bb755da6f8bd75e37b6
-#EXTINF:-1 tvg-id="海波因特大学 vs 马里兰东海岸大学" tvg-chno="1115" tvg-name="海波因特大学 vs 马里兰东海岸大学" tvg-group="篮球" group-title="篮球",海波因特大学 vs 马里兰东海岸大学
+#EXTINF:-1 tvg-id="海波因特大学 vs 马里兰东海岸大学" tvg-chno="1114" tvg-name="海波因特大学 vs 马里兰东海岸大学" tvg-group="篮球" group-title="篮球",海波因特大学 vs 马里兰东海岸大学
 http://192.168.5.35:44635/play/174582f1c00a55c419d74bb0b97e27ac513338c6
-#EXTINF:-1 tvg-id="罗萨里奥 vs 其克利斯塔" tvg-chno="1116" tvg-name="罗萨里奥 vs 其克利斯塔" tvg-group="篮球" group-title="篮球",罗萨里奥 vs 其克利斯塔
+#EXTINF:-1 tvg-id="罗萨里奥 vs 其克利斯塔" tvg-chno="1115" tvg-name="罗萨里奥 vs 其克利斯塔" tvg-group="篮球" group-title="篮球",罗萨里奥 vs 其克利斯塔
 http://192.168.5.35:44635/play/4fd432b01ed361a314c93d9af4333a46103cfa37
-#EXTINF:-1 tvg-id="阿帕拉契亚州立大学 vs 基督世界学院" tvg-chno="1117" tvg-name="阿帕拉契亚州立大学 vs 基督世界学院" tvg-group="篮球" group-title="篮球",阿帕拉契亚州立大学 vs 基督世界学院
+#EXTINF:-1 tvg-id="阿帕拉契亚州立大学 vs 基督世界学院" tvg-chno="1116" tvg-name="阿帕拉契亚州立大学 vs 基督世界学院" tvg-group="篮球" group-title="篮球",阿帕拉契亚州立大学 vs 基督世界学院
 http://192.168.5.35:44635/play/dee104ec861aba346730a9f4bbf3c61640e126e4
-#EXTINF:-1 tvg-id="首都队 vs 拉斯彼德拉斯" tvg-chno="1118" tvg-name="首都队 vs 拉斯彼德拉斯" tvg-group="篮球" group-title="篮球",首都队 vs 拉斯彼德拉斯
-http://192.168.5.35:44635/play/cd76776e5ecb794b130798140b6d5201a7bbf327
 #EXTINF:-1 tvg-id="亚松森奥林匹亚 vs 雷科莱塔" tvg-chno="1201" tvg-name="亚松森奥林匹亚 vs 雷科莱塔" tvg-group="足球" group-title="足球",亚松森奥林匹亚 vs 雷科莱塔
 http://192.168.5.35:44635/play/e94ed1646fac49d7cb3c560fb32c583219d19311
 #EXTINF:-1 tvg-id="亚松森奥林匹亚 vs 雷科莱塔" tvg-chno="1202" tvg-name="亚松森奥林匹亚 vs 雷科莱塔" tvg-group="足球" group-title="足球",亚松森奥林匹亚 vs 雷科莱塔
@@ -135,7 +131,9 @@ https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1357" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1358" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1358" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1359" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="AB vs TSpirit.A" tvg-chno="1401" tvg-name="AB vs TSpirit.A" tvg-group="DOTA2" group-title="DOTA2",AB vs TSpirit.A
 http://192.168.5.35:44635/play/84ac5dca9730d663bb66d8d1f0cc83860baa1b0b
