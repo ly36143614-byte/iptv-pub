@@ -144,8 +144,10 @@ http://192.168.5.35:44635/play/521ee9f8a1e819db6375996202fba278a5ba06ee
 #EXTINF:-1 tvg-id="皇家班加罗尔 vs 斯图拉德" tvg-chno="1228" tvg-name="皇家班加罗尔 vs 斯图拉德" tvg-group="足球" group-title="足球",皇家班加罗尔 vs 斯图拉德
 http://192.168.5.35:44635/play/7848700f22dd594edfd85a309e6376f0227ca09a
 #EXTINF:-1 tvg-id="菲律宾陆军 vs 阿兹卡尔斯发展" tvg-chno="1229" tvg-name="菲律宾陆军 vs 阿兹卡尔斯发展" tvg-group="足球" group-title="足球",菲律宾陆军 vs 阿兹卡尔斯发展
-http://192.168.5.35:44635/play/3faec1f31a0ce71ba95993398071abbd99475049
-#EXTINF:-1 tvg-id="辛布里勇士队 vs 佛统联" tvg-chno="1230" tvg-name="辛布里勇士队 vs 佛统联" tvg-group="足球" group-title="足球",辛布里勇士队 vs 佛统联
+http://192.168.5.35:44635/play/6b3da09699d8bd10abb409d406c0d4973786a7e6
+#EXTINF:-1 tvg-id="菲律宾陆军 vs 阿兹卡尔斯发展" tvg-chno="1230" tvg-name="菲律宾陆军 vs 阿兹卡尔斯发展" tvg-group="足球" group-title="足球",菲律宾陆军 vs 阿兹卡尔斯发展
+http://192.168.5.35:44635/play/9093fc91d21851682b3e4d661d3173fd5ef7a807
+#EXTINF:-1 tvg-id="辛布里勇士队 vs 佛统联" tvg-chno="1231" tvg-name="辛布里勇士队 vs 佛统联" tvg-group="足球" group-title="足球",辛布里勇士队 vs 佛统联
 http://192.168.5.35:44635/play/b0ce8edcc9eaf6af5bf5fc8b5bafcb74ed7dc0b2
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
@@ -153,13 +155,15 @@ http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1303" tvg-name="ESPN" tvg-group="综合体育" group-title="综合体育",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1304" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1304" tvg-name="Tennis Channel" tvg-group="综合体育" group-title="综合体育",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1305" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1305" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1306" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1307" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1307" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1308" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
