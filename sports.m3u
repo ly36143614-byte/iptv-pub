@@ -65,13 +65,21 @@ http://192.168.5.35:35456/jrs/%E9%98%BF%E5%8D%A1%E8%BE%BE%E6%A0%BC%20vs%20%E9%AB
 http://192.168.5.35:44635/play/80168c6e68442dce4af7c21e47ec8be95f4e6ad2
 #EXTINF:-1 tvg-id="伊洛瓦底女足 vs 神户雌狮女足" tvg-chno="1203" tvg-name="伊洛瓦底女足 vs 神户雌狮女足" tvg-group="足球" group-title="足球",伊洛瓦底女足 vs 神户雌狮女足
 http://192.168.5.35:44635/play/f6bfd748f11a3196c9e44f44d37cbb4d2ae94af1
-#EXTINF:-1 tvg-id="武里南联 vs 鹿岛鹿角" tvg-chno="1204" tvg-name="武里南联 vs 鹿岛鹿角" tvg-group="足球" group-title="足球",武里南联 vs 鹿岛鹿角·咪咕直播
+#EXTINF:-1 tvg-id="切尔西U19 vs 塔林弗洛拉U19" tvg-chno="1204" tvg-name="切尔西U19 vs 塔林弗洛拉U19" tvg-group="足球" group-title="足球",切尔西U19 vs 塔林弗洛拉U19
+http://192.168.5.35:44635/play/f26038dbf92f0190ec09ca0de401b256dfe40ae0
+#EXTINF:-1 tvg-id="切尔西U19 vs 塔林弗洛拉U19" tvg-chno="1205" tvg-name="切尔西U19 vs 塔林弗洛拉U19" tvg-group="足球" group-title="足球",切尔西U19 vs 塔林弗洛拉U19
+http://192.168.5.35:44635/play/ef374aaccde5286011d585cd21c1fc1980b7a84a
+#EXTINF:-1 tvg-id="武里南联 vs 鹿岛鹿角" tvg-chno="1206" tvg-name="武里南联 vs 鹿岛鹿角" tvg-group="足球" group-title="足球",武里南联 vs 鹿岛鹿角·咪咕直播
 http://192.168.5.35:35456/jrs/%E6%AD%A6%E9%87%8C%E5%8D%97%E8%81%94%20vs%20%E9%B9%BF%E5%B2%9B%E9%B9%BF%E8%A7%92%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD
-#EXTINF:-1 tvg-id="武里南联 vs 鹿岛鹿角" tvg-chno="1205" tvg-name="武里南联 vs 鹿岛鹿角" tvg-group="足球" group-title="足球",武里南联 vs 鹿岛鹿角·聚合备用
+#EXTINF:-1 tvg-id="武里南联 vs 鹿岛鹿角" tvg-chno="1207" tvg-name="武里南联 vs 鹿岛鹿角" tvg-group="足球" group-title="足球",武里南联 vs 鹿岛鹿角·聚合备用
 http://192.168.5.35:44635/play/03732f428d20be2481d69884639eac580f87fb28
-#EXTINF:-1 tvg-id="马尼拉挖掘者 vs 图洛伊" tvg-chno="1206" tvg-name="马尼拉挖掘者 vs 图洛伊" tvg-group="足球" group-title="足球",马尼拉挖掘者 vs 图洛伊
+#EXTINF:-1 tvg-id="贝尔格莱德红星U19 vs NK布拉沃U19" tvg-chno="1208" tvg-name="贝尔格莱德红星U19 vs NK布拉沃U19" tvg-group="足球" group-title="足球",贝尔格莱德红星U19 vs NK布拉沃U19
+http://192.168.5.35:44635/play/5903025b24f6fa9f47e2cccd81ef8f6565c1d8ed
+#EXTINF:-1 tvg-id="贝尔格莱德红星U19 vs NK布拉沃U19" tvg-chno="1209" tvg-name="贝尔格莱德红星U19 vs NK布拉沃U19" tvg-group="足球" group-title="足球",贝尔格莱德红星U19 vs NK布拉沃U19
+http://192.168.5.35:44635/play/4ddefac22805b36f2270c3c4f286fe4f9e8f3f33
+#EXTINF:-1 tvg-id="马尼拉挖掘者 vs 图洛伊" tvg-chno="1210" tvg-name="马尼拉挖掘者 vs 图洛伊" tvg-group="足球" group-title="足球",马尼拉挖掘者 vs 图洛伊
 http://192.168.5.35:44635/play/3418b2415387818cf9d30e53e48b5b2c933162fb
-#EXTINF:-1 tvg-id="马尼拉挖掘者 vs 图洛伊" tvg-chno="1207" tvg-name="马尼拉挖掘者 vs 图洛伊" tvg-group="足球" group-title="足球",马尼拉挖掘者 vs 图洛伊
+#EXTINF:-1 tvg-id="马尼拉挖掘者 vs 图洛伊" tvg-chno="1211" tvg-name="马尼拉挖掘者 vs 图洛伊" tvg-group="足球" group-title="足球",马尼拉挖掘者 vs 图洛伊
 http://192.168.5.35:44635/play/7f3fab475de1f067baefde74f4eb955687207163
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
