@@ -97,55 +97,63 @@ http://192.168.5.35:44635/play/307a67632b8f25d0774155bf1d2b78dfdf8bc2fd
 http://192.168.5.35:44635/play/20a97c71f191721e29b53e1ab015b1a9a359cbe8
 #EXTINF:-1 tvg-id="墨尔本胜利 vs 万隆" tvg-chno="1201" tvg-name="墨尔本胜利 vs 万隆" tvg-group="足球" group-title="足球",墨尔本胜利 vs 万隆·咪咕直播
 http://192.168.5.35:35456/jrs/%E5%A2%A8%E5%B0%94%E6%9C%AC%E8%83%9C%E5%88%A9%20vs%20%E4%B8%87%E9%9A%86%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD
-#EXTINF:-1 tvg-id="FC首尔 vs 越电信体工" tvg-chno="1202" tvg-name="FC首尔 vs 越电信体工" tvg-group="足球" group-title="足球",FC首尔 vs 越电信体工·咪咕直播
-http://192.168.5.35:35456/jrs/FC%E9%A6%96%E5%B0%94%20vs%20%E8%B6%8A%E7%94%B5%E4%BF%A1%E4%BD%93%E5%B7%A5%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD
-#EXTINF:-1 tvg-id="浦项铁人 vs 大阪钢巴" tvg-chno="1203" tvg-name="浦项铁人 vs 大阪钢巴" tvg-group="足球" group-title="足球",浦项铁人 vs 大阪钢巴·咪咕直播
+#EXTINF:-1 tvg-id="浦项铁人 vs 大阪钢巴" tvg-chno="1202" tvg-name="浦项铁人 vs 大阪钢巴" tvg-group="足球" group-title="足球",浦项铁人 vs 大阪钢巴·咪咕直播
 http://192.168.5.35:35456/jrs/%E6%B5%A6%E9%A1%B9%E9%93%81%E4%BA%BA%20vs%20%E5%A4%A7%E9%98%AA%E9%92%A2%E5%B7%B4%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD
-#EXTINF:-1 tvg-id="4.25体育队女足 vs 胡志明市女足" tvg-chno="1204" tvg-name="4.25体育队女足 vs 胡志明市女足" tvg-group="足球" group-title="足球",4.25体育队女足 vs 胡志明市女足
+#EXTINF:-1 tvg-id="4.25体育队女足 vs 胡志明市女足" tvg-chno="1203" tvg-name="4.25体育队女足 vs 胡志明市女足" tvg-group="足球" group-title="足球",4.25体育队女足 vs 胡志明市女足
 http://192.168.5.35:44635/play/78f0e7eb509f4f5d3ec8d06976ecb3eb3fdf0277
-#EXTINF:-1 tvg-id="4.25体育队女足 vs 胡志明市女足" tvg-chno="1205" tvg-name="4.25体育队女足 vs 胡志明市女足" tvg-group="足球" group-title="足球",4.25体育队女足 vs 胡志明市女足
+#EXTINF:-1 tvg-id="4.25体育队女足 vs 胡志明市女足" tvg-chno="1204" tvg-name="4.25体育队女足 vs 胡志明市女足" tvg-group="足球" group-title="足球",4.25体育队女足 vs 胡志明市女足
 http://192.168.5.35:44635/play/06c5fa6b61b3ef5cd8a465edfebdf3b370b24329
-#EXTINF:-1 tvg-id="伊米斯堡U19 vs 德尼兹利伊古雷勒U19" tvg-chno="1206" tvg-name="伊米斯堡U19 vs 德尼兹利伊古雷勒U19" tvg-group="足球" group-title="足球",伊米斯堡U19 vs 德尼兹利伊古雷勒U19
+#EXTINF:-1 tvg-id="FC首尔 vs 越电信体工" tvg-chno="1205" tvg-name="FC首尔 vs 越电信体工" tvg-group="足球" group-title="足球",FC首尔 vs 越电信体工·咪咕直播
+http://192.168.5.35:35456/jrs/FC%E9%A6%96%E5%B0%94%20vs%20%E8%B6%8A%E7%94%B5%E4%BF%A1%E4%BD%93%E5%B7%A5%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD
+#EXTINF:-1 tvg-id="FC首尔 vs 越电信体工" tvg-chno="1206" tvg-name="FC首尔 vs 越电信体工" tvg-group="足球" group-title="足球",FC首尔 vs 越电信体工·聚合备用
+http://192.168.5.35:44635/play/d6839dedb926643c2a07d26d4fbdcaf808b3871f
+#EXTINF:-1 tvg-id="伊米斯堡U19 vs 德尼兹利伊古雷勒U19" tvg-chno="1207" tvg-name="伊米斯堡U19 vs 德尼兹利伊古雷勒U19" tvg-group="足球" group-title="足球",伊米斯堡U19 vs 德尼兹利伊古雷勒U19
 http://192.168.5.35:44635/play/4e5614c06cf9b6586cfb946a11af546d81e6e9cd
-#EXTINF:-1 tvg-id="凯拉特U19 vs MTK布达佩斯U19" tvg-chno="1207" tvg-name="凯拉特U19 vs MTK布达佩斯U19" tvg-group="足球" group-title="足球",凯拉特U19 vs MTK布达佩斯U19
-http://192.168.5.35:44635/play/cb03375ac0afbc33d4e5a69a5b99b13bbac23410
 #EXTINF:-1 tvg-id="凯拉特U19 vs MTK布达佩斯U19" tvg-chno="1208" tvg-name="凯拉特U19 vs MTK布达佩斯U19" tvg-group="足球" group-title="足球",凯拉特U19 vs MTK布达佩斯U19
+http://192.168.5.35:44635/play/cb03375ac0afbc33d4e5a69a5b99b13bbac23410
+#EXTINF:-1 tvg-id="凯拉特U19 vs MTK布达佩斯U19" tvg-chno="1209" tvg-name="凯拉特U19 vs MTK布达佩斯U19" tvg-group="足球" group-title="足球",凯拉特U19 vs MTK布达佩斯U19
 http://192.168.5.35:44635/play/1db037035cb3ed9b6fc4fad100c64fc30499b049
-#EXTINF:-1 tvg-id="利维贝雷U19 vs 切尔卡斯U19" tvg-chno="1209" tvg-name="利维贝雷U19 vs 切尔卡斯U19" tvg-group="足球" group-title="足球",利维贝雷U19 vs 切尔卡斯U19
+#EXTINF:-1 tvg-id="利维贝雷U19 vs 切尔卡斯U19" tvg-chno="1210" tvg-name="利维贝雷U19 vs 切尔卡斯U19" tvg-group="足球" group-title="足球",利维贝雷U19 vs 切尔卡斯U19
 http://192.168.5.35:44635/play/c46ee9688b6267456e6535785202d4291cb28cfd
-#EXTINF:-1 tvg-id="卡帕提U19 vs 利沃夫U19" tvg-chno="1210" tvg-name="卡帕提U19 vs 利沃夫U19" tvg-group="足球" group-title="足球",卡帕提U19 vs 利沃夫U19
+#EXTINF:-1 tvg-id="卡帕提U19 vs 利沃夫U19" tvg-chno="1211" tvg-name="卡帕提U19 vs 利沃夫U19" tvg-group="足球" group-title="足球",卡帕提U19 vs 利沃夫U19
 http://192.168.5.35:44635/play/b47bbbaece046a84f66aad85edeb0eebe46bef36
-#EXTINF:-1 tvg-id="叶尼塞 vs 下诺夫哥罗德" tvg-chno="1211" tvg-name="叶尼塞 vs 下诺夫哥罗德" tvg-group="足球" group-title="足球",叶尼塞 vs 下诺夫哥罗德
-http://192.168.5.35:44635/play/021efc9bbca98f4b4c05d7387a326fbccc352ddf
 #EXTINF:-1 tvg-id="叶尼塞 vs 下诺夫哥罗德" tvg-chno="1212" tvg-name="叶尼塞 vs 下诺夫哥罗德" tvg-group="足球" group-title="足球",叶尼塞 vs 下诺夫哥罗德
+http://192.168.5.35:44635/play/021efc9bbca98f4b4c05d7387a326fbccc352ddf
+#EXTINF:-1 tvg-id="叶尼塞 vs 下诺夫哥罗德" tvg-chno="1213" tvg-name="叶尼塞 vs 下诺夫哥罗德" tvg-group="足球" group-title="足球",叶尼塞 vs 下诺夫哥罗德
 http://192.168.5.35:44635/play/8fe53e301c99513d796d21bcdf9f5e76f91ebcd6
-#EXTINF:-1 tvg-id="巴姆卡通女足 vs 我故乡女足" tvg-chno="1213" tvg-name="巴姆卡通女足 vs 我故乡女足" tvg-group="足球" group-title="足球",巴姆卡通女足 vs 我故乡女足
-http://192.168.5.35:44635/play/b766ce5e462a4ceedd09587363b5b6f01a242c4c
 #EXTINF:-1 tvg-id="巴姆卡通女足 vs 我故乡女足" tvg-chno="1214" tvg-name="巴姆卡通女足 vs 我故乡女足" tvg-group="足球" group-title="足球",巴姆卡通女足 vs 我故乡女足
+http://192.168.5.35:44635/play/b766ce5e462a4ceedd09587363b5b6f01a242c4c
+#EXTINF:-1 tvg-id="巴姆卡通女足 vs 我故乡女足" tvg-chno="1215" tvg-name="巴姆卡通女足 vs 我故乡女足" tvg-group="足球" group-title="足球",巴姆卡通女足 vs 我故乡女足
 http://192.168.5.35:44635/play/69d2d1eda54755dd15f2a5e63ffbc09e1e674bf3
-#EXTINF:-1 tvg-id="布拉格斯巴达B队 vs 比尔森胜利B队" tvg-chno="1215" tvg-name="布拉格斯巴达B队 vs 比尔森胜利B队" tvg-group="足球" group-title="足球",布拉格斯巴达B队 vs 比尔森胜利B队
-http://192.168.5.35:44635/play/530e2b91ff33aae44525294feb3f799197c957c8
 #EXTINF:-1 tvg-id="布拉格斯巴达B队 vs 比尔森胜利B队" tvg-chno="1216" tvg-name="布拉格斯巴达B队 vs 比尔森胜利B队" tvg-group="足球" group-title="足球",布拉格斯巴达B队 vs 比尔森胜利B队
+http://192.168.5.35:44635/play/530e2b91ff33aae44525294feb3f799197c957c8
+#EXTINF:-1 tvg-id="布拉格斯巴达B队 vs 比尔森胜利B队" tvg-chno="1217" tvg-name="布拉格斯巴达B队 vs 比尔森胜利B队" tvg-group="足球" group-title="足球",布拉格斯巴达B队 vs 比尔森胜利B队
 http://192.168.5.35:44635/play/af3f27d20e64eda0e6d0b3435d17bf7d2168431f
-#EXTINF:-1 tvg-id="曼迪奥拉 vs 宿务" tvg-chno="1217" tvg-name="曼迪奥拉 vs 宿务" tvg-group="足球" group-title="足球",曼迪奥拉 vs 宿务
+#EXTINF:-1 tvg-id="托尔斯蒂安 vs 扎波罗热米塔路" tvg-chno="1218" tvg-name="托尔斯蒂安 vs 扎波罗热米塔路" tvg-group="足球" group-title="足球",托尔斯蒂安 vs 扎波罗热米塔路
+http://192.168.5.35:44635/play/0e7becf16091f5a0e7768b0fd3b02356cb6f11b2
+#EXTINF:-1 tvg-id="曼迪奥拉 vs 宿务" tvg-chno="1219" tvg-name="曼迪奥拉 vs 宿务" tvg-group="足球" group-title="足球",曼迪奥拉 vs 宿务
 http://192.168.5.35:44635/play/c85e67dc70c717244ec3893f0a5f976cbfcc4c13
-#EXTINF:-1 tvg-id="曼迪奥拉 vs 宿务" tvg-chno="1218" tvg-name="曼迪奥拉 vs 宿务" tvg-group="足球" group-title="足球",曼迪奥拉 vs 宿务
+#EXTINF:-1 tvg-id="曼迪奥拉 vs 宿务" tvg-chno="1220" tvg-name="曼迪奥拉 vs 宿务" tvg-group="足球" group-title="足球",曼迪奥拉 vs 宿务
 http://192.168.5.35:44635/play/01d810a8459a7dcec28b2018ddddac23ff811e0c
-#EXTINF:-1 tvg-id="梅内姆斯波U19 vs 布卡贝雷迪耶U19" tvg-chno="1219" tvg-name="梅内姆斯波U19 vs 布卡贝雷迪耶U19" tvg-group="足球" group-title="足球",梅内姆斯波U19 vs 布卡贝雷迪耶U19
+#EXTINF:-1 tvg-id="梅内姆斯波U19 vs 布卡贝雷迪耶U19" tvg-chno="1221" tvg-name="梅内姆斯波U19 vs 布卡贝雷迪耶U19" tvg-group="足球" group-title="足球",梅内姆斯波U19 vs 布卡贝雷迪耶U19
 http://192.168.5.35:44635/play/8240925e61c8f76287c032cdbe5ef88d7a0c9a19
-#EXTINF:-1 tvg-id="猎鹰青年队 vs 汉哈瓦底联U20" tvg-chno="1220" tvg-name="猎鹰青年队 vs 汉哈瓦底联U20" tvg-group="足球" group-title="足球",猎鹰青年队 vs 汉哈瓦底联U20
+#EXTINF:-1 tvg-id="猎鹰青年队 vs 汉哈瓦底联U20" tvg-chno="1222" tvg-name="猎鹰青年队 vs 汉哈瓦底联U20" tvg-group="足球" group-title="足球",猎鹰青年队 vs 汉哈瓦底联U20
 http://192.168.5.35:44635/play/1abaad2a53cc17ef788699dae6f558be94b8fbfc
-#EXTINF:-1 tvg-id="猎鹰青年队 vs 汉哈瓦底联U20" tvg-chno="1221" tvg-name="猎鹰青年队 vs 汉哈瓦底联U20" tvg-group="足球" group-title="足球",猎鹰青年队 vs 汉哈瓦底联U20
+#EXTINF:-1 tvg-id="猎鹰青年队 vs 汉哈瓦底联U20" tvg-chno="1223" tvg-name="猎鹰青年队 vs 汉哈瓦底联U20" tvg-group="足球" group-title="足球",猎鹰青年队 vs 汉哈瓦底联U20
 http://192.168.5.35:44635/play/d5064190503b9fed31668d3200d64518be3e78c4
-#EXTINF:-1 tvg-id="皇家班加罗尔 vs 斯图拉德" tvg-chno="1222" tvg-name="皇家班加罗尔 vs 斯图拉德" tvg-group="足球" group-title="足球",皇家班加罗尔 vs 斯图拉德
+#EXTINF:-1 tvg-id="皇家班加罗尔 vs 斯图拉德" tvg-chno="1224" tvg-name="皇家班加罗尔 vs 斯图拉德" tvg-group="足球" group-title="足球",皇家班加罗尔 vs 斯图拉德
 http://192.168.5.35:44635/play/2ea430df78f43b9babc453bea70287df542407d4
-#EXTINF:-1 tvg-id="皇家班加罗尔 vs 斯图拉德" tvg-chno="1223" tvg-name="皇家班加罗尔 vs 斯图拉德" tvg-group="足球" group-title="足球",皇家班加罗尔 vs 斯图拉德
+#EXTINF:-1 tvg-id="皇家班加罗尔 vs 斯图拉德" tvg-chno="1225" tvg-name="皇家班加罗尔 vs 斯图拉德" tvg-group="足球" group-title="足球",皇家班加罗尔 vs 斯图拉德
 http://192.168.5.35:44635/play/3fb6b44d2459394842dbd29e9e6d7b1715eef0b5
-#EXTINF:-1 tvg-id="阿祖尔 vs 艾哈迈多夫" tvg-chno="1224" tvg-name="阿祖尔 vs 艾哈迈多夫" tvg-group="足球" group-title="足球",阿祖尔 vs 艾哈迈多夫
+#EXTINF:-1 tvg-id="费迪耶斯堡 vs 埃于普体育" tvg-chno="1226" tvg-name="费迪耶斯堡 vs 埃于普体育" tvg-group="足球" group-title="足球",费迪耶斯堡 vs 埃于普体育
+http://192.168.5.35:44635/play/df2012c6c03cbba555d83306aa8abf594db85dda
+#EXTINF:-1 tvg-id="费迪耶斯堡 vs 埃于普体育" tvg-chno="1227" tvg-name="费迪耶斯堡 vs 埃于普体育" tvg-group="足球" group-title="足球",费迪耶斯堡 vs 埃于普体育
+http://192.168.5.35:44635/play/a3e2c3d1ffc40c8d2970db77fd38b79ad53025c5
+#EXTINF:-1 tvg-id="阿祖尔 vs 艾哈迈多夫" tvg-chno="1228" tvg-name="阿祖尔 vs 艾哈迈多夫" tvg-group="足球" group-title="足球",阿祖尔 vs 艾哈迈多夫
 http://192.168.5.35:44635/play/86a88ffab81b2caaa457791c9b8a6ef29473e520
-#EXTINF:-1 tvg-id="阿祖尔 vs 艾哈迈多夫" tvg-chno="1225" tvg-name="阿祖尔 vs 艾哈迈多夫" tvg-group="足球" group-title="足球",阿祖尔 vs 艾哈迈多夫
+#EXTINF:-1 tvg-id="阿祖尔 vs 艾哈迈多夫" tvg-chno="1229" tvg-name="阿祖尔 vs 艾哈迈多夫" tvg-group="足球" group-title="足球",阿祖尔 vs 艾哈迈多夫
 http://192.168.5.35:44635/play/3b977c5beb5a1fc6d47101a9833bbc511b895415
-#EXTINF:-1 tvg-id="马克顿尼亚U19 vs 布雷加尼卡U19" tvg-chno="1226" tvg-name="马克顿尼亚U19 vs 布雷加尼卡U19" tvg-group="足球" group-title="足球",马克顿尼亚U19 vs 布雷加尼卡U19
+#EXTINF:-1 tvg-id="马克顿尼亚U19 vs 布雷加尼卡U19" tvg-chno="1230" tvg-name="马克顿尼亚U19 vs 布雷加尼卡U19" tvg-group="足球" group-title="足球",马克顿尼亚U19 vs 布雷加尼卡U19
 http://192.168.5.35:44635/play/adcca96c7e7dbb7a191562c429203a23f34e3e03
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
@@ -201,17 +209,21 @@ http://192.168.5.35:44635/play/c788eb7748afcae6c99e6838bc43235b1cee9b5b
 http://192.168.5.35:44635/play/3436efa6fb9d6eaeaf499db93484b9c2b68d74f0
 #EXTINF:-1 tvg-id="RB vs Direborn" tvg-chno="1410" tvg-name="RB vs Direborn" tvg-group="DOTA2" group-title="DOTA2",RB vs Direborn
 http://192.168.5.35:44635/play/131afb140d5c1a4e58e37db4865f2f4763fc1d74
-#EXTINF:-1 tvg-id="YG vs RG" tvg-chno="1411" tvg-name="YG vs RG" tvg-group="DOTA2" group-title="DOTA2",YG vs RG
+#EXTINF:-1 tvg-id="Rostik vs TEAM ILTW" tvg-chno="1411" tvg-name="Rostik vs TEAM ILTW" tvg-group="DOTA2" group-title="DOTA2",Rostik vs TEAM ILTW
+http://192.168.5.35:44635/play/aa49fe7f446c698f459ee13f3cb648d9b8830720
+#EXTINF:-1 tvg-id="Rostik vs TEAM ILTW" tvg-chno="1412" tvg-name="Rostik vs TEAM ILTW" tvg-group="DOTA2" group-title="DOTA2",Rostik vs TEAM ILTW
+http://192.168.5.35:44635/play/92c9b2454e3bf380965140d8aaf31ff43288d35e
+#EXTINF:-1 tvg-id="YG vs RG" tvg-chno="1413" tvg-name="YG vs RG" tvg-group="DOTA2" group-title="DOTA2",YG vs RG
 http://192.168.5.35:44635/play/7af1a0968615038785dedaea641b21bf8b6739a5
-#EXTINF:-1 tvg-id="YG vs RG" tvg-chno="1412" tvg-name="YG vs RG" tvg-group="DOTA2" group-title="DOTA2",YG vs RG
+#EXTINF:-1 tvg-id="YG vs RG" tvg-chno="1414" tvg-name="YG vs RG" tvg-group="DOTA2" group-title="DOTA2",YG vs RG
 http://192.168.5.35:44635/play/3ca540e094682c2f3e0f87a7efdf3c4734ebfc50
-#EXTINF:-1 tvg-id="Z10 vs AB" tvg-chno="1413" tvg-name="Z10 vs AB" tvg-group="DOTA2" group-title="DOTA2",Z10 vs AB
+#EXTINF:-1 tvg-id="Z10 vs AB" tvg-chno="1415" tvg-name="Z10 vs AB" tvg-group="DOTA2" group-title="DOTA2",Z10 vs AB
 http://192.168.5.35:44635/play/b47c259985d4eaef59a1e743c4bb5d4715a9e2aa
-#EXTINF:-1 tvg-id="Z10 vs AB" tvg-chno="1414" tvg-name="Z10 vs AB" tvg-group="DOTA2" group-title="DOTA2",Z10 vs AB
+#EXTINF:-1 tvg-id="Z10 vs AB" tvg-chno="1416" tvg-name="Z10 vs AB" tvg-group="DOTA2" group-title="DOTA2",Z10 vs AB
 http://192.168.5.35:44635/play/1096c9aad056577886a2c32664408627a9c74c4e
-#EXTINF:-1 tvg-id="Zenith vs CD" tvg-chno="1415" tvg-name="Zenith vs CD" tvg-group="DOTA2" group-title="DOTA2",Zenith vs CD
+#EXTINF:-1 tvg-id="Zenith vs CD" tvg-chno="1417" tvg-name="Zenith vs CD" tvg-group="DOTA2" group-title="DOTA2",Zenith vs CD
 http://192.168.5.35:44635/play/819b086a47d497b13a462f1496323904b933ce8d
-#EXTINF:-1 tvg-id="Zenith vs CD" tvg-chno="1416" tvg-name="Zenith vs CD" tvg-group="DOTA2" group-title="DOTA2",Zenith vs CD
+#EXTINF:-1 tvg-id="Zenith vs CD" tvg-chno="1418" tvg-name="Zenith vs CD" tvg-group="DOTA2" group-title="DOTA2",Zenith vs CD
 http://192.168.5.35:44635/play/216b02654b8b5ff83d100bf909c5b6c5cedeb96a
 #EXTINF:-1 tvg-id="11-04 黑豹 vs 太阳" tvg-chno="1501" tvg-name="11-04 黑豹 vs 太阳" tvg-group="NBA回放" group-title="NBA回放",11-04 黑豹 vs 太阳
 http://192.168.5.35:8098/f/2026-11-04%20%E9%BB%91%E8%B1%B9%20vs%20%E5%A4%AA%E9%98%B3.mkv
