@@ -19,63 +19,65 @@ http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1102" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="UP马鲁女篮 vs ADU猎鹰女篮" tvg-chno="1103" tvg-name="UP马鲁女篮 vs ADU猎鹰女篮" tvg-group="篮球" group-title="篮球",UP马鲁女篮 vs ADU猎鹰女篮
-http://192.168.5.35:44635/play/5dba05358d8e38de3a43b010ac3e9089e5ac14aa
-#EXTINF:-1 tvg-id="东方大学红勇士 vs 远东大学矮水牛" tvg-chno="1104" tvg-name="东方大学红勇士 vs 远东大学矮水牛" tvg-group="篮球" group-title="篮球",东方大学红勇士 vs 远东大学矮水牛
+#EXTINF:-1 tvg-id="东方大学红勇士 vs 远东大学矮水牛" tvg-chno="1103" tvg-name="东方大学红勇士 vs 远东大学矮水牛" tvg-group="篮球" group-title="篮球",东方大学红勇士 vs 远东大学矮水牛
 http://192.168.5.35:44635/play/1fff2d3ce6cbd217409284af358df1fa70b262b5
-#EXTINF:-1 tvg-id="加州大学尔湾分校 vs 查普曼大学" tvg-chno="1105" tvg-name="加州大学尔湾分校 vs 查普曼大学" tvg-group="篮球" group-title="篮球",加州大学尔湾分校 vs 查普曼大学
+#EXTINF:-1 tvg-id="加州大学尔湾分校 vs 查普曼大学" tvg-chno="1104" tvg-name="加州大学尔湾分校 vs 查普曼大学" tvg-group="篮球" group-title="篮球",加州大学尔湾分校 vs 查普曼大学
 http://192.168.5.35:44635/play/26e3e8e6fe16c5b44a6d9dedd0415df9c91fca5a
-#EXTINF:-1 tvg-id="加州大学尔湾分校 vs 查普曼大学" tvg-chno="1106" tvg-name="加州大学尔湾分校 vs 查普曼大学" tvg-group="篮球" group-title="篮球",加州大学尔湾分校 vs 查普曼大学
+#EXTINF:-1 tvg-id="加州大学尔湾分校 vs 查普曼大学" tvg-chno="1105" tvg-name="加州大学尔湾分校 vs 查普曼大学" tvg-group="篮球" group-title="篮球",加州大学尔湾分校 vs 查普曼大学
 http://192.168.5.35:44635/play/ed92cf006f4d80b35688a2ad69b1ab68b8ff3a39
-#EXTINF:-1 tvg-id="加州浸信大学 vs 北佛罗里达" tvg-chno="1107" tvg-name="加州浸信大学 vs 北佛罗里达" tvg-group="篮球" group-title="篮球",加州浸信大学 vs 北佛罗里达
+#EXTINF:-1 tvg-id="加州浸信大学 vs 北佛罗里达" tvg-chno="1106" tvg-name="加州浸信大学 vs 北佛罗里达" tvg-group="篮球" group-title="篮球",加州浸信大学 vs 北佛罗里达
 http://192.168.5.35:44635/play/f69d263d509df33de14e91e2bcd2b975ee8cc6ed
-#EXTINF:-1 tvg-id="加州浸信大学 vs 北佛罗里达" tvg-chno="1108" tvg-name="加州浸信大学 vs 北佛罗里达" tvg-group="篮球" group-title="篮球",加州浸信大学 vs 北佛罗里达
+#EXTINF:-1 tvg-id="加州浸信大学 vs 北佛罗里达" tvg-chno="1107" tvg-name="加州浸信大学 vs 北佛罗里达" tvg-group="篮球" group-title="篮球",加州浸信大学 vs 北佛罗里达
 http://192.168.5.35:44635/play/91d392adface4e241fe10ce18de22a4c9cf39384
-#EXTINF:-1 tvg-id="圣地亚哥州立大学 vs 加州州立富勒顿分校" tvg-chno="1109" tvg-name="圣地亚哥州立大学 vs 加州州立富勒顿分校" tvg-group="篮球" group-title="篮球",圣地亚哥州立大学 vs 加州州立富勒顿分校
+#EXTINF:-1 tvg-id="圣地亚哥州立大学 vs 加州州立富勒顿分校" tvg-chno="1108" tvg-name="圣地亚哥州立大学 vs 加州州立富勒顿分校" tvg-group="篮球" group-title="篮球",圣地亚哥州立大学 vs 加州州立富勒顿分校
 http://192.168.5.35:44635/play/063fcf2511e903f0ab5fc57898242347c6866c7d
-#EXTINF:-1 tvg-id="圣地亚哥州立大学 vs 加州州立富勒顿分校" tvg-chno="1110" tvg-name="圣地亚哥州立大学 vs 加州州立富勒顿分校" tvg-group="篮球" group-title="篮球",圣地亚哥州立大学 vs 加州州立富勒顿分校
+#EXTINF:-1 tvg-id="圣地亚哥州立大学 vs 加州州立富勒顿分校" tvg-chno="1109" tvg-name="圣地亚哥州立大学 vs 加州州立富勒顿分校" tvg-group="篮球" group-title="篮球",圣地亚哥州立大学 vs 加州州立富勒顿分校
 http://192.168.5.35:44635/play/32183121b27c739f2da03ca1a03e10cccd4f53ff
-#EXTINF:-1 tvg-id="太平洋大学 vs 贝塞斯达大学" tvg-chno="1111" tvg-name="太平洋大学 vs 贝塞斯达大学" tvg-group="篮球" group-title="篮球",太平洋大学 vs 贝塞斯达大学
+#EXTINF:-1 tvg-id="太平洋大学 vs 贝塞斯达大学" tvg-chno="1110" tvg-name="太平洋大学 vs 贝塞斯达大学" tvg-group="篮球" group-title="篮球",太平洋大学 vs 贝塞斯达大学
 http://192.168.5.35:44635/play/dc896c9cdc7ae65877a487843628b136f42d7626
-#EXTINF:-1 tvg-id="太平洋大学 vs 贝塞斯达大学" tvg-chno="1112" tvg-name="太平洋大学 vs 贝塞斯达大学" tvg-group="篮球" group-title="篮球",太平洋大学 vs 贝塞斯达大学
+#EXTINF:-1 tvg-id="太平洋大学 vs 贝塞斯达大学" tvg-chno="1111" tvg-name="太平洋大学 vs 贝塞斯达大学" tvg-group="篮球" group-title="篮球",太平洋大学 vs 贝塞斯达大学
 http://192.168.5.35:44635/play/2f3c459bbf0ed479c09f520d8f11d062eb4fc220
-#EXTINF:-1 tvg-id="山西兴瑞女篮 vs 石家庄英励女篮" tvg-chno="1113" tvg-name="山西兴瑞女篮 vs 石家庄英励女篮" tvg-group="篮球" group-title="篮球",山西兴瑞女篮 vs 石家庄英励女篮
+#EXTINF:-1 tvg-id="山西兴瑞女篮 vs 石家庄英励女篮" tvg-chno="1112" tvg-name="山西兴瑞女篮 vs 石家庄英励女篮" tvg-group="篮球" group-title="篮球",山西兴瑞女篮 vs 石家庄英励女篮
 http://192.168.5.35:44635/play/b62a4603b75451163b398260cc126dd088127baa
-#EXTINF:-1 tvg-id="山西兴瑞女篮 vs 石家庄英励女篮" tvg-chno="1114" tvg-name="山西兴瑞女篮 vs 石家庄英励女篮" tvg-group="篮球" group-title="篮球",山西兴瑞女篮 vs 石家庄英励女篮
+#EXTINF:-1 tvg-id="山西兴瑞女篮 vs 石家庄英励女篮" tvg-chno="1113" tvg-name="山西兴瑞女篮 vs 石家庄英励女篮" tvg-group="篮球" group-title="篮球",山西兴瑞女篮 vs 石家庄英励女篮
 http://192.168.5.35:44635/play/57bc852db7389435d726c93cdf565c041974cdd5
-#EXTINF:-1 tvg-id="庆熙大学 vs 东国大学" tvg-chno="1115" tvg-name="庆熙大学 vs 东国大学" tvg-group="篮球" group-title="篮球",庆熙大学 vs 东国大学
+#EXTINF:-1 tvg-id="庆熙大学 vs 东国大学" tvg-chno="1114" tvg-name="庆熙大学 vs 东国大学" tvg-group="篮球" group-title="篮球",庆熙大学 vs 东国大学
 http://192.168.5.35:44635/play/66702c634082718ea488a587165e70010381f96e
-#EXTINF:-1 tvg-id="战斗马鲁 vs ADU猎鹰" tvg-chno="1116" tvg-name="战斗马鲁 vs ADU猎鹰" tvg-group="篮球" group-title="篮球",战斗马鲁 vs ADU猎鹰
+#EXTINF:-1 tvg-id="战斗马鲁 vs ADU猎鹰" tvg-chno="1115" tvg-name="战斗马鲁 vs ADU猎鹰" tvg-group="篮球" group-title="篮球",战斗马鲁 vs ADU猎鹰
 http://192.168.5.35:44635/play/6de724970093a2c448092014ea49173143c393cb
-#EXTINF:-1 tvg-id="新疆天山女篮 vs 大连体产女篮" tvg-chno="1117" tvg-name="新疆天山女篮 vs 大连体产女篮" tvg-group="篮球" group-title="篮球",新疆天山女篮 vs 大连体产女篮
+#EXTINF:-1 tvg-id="新疆天山女篮 vs 大连体产女篮" tvg-chno="1116" tvg-name="新疆天山女篮 vs 大连体产女篮" tvg-group="篮球" group-title="篮球",新疆天山女篮 vs 大连体产女篮
 http://192.168.5.35:44635/play/c9cb5973a85922d30545c3be81c7e890f0977ef2
-#EXTINF:-1 tvg-id="新疆天山女篮 vs 大连体产女篮" tvg-chno="1118" tvg-name="新疆天山女篮 vs 大连体产女篮" tvg-group="篮球" group-title="篮球",新疆天山女篮 vs 大连体产女篮
+#EXTINF:-1 tvg-id="新疆天山女篮 vs 大连体产女篮" tvg-chno="1117" tvg-name="新疆天山女篮 vs 大连体产女篮" tvg-group="篮球" group-title="篮球",新疆天山女篮 vs 大连体产女篮
 http://192.168.5.35:44635/play/aaaa73b236044938a3001d381cb9d9f934c4ff63
-#EXTINF:-1 tvg-id="新韩银行大鸟女篮 vs 友利银行女篮" tvg-chno="1119" tvg-name="新韩银行大鸟女篮 vs 友利银行女篮" tvg-group="篮球" group-title="篮球",新韩银行大鸟女篮 vs 友利银行女篮
+#EXTINF:-1 tvg-id="新韩银行大鸟女篮 vs 友利银行女篮" tvg-chno="1118" tvg-name="新韩银行大鸟女篮 vs 友利银行女篮" tvg-group="篮球" group-title="篮球",新韩银行大鸟女篮 vs 友利银行女篮
 http://192.168.5.35:44635/play/cbdce6fb6f7dc1f05d5892eacbd46755932fcf38
-#EXTINF:-1 tvg-id="波特兰州立大学 vs 刘易斯克拉克大学" tvg-chno="1120" tvg-name="波特兰州立大学 vs 刘易斯克拉克大学" tvg-group="篮球" group-title="篮球",波特兰州立大学 vs 刘易斯克拉克大学
+#EXTINF:-1 tvg-id="波特兰州立大学 vs 刘易斯克拉克大学" tvg-chno="1119" tvg-name="波特兰州立大学 vs 刘易斯克拉克大学" tvg-group="篮球" group-title="篮球",波特兰州立大学 vs 刘易斯克拉克大学
 http://192.168.5.35:44635/play/19bbd673c641a64f1743a680eee574d0f49321ad
-#EXTINF:-1 tvg-id="波特兰州立大学 vs 刘易斯克拉克大学" tvg-chno="1121" tvg-name="波特兰州立大学 vs 刘易斯克拉克大学" tvg-group="篮球" group-title="篮球",波特兰州立大学 vs 刘易斯克拉克大学
+#EXTINF:-1 tvg-id="波特兰州立大学 vs 刘易斯克拉克大学" tvg-chno="1120" tvg-name="波特兰州立大学 vs 刘易斯克拉克大学" tvg-group="篮球" group-title="篮球",波特兰州立大学 vs 刘易斯克拉克大学
 http://192.168.5.35:44635/play/38bc99a958bcb82d5878b818584aaf37135bf67d
-#EXTINF:-1 tvg-id="福建众腾女篮 vs 贵州极光破晓女篮" tvg-chno="1122" tvg-name="福建众腾女篮 vs 贵州极光破晓女篮" tvg-group="篮球" group-title="篮球",福建众腾女篮 vs 贵州极光破晓女篮
-http://192.168.5.35:44635/play/3688b250966a3497b59fa2858c501300eeb7fe82
+#EXTINF:-1 tvg-id="熊本火山 vs 岩手大公牛" tvg-chno="1121" tvg-name="熊本火山 vs 岩手大公牛" tvg-group="篮球" group-title="篮球",熊本火山 vs 岩手大公牛
+http://192.168.5.35:44635/play/f1ef7719aac0d811b9ae9d334acf918862733497
+#EXTINF:-1 tvg-id="熊本火山 vs 岩手大公牛" tvg-chno="1122" tvg-name="熊本火山 vs 岩手大公牛" tvg-group="篮球" group-title="篮球",熊本火山 vs 岩手大公牛
+http://192.168.5.35:44635/play/2f78c4f81c5bf9db8aae68849ab4b1d7eb1a0dd0
 #EXTINF:-1 tvg-id="福建众腾女篮 vs 贵州极光破晓女篮" tvg-chno="1123" tvg-name="福建众腾女篮 vs 贵州极光破晓女篮" tvg-group="篮球" group-title="篮球",福建众腾女篮 vs 贵州极光破晓女篮
+http://192.168.5.35:44635/play/3688b250966a3497b59fa2858c501300eeb7fe82
+#EXTINF:-1 tvg-id="福建众腾女篮 vs 贵州极光破晓女篮" tvg-chno="1124" tvg-name="福建众腾女篮 vs 贵州极光破晓女篮" tvg-group="篮球" group-title="篮球",福建众腾女篮 vs 贵州极光破晓女篮
 http://192.168.5.35:44635/play/255d9a4ff9f58abc24f42cb0cc71b367b476183d
-#EXTINF:-1 tvg-id="陕西榆林天泽女篮 vs 厦门体育集团女篮" tvg-chno="1124" tvg-name="陕西榆林天泽女篮 vs 厦门体育集团女篮" tvg-group="篮球" group-title="篮球",陕西榆林天泽女篮 vs 厦门体育集团女篮
-http://192.168.5.35:44635/play/5147149e2735a7a5234672a4968d7c26813a2b2a
 #EXTINF:-1 tvg-id="陕西榆林天泽女篮 vs 厦门体育集团女篮" tvg-chno="1125" tvg-name="陕西榆林天泽女篮 vs 厦门体育集团女篮" tvg-group="篮球" group-title="篮球",陕西榆林天泽女篮 vs 厦门体育集团女篮
+http://192.168.5.35:44635/play/5147149e2735a7a5234672a4968d7c26813a2b2a
+#EXTINF:-1 tvg-id="陕西榆林天泽女篮 vs 厦门体育集团女篮" tvg-chno="1126" tvg-name="陕西榆林天泽女篮 vs 厦门体育集团女篮" tvg-group="篮球" group-title="篮球",陕西榆林天泽女篮 vs 厦门体育集团女篮
 http://192.168.5.35:44635/play/eb6f33d4ca2d57c375579ee0e260fb34baf41529
-#EXTINF:-1 tvg-id="首尔SK骑士 vs 大邱石油公社飞马" tvg-chno="1126" tvg-name="首尔SK骑士 vs 大邱石油公社飞马" tvg-group="篮球" group-title="篮球",首尔SK骑士 vs 大邱石油公社飞马
+#EXTINF:-1 tvg-id="首尔SK骑士 vs 大邱石油公社飞马" tvg-chno="1127" tvg-name="首尔SK骑士 vs 大邱石油公社飞马" tvg-group="篮球" group-title="篮球",首尔SK骑士 vs 大邱石油公社飞马
 http://192.168.5.35:44635/play/7228120afeb11660cbc39ac37c3d4431b4883226
-#EXTINF:-1 tvg-id="香川五箭 vs 东京联合" tvg-chno="1127" tvg-name="香川五箭 vs 东京联合" tvg-group="篮球" group-title="篮球",香川五箭 vs 东京联合
-http://192.168.5.35:44635/play/023562bce138c14b71d1ec2f6f597c577abfd8e1
 #EXTINF:-1 tvg-id="香川五箭 vs 东京联合" tvg-chno="1128" tvg-name="香川五箭 vs 东京联合" tvg-group="篮球" group-title="篮球",香川五箭 vs 东京联合
+http://192.168.5.35:44635/play/023562bce138c14b71d1ec2f6f597c577abfd8e1
+#EXTINF:-1 tvg-id="香川五箭 vs 东京联合" tvg-chno="1129" tvg-name="香川五箭 vs 东京联合" tvg-group="篮球" group-title="篮球",香川五箭 vs 东京联合
 http://192.168.5.35:44635/play/021a45e4cf4143997039ced372da125ac3cb4ab4
-#EXTINF:-1 tvg-id="高丽大学 vs 延世大学" tvg-chno="1129" tvg-name="高丽大学 vs 延世大学" tvg-group="篮球" group-title="篮球",高丽大学 vs 延世大学
+#EXTINF:-1 tvg-id="高丽大学 vs 延世大学" tvg-chno="1130" tvg-name="高丽大学 vs 延世大学" tvg-group="篮球" group-title="篮球",高丽大学 vs 延世大学
 http://192.168.5.35:44635/play/66840763ff64f4ed5a76dc56648a5db735c1f1e4
-#EXTINF:-1 tvg-id="黑豹 vs 太阳" tvg-chno="1130" tvg-name="黑豹 vs 太阳" tvg-group="篮球" group-title="篮球",黑豹 vs 太阳
-http://192.168.5.35:44635/play/8c26d90602cbc6beb98e7e9adafc70ba4d6811ea
 #EXTINF:-1 tvg-id="黑豹 vs 太阳" tvg-chno="1131" tvg-name="黑豹 vs 太阳" tvg-group="篮球" group-title="篮球",黑豹 vs 太阳
+http://192.168.5.35:44635/play/8c26d90602cbc6beb98e7e9adafc70ba4d6811ea
+#EXTINF:-1 tvg-id="黑豹 vs 太阳" tvg-chno="1132" tvg-name="黑豹 vs 太阳" tvg-group="篮球" group-title="篮球",黑豹 vs 太阳
 http://192.168.5.35:44635/play/4b41b89ad9599b2ade607d6a28d2c42a665581ef
 #EXTINF:-1 tvg-id="FC大阪 vs 熊本深红" tvg-chno="1201" tvg-name="FC大阪 vs 熊本深红" tvg-group="足球" group-title="足球",FC大阪 vs 熊本深红
 http://192.168.5.35:44635/play/97a1da685e3511366b614290c255fc8776fba59f
@@ -131,15 +133,13 @@ http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1303" tvg-name="ESPN" tvg-group="综合体育" group-title="综合体育",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1304" tvg-name="Tennis Channel" tvg-group="综合体育" group-title="综合体育",Tennis Channel
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1305" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1304" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1306" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1305" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1307" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1308" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1307" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
