@@ -139,19 +139,21 @@ http://192.168.5.35:44635/play/69d2d1eda54755dd15f2a5e63ffbc09e1e674bf3
 http://192.168.5.35:44635/play/8ccb2b85517b2022005910a6c4761f2bceb61fb4
 #EXTINF:-1 tvg-id="普卢克登联 vs 沙敦府" tvg-chno="1225" tvg-name="普卢克登联 vs 沙敦府" tvg-group="足球" group-title="足球",普卢克登联 vs 沙敦府
 http://192.168.5.35:44635/play/9c01688f8c13fc221f1585c911f9bc203edd33f5
-#EXTINF:-1 tvg-id="班加罗尔B队 vs 班加罗尔梦幻联" tvg-chno="1226" tvg-name="班加罗尔B队 vs 班加罗尔梦幻联" tvg-group="足球" group-title="足球",班加罗尔B队 vs 班加罗尔梦幻联
-http://192.168.5.35:44635/play/de9bb951ce542eec7039cbc8a68f58539d242e9d
+#EXTINF:-1 tvg-id="爪哇联 vs 普特吉拉" tvg-chno="1226" tvg-name="爪哇联 vs 普特吉拉" tvg-group="足球" group-title="足球",爪哇联 vs 普特吉拉
+http://192.168.5.35:44635/play/7367e9b3fdcbeb234d776bf7ebec96e9995e97ed
 #EXTINF:-1 tvg-id="班加罗尔B队 vs 班加罗尔梦幻联" tvg-chno="1227" tvg-name="班加罗尔B队 vs 班加罗尔梦幻联" tvg-group="足球" group-title="足球",班加罗尔B队 vs 班加罗尔梦幻联
+http://192.168.5.35:44635/play/de9bb951ce542eec7039cbc8a68f58539d242e9d
+#EXTINF:-1 tvg-id="班加罗尔B队 vs 班加罗尔梦幻联" tvg-chno="1228" tvg-name="班加罗尔B队 vs 班加罗尔梦幻联" tvg-group="足球" group-title="足球",班加罗尔B队 vs 班加罗尔梦幻联
 http://192.168.5.35:44635/play/521ee9f8a1e819db6375996202fba278a5ba06ee
-#EXTINF:-1 tvg-id="皇家班加罗尔 vs 斯图拉德" tvg-chno="1228" tvg-name="皇家班加罗尔 vs 斯图拉德" tvg-group="足球" group-title="足球",皇家班加罗尔 vs 斯图拉德
-http://192.168.5.35:44635/play/2ea430df78f43b9babc453bea70287df542407d4
 #EXTINF:-1 tvg-id="皇家班加罗尔 vs 斯图拉德" tvg-chno="1229" tvg-name="皇家班加罗尔 vs 斯图拉德" tvg-group="足球" group-title="足球",皇家班加罗尔 vs 斯图拉德
+http://192.168.5.35:44635/play/2ea430df78f43b9babc453bea70287df542407d4
+#EXTINF:-1 tvg-id="皇家班加罗尔 vs 斯图拉德" tvg-chno="1230" tvg-name="皇家班加罗尔 vs 斯图拉德" tvg-group="足球" group-title="足球",皇家班加罗尔 vs 斯图拉德
 http://192.168.5.35:44635/play/3fb6b44d2459394842dbd29e9e6d7b1715eef0b5
-#EXTINF:-1 tvg-id="菲律宾陆军 vs 阿兹卡尔斯发展" tvg-chno="1230" tvg-name="菲律宾陆军 vs 阿兹卡尔斯发展" tvg-group="足球" group-title="足球",菲律宾陆军 vs 阿兹卡尔斯发展
-http://192.168.5.35:44635/play/6b3da09699d8bd10abb409d406c0d4973786a7e6
 #EXTINF:-1 tvg-id="菲律宾陆军 vs 阿兹卡尔斯发展" tvg-chno="1231" tvg-name="菲律宾陆军 vs 阿兹卡尔斯发展" tvg-group="足球" group-title="足球",菲律宾陆军 vs 阿兹卡尔斯发展
+http://192.168.5.35:44635/play/6b3da09699d8bd10abb409d406c0d4973786a7e6
+#EXTINF:-1 tvg-id="菲律宾陆军 vs 阿兹卡尔斯发展" tvg-chno="1232" tvg-name="菲律宾陆军 vs 阿兹卡尔斯发展" tvg-group="足球" group-title="足球",菲律宾陆军 vs 阿兹卡尔斯发展
 http://192.168.5.35:44635/play/9093fc91d21851682b3e4d661d3173fd5ef7a807
-#EXTINF:-1 tvg-id="辛布里勇士队 vs 佛统联" tvg-chno="1232" tvg-name="辛布里勇士队 vs 佛统联" tvg-group="足球" group-title="足球",辛布里勇士队 vs 佛统联
+#EXTINF:-1 tvg-id="辛布里勇士队 vs 佛统联" tvg-chno="1233" tvg-name="辛布里勇士队 vs 佛统联" tvg-group="足球" group-title="足球",辛布里勇士队 vs 佛统联
 http://192.168.5.35:44635/play/b0ce8edcc9eaf6af5bf5fc8b5bafcb74ed7dc0b2
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
