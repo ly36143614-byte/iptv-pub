@@ -21,38 +21,36 @@ http://23.237.104.106:8080/USA_NBA/index.m3u8
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="石家庄英励女篮 vs 广东奥普特女篮" tvg-chno="1103" tvg-name="石家庄英励女篮 vs 广东奥普特女篮" tvg-group="篮球" group-title="篮球",石家庄英励女篮 vs 广东奥普特女篮·咪咕直播·720P
 http://192.168.5.35:35456/jrs/%E7%9F%B3%E5%AE%B6%E5%BA%84%E8%8B%B1%E5%8A%B1%E5%A5%B3%E7%AF%AE%20vs%20%E5%B9%BF%E4%B8%9C%E5%A5%A5%E6%99%AE%E7%89%B9%E5%A5%B3%E7%AF%AE%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
-#EXTINF:-1 tvg-id="CSJL骑士 vs EAC将军" tvg-chno="1104" tvg-name="CSJL骑士 vs EAC将军" tvg-group="篮球" group-title="篮球",CSJL骑士 vs EAC将军·聚合源
-http://192.168.5.35:44635/play/de6bcc7f7241677f5c1f5497d334a6df6bf871d8
-#EXTINF:-1 tvg-id="CSJL骑士 vs EAC将军" tvg-chno="1104" tvg-name="CSJL骑士 vs EAC将军" tvg-group="篮球" group-title="篮球",CSJL骑士 vs EAC将军·聚合源
-http://192.168.5.35:44635/play/320578023124da43ea6de5b775e8e58bf5fd4442
-#EXTINF:-1 tvg-id="万塔黑龙 vs 澳门黑骑士" tvg-chno="1105" tvg-name="万塔黑龙 vs 澳门黑骑士" tvg-group="篮球" group-title="篮球",万塔黑龙 vs 澳门黑骑士·聚合源
+#EXTINF:-1 tvg-id="万塔黑龙 vs 澳门黑骑士" tvg-chno="1104" tvg-name="万塔黑龙 vs 澳门黑骑士" tvg-group="篮球" group-title="篮球",万塔黑龙 vs 澳门黑骑士·聚合源
 http://192.168.5.35:44635/play/f541a17e8281f15c0552d0abe5ece157370a2406
-#EXTINF:-1 tvg-id="万塔黑龙 vs 澳门黑骑士" tvg-chno="1105" tvg-name="万塔黑龙 vs 澳门黑骑士" tvg-group="篮球" group-title="篮球",万塔黑龙 vs 澳门黑骑士·聚合源
+#EXTINF:-1 tvg-id="万塔黑龙 vs 澳门黑骑士" tvg-chno="1104" tvg-name="万塔黑龙 vs 澳门黑骑士" tvg-group="篮球" group-title="篮球",万塔黑龙 vs 澳门黑骑士·聚合源
 http://192.168.5.35:44635/play/068d3da92a23703b872f63386bc71e26c964c05c
-#EXTINF:-1 tvg-id="凯恩斯太攀蛇 vs 伊拉瓦拉老鹰" tvg-chno="1106" tvg-name="凯恩斯太攀蛇 vs 伊拉瓦拉老鹰" tvg-group="篮球1080" group-title="篮球1080",凯恩斯太攀蛇 vs 伊拉瓦拉老鹰·1080P原声
+#EXTINF:-1 tvg-id="凯恩斯太攀蛇 vs 伊拉瓦拉老鹰" tvg-chno="1105" tvg-name="凯恩斯太攀蛇 vs 伊拉瓦拉老鹰" tvg-group="篮球1080" group-title="篮球1080",凯恩斯太攀蛇 vs 伊拉瓦拉老鹰·1080P原声
 http://192.168.5.35:35456/jrs/%E5%87%AF%E6%81%A9%E6%96%AF%E5%A4%AA%E6%94%80%E8%9B%87%20vs%20%E4%BC%8A%E6%8B%89%E7%93%A6%E6%8B%89%E8%80%81%E9%B9%B0%C2%B71080P%E5%8E%9F%E5%A3%B0
-#EXTINF:-1 tvg-id="凯恩斯太攀蛇 vs 伊拉瓦拉老鹰" tvg-chno="1106" tvg-name="凯恩斯太攀蛇 vs 伊拉瓦拉老鹰" tvg-group="篮球1080" group-title="篮球1080",凯恩斯太攀蛇 vs 伊拉瓦拉老鹰·1080P原声
+#EXTINF:-1 tvg-id="凯恩斯太攀蛇 vs 伊拉瓦拉老鹰" tvg-chno="1105" tvg-name="凯恩斯太攀蛇 vs 伊拉瓦拉老鹰" tvg-group="篮球1080" group-title="篮球1080",凯恩斯太攀蛇 vs 伊拉瓦拉老鹰·1080P原声
 http://192.168.5.35:44635/play/32616f4707548007ea557d77e2de0258ad43b6b5
-#EXTINF:-1 tvg-id="凯恩斯太攀蛇 vs 伊拉瓦拉老鹰" tvg-chno="1106" tvg-name="凯恩斯太攀蛇 vs 伊拉瓦拉老鹰" tvg-group="篮球1080" group-title="篮球1080",凯恩斯太攀蛇 vs 伊拉瓦拉老鹰·1080P原声
+#EXTINF:-1 tvg-id="凯恩斯太攀蛇 vs 伊拉瓦拉老鹰" tvg-chno="1105" tvg-name="凯恩斯太攀蛇 vs 伊拉瓦拉老鹰" tvg-group="篮球1080" group-title="篮球1080",凯恩斯太攀蛇 vs 伊拉瓦拉老鹰·1080P原声
 http://192.168.5.35:44635/play/bbd67ffe41bba57e144a567803e3f516d7c5af7d
-#EXTINF:-1 tvg-id="凯恩斯太攀蛇 vs 伊拉瓦拉老鹰" tvg-chno="1106" tvg-name="凯恩斯太攀蛇 vs 伊拉瓦拉老鹰" tvg-group="篮球1080" group-title="篮球1080",凯恩斯太攀蛇 vs 伊拉瓦拉老鹰·1080P原声
+#EXTINF:-1 tvg-id="凯恩斯太攀蛇 vs 伊拉瓦拉老鹰" tvg-chno="1105" tvg-name="凯恩斯太攀蛇 vs 伊拉瓦拉老鹰" tvg-group="篮球1080" group-title="篮球1080",凯恩斯太攀蛇 vs 伊拉瓦拉老鹰·1080P原声
 http://192.168.5.35:44635/play/5e57bf0017d81db9fdafafa489b05f836f3fe7b6
-#EXTINF:-1 tvg-id="南华 vs 晋龙WTS" tvg-chno="1107" tvg-name="南华 vs 晋龙WTS" tvg-group="篮球" group-title="篮球",南华 vs 晋龙WTS·聚合源
+#EXTINF:-1 tvg-id="南华 vs 晋龙WTS" tvg-chno="1106" tvg-name="南华 vs 晋龙WTS" tvg-group="篮球" group-title="篮球",南华 vs 晋龙WTS·聚合源
 http://192.168.5.35:44635/play/178d46ba48fcdf8d4b577e6825a1d5088a11efc0
-#EXTINF:-1 tvg-id="吉朗毒液女篮 vs 汤斯维尔火力女篮" tvg-chno="1108" tvg-name="吉朗毒液女篮 vs 汤斯维尔火力女篮" tvg-group="篮球" group-title="篮球",吉朗毒液女篮 vs 汤斯维尔火力女篮·聚合源
+#EXTINF:-1 tvg-id="吉朗毒液女篮 vs 汤斯维尔火力女篮" tvg-chno="1107" tvg-name="吉朗毒液女篮 vs 汤斯维尔火力女篮" tvg-group="篮球" group-title="篮球",吉朗毒液女篮 vs 汤斯维尔火力女篮·聚合源
 http://192.168.5.35:44635/play/273479f972cd1ffa5740ef0f029bce8ea2c17e21
-#EXTINF:-1 tvg-id="吉朗毒液女篮 vs 汤斯维尔火力女篮" tvg-chno="1108" tvg-name="吉朗毒液女篮 vs 汤斯维尔火力女篮" tvg-group="篮球" group-title="篮球",吉朗毒液女篮 vs 汤斯维尔火力女篮·聚合源
+#EXTINF:-1 tvg-id="吉朗毒液女篮 vs 汤斯维尔火力女篮" tvg-chno="1107" tvg-name="吉朗毒液女篮 vs 汤斯维尔火力女篮" tvg-group="篮球" group-title="篮球",吉朗毒液女篮 vs 汤斯维尔火力女篮·聚合源
 http://192.168.5.35:44635/play/f327fdf243e4705edd60f5f114b111aeb0b6246b
-#EXTINF:-1 tvg-id="吉朗毒液女篮 vs 汤斯维尔火力女篮" tvg-chno="1108" tvg-name="吉朗毒液女篮 vs 汤斯维尔火力女篮" tvg-group="篮球" group-title="篮球",吉朗毒液女篮 vs 汤斯维尔火力女篮·聚合源
+#EXTINF:-1 tvg-id="吉朗毒液女篮 vs 汤斯维尔火力女篮" tvg-chno="1107" tvg-name="吉朗毒液女篮 vs 汤斯维尔火力女篮" tvg-group="篮球" group-title="篮球",吉朗毒液女篮 vs 汤斯维尔火力女篮·聚合源
 http://192.168.5.35:44635/play/18d5c0be3843d305d62be8a0cb4e71860ebe9428
-#EXTINF:-1 tvg-id="品川区篮球队 vs 三重十四" tvg-chno="1109" tvg-name="品川区篮球队 vs 三重十四" tvg-group="篮球" group-title="篮球",品川区篮球队 vs 三重十四·聚合源
+#EXTINF:-1 tvg-id="品川区篮球队 vs 三重十四" tvg-chno="1108" tvg-name="品川区篮球队 vs 三重十四" tvg-group="篮球" group-title="篮球",品川区篮球队 vs 三重十四·聚合源
 http://192.168.5.35:44635/play/e8a4095f078502c4b8f10d151fcaa80d472302fc
-#EXTINF:-1 tvg-id="品川区篮球队 vs 三重十四" tvg-chno="1109" tvg-name="品川区篮球队 vs 三重十四" tvg-group="篮球" group-title="篮球",品川区篮球队 vs 三重十四·聚合源
+#EXTINF:-1 tvg-id="品川区篮球队 vs 三重十四" tvg-chno="1108" tvg-name="品川区篮球队 vs 三重十四" tvg-group="篮球" group-title="篮球",品川区篮球队 vs 三重十四·聚合源
 http://192.168.5.35:44635/play/58a2a0987b713a2b534a17ed4aa25b48d149672e
-#EXTINF:-1 tvg-id="圣贝达红狮 vs LPU海盗" tvg-chno="1110" tvg-name="圣贝达红狮 vs LPU海盗" tvg-group="篮球" group-title="篮球",圣贝达红狮 vs LPU海盗·聚合源
+#EXTINF:-1 tvg-id="圣贝达红狮 vs LPU海盗" tvg-chno="1109" tvg-name="圣贝达红狮 vs LPU海盗" tvg-group="篮球" group-title="篮球",圣贝达红狮 vs LPU海盗·聚合源
 http://192.168.5.35:44635/play/2e6d311d08456d0263efa07a7d1e2a76a8cac0ad
-#EXTINF:-1 tvg-id="圣贝达红狮 vs LPU海盗" tvg-chno="1110" tvg-name="圣贝达红狮 vs LPU海盗" tvg-group="篮球" group-title="篮球",圣贝达红狮 vs LPU海盗·聚合源
+#EXTINF:-1 tvg-id="圣贝达红狮 vs LPU海盗" tvg-chno="1109" tvg-name="圣贝达红狮 vs LPU海盗" tvg-group="篮球" group-title="篮球",圣贝达红狮 vs LPU海盗·聚合源
 http://192.168.5.35:44635/play/c4ca18b81b74355f4ea49b857e9a0772b4363006
+#EXTINF:-1 tvg-id="塔比亚特 vs 阿巴丹炼油厂" tvg-chno="1110" tvg-name="塔比亚特 vs 阿巴丹炼油厂" tvg-group="篮球" group-title="篮球",塔比亚特 vs 阿巴丹炼油厂·聚合源
+http://192.168.5.35:44635/play/a012888fee91e4ef45193765a1a1acf38a0846cc
 #EXTINF:-1 tvg-id="大连体产女篮 vs 武汉盛帆黄鹤女篮" tvg-chno="1111" tvg-name="大连体产女篮 vs 武汉盛帆黄鹤女篮" tvg-group="篮球" group-title="篮球",大连体产女篮 vs 武汉盛帆黄鹤女篮·聚合源
 http://192.168.5.35:44635/play/446cae840f040134cd49062ef327751be52bec1e
 #EXTINF:-1 tvg-id="大连体产女篮 vs 武汉盛帆黄鹤女篮" tvg-chno="1111" tvg-name="大连体产女篮 vs 武汉盛帆黄鹤女篮" tvg-group="篮球" group-title="篮球",大连体产女篮 vs 武汉盛帆黄鹤女篮·聚合源
