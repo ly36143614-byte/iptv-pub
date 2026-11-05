@@ -54,10 +54,6 @@ http://192.168.5.35:44635/play/90864fa6185fa53610d0b3ffb3956ebe6924bff6
 #EXTINF:-1 tvg-id="快船 vs 热火" tvg-chno="1114" tvg-name="快船 vs 热火" tvg-group="篮球1080" group-title="篮球1080",快船 vs 热火·1080P原声
 http://192.168.5.35:35456/jrs/%E5%BF%AB%E8%88%B9%20vs%20%E7%83%AD%E7%81%AB%C2%B71080P%E5%8E%9F%E5%A3%B0
 #EXTINF:-1 tvg-id="快船 vs 热火" tvg-chno="1114" tvg-name="快船 vs 热火" tvg-group="篮球1080" group-title="篮球1080",快船 vs 热火·1080P原声
-http://192.168.5.35:35456/jrs/%E5%BF%AB%E8%88%B9%20vs%20%E7%83%AD%E7%81%AB%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD1%C2%B7720P
-#EXTINF:-1 tvg-id="快船 vs 热火" tvg-chno="1114" tvg-name="快船 vs 热火" tvg-group="篮球1080" group-title="篮球1080",快船 vs 热火·1080P原声
-http://192.168.5.35:35456/jrs/%E5%BF%AB%E8%88%B9%20vs%20%E7%83%AD%E7%81%AB%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD3%C2%B7720P
-#EXTINF:-1 tvg-id="快船 vs 热火" tvg-chno="1114" tvg-name="快船 vs 热火" tvg-group="篮球1080" group-title="篮球1080",快船 vs 热火·1080P原声
 http://192.168.5.35:35456/jrs/%E5%BF%AB%E8%88%B9%20vs%20%E7%83%AD%E7%81%AB%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
 #EXTINF:-1 tvg-id="快船 vs 热火" tvg-chno="1114" tvg-name="快船 vs 热火" tvg-group="篮球1080" group-title="篮球1080",快船 vs 热火·1080P原声
 http://192.168.5.35:44635/play/6c26b1aa83f03af27dc5226e414908549791035b
@@ -229,17 +225,19 @@ http://192.168.5.35:8098/f/2026-11-05%20%E7%81%AB%E7%AE%AD%20vs%20%E6%A3%AE%E6%9
 http://192.168.5.35:8098/f/2026-11-05%20%E6%B4%BB%E5%A1%9E%20vs%2076%E4%BA%BA.mkv
 #EXTINF:-1 tvg-id="11-05 掘金 vs 猛龙" tvg-chno="1507" tvg-name="11-05 掘金 vs 猛龙" tvg-group="NBA回放" group-title="NBA回放",11-05 掘金 vs 猛龙
 http://192.168.5.35:8098/f/2026-11-05%20%E6%8E%98%E9%87%91%20vs%20%E7%8C%9B%E9%BE%99.mkv
-#EXTINF:-1 tvg-id="11-05 尼克斯 vs 公牛" tvg-chno="1508" tvg-name="11-05 尼克斯 vs 公牛" tvg-group="NBA回放" group-title="NBA回放",11-05 尼克斯 vs 公牛
+#EXTINF:-1 tvg-id="11-05 快船 vs 热火" tvg-chno="1508" tvg-name="11-05 快船 vs 热火" tvg-group="NBA回放" group-title="NBA回放",11-05 快船 vs 热火
+http://192.168.5.35:8098/f/2026-11-05%20%E5%BF%AB%E8%88%B9%20vs%20%E7%83%AD%E7%81%AB.mkv
+#EXTINF:-1 tvg-id="11-05 尼克斯 vs 公牛" tvg-chno="1509" tvg-name="11-05 尼克斯 vs 公牛" tvg-group="NBA回放" group-title="NBA回放",11-05 尼克斯 vs 公牛
 http://192.168.5.35:8098/f/2026-11-05%20%E5%B0%BC%E5%85%8B%E6%96%AF%20vs%20%E5%85%AC%E7%89%9B.mkv
-#EXTINF:-1 tvg-id="11-05 奇才 vs 老鹰" tvg-chno="1509" tvg-name="11-05 奇才 vs 老鹰" tvg-group="NBA回放" group-title="NBA回放",11-05 奇才 vs 老鹰
+#EXTINF:-1 tvg-id="11-05 奇才 vs 老鹰" tvg-chno="1510" tvg-name="11-05 奇才 vs 老鹰" tvg-group="NBA回放" group-title="NBA回放",11-05 奇才 vs 老鹰
 http://192.168.5.35:8098/f/2026-11-05%20%E5%A5%87%E6%89%8D%20vs%20%E8%80%81%E9%B9%B0.mkv
-#EXTINF:-1 tvg-id="11-05 太阳 vs 开拓者" tvg-chno="1510" tvg-name="11-05 太阳 vs 开拓者" tvg-group="NBA回放" group-title="NBA回放",11-05 太阳 vs 开拓者
+#EXTINF:-1 tvg-id="11-05 太阳 vs 开拓者" tvg-chno="1511" tvg-name="11-05 太阳 vs 开拓者" tvg-group="NBA回放" group-title="NBA回放",11-05 太阳 vs 开拓者
 http://192.168.5.35:8098/f/2026-11-05%20%E5%A4%AA%E9%98%B3%20vs%20%E5%BC%80%E6%8B%93%E8%80%85.mkv
-#EXTINF:-1 tvg-id="11-05 国王 vs 湖人" tvg-chno="1511" tvg-name="11-05 国王 vs 湖人" tvg-group="NBA回放" group-title="NBA回放",11-05 国王 vs 湖人
+#EXTINF:-1 tvg-id="11-05 国王 vs 湖人" tvg-chno="1512" tvg-name="11-05 国王 vs 湖人" tvg-group="NBA回放" group-title="NBA回放",11-05 国王 vs 湖人
 http://192.168.5.35:8098/f/2026-11-05%20%E5%9B%BD%E7%8E%8B%20vs%20%E6%B9%96%E4%BA%BA.mkv
-#EXTINF:-1 tvg-id="11-05 凯尔特人 vs 雄鹿" tvg-chno="1512" tvg-name="11-05 凯尔特人 vs 雄鹿" tvg-group="NBA回放" group-title="NBA回放",11-05 凯尔特人 vs 雄鹿
+#EXTINF:-1 tvg-id="11-05 凯尔特人 vs 雄鹿" tvg-chno="1513" tvg-name="11-05 凯尔特人 vs 雄鹿" tvg-group="NBA回放" group-title="NBA回放",11-05 凯尔特人 vs 雄鹿
 http://192.168.5.35:8098/f/2026-11-05%20%E5%87%AF%E5%B0%94%E7%89%B9%E4%BA%BA%20vs%20%E9%9B%84%E9%B9%BF.mkv
-#EXTINF:-1 tvg-id="11-04 黑豹 vs 太阳" tvg-chno="1513" tvg-name="11-04 黑豹 vs 太阳" tvg-group="NBA回放" group-title="NBA回放",11-04 黑豹 vs 太阳
+#EXTINF:-1 tvg-id="11-04 黑豹 vs 太阳" tvg-chno="1514" tvg-name="11-04 黑豹 vs 太阳" tvg-group="NBA回放" group-title="NBA回放",11-04 黑豹 vs 太阳
 http://192.168.5.35:8098/f/2026-11-04%20%E9%BB%91%E8%B1%B9%20vs%20%E5%A4%AA%E9%98%B3.mkv
-#EXTINF:-1 tvg-id="11-03 黄蜂 vs 活塞" tvg-chno="1514" tvg-name="11-03 黄蜂 vs 活塞" tvg-group="NBA回放" group-title="NBA回放",11-03 黄蜂 vs 活塞
+#EXTINF:-1 tvg-id="11-03 黄蜂 vs 活塞" tvg-chno="1515" tvg-name="11-03 黄蜂 vs 活塞" tvg-group="NBA回放" group-title="NBA回放",11-03 黄蜂 vs 活塞
 http://192.168.5.35:8098/f/2026-11-03%20%E9%BB%84%E8%9C%82%20vs%20%E6%B4%BB%E5%A1%9E.mkv
