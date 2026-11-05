@@ -45,16 +45,16 @@ http://192.168.5.35:44635/play/c4ca18b81b74355f4ea49b857e9a0772b4363006
 http://192.168.5.35:44635/play/a012888fee91e4ef45193765a1a1acf38a0846cc
 #EXTINF:-1 tvg-id="奈克王牌 vs 多伦多运输" tvg-chno="1110" tvg-name="奈克王牌 vs 多伦多运输" tvg-group="篮球" group-title="篮球",奈克王牌 vs 多伦多运输·聚合源
 http://192.168.5.35:44635/play/81b506b2907c7cf26b7d61cd825ae65ce19ea2e3
-#EXTINF:-1 tvg-id="奎松胡斯克尔 vs 比南拉古纳" tvg-chno="1111" tvg-name="奎松胡斯克尔 vs 比南拉古纳" tvg-group="篮球" group-title="篮球",奎松胡斯克尔 vs 比南拉古纳·聚合源
-http://192.168.5.35:44635/play/02e43000b45c9ff3f1b206c3b1f840509ffb146a
-#EXTINF:-1 tvg-id="山东山高女篮 vs 厦门体育集团女篮" tvg-chno="1112" tvg-name="山东山高女篮 vs 厦门体育集团女篮" tvg-group="篮球" group-title="篮球",山东山高女篮 vs 厦门体育集团女篮·聚合源
+#EXTINF:-1 tvg-id="山东山高女篮 vs 厦门体育集团女篮" tvg-chno="1111" tvg-name="山东山高女篮 vs 厦门体育集团女篮" tvg-group="篮球" group-title="篮球",山东山高女篮 vs 厦门体育集团女篮·聚合源
 http://192.168.5.35:44635/play/4ac3dd50a9ac397483f3858d8e383ab04858871d
-#EXTINF:-1 tvg-id="山东山高女篮 vs 厦门体育集团女篮" tvg-chno="1112" tvg-name="山东山高女篮 vs 厦门体育集团女篮" tvg-group="篮球" group-title="篮球",山东山高女篮 vs 厦门体育集团女篮·聚合源
+#EXTINF:-1 tvg-id="山东山高女篮 vs 厦门体育集团女篮" tvg-chno="1111" tvg-name="山东山高女篮 vs 厦门体育集团女篮" tvg-group="篮球" group-title="篮球",山东山高女篮 vs 厦门体育集团女篮·聚合源
 http://192.168.5.35:44635/play/38daa4d06cf1c110a2c26b41ee83576bffe3f4e8
-#EXTINF:-1 tvg-id="广州龙狮B队 vs 河内DM公牛" tvg-chno="1113" tvg-name="广州龙狮B队 vs 河内DM公牛" tvg-group="篮球" group-title="篮球",广州龙狮B队 vs 河内DM公牛·聚合源
+#EXTINF:-1 tvg-id="广州龙狮B队 vs 河内DM公牛" tvg-chno="1112" tvg-name="广州龙狮B队 vs 河内DM公牛" tvg-group="篮球" group-title="篮球",广州龙狮B队 vs 河内DM公牛·聚合源
 http://192.168.5.35:44635/play/81675dd933dd51ebe650af15afc3be75439afe9f
-#EXTINF:-1 tvg-id="广州龙狮B队 vs 河内DM公牛" tvg-chno="1113" tvg-name="广州龙狮B队 vs 河内DM公牛" tvg-group="篮球" group-title="篮球",广州龙狮B队 vs 河内DM公牛·聚合源
+#EXTINF:-1 tvg-id="广州龙狮B队 vs 河内DM公牛" tvg-chno="1112" tvg-name="广州龙狮B队 vs 河内DM公牛" tvg-group="篮球" group-title="篮球",广州龙狮B队 vs 河内DM公牛·聚合源
 http://192.168.5.35:44635/play/c5f51dcf1730534f244cf2dfa3817b61dfd05e06
+#EXTINF:-1 tvg-id="拉夫桑贾 vs 南扎格罗斯" tvg-chno="1113" tvg-name="拉夫桑贾 vs 南扎格罗斯" tvg-group="篮球" group-title="篮球",拉夫桑贾 vs 南扎格罗斯·聚合源
+http://192.168.5.35:44635/play/5ad21b9509af504abfc1006efdc854c58790c402
 #EXTINF:-1 tvg-id="新加坡SBA vs 田川" tvg-chno="1114" tvg-name="新加坡SBA vs 田川" tvg-group="篮球" group-title="篮球",新加坡SBA vs 田川·聚合源
 http://192.168.5.35:44635/play/423b69464d45659ae7c16b3bd26647b129950731
 #EXTINF:-1 tvg-id="新疆天山女篮 vs 合肥文旅女篮" tvg-chno="1115" tvg-name="新疆天山女篮 vs 合肥文旅女篮" tvg-group="篮球" group-title="篮球",新疆天山女篮 vs 合肥文旅女篮·聚合源
@@ -85,6 +85,8 @@ http://192.168.5.35:44635/play/2d3fb006b741dc0ffc29f6f001593fcd9fad52b7
 http://192.168.5.35:44635/play/9a4196989a85fbfa549a392463ec5878a6ec1d7d
 #EXTINF:-1 tvg-id="阿尔泰巴尔瑙尔 vs 伊泽夫斯克" tvg-chno="1120" tvg-name="阿尔泰巴尔瑙尔 vs 伊泽夫斯克" tvg-group="篮球" group-title="篮球",阿尔泰巴尔瑙尔 vs 伊泽夫斯克·聚合源
 http://192.168.5.35:44635/play/ac32e1c5c2aef786c37207e2ed0944c9528a930a
+#EXTINF:-1 tvg-id="马伦戈 vs 拉帕达凡伊斯法罕" tvg-chno="1121" tvg-name="马伦戈 vs 拉帕达凡伊斯法罕" tvg-group="篮球" group-title="篮球",马伦戈 vs 拉帕达凡伊斯法罕·聚合源
+http://192.168.5.35:44635/play/072f283e7f0fb5e0e9ef64421af2110efe18db5c
 #EXTINF:-1 tvg-id="大连体产女篮 vs 武汉盛帆黄鹤女篮" tvg-chno="1201" tvg-name="大连体产女篮 vs 武汉盛帆黄鹤女篮" tvg-group="足球" group-title="足球",大连体产女篮 vs 武汉盛帆黄鹤女篮·咪咕直播·720P
 http://192.168.5.35:35456/jrs/%E5%A4%A7%E8%BF%9E%E4%BD%93%E4%BA%A7%E5%A5%B3%E7%AF%AE%20vs%20%E6%AD%A6%E6%B1%89%E7%9B%9B%E5%B8%86%E9%BB%84%E9%B9%A4%E5%A5%B3%E7%AF%AE%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
 #EXTINF:-1 tvg-id="狮城水手 vs 阿德莱德联" tvg-chno="1202" tvg-name="狮城水手 vs 阿德莱德联" tvg-group="足球" group-title="足球",狮城水手 vs 阿德莱德联·咪咕直播·720P
