@@ -8,6 +8,7 @@
   <channel id="奇才 vs 老鹰"><display-name>奇才 vs 老鹰</display-name></channel>
   <channel id="尼克斯 vs 公牛"><display-name>尼克斯 vs 公牛</display-name></channel>
   <channel id="活塞 vs 76人"><display-name>活塞 vs 76人</display-name></channel>
+  <channel id="火箭 vs 森林狼"><display-name>火箭 vs 森林狼</display-name></channel>
   <channel id="灰熊 vs 步行者"><display-name>灰熊 vs 步行者</display-name></channel>
   <channel id="篮网 vs 黄蜂"><display-name>篮网 vs 黄蜂</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
@@ -75,6 +76,10 @@
   </programme>
   <programme start="20261105080000 +0800" stop="20261105104012 +0800" channel="活塞 vs 76人">
     <title>Philadelphia 76ers at Detroit Pistons（NBA）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261105093000 +0800" stop="20261105121012 +0800" channel="火箭 vs 森林狼">
+    <title>Minnesota Timberwolves at Houston Rockets（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261105090000 +0800" stop="20261105114012 +0800" channel="灰熊 vs 步行者">
