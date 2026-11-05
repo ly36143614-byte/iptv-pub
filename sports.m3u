@@ -42,7 +42,7 @@ http://192.168.5.35:44635/play/c4ca18b81b74355f4ea49b857e9a0772b4363006
 #EXTINF:-1 tvg-id="塔比亚特 vs 阿巴丹炼油厂" tvg-chno="1108" tvg-name="塔比亚特 vs 阿巴丹炼油厂" tvg-group="篮球" group-title="篮球",塔比亚特 vs 阿巴丹炼油厂·聚合源
 http://192.168.5.35:44635/play/a012888fee91e4ef45193765a1a1acf38a0846cc
 #EXTINF:-1 tvg-id="奈克王牌 vs 多伦多运输" tvg-chno="1109" tvg-name="奈克王牌 vs 多伦多运输" tvg-group="篮球" group-title="篮球",奈克王牌 vs 多伦多运输·聚合源
-http://192.168.5.35:44635/play/81b506b2907c7cf26b7d61cd825ae65ce19ea2e3
+http://192.168.5.35:44635/play/b3891102682c2442f63c6bb6c0bca8d923a27c96
 #EXTINF:-1 tvg-id="奎松胡斯克尔 vs 比南拉古纳" tvg-chno="1110" tvg-name="奎松胡斯克尔 vs 比南拉古纳" tvg-group="篮球" group-title="篮球",奎松胡斯克尔 vs 比南拉古纳·聚合源
 http://192.168.5.35:44635/play/b2e8ef3087d32c566cc9dbdbda7006e2ebb2a21f
 #EXTINF:-1 tvg-id="奎松胡斯克尔 vs 比南拉古纳" tvg-chno="1110" tvg-name="奎松胡斯克尔 vs 比南拉古纳" tvg-group="篮球" group-title="篮球",奎松胡斯克尔 vs 比南拉古纳·聚合源
@@ -159,11 +159,9 @@ http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1305" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1306" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
-http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1307" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1308" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1307" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
