@@ -6,6 +6,7 @@
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="特莫基明斯克B队 vs 卡拉斯莫吉廖夫B队"><display-name>特莫基明斯克B队 vs 卡拉斯莫吉廖夫B队</display-name></channel>
+  <channel id="萨拉基利斯B队 vs 瑞塔斯B"><display-name>萨拉基利斯B队 vs 瑞塔斯B</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <programme start="20261109020000 +0800" stop="20261109051948 +0800" channel="CBS">
     <title>New York Jets at Kansas City Chiefs（NFL）</title>
@@ -63,8 +64,8 @@
     <title>Db vs RBear（EPL World SEA S19 - Playoffs）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261105190000 +0800" stop="20261105193000 +0800" channel="赛程预告">
-    <title>Dota2：rfk vs DAXAK（FME S5）</title>
+  <programme start="20261106150000 +0800" stop="20261106173000 +0800" channel="萨拉基利斯B队 vs 瑞塔斯B">
+    <title>Db vs RBear（EPL World SEA S19 - Playoffs）</title>
     <category>体育</category>
   </programme>
   <programme start="20261105193000 +0800" stop="20261105210000 +0800" channel="赛程预告">
@@ -227,8 +228,12 @@
     <title>Dota2：oveA vs MenaW（EPC Season 3）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261107203000 +0800" stop="20261107223000 +0800" channel="赛程预告">
+  <programme start="20261107203000 +0800" stop="20261107210000 +0800" channel="赛程预告">
     <title>英超：利兹联 vs 热刺</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261107210000 +0800" stop="20261107230000 +0800" channel="赛程预告">
+    <title>西甲：马拉加 vs 桑坦德竞技；Dota2：CHero vs cyxariki（1w Essence III Play-In）；Dota2：PC vs Nemiga（Asgard Championship S2）；Dota2：Xipto vs PTime（DreamLeague D2 S5）；Dota2：PR vs ZENITH（DreamLeague D2 S5）；Dota2：potn9k vs Synapse（DreamLeague D2 S5）</title>
     <category>体育</category>
   </programme>
 </tv>
