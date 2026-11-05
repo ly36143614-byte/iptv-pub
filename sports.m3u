@@ -62,11 +62,7 @@ http://192.168.5.35:35456/jrs/%E5%BF%AB%E8%88%B9%20vs%20%E7%83%AD%E7%81%AB%C2%B7
 #EXTINF:-1 tvg-id="快船 vs 热火" tvg-chno="1115" tvg-name="快船 vs 热火" tvg-group="篮球1080" group-title="篮球1080",快船 vs 热火·1080P原声
 http://192.168.5.35:35456/jrs/%E5%BF%AB%E8%88%B9%20vs%20%E7%83%AD%E7%81%AB%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
 #EXTINF:-1 tvg-id="快船 vs 热火" tvg-chno="1115" tvg-name="快船 vs 热火" tvg-group="篮球1080" group-title="篮球1080",快船 vs 热火·1080P原声
-http://192.168.5.35:44635/play/2c388f4d553fa7db34f5b61a21582bcdfccfc189
-#EXTINF:-1 tvg-id="快船 vs 热火" tvg-chno="1115" tvg-name="快船 vs 热火" tvg-group="篮球1080" group-title="篮球1080",快船 vs 热火·1080P原声
-http://192.168.5.35:44635/play/a6e25720535c57a2191534fd612e1d536bbfd212
-#EXTINF:-1 tvg-id="快船 vs 热火" tvg-chno="1115" tvg-name="快船 vs 热火" tvg-group="篮球1080" group-title="篮球1080",快船 vs 热火·1080P原声
-http://192.168.5.35:44635/play/888c15839d70936454f2fcfa65d575b384ebb569
+http://192.168.5.35:44635/play/6c26b1aa83f03af27dc5226e414908549791035b
 #EXTINF:-1 tvg-id="掘金 vs 猛龙" tvg-chno="1116" tvg-name="掘金 vs 猛龙" tvg-group="篮球" group-title="篮球",掘金 vs 猛龙·聚合源
 http://192.168.5.35:44635/play/86609a83f3421be959297416d21c3d1fa4902a3b
 #EXTINF:-1 tvg-id="新加坡SBA vs 田川" tvg-chno="1117" tvg-name="新加坡SBA vs 田川" tvg-group="篮球" group-title="篮球",新加坡SBA vs 田川·聚合源
@@ -75,34 +71,38 @@ http://192.168.5.35:44635/play/423b69464d45659ae7c16b3bd26647b129950731
 http://192.168.5.35:44635/play/9d25371b93983b4aac2f769fb8f43d99bf1be243
 #EXTINF:-1 tvg-id="河北英励女篮 vs 广东奥普特女篮" tvg-chno="1118" tvg-name="河北英励女篮 vs 广东奥普特女篮" tvg-group="篮球" group-title="篮球",河北英励女篮 vs 广东奥普特女篮·聚合源
 http://192.168.5.35:44635/play/f74143ce3b4389ef17d92da0ab659bf972f46fbc
-#EXTINF:-1 tvg-id="蔚山现代太阳神 vs 首尔三星雷电" tvg-chno="1119" tvg-name="蔚山现代太阳神 vs 首尔三星雷电" tvg-group="篮球" group-title="篮球",蔚山现代太阳神 vs 首尔三星雷电·聚合源
+#EXTINF:-1 tvg-id="福建众腾女篮 vs 北京首钢园女篮" tvg-chno="1119" tvg-name="福建众腾女篮 vs 北京首钢园女篮" tvg-group="篮球" group-title="篮球",福建众腾女篮 vs 北京首钢园女篮·聚合源
+http://192.168.5.35:44635/play/150c3c59dfd03fa1eaab97c0c1d9eadaf92ec0eb
+#EXTINF:-1 tvg-id="蔚山现代太阳神 vs 首尔三星雷电" tvg-chno="1120" tvg-name="蔚山现代太阳神 vs 首尔三星雷电" tvg-group="篮球" group-title="篮球",蔚山现代太阳神 vs 首尔三星雷电·聚合源
 http://192.168.5.35:44635/play/51e859022445719fad88a637d1cbff578c336f3c
-#EXTINF:-1 tvg-id="贵州极光破晓女篮 vs 江苏五台山女篮" tvg-chno="1120" tvg-name="贵州极光破晓女篮 vs 江苏五台山女篮" tvg-group="篮球" group-title="篮球",贵州极光破晓女篮 vs 江苏五台山女篮·聚合源
+#EXTINF:-1 tvg-id="贵州极光破晓女篮 vs 江苏五台山女篮" tvg-chno="1121" tvg-name="贵州极光破晓女篮 vs 江苏五台山女篮" tvg-group="篮球" group-title="篮球",贵州极光破晓女篮 vs 江苏五台山女篮·聚合源
 http://192.168.5.35:44635/play/77c40176c3c5581893f4caf8a18476cb46c3a610
-#EXTINF:-1 tvg-id="贵州极光破晓女篮 vs 江苏五台山女篮" tvg-chno="1120" tvg-name="贵州极光破晓女篮 vs 江苏五台山女篮" tvg-group="篮球" group-title="篮球",贵州极光破晓女篮 vs 江苏五台山女篮·聚合源
+#EXTINF:-1 tvg-id="贵州极光破晓女篮 vs 江苏五台山女篮" tvg-chno="1121" tvg-name="贵州极光破晓女篮 vs 江苏五台山女篮" tvg-group="篮球" group-title="篮球",贵州极光破晓女篮 vs 江苏五台山女篮·聚合源
 http://192.168.5.35:44635/play/6cd1ed37bf90500ab6e6cec5ec85b4f61f5d7162
-#EXTINF:-1 tvg-id="釜山宙斯盾 vs 昊骏" tvg-chno="1121" tvg-name="釜山宙斯盾 vs 昊骏" tvg-group="篮球" group-title="篮球",釜山宙斯盾 vs 昊骏·聚合源
+#EXTINF:-1 tvg-id="釜山宙斯盾 vs 昊骏" tvg-chno="1122" tvg-name="釜山宙斯盾 vs 昊骏" tvg-group="篮球" group-title="篮球",釜山宙斯盾 vs 昊骏·聚合源
 http://192.168.5.35:44635/play/ef937ed642a5ad3521bfab67fc8d41a9bc69248f
-#EXTINF:-1 tvg-id="釜山宙斯盾 vs 昊骏" tvg-chno="1121" tvg-name="釜山宙斯盾 vs 昊骏" tvg-group="篮球" group-title="篮球",釜山宙斯盾 vs 昊骏·聚合源
+#EXTINF:-1 tvg-id="釜山宙斯盾 vs 昊骏" tvg-chno="1122" tvg-name="釜山宙斯盾 vs 昊骏" tvg-group="篮球" group-title="篮球",釜山宙斯盾 vs 昊骏·聚合源
 http://192.168.5.35:44635/play/f0bff4235c806ea6fe7d1eed0de23978fcfeac25
-#EXTINF:-1 tvg-id="釜山宙斯盾 vs 昊骏" tvg-chno="1121" tvg-name="釜山宙斯盾 vs 昊骏" tvg-group="篮球" group-title="篮球",釜山宙斯盾 vs 昊骏·聚合源
+#EXTINF:-1 tvg-id="釜山宙斯盾 vs 昊骏" tvg-chno="1122" tvg-name="釜山宙斯盾 vs 昊骏" tvg-group="篮球" group-title="篮球",釜山宙斯盾 vs 昊骏·聚合源
 http://192.168.5.35:44635/play/2d3fb006b741dc0ffc29f6f001593fcd9fad52b7
-#EXTINF:-1 tvg-id="陕西榆林天泽女篮 vs 四川远达美乐女篮" tvg-chno="1122" tvg-name="陕西榆林天泽女篮 vs 四川远达美乐女篮" tvg-group="篮球" group-title="篮球",陕西榆林天泽女篮 vs 四川远达美乐女篮·聚合源
+#EXTINF:-1 tvg-id="陕西榆林天泽女篮 vs 四川远达美乐女篮" tvg-chno="1123" tvg-name="陕西榆林天泽女篮 vs 四川远达美乐女篮" tvg-group="篮球" group-title="篮球",陕西榆林天泽女篮 vs 四川远达美乐女篮·聚合源
 http://192.168.5.35:44635/play/dbfdc31800a6d9170a96754c1b290c53d9474775
-#EXTINF:-1 tvg-id="陕西榆林天泽女篮 vs 四川远达美乐女篮" tvg-chno="1122" tvg-name="陕西榆林天泽女篮 vs 四川远达美乐女篮" tvg-group="篮球" group-title="篮球",陕西榆林天泽女篮 vs 四川远达美乐女篮·聚合源
+#EXTINF:-1 tvg-id="陕西榆林天泽女篮 vs 四川远达美乐女篮" tvg-chno="1123" tvg-name="陕西榆林天泽女篮 vs 四川远达美乐女篮" tvg-group="篮球" group-title="篮球",陕西榆林天泽女篮 vs 四川远达美乐女篮·聚合源
 http://192.168.5.35:44635/play/145e200585616a5b43bb04253676f63edc7ad852
-#EXTINF:-1 tvg-id="马刺 vs 独行侠" tvg-chno="1123" tvg-name="马刺 vs 独行侠" tvg-group="篮球1080" group-title="篮球1080",马刺 vs 独行侠·纬来1080
+#EXTINF:-1 tvg-id="马刺 vs 独行侠" tvg-chno="1124" tvg-name="马刺 vs 独行侠" tvg-group="篮球1080" group-title="篮球1080",马刺 vs 独行侠·纬来1080
 http://192.168.5.35:35456/jrs/%E9%A9%AC%E5%88%BA%20vs%20%E7%8B%AC%E8%A1%8C%E4%BE%A0%C2%B7%E7%BA%AC%E6%9D%A51080
-#EXTINF:-1 tvg-id="马刺 vs 独行侠" tvg-chno="1123" tvg-name="马刺 vs 独行侠" tvg-group="篮球1080" group-title="篮球1080",马刺 vs 独行侠·纬来1080
+#EXTINF:-1 tvg-id="马刺 vs 独行侠" tvg-chno="1124" tvg-name="马刺 vs 独行侠" tvg-group="篮球1080" group-title="篮球1080",马刺 vs 独行侠·纬来1080
 http://192.168.5.35:35456/jrs/%E9%A9%AC%E5%88%BA%20vs%20%E7%8B%AC%E8%A1%8C%E4%BE%A0%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
-#EXTINF:-1 tvg-id="马刺 vs 独行侠" tvg-chno="1123" tvg-name="马刺 vs 独行侠" tvg-group="篮球1080" group-title="篮球1080",马刺 vs 独行侠·纬来1080
+#EXTINF:-1 tvg-id="马刺 vs 独行侠" tvg-chno="1124" tvg-name="马刺 vs 独行侠" tvg-group="篮球1080" group-title="篮球1080",马刺 vs 独行侠·纬来1080
 http://192.168.5.35:44635/play/e9204939e77784d52d4f6bb7db153deb8572beb9
 #EXTINF:-1 tvg-id="KSA青年 vs 前锋CF" tvg-chno="1201" tvg-name="KSA青年 vs 前锋CF" tvg-group="足球" group-title="足球",KSA青年 vs 前锋CF·聚合源
 http://192.168.5.35:44635/play/501c8fab0dd765292301b86fae5372092ea15ccf
 #EXTINF:-1 tvg-id="US比斯克拉女足 vs 阿克布女足" tvg-chno="1202" tvg-name="US比斯克拉女足 vs 阿克布女足" tvg-group="足球" group-title="足球",US比斯克拉女足 vs 阿克布女足·聚合源
 http://192.168.5.35:44635/play/3767cdd77f8143cc35589d5ab2bf76ba8bbeb969
 #EXTINF:-1 tvg-id="中国香港室内女足 vs 伊朗室内女足" tvg-chno="1203" tvg-name="中国香港室内女足 vs 伊朗室内女足" tvg-group="足球" group-title="足球",中国香港室内女足 vs 伊朗室内女足·聚合源
-http://192.168.5.35:44635/play/370542350593629349ab453278616a3a53bc9ccc
+http://192.168.5.35:44635/play/63faa40931186156447a362c282f629859d9ed2e
+#EXTINF:-1 tvg-id="中国香港室内女足 vs 伊朗室内女足" tvg-chno="1203" tvg-name="中国香港室内女足 vs 伊朗室内女足" tvg-group="足球" group-title="足球",中国香港室内女足 vs 伊朗室内女足·聚合源
+http://192.168.5.35:44635/play/c4d4f6d516e7b4bc92467ad8212f48d682a50f11
 #EXTINF:-1 tvg-id="埃斯卡塔 vs 雷加塔吉克冶铝厂" tvg-chno="1204" tvg-name="埃斯卡塔 vs 雷加塔吉克冶铝厂" tvg-group="足球" group-title="足球",埃斯卡塔 vs 雷加塔吉克冶铝厂·聚合源
 http://192.168.5.35:44635/play/ac2e0a0bbe7cf07317603d02871aa43a65a3d7ef
 #EXTINF:-1 tvg-id="塔什干火车头女足 vs 费尔干纳夫兹女足" tvg-chno="1205" tvg-name="塔什干火车头女足 vs 费尔干纳夫兹女足" tvg-group="足球" group-title="足球",塔什干火车头女足 vs 费尔干纳夫兹女足·聚合源
