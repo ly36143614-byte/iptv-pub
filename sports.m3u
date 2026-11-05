@@ -132,7 +132,9 @@ http://192.168.5.35:44635/play/7d0f79da457852b0616294a50828838501486d89
 #EXTINF:-1 tvg-id="上海申花U20 vs 陕西联合U20" tvg-chno="1204" tvg-name="上海申花U20 vs 陕西联合U20" tvg-group="足球" group-title="足球",上海申花U20 vs 陕西联合U20·聚合源
 http://192.168.5.35:44635/play/cb270215bc981ebbce21bb580ab2151036dbff12
 #EXTINF:-1 tvg-id="中国香港室内女足 vs 伊朗室内女足" tvg-chno="1205" tvg-name="中国香港室内女足 vs 伊朗室内女足" tvg-group="足球" group-title="足球",中国香港室内女足 vs 伊朗室内女足·聚合源
-http://192.168.5.35:44635/play/370542350593629349ab453278616a3a53bc9ccc
+http://192.168.5.35:44635/play/63faa40931186156447a362c282f629859d9ed2e
+#EXTINF:-1 tvg-id="中国香港室内女足 vs 伊朗室内女足" tvg-chno="1205" tvg-name="中国香港室内女足 vs 伊朗室内女足" tvg-group="足球" group-title="足球",中国香港室内女足 vs 伊朗室内女足·聚合源
+http://192.168.5.35:44635/play/c4d4f6d516e7b4bc92467ad8212f48d682a50f11
 #EXTINF:-1 tvg-id="埃斯卡塔 vs 雷加塔吉克冶铝厂" tvg-chno="1206" tvg-name="埃斯卡塔 vs 雷加塔吉克冶铝厂" tvg-group="足球" group-title="足球",埃斯卡塔 vs 雷加塔吉克冶铝厂·聚合源
 http://192.168.5.35:44635/play/ac2e0a0bbe7cf07317603d02871aa43a65a3d7ef
 #EXTINF:-1 tvg-id="塔什干足协U15 vs 重庆青训U15" tvg-chno="1207" tvg-name="塔什干足协U15 vs 重庆青训U15" tvg-group="足球" group-title="足球",塔什干足协U15 vs 重庆青训U15·聚合源
@@ -178,7 +180,9 @@ http://192.168.5.35:44635/play/3b49c63ce4592cad6d8354afab06184d7a12df9f
 #EXTINF:-1 tvg-id="雅典耀蓝老鹰 vs UP格斗马鲁" tvg-chno="1220" tvg-name="雅典耀蓝老鹰 vs UP格斗马鲁" tvg-group="足球" group-title="足球",雅典耀蓝老鹰 vs UP格斗马鲁·聚合源
 http://192.168.5.35:44635/play/d017217c00e87b0eed14f4dbdd4fdabd754d20aa
 #EXTINF:-1 tvg-id="韩国室内足球队 vs 马尔代夫室内足球队" tvg-chno="1221" tvg-name="韩国室内足球队 vs 马尔代夫室内足球队" tvg-group="足球" group-title="足球",韩国室内足球队 vs 马尔代夫室内足球队·聚合源
-http://192.168.5.35:44635/play/3190ecba81693cec11da0c85de3312bd99813916
+http://192.168.5.35:44635/play/0a6ea0a1f95a94301cabb8b2afec46f6251b6fa6
+#EXTINF:-1 tvg-id="韩国室内足球队 vs 马尔代夫室内足球队" tvg-chno="1221" tvg-name="韩国室内足球队 vs 马尔代夫室内足球队" tvg-group="足球" group-title="足球",韩国室内足球队 vs 马尔代夫室内足球队·聚合源
+http://192.168.5.35:44635/play/84a25ebff8375a5995ffe55297e3831119b81a35
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NFL·NBC" tvg-chno="1302" tvg-name="NFL·NBC" tvg-group="综合体育" group-title="综合体育",NFL·NBC
@@ -203,19 +207,17 @@ http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NBC" tvg-chno="1354" tvg-name="NBC" tvg-group="体育综合" group-title="体育综合",NBC
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
-#EXTINF:-1 tvg-id="F1·Formula" tvg-chno="1355" tvg-name="F1·Formula" tvg-group="体育综合" group-title="体育综合",F1·Formula
-https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
-#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1356" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
+#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1355" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1357" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1356" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1358" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1357" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1359" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1358" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="悉尼奥林匹克 vs 欧克莱卡诺" tvg-chno="1360" tvg-name="悉尼奥林匹克 vs 欧克莱卡诺" tvg-group="体育综合" group-title="体育综合",悉尼奥林匹克 vs 欧克莱卡诺·聚合源
+#EXTINF:-1 tvg-id="悉尼奥林匹克 vs 欧克莱卡诺" tvg-chno="1359" tvg-name="悉尼奥林匹克 vs 欧克莱卡诺" tvg-group="体育综合" group-title="体育综合",悉尼奥林匹克 vs 欧克莱卡诺·聚合源
 http://192.168.5.35:44635/play/597f1c7ac08a17d0ad1e885b89d1ac87093198e9
-#EXTINF:-1 tvg-id="悉尼奥林匹克 vs 欧克莱卡诺" tvg-chno="1360" tvg-name="悉尼奥林匹克 vs 欧克莱卡诺" tvg-group="体育综合" group-title="体育综合",悉尼奥林匹克 vs 欧克莱卡诺·聚合源
+#EXTINF:-1 tvg-id="悉尼奥林匹克 vs 欧克莱卡诺" tvg-chno="1359" tvg-name="悉尼奥林匹克 vs 欧克莱卡诺" tvg-group="体育综合" group-title="体育综合",悉尼奥林匹克 vs 欧克莱卡诺·聚合源
 http://192.168.5.35:44635/play/5d032b8035c71dc0887c0feec22ec109d3799905
 #EXTINF:-1 tvg-id="AB vs TSpirit.A" tvg-chno="1401" tvg-name="AB vs TSpirit.A" tvg-group="DOTA2" group-title="DOTA2",AB vs TSpirit.A·聚合源
 http://192.168.5.35:44635/play/08aa2f7df2324775ffc48f367b3d79949f44796e
