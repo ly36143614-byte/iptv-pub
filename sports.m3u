@@ -37,6 +37,8 @@ http://192.168.5.35:44635/play/178d46ba48fcdf8d4b577e6825a1d5088a11efc0
 http://192.168.5.35:44635/play/273479f972cd1ffa5740ef0f029bce8ea2c17e21
 #EXTINF:-1 tvg-id="吉朗毒液女篮 vs 汤斯维尔火力女篮" tvg-chno="1107" tvg-name="吉朗毒液女篮 vs 汤斯维尔火力女篮" tvg-group="篮球" group-title="篮球",吉朗毒液女篮 vs 汤斯维尔火力女篮·聚合源
 http://192.168.5.35:44635/play/f327fdf243e4705edd60f5f114b111aeb0b6246b
+#EXTINF:-1 tvg-id="吉朗毒液女篮 vs 汤斯维尔火力女篮" tvg-chno="1107" tvg-name="吉朗毒液女篮 vs 汤斯维尔火力女篮" tvg-group="篮球" group-title="篮球",吉朗毒液女篮 vs 汤斯维尔火力女篮·聚合源
+http://192.168.5.35:44635/play/18d5c0be3843d305d62be8a0cb4e71860ebe9428
 #EXTINF:-1 tvg-id="品川区篮球队 vs 三重十四" tvg-chno="1108" tvg-name="品川区篮球队 vs 三重十四" tvg-group="篮球" group-title="篮球",品川区篮球队 vs 三重十四·聚合源
 http://192.168.5.35:44635/play/8ba5dea97612570d283847334689e29955e84239
 #EXTINF:-1 tvg-id="圣贝达红狮 vs LPU海盗" tvg-chno="1109" tvg-name="圣贝达红狮 vs LPU海盗" tvg-group="篮球" group-title="篮球",圣贝达红狮 vs LPU海盗·聚合源
@@ -139,13 +141,11 @@ http://192.168.5.35:44635/play/f2b2ac668e668094d15e19f414b4d3e3c526b6c4
 http://192.168.5.35:44635/play/594ef179c77392f406c702dba78907ec8870d533
 #EXTINF:-1 tvg-id="绿鹰女足 vs 卢扬多基金会女足" tvg-chno="1219" tvg-name="绿鹰女足 vs 卢扬多基金会女足" tvg-group="足球" group-title="足球",绿鹰女足 vs 卢扬多基金会女足·聚合源
 http://192.168.5.35:44635/play/701d089dc0b02c776fb22b0ce990b25ffd84d5db
-#EXTINF:-1 tvg-id="进球游戏 vs 锌足球学院" tvg-chno="1220" tvg-name="进球游戏 vs 锌足球学院" tvg-group="足球" group-title="足球",进球游戏 vs 锌足球学院·聚合源
-http://192.168.5.35:44635/play/bba226335575ba32887e9250b6cd3a2e9fe6ec65
-#EXTINF:-1 tvg-id="阿姆塔特FC vs 伊尔赤姆" tvg-chno="1221" tvg-name="阿姆塔特FC vs 伊尔赤姆" tvg-group="足球" group-title="足球",阿姆塔特FC vs 伊尔赤姆·聚合源
+#EXTINF:-1 tvg-id="阿姆塔特FC vs 伊尔赤姆" tvg-chno="1220" tvg-name="阿姆塔特FC vs 伊尔赤姆" tvg-group="足球" group-title="足球",阿姆塔特FC vs 伊尔赤姆·聚合源
 http://192.168.5.35:44635/play/9da4111f90db47f67da23bd2a5d16378fac31563
-#EXTINF:-1 tvg-id="阿姆塔特FC vs 伊尔赤姆" tvg-chno="1221" tvg-name="阿姆塔特FC vs 伊尔赤姆" tvg-group="足球" group-title="足球",阿姆塔特FC vs 伊尔赤姆·聚合源
+#EXTINF:-1 tvg-id="阿姆塔特FC vs 伊尔赤姆" tvg-chno="1220" tvg-name="阿姆塔特FC vs 伊尔赤姆" tvg-group="足球" group-title="足球",阿姆塔特FC vs 伊尔赤姆·聚合源
 http://192.168.5.35:44635/play/3b49c63ce4592cad6d8354afab06184d7a12df9f
-#EXTINF:-1 tvg-id="雅典耀蓝老鹰 vs UP格斗马鲁" tvg-chno="1222" tvg-name="雅典耀蓝老鹰 vs UP格斗马鲁" tvg-group="足球" group-title="足球",雅典耀蓝老鹰 vs UP格斗马鲁·聚合源
+#EXTINF:-1 tvg-id="雅典耀蓝老鹰 vs UP格斗马鲁" tvg-chno="1221" tvg-name="雅典耀蓝老鹰 vs UP格斗马鲁" tvg-group="足球" group-title="足球",雅典耀蓝老鹰 vs UP格斗马鲁·聚合源
 http://192.168.5.35:44635/play/d017217c00e87b0eed14f4dbdd4fdabd754d20aa
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
@@ -153,13 +153,15 @@ http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1303" tvg-name="ESPN" tvg-group="综合体育" group-title="综合体育",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1304" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1304" tvg-name="Tennis Channel" tvg-group="综合体育" group-title="综合体育",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1305" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1305" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1306" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1307" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1307" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1308" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
