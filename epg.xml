@@ -6,9 +6,7 @@
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="Zenith vs YG"><display-name>Zenith vs YG</display-name></channel>
   <channel id="国王 vs 湖人"><display-name>国王 vs 湖人</display-name></channel>
-  <channel id="太阳 vs 开拓者"><display-name>太阳 vs 开拓者</display-name></channel>
   <channel id="快船 vs 热火"><display-name>快船 vs 热火</display-name></channel>
-  <channel id="掘金 vs 猛龙"><display-name>掘金 vs 猛龙</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <channel id="马刺 vs 独行侠"><display-name>马刺 vs 独行侠</display-name></channel>
   <programme start="20261109020000 +0800" stop="20261109051948 +0800" channel="CBS">
@@ -67,16 +65,8 @@
     <title>Los Angeles Lakers at Sacramento Kings 已结束（NBA）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261105100000 +0800" stop="20261105124012 +0800" channel="太阳 vs 开拓者">
-    <title>Portland Trail Blazers at Phoenix Suns 已结束（NBA）</title>
-    <category>体育</category>
-  </programme>
   <programme start="20261105113000 +0800" stop="20261105141012 +0800" channel="快船 vs 热火">
     <title>Miami Heat at LA Clippers 已结束（NBA）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261105100000 +0800" stop="20261105124012 +0800" channel="掘金 vs 猛龙">
-    <title>Toronto Raptors at Denver Nuggets 已结束（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261105180000 +0800" stop="20261105190000 +0800" channel="赛程预告">
@@ -219,8 +209,12 @@
     <title>NBA：独行侠 vs 爵士；灰熊 vs 雷霆；雄鹿 vs 猛龙；鹈鹕 vs 森林狼</title>
     <category>体育</category>
   </programme>
-  <programme start="20261107110000 +0800" stop="20261107130000 +0800" channel="赛程预告">
+  <programme start="20261107110000 +0800" stop="20261107143000 +0800" channel="赛程预告">
     <title>NBA：湖人 vs 开拓者；国王 vs 马刺</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261107143000 +0800" stop="20261107163000 +0800" channel="赛程预告">
+    <title>中甲：延边龙鼎 vs 石家庄功夫；南通支云 vs 佛山南狮；宁波 vs 定南赣联；广东广州豹 vs 南京城市；大连鲲城 vs 梅州客家；深圳青年人 vs 苏州东吴；无锡吴钩 vs 长春亚泰；陕西联合 vs 广西恒宸</title>
     <category>体育</category>
   </programme>
   <programme start="20261105103000 +0800" stop="20261105131012 +0800" channel="马刺 vs 独行侠">
