@@ -19,16 +19,14 @@ http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1102" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="克莱佩达 vs 苏度瓦曼廷加" tvg-chno="1103" tvg-name="克莱佩达 vs 苏度瓦曼廷加" tvg-group="篮球" group-title="篮球",克莱佩达 vs 苏度瓦曼廷加·聚合源
-http://192.168.5.35:44635/play/4a3947a5e67a7d401197eb020e146943da6612c0
-#EXTINF:-1 tvg-id="努瓦扎特 vs 伊萨城" tvg-chno="1104" tvg-name="努瓦扎特 vs 伊萨城" tvg-group="篮球" group-title="篮球",努瓦扎特 vs 伊萨城·聚合源
-http://192.168.5.35:44635/play/070171063d95548f342d971fcfbbbf17a8539973
-#EXTINF:-1 tvg-id="卡莱 vs 纳夫特加奇萨兰" tvg-chno="1105" tvg-name="卡莱 vs 纳夫特加奇萨兰" tvg-group="篮球" group-title="篮球",卡莱 vs 纳夫特加奇萨兰·聚合源
-http://192.168.5.35:44635/play/ee22d2e7108ff033fb8e02da8e7db2eb4de1ddd7
-#EXTINF:-1 tvg-id="山东山高女篮 vs 厦门体育集团女篮" tvg-chno="1106" tvg-name="山东山高女篮 vs 厦门体育集团女篮" tvg-group="篮球" group-title="篮球",山东山高女篮 vs 厦门体育集团女篮·咪咕直播·720P
+#EXTINF:-1 tvg-id="山东山高女篮 vs 厦门体育集团女篮" tvg-chno="1103" tvg-name="山东山高女篮 vs 厦门体育集团女篮" tvg-group="篮球" group-title="篮球",山东山高女篮 vs 厦门体育集团女篮·咪咕直播·720P
 http://192.168.5.35:35456/jrs/%E5%B1%B1%E4%B8%9C%E5%B1%B1%E9%AB%98%E5%A5%B3%E7%AF%AE%20vs%20%E5%8E%A6%E9%97%A8%E4%BD%93%E8%82%B2%E9%9B%86%E5%9B%A2%E5%A5%B3%E7%AF%AE%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
-#EXTINF:-1 tvg-id="山东山高女篮 vs 厦门体育集团女篮" tvg-chno="1106" tvg-name="山东山高女篮 vs 厦门体育集团女篮" tvg-group="篮球" group-title="篮球",山东山高女篮 vs 厦门体育集团女篮·咪咕直播·720P
-http://192.168.5.35:44635/play/20f4beb37ab75143fa3361f45d3486ef967bac3b
+#EXTINF:-1 tvg-id="克莱佩达 vs 苏度瓦曼廷加" tvg-chno="1104" tvg-name="克莱佩达 vs 苏度瓦曼廷加" tvg-group="篮球" group-title="篮球",克莱佩达 vs 苏度瓦曼廷加·聚合源
+http://192.168.5.35:44635/play/4a3947a5e67a7d401197eb020e146943da6612c0
+#EXTINF:-1 tvg-id="努瓦扎特 vs 伊萨城" tvg-chno="1105" tvg-name="努瓦扎特 vs 伊萨城" tvg-group="篮球" group-title="篮球",努瓦扎特 vs 伊萨城·聚合源
+http://192.168.5.35:44635/play/070171063d95548f342d971fcfbbbf17a8539973
+#EXTINF:-1 tvg-id="卡莱 vs 纳夫特加奇萨兰" tvg-chno="1106" tvg-name="卡莱 vs 纳夫特加奇萨兰" tvg-group="篮球" group-title="篮球",卡莱 vs 纳夫特加奇萨兰·聚合源
+http://192.168.5.35:44635/play/ee22d2e7108ff033fb8e02da8e7db2eb4de1ddd7
 #EXTINF:-1 tvg-id="山西兴瑞女篮 vs 河南济源王屋山女篮" tvg-chno="1107" tvg-name="山西兴瑞女篮 vs 河南济源王屋山女篮" tvg-group="篮球" group-title="篮球",山西兴瑞女篮 vs 河南济源王屋山女篮·咪咕直播·720P
 http://192.168.5.35:35456/jrs/%E5%B1%B1%E8%A5%BF%E5%85%B4%E7%91%9E%E5%A5%B3%E7%AF%AE%20vs%20%E6%B2%B3%E5%8D%97%E6%B5%8E%E6%BA%90%E7%8E%8B%E5%B1%8B%E5%B1%B1%E5%A5%B3%E7%AF%AE%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
 #EXTINF:-1 tvg-id="山西兴瑞女篮 vs 河南济源王屋山女篮" tvg-chno="1107" tvg-name="山西兴瑞女篮 vs 河南济源王屋山女篮" tvg-group="篮球" group-title="篮球",山西兴瑞女篮 vs 河南济源王屋山女篮·咪咕直播·720P
@@ -44,7 +42,7 @@ http://192.168.5.35:44635/play/11fc766ae3bc76be2866c130e8b5373aad041413
 #EXTINF:-1 tvg-id="戈尔甘城市 vs 帕斯科尔德斯坦" tvg-chno="1110" tvg-name="戈尔甘城市 vs 帕斯科尔德斯坦" tvg-group="篮球" group-title="篮球",戈尔甘城市 vs 帕斯科尔德斯坦·聚合源
 http://192.168.5.35:44635/play/6c018a26f0751cb247a05b0e6c7f6f0cc84c07a1
 #EXTINF:-1 tvg-id="拉夫桑贾 vs 南扎格罗斯" tvg-chno="1111" tvg-name="拉夫桑贾 vs 南扎格罗斯" tvg-group="篮球" group-title="篮球",拉夫桑贾 vs 南扎格罗斯·聚合源
-http://192.168.5.35:44635/play/5ad21b9509af504abfc1006efdc854c58790c402
+http://192.168.5.35:44635/play/c1e50a7cbab91fa82c9a05a20e41e65117bd8566
 #EXTINF:-1 tvg-id="新疆天山女篮 vs 合肥文旅女篮" tvg-chno="1112" tvg-name="新疆天山女篮 vs 合肥文旅女篮" tvg-group="篮球" group-title="篮球",新疆天山女篮 vs 合肥文旅女篮·咪咕直播·720P
 http://192.168.5.35:35456/jrs/%E6%96%B0%E7%96%86%E5%A4%A9%E5%B1%B1%E5%A5%B3%E7%AF%AE%20vs%20%E5%90%88%E8%82%A5%E6%96%87%E6%97%85%E5%A5%B3%E7%AF%AE%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
 #EXTINF:-1 tvg-id="新疆天山女篮 vs 合肥文旅女篮" tvg-chno="1112" tvg-name="新疆天山女篮 vs 合肥文旅女篮" tvg-group="篮球" group-title="篮球",新疆天山女篮 vs 合肥文旅女篮·咪咕直播·720P
@@ -82,7 +80,7 @@ http://192.168.5.35:44635/play/ac32e1c5c2aef786c37207e2ed0944c9528a930a
 #EXTINF:-1 tvg-id="香港永伦 vs 康仁福建" tvg-chno="1121" tvg-name="香港永伦 vs 康仁福建" tvg-group="篮球" group-title="篮球",香港永伦 vs 康仁福建·聚合源
 http://192.168.5.35:44635/play/ccd27b4d3a2ed635cbb83dc72b5b925388b5bb26
 #EXTINF:-1 tvg-id="马伦戈 vs 拉帕达凡伊斯法罕" tvg-chno="1122" tvg-name="马伦戈 vs 拉帕达凡伊斯法罕" tvg-group="篮球" group-title="篮球",马伦戈 vs 拉帕达凡伊斯法罕·聚合源
-http://192.168.5.35:44635/play/072f283e7f0fb5e0e9ef64421af2110efe18db5c
+http://192.168.5.35:44635/play/fa21d010161fa2b08e750c05b7e254eb40e04bf1
 #EXTINF:-1 tvg-id="丘吉尔兄弟 vs 东北联" tvg-chno="1201" tvg-name="丘吉尔兄弟 vs 东北联" tvg-group="足球1080" group-title="足球1080",丘吉尔兄弟 vs 东北联·1080P原声
 http://192.168.5.35:35456/jrs/%E4%B8%98%E5%90%89%E5%B0%94%E5%85%84%E5%BC%9F%20vs%20%E4%B8%9C%E5%8C%97%E8%81%94%C2%B71080P%E5%8E%9F%E5%A3%B0
 #EXTINF:-1 tvg-id="丘吉尔兄弟 vs 东北联" tvg-chno="1201" tvg-name="丘吉尔兄弟 vs 东北联" tvg-group="足球1080" group-title="足球1080",丘吉尔兄弟 vs 东北联·1080P原声
@@ -155,13 +153,15 @@ http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1303" tvg-name="ESPN" tvg-group="综合体育" group-title="综合体育",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1304" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1304" tvg-name="Tennis Channel" tvg-group="综合体育" group-title="综合体育",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1305" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1305" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1306" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1307" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1307" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1308" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
@@ -177,11 +177,13 @@ https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1357" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1358" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1358" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1359" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="尤格拉 vs 车里雅宾斯克奥林匹克" tvg-chno="1359" tvg-name="尤格拉 vs 车里雅宾斯克奥林匹克" tvg-group="体育综合" group-title="体育综合",尤格拉 vs 车里雅宾斯克奥林匹克·聚合源
+#EXTINF:-1 tvg-id="尤格拉 vs 车里雅宾斯克奥林匹克" tvg-chno="1360" tvg-name="尤格拉 vs 车里雅宾斯克奥林匹克" tvg-group="体育综合" group-title="体育综合",尤格拉 vs 车里雅宾斯克奥林匹克·聚合源
 http://192.168.5.35:44635/play/2cde583da47be6e9e1a7f7dab1aedbab59b8e7fa
-#EXTINF:-1 tvg-id="尤格拉 vs 车里雅宾斯克奥林匹克" tvg-chno="1359" tvg-name="尤格拉 vs 车里雅宾斯克奥林匹克" tvg-group="体育综合" group-title="体育综合",尤格拉 vs 车里雅宾斯克奥林匹克·聚合源
+#EXTINF:-1 tvg-id="尤格拉 vs 车里雅宾斯克奥林匹克" tvg-chno="1360" tvg-name="尤格拉 vs 车里雅宾斯克奥林匹克" tvg-group="体育综合" group-title="体育综合",尤格拉 vs 车里雅宾斯克奥林匹克·聚合源
 http://192.168.5.35:44635/play/6f4646be67f18e8a20a940ec56585690d6339c2e
 #EXTINF:-1 tvg-id="AB vs TSpirit.A" tvg-chno="1401" tvg-name="AB vs TSpirit.A" tvg-group="DOTA2" group-title="DOTA2",AB vs TSpirit.A·聚合源
 http://192.168.5.35:44635/play/08aa2f7df2324775ffc48f367b3d79949f44796e
