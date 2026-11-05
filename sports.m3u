@@ -28,11 +28,7 @@ http://192.168.5.35:35456/jrs/%E5%87%AF%E5%B0%94%E7%89%B9%E4%BA%BA%20vs%20%E9%9B
 #EXTINF:-1 tvg-id="凯尔特人 vs 雄鹿" tvg-chno="1103" tvg-name="凯尔特人 vs 雄鹿" tvg-group="篮球1080" group-title="篮球1080",凯尔特人 vs 雄鹿·1080P原声
 http://192.168.5.35:35456/jrs/%E5%87%AF%E5%B0%94%E7%89%B9%E4%BA%BA%20vs%20%E9%9B%84%E9%B9%BF%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
 #EXTINF:-1 tvg-id="凯尔特人 vs 雄鹿" tvg-chno="1103" tvg-name="凯尔特人 vs 雄鹿" tvg-group="篮球1080" group-title="篮球1080",凯尔特人 vs 雄鹿·1080P原声
-http://192.168.5.35:44635/play/03ebc84d12183debc365d62240376344663a1c5f
-#EXTINF:-1 tvg-id="凯尔特人 vs 雄鹿" tvg-chno="1103" tvg-name="凯尔特人 vs 雄鹿" tvg-group="篮球1080" group-title="篮球1080",凯尔特人 vs 雄鹿·1080P原声
-http://192.168.5.35:44635/play/ddd3b81ece9dea693bc7dbf04e8ac1b8f9a4b607
-#EXTINF:-1 tvg-id="凯尔特人 vs 雄鹿" tvg-chno="1103" tvg-name="凯尔特人 vs 雄鹿" tvg-group="篮球1080" group-title="篮球1080",凯尔特人 vs 雄鹿·1080P原声
-http://192.168.5.35:44635/play/d572a636593a64ddea2ff32bad6c7b17b7f894c2
+http://192.168.5.35:44635/play/355e31589024acc5c99b873461de0ea1507e66cf
 #EXTINF:-1 tvg-id="史丹森女篮 vs 路易斯维尔大学女篮" tvg-chno="1104" tvg-name="史丹森女篮 vs 路易斯维尔大学女篮" tvg-group="篮球" group-title="篮球",史丹森女篮 vs 路易斯维尔大学女篮·聚合源
 http://192.168.5.35:44635/play/cfbd770fd12d0fa1d69da5d5797fc732849b8141
 #EXTINF:-1 tvg-id="史丹森女篮 vs 路易斯维尔大学女篮" tvg-chno="1104" tvg-name="史丹森女篮 vs 路易斯维尔大学女篮" tvg-group="篮球" group-title="篮球",史丹森女篮 vs 路易斯维尔大学女篮·聚合源
@@ -167,59 +163,51 @@ http://192.168.5.35:44635/play/7d0f79da457852b0616294a50828838501486d89
 http://192.168.5.35:44635/play/968fd9b0063911ab76c6e2ed1de36ee89f5b5b93
 #EXTINF:-1 tvg-id="伯恩茅斯U15 vs 浙江U15" tvg-chno="1204" tvg-name="伯恩茅斯U15 vs 浙江U15" tvg-group="足球" group-title="足球",伯恩茅斯U15 vs 浙江U15·聚合源
 http://192.168.5.35:44635/play/3f2d5b88a9d241480e10b322a9dcce27708aec4a
-#EXTINF:-1 tvg-id="侨卡巴 vs 圣塔菲" tvg-chno="1205" tvg-name="侨卡巴 vs 圣塔菲" tvg-group="足球" group-title="足球",侨卡巴 vs 圣塔菲·聚合源
-http://192.168.5.35:44635/play/ef968080bfc8926675994b0edf75f5b1e4b98aca
-#EXTINF:-1 tvg-id="侨卡巴 vs 圣塔菲" tvg-chno="1205" tvg-name="侨卡巴 vs 圣塔菲" tvg-group="足球" group-title="足球",侨卡巴 vs 圣塔菲·聚合源
-http://192.168.5.35:44635/play/e93a8bf7b2780622825d034f7c3cf0693efa3954
-#EXTINF:-1 tvg-id="塔什干足协U15 vs 重庆青训U15" tvg-chno="1206" tvg-name="塔什干足协U15 vs 重庆青训U15" tvg-group="足球" group-title="足球",塔什干足协U15 vs 重庆青训U15·聚合源
+#EXTINF:-1 tvg-id="塔什干足协U15 vs 重庆青训U15" tvg-chno="1205" tvg-name="塔什干足协U15 vs 重庆青训U15" tvg-group="足球" group-title="足球",塔什干足协U15 vs 重庆青训U15·聚合源
 http://192.168.5.35:44635/play/9a48c97ecfe91121b4e03eb2ffc3954df5dbbdfe
-#EXTINF:-1 tvg-id="塔什干足协U15 vs 重庆青训U15" tvg-chno="1206" tvg-name="塔什干足协U15 vs 重庆青训U15" tvg-group="足球" group-title="足球",塔什干足协U15 vs 重庆青训U15·聚合源
+#EXTINF:-1 tvg-id="塔什干足协U15 vs 重庆青训U15" tvg-chno="1205" tvg-name="塔什干足协U15 vs 重庆青训U15" tvg-group="足球" group-title="足球",塔什干足协U15 vs 重庆青训U15·聚合源
 http://192.168.5.35:44635/play/18d4bc69558953fdc90fb5baab8f563731881dee
-#EXTINF:-1 tvg-id="塞曼兹库瓦索 vs 奥克特帕" tvg-chno="1207" tvg-name="塞曼兹库瓦索 vs 奥克特帕" tvg-group="足球" group-title="足球",塞曼兹库瓦索 vs 奥克特帕·聚合源
+#EXTINF:-1 tvg-id="塞曼兹库瓦索 vs 奥克特帕" tvg-chno="1206" tvg-name="塞曼兹库瓦索 vs 奥克特帕" tvg-group="足球" group-title="足球",塞曼兹库瓦索 vs 奥克特帕·聚合源
 http://192.168.5.35:44635/play/cb4c830ac5ca6152b7ee833c6d281c39271e4e6a
-#EXTINF:-1 tvg-id="天津津门虎U20 vs 深圳新鹏城U20" tvg-chno="1208" tvg-name="天津津门虎U20 vs 深圳新鹏城U20" tvg-group="足球" group-title="足球",天津津门虎U20 vs 深圳新鹏城U20·聚合源
+#EXTINF:-1 tvg-id="天津津门虎U20 vs 深圳新鹏城U20" tvg-chno="1207" tvg-name="天津津门虎U20 vs 深圳新鹏城U20" tvg-group="足球" group-title="足球",天津津门虎U20 vs 深圳新鹏城U20·聚合源
 http://192.168.5.35:44635/play/57a9fad5988f997c12f47528edb569e95d7adfea
-#EXTINF:-1 tvg-id="奥克兰联女足 vs 西海岸游骑兵女足" tvg-chno="1209" tvg-name="奥克兰联女足 vs 西海岸游骑兵女足" tvg-group="足球" group-title="足球",奥克兰联女足 vs 西海岸游骑兵女足·聚合源
+#EXTINF:-1 tvg-id="奥克兰联女足 vs 西海岸游骑兵女足" tvg-chno="1208" tvg-name="奥克兰联女足 vs 西海岸游骑兵女足" tvg-group="足球" group-title="足球",奥克兰联女足 vs 西海岸游骑兵女足·聚合源
 http://192.168.5.35:44635/play/9d7a1451c33fd95e7ed24aaa5ecf2ac2c6f2cc49
-#EXTINF:-1 tvg-id="杭州U15 vs 标准列日U15" tvg-chno="1210" tvg-name="杭州U15 vs 标准列日U15" tvg-group="足球" group-title="足球",杭州U15 vs 标准列日U15·聚合源
+#EXTINF:-1 tvg-id="杭州U15 vs 标准列日U15" tvg-chno="1209" tvg-name="杭州U15 vs 标准列日U15" tvg-group="足球" group-title="足球",杭州U15 vs 标准列日U15·聚合源
 http://192.168.5.35:44635/play/ce98a7902982f8c8484859a0f4364b80763f8ead
-#EXTINF:-1 tvg-id="杭州U15 vs 标准列日U15" tvg-chno="1210" tvg-name="杭州U15 vs 标准列日U15" tvg-group="足球" group-title="足球",杭州U15 vs 标准列日U15·聚合源
+#EXTINF:-1 tvg-id="杭州U15 vs 标准列日U15" tvg-chno="1209" tvg-name="杭州U15 vs 标准列日U15" tvg-group="足球" group-title="足球",杭州U15 vs 标准列日U15·聚合源
 http://192.168.5.35:44635/play/910b6cf359d212a57f0cc738df9f8e23d84713d4
-#EXTINF:-1 tvg-id="泰国清迈队U15 vs 江苏U15" tvg-chno="1211" tvg-name="泰国清迈队U15 vs 江苏U15" tvg-group="足球" group-title="足球",泰国清迈队U15 vs 江苏U15·聚合源
-http://192.168.5.35:44635/play/daedc4479b5f148859b5ee7572f1e683663edced
-#EXTINF:-1 tvg-id="泰国清迈队U15 vs 江苏U15" tvg-chno="1211" tvg-name="泰国清迈队U15 vs 江苏U15" tvg-group="足球" group-title="足球",泰国清迈队U15 vs 江苏U15·聚合源
-http://192.168.5.35:44635/play/0a84afbc49e135b846d6022b34b10563c9e1592e
-#EXTINF:-1 tvg-id="特克尼克 vs 马德拉斯工兵" tvg-chno="1212" tvg-name="特克尼克 vs 马德拉斯工兵" tvg-group="足球" group-title="足球",特克尼克 vs 马德拉斯工兵·聚合源
+#EXTINF:-1 tvg-id="特克尼克 vs 马德拉斯工兵" tvg-chno="1210" tvg-name="特克尼克 vs 马德拉斯工兵" tvg-group="足球" group-title="足球",特克尼克 vs 马德拉斯工兵·聚合源
 http://192.168.5.35:44635/play/b489a6192a928794a0a3cfdbddecc57eba9c278d
-#EXTINF:-1 tvg-id="特克尼克 vs 马德拉斯工兵" tvg-chno="1212" tvg-name="特克尼克 vs 马德拉斯工兵" tvg-group="足球" group-title="足球",特克尼克 vs 马德拉斯工兵·聚合源
+#EXTINF:-1 tvg-id="特克尼克 vs 马德拉斯工兵" tvg-chno="1210" tvg-name="特克尼克 vs 马德拉斯工兵" tvg-group="足球" group-title="足球",特克尼克 vs 马德拉斯工兵·聚合源
 http://192.168.5.35:44635/play/1d3572d8ba90236e39914696c0bddc5ea82233a5
-#EXTINF:-1 tvg-id="特拉斯卡拉 vs 拉巴斯竞技" tvg-chno="1213" tvg-name="特拉斯卡拉 vs 拉巴斯竞技" tvg-group="足球" group-title="足球",特拉斯卡拉 vs 拉巴斯竞技·聚合源
+#EXTINF:-1 tvg-id="特拉斯卡拉 vs 拉巴斯竞技" tvg-chno="1211" tvg-name="特拉斯卡拉 vs 拉巴斯竞技" tvg-group="足球" group-title="足球",特拉斯卡拉 vs 拉巴斯竞技·聚合源
 http://192.168.5.35:44635/play/7aba16c37fde77c48b658d96eb0edb11a150c554
-#EXTINF:-1 tvg-id="特拉斯卡拉 vs 拉巴斯竞技" tvg-chno="1213" tvg-name="特拉斯卡拉 vs 拉巴斯竞技" tvg-group="足球" group-title="足球",特拉斯卡拉 vs 拉巴斯竞技·聚合源
+#EXTINF:-1 tvg-id="特拉斯卡拉 vs 拉巴斯竞技" tvg-chno="1211" tvg-name="特拉斯卡拉 vs 拉巴斯竞技" tvg-group="足球" group-title="足球",特拉斯卡拉 vs 拉巴斯竞技·聚合源
 http://192.168.5.35:44635/play/07490506651e9551d4ca726621bbd1ca994bd1aa
-#EXTINF:-1 tvg-id="班加罗尔根源 vs 班加罗尔城" tvg-chno="1214" tvg-name="班加罗尔根源 vs 班加罗尔城" tvg-group="足球" group-title="足球",班加罗尔根源 vs 班加罗尔城·聚合源
+#EXTINF:-1 tvg-id="班加罗尔根源 vs 班加罗尔城" tvg-chno="1212" tvg-name="班加罗尔根源 vs 班加罗尔城" tvg-group="足球" group-title="足球",班加罗尔根源 vs 班加罗尔城·聚合源
 http://192.168.5.35:44635/play/b3a9a960ea044dd53521d7df1b2dcc67c37e00f4
-#EXTINF:-1 tvg-id="百万富翁 vs 卡利美洲" tvg-chno="1215" tvg-name="百万富翁 vs 卡利美洲" tvg-group="足球" group-title="足球",百万富翁 vs 卡利美洲·聚合源
+#EXTINF:-1 tvg-id="百万富翁 vs 卡利美洲" tvg-chno="1213" tvg-name="百万富翁 vs 卡利美洲" tvg-group="足球" group-title="足球",百万富翁 vs 卡利美洲·聚合源
 http://192.168.5.35:44635/play/171e38c5cb502334a1c27ff64ffca2d9f6e949bf
-#EXTINF:-1 tvg-id="百万富翁 vs 卡利美洲" tvg-chno="1215" tvg-name="百万富翁 vs 卡利美洲" tvg-group="足球" group-title="足球",百万富翁 vs 卡利美洲·聚合源
+#EXTINF:-1 tvg-id="百万富翁 vs 卡利美洲" tvg-chno="1213" tvg-name="百万富翁 vs 卡利美洲" tvg-group="足球" group-title="足球",百万富翁 vs 卡利美洲·聚合源
 http://192.168.5.35:44635/play/88e8542611318afb9693fd648298865b47482012
-#EXTINF:-1 tvg-id="科布多西部 vs 乌兰固木市" tvg-chno="1216" tvg-name="科布多西部 vs 乌兰固木市" tvg-group="足球" group-title="足球",科布多西部 vs 乌兰固木市·聚合源
+#EXTINF:-1 tvg-id="科布多西部 vs 乌兰固木市" tvg-chno="1214" tvg-name="科布多西部 vs 乌兰固木市" tvg-group="足球" group-title="足球",科布多西部 vs 乌兰固木市·聚合源
 http://192.168.5.35:44635/play/4a2a34744d269319d1e292f5cbd7a5d4b0f76878
-#EXTINF:-1 tvg-id="科布多西部 vs 乌兰固木市" tvg-chno="1216" tvg-name="科布多西部 vs 乌兰固木市" tvg-group="足球" group-title="足球",科布多西部 vs 乌兰固木市·聚合源
+#EXTINF:-1 tvg-id="科布多西部 vs 乌兰固木市" tvg-chno="1214" tvg-name="科布多西部 vs 乌兰固木市" tvg-group="足球" group-title="足球",科布多西部 vs 乌兰固木市·聚合源
 http://192.168.5.35:44635/play/4b00616a12b903a61a8ce619172ae7592a9b563e
-#EXTINF:-1 tvg-id="秘鲁体育大学 vs 体育生队" tvg-chno="1217" tvg-name="秘鲁体育大学 vs 体育生队" tvg-group="足球" group-title="足球",秘鲁体育大学 vs 体育生队·聚合源
+#EXTINF:-1 tvg-id="秘鲁体育大学 vs 体育生队" tvg-chno="1215" tvg-name="秘鲁体育大学 vs 体育生队" tvg-group="足球" group-title="足球",秘鲁体育大学 vs 体育生队·聚合源
 http://192.168.5.35:44635/play/30b4b95c9ba976e6281eade7196d5f7c34fbc462
-#EXTINF:-1 tvg-id="秘鲁体育大学 vs 体育生队" tvg-chno="1217" tvg-name="秘鲁体育大学 vs 体育生队" tvg-group="足球" group-title="足球",秘鲁体育大学 vs 体育生队·聚合源
+#EXTINF:-1 tvg-id="秘鲁体育大学 vs 体育生队" tvg-chno="1215" tvg-name="秘鲁体育大学 vs 体育生队" tvg-group="足球" group-title="足球",秘鲁体育大学 vs 体育生队·聚合源
 http://192.168.5.35:44635/play/6b04da0f07f5a671792031976eee0218abbfdb99
-#EXTINF:-1 tvg-id="绿色弓箭手联 vs 红色勇士" tvg-chno="1218" tvg-name="绿色弓箭手联 vs 红色勇士" tvg-group="足球" group-title="足球",绿色弓箭手联 vs 红色勇士·聚合源
+#EXTINF:-1 tvg-id="绿色弓箭手联 vs 红色勇士" tvg-chno="1216" tvg-name="绿色弓箭手联 vs 红色勇士" tvg-group="足球" group-title="足球",绿色弓箭手联 vs 红色勇士·聚合源
 http://192.168.5.35:44635/play/a504e459b1adc54722570db1aa9c98cb7025658b
-#EXTINF:-1 tvg-id="贝尔格莱德游击队U15 vs 浙江足管中心U15" tvg-chno="1219" tvg-name="贝尔格莱德游击队U15 vs 浙江足管中心U15" tvg-group="足球" group-title="足球",贝尔格莱德游击队U15 vs 浙江足管中心U15·聚合源
+#EXTINF:-1 tvg-id="贝尔格莱德游击队U15 vs 浙江足管中心U15" tvg-chno="1217" tvg-name="贝尔格莱德游击队U15 vs 浙江足管中心U15" tvg-group="足球" group-title="足球",贝尔格莱德游击队U15 vs 浙江足管中心U15·聚合源
 http://192.168.5.35:44635/play/815db1f2e2bdb694c2c6d5897c684d1bc6a98d6c
-#EXTINF:-1 tvg-id="贝尔格莱德游击队U15 vs 浙江足管中心U15" tvg-chno="1219" tvg-name="贝尔格莱德游击队U15 vs 浙江足管中心U15" tvg-group="足球" group-title="足球",贝尔格莱德游击队U15 vs 浙江足管中心U15·聚合源
+#EXTINF:-1 tvg-id="贝尔格莱德游击队U15 vs 浙江足管中心U15" tvg-chno="1217" tvg-name="贝尔格莱德游击队U15 vs 浙江足管中心U15" tvg-group="足球" group-title="足球",贝尔格莱德游击队U15 vs 浙江足管中心U15·聚合源
 http://192.168.5.35:44635/play/e18818b63c6bcb2b1c8e927bce0a71ebf5e0a465
-#EXTINF:-1 tvg-id="阿姆塔特FC vs 伊尔赤姆" tvg-chno="1220" tvg-name="阿姆塔特FC vs 伊尔赤姆" tvg-group="足球" group-title="足球",阿姆塔特FC vs 伊尔赤姆·聚合源
+#EXTINF:-1 tvg-id="阿姆塔特FC vs 伊尔赤姆" tvg-chno="1218" tvg-name="阿姆塔特FC vs 伊尔赤姆" tvg-group="足球" group-title="足球",阿姆塔特FC vs 伊尔赤姆·聚合源
 http://192.168.5.35:44635/play/c28c06b03277b7af97d4e66a4063599019e4099e
-#EXTINF:-1 tvg-id="韩国室内足球队 vs 马尔代夫室内足球队" tvg-chno="1221" tvg-name="韩国室内足球队 vs 马尔代夫室内足球队" tvg-group="足球" group-title="足球",韩国室内足球队 vs 马尔代夫室内足球队·聚合源
+#EXTINF:-1 tvg-id="韩国室内足球队 vs 马尔代夫室内足球队" tvg-chno="1219" tvg-name="韩国室内足球队 vs 马尔代夫室内足球队" tvg-group="足球" group-title="足球",韩国室内足球队 vs 马尔代夫室内足球队·聚合源
 http://192.168.5.35:44635/play/3190ecba81693cec11da0c85de3312bd99813916
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
