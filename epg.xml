@@ -9,7 +9,6 @@
   <channel id="太阳 vs 开拓者"><display-name>太阳 vs 开拓者</display-name></channel>
   <channel id="快船 vs 热火"><display-name>快船 vs 热火</display-name></channel>
   <channel id="掘金 vs 猛龙"><display-name>掘金 vs 猛龙</display-name></channel>
-  <channel id="火箭 vs 森林狼"><display-name>火箭 vs 森林狼</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <channel id="马刺 vs 独行侠"><display-name>马刺 vs 独行侠</display-name></channel>
   <programme start="20261109020000 +0800" stop="20261109051948 +0800" channel="CBS">
@@ -78,14 +77,6 @@
   </programme>
   <programme start="20261105100000 +0800" stop="20261105124012 +0800" channel="掘金 vs 猛龙">
     <title>Toronto Raptors at Denver Nuggets 已结束（NBA）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261105093000 +0800" stop="20261105121012 +0800" channel="火箭 vs 森林狼">
-    <title>Minnesota Timberwolves at Houston Rockets 已结束（NBA）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261105120000 +0800" stop="20261105180000 +0800" channel="赛程预告">
-    <title>Dota2：ZENITH vs YG（EPL World SEA S19）</title>
     <category>体育</category>
   </programme>
   <programme start="20261105180000 +0800" stop="20261105190000 +0800" channel="赛程预告">
