@@ -19,55 +19,51 @@ http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1102" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="福建众腾女篮 vs 北京首钢园女篮" tvg-chno="1103" tvg-name="福建众腾女篮 vs 北京首钢园女篮" tvg-group="篮球" group-title="篮球",福建众腾女篮 vs 北京首钢园女篮·咪咕直播·720P
-http://192.168.5.35:35456/jrs/%E7%A6%8F%E5%BB%BA%E4%BC%97%E8%85%BE%E5%A5%B3%E7%AF%AE%20vs%20%E5%8C%97%E4%BA%AC%E9%A6%96%E9%92%A2%E5%9B%AD%E5%A5%B3%E7%AF%AE%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
-#EXTINF:-1 tvg-id="克莱佩达 vs 苏度瓦曼廷加" tvg-chno="1104" tvg-name="克莱佩达 vs 苏度瓦曼廷加" tvg-group="篮球" group-title="篮球",克莱佩达 vs 苏度瓦曼廷加·聚合源
+#EXTINF:-1 tvg-id="克莱佩达 vs 苏度瓦曼廷加" tvg-chno="1103" tvg-name="克莱佩达 vs 苏度瓦曼廷加" tvg-group="篮球" group-title="篮球",克莱佩达 vs 苏度瓦曼廷加·聚合源
 http://192.168.5.35:44635/play/4a3947a5e67a7d401197eb020e146943da6612c0
-#EXTINF:-1 tvg-id="努瓦扎特 vs 伊萨城" tvg-chno="1105" tvg-name="努瓦扎特 vs 伊萨城" tvg-group="篮球" group-title="篮球",努瓦扎特 vs 伊萨城·聚合源
+#EXTINF:-1 tvg-id="努瓦扎特 vs 伊萨城" tvg-chno="1104" tvg-name="努瓦扎特 vs 伊萨城" tvg-group="篮球" group-title="篮球",努瓦扎特 vs 伊萨城·聚合源
 http://192.168.5.35:44635/play/070171063d95548f342d971fcfbbbf17a8539973
-#EXTINF:-1 tvg-id="北佛罗里达女篮 vs 佛罗里达州立大学女篮" tvg-chno="1106" tvg-name="北佛罗里达女篮 vs 佛罗里达州立大学女篮" tvg-group="篮球" group-title="篮球",北佛罗里达女篮 vs 佛罗里达州立大学女篮·聚合源
-http://192.168.5.35:44635/play/64baefa185babc360592a7931ec894bdcd515536
-#EXTINF:-1 tvg-id="基辅 vs 哈尔基夫斯基" tvg-chno="1107" tvg-name="基辅 vs 哈尔基夫斯基" tvg-group="篮球" group-title="篮球",基辅 vs 哈尔基夫斯基·聚合源
+#EXTINF:-1 tvg-id="基辅 vs 哈尔基夫斯基" tvg-chno="1105" tvg-name="基辅 vs 哈尔基夫斯基" tvg-group="篮球" group-title="篮球",基辅 vs 哈尔基夫斯基·聚合源
 http://192.168.5.35:44635/play/b93f4b06902f03b05828c7c367c633ee7092fca8
-#EXTINF:-1 tvg-id="布良斯克杰斯纳 vs 格罗兹尼迪纳摩" tvg-chno="1108" tvg-name="布良斯克杰斯纳 vs 格罗兹尼迪纳摩" tvg-group="篮球" group-title="篮球",布良斯克杰斯纳 vs 格罗兹尼迪纳摩·聚合源
+#EXTINF:-1 tvg-id="布良斯克杰斯纳 vs 格罗兹尼迪纳摩" tvg-chno="1106" tvg-name="布良斯克杰斯纳 vs 格罗兹尼迪纳摩" tvg-group="篮球" group-title="篮球",布良斯克杰斯纳 vs 格罗兹尼迪纳摩·聚合源
 http://192.168.5.35:44635/play/a8cb5ed2b6a39938cd528799a3c88b5b5eafc856
-#EXTINF:-1 tvg-id="布良斯克杰斯纳 vs 格罗兹尼迪纳摩" tvg-chno="1108" tvg-name="布良斯克杰斯纳 vs 格罗兹尼迪纳摩" tvg-group="篮球" group-title="篮球",布良斯克杰斯纳 vs 格罗兹尼迪纳摩·聚合源
+#EXTINF:-1 tvg-id="布良斯克杰斯纳 vs 格罗兹尼迪纳摩" tvg-chno="1106" tvg-name="布良斯克杰斯纳 vs 格罗兹尼迪纳摩" tvg-group="篮球" group-title="篮球",布良斯克杰斯纳 vs 格罗兹尼迪纳摩·聚合源
 http://192.168.5.35:44635/play/c9c0fcc1bdcb710d861d728d0ee1d91f1712100b
-#EXTINF:-1 tvg-id="希姆基 vs 马钢城冶金" tvg-chno="1109" tvg-name="希姆基 vs 马钢城冶金" tvg-group="篮球" group-title="篮球",希姆基 vs 马钢城冶金·聚合源
+#EXTINF:-1 tvg-id="希姆基 vs 马钢城冶金" tvg-chno="1107" tvg-name="希姆基 vs 马钢城冶金" tvg-group="篮球" group-title="篮球",希姆基 vs 马钢城冶金·聚合源
 http://192.168.5.35:44635/play/f7f5ee42145df7f153a998d18be50d44d40ee96c
-#EXTINF:-1 tvg-id="希姆基 vs 马钢城冶金" tvg-chno="1109" tvg-name="希姆基 vs 马钢城冶金" tvg-group="篮球" group-title="篮球",希姆基 vs 马钢城冶金·聚合源
+#EXTINF:-1 tvg-id="希姆基 vs 马钢城冶金" tvg-chno="1107" tvg-name="希姆基 vs 马钢城冶金" tvg-group="篮球" group-title="篮球",希姆基 vs 马钢城冶金·聚合源
 http://192.168.5.35:44635/play/dc4d6d24b7eec98a150e0804450c5b38c1fbbf88
-#EXTINF:-1 tvg-id="希望女篮 vs 萨马拉女篮" tvg-chno="1110" tvg-name="希望女篮 vs 萨马拉女篮" tvg-group="篮球" group-title="篮球",希望女篮 vs 萨马拉女篮·聚合源
+#EXTINF:-1 tvg-id="希望女篮 vs 萨马拉女篮" tvg-chno="1108" tvg-name="希望女篮 vs 萨马拉女篮" tvg-group="篮球" group-title="篮球",希望女篮 vs 萨马拉女篮·聚合源
 http://192.168.5.35:44635/play/1fe2e17892a9ab45a42d6295c28406ce2ebb0fe1
-#EXTINF:-1 tvg-id="希望女篮 vs 萨马拉女篮" tvg-chno="1110" tvg-name="希望女篮 vs 萨马拉女篮" tvg-group="篮球" group-title="篮球",希望女篮 vs 萨马拉女篮·聚合源
+#EXTINF:-1 tvg-id="希望女篮 vs 萨马拉女篮" tvg-chno="1108" tvg-name="希望女篮 vs 萨马拉女篮" tvg-group="篮球" group-title="篮球",希望女篮 vs 萨马拉女篮·聚合源
 http://192.168.5.35:44635/play/11fc766ae3bc76be2866c130e8b5373aad041413
-#EXTINF:-1 tvg-id="新西伯利亚 vs 坦波夫" tvg-chno="1111" tvg-name="新西伯利亚 vs 坦波夫" tvg-group="篮球" group-title="篮球",新西伯利亚 vs 坦波夫·聚合源
+#EXTINF:-1 tvg-id="新西伯利亚 vs 坦波夫" tvg-chno="1109" tvg-name="新西伯利亚 vs 坦波夫" tvg-group="篮球" group-title="篮球",新西伯利亚 vs 坦波夫·聚合源
 http://192.168.5.35:44635/play/799083ca8a6e17d6eef7340f6b9d0b08ff0a497e
-#EXTINF:-1 tvg-id="新西伯利亚 vs 坦波夫" tvg-chno="1111" tvg-name="新西伯利亚 vs 坦波夫" tvg-group="篮球" group-title="篮球",新西伯利亚 vs 坦波夫·聚合源
+#EXTINF:-1 tvg-id="新西伯利亚 vs 坦波夫" tvg-chno="1109" tvg-name="新西伯利亚 vs 坦波夫" tvg-group="篮球" group-title="篮球",新西伯利亚 vs 坦波夫·聚合源
 http://192.168.5.35:44635/play/f1bdd7d4afa7ddedd2f67adbf0396ed68d66f3e0
-#EXTINF:-1 tvg-id="特莫基明斯克B队 vs 卡拉斯莫吉廖夫B队" tvg-chno="1112" tvg-name="特莫基明斯克B队 vs 卡拉斯莫吉廖夫B队" tvg-group="篮球" group-title="篮球",特莫基明斯克B队 vs 卡拉斯莫吉廖夫B队·聚合源
+#EXTINF:-1 tvg-id="特莫基明斯克B队 vs 卡拉斯莫吉廖夫B队" tvg-chno="1110" tvg-name="特莫基明斯克B队 vs 卡拉斯莫吉廖夫B队" tvg-group="篮球" group-title="篮球",特莫基明斯克B队 vs 卡拉斯莫吉廖夫B队·聚合源
 http://192.168.5.35:44635/play/35d2f339b1015c2492737b200d97afc4198635b6
-#EXTINF:-1 tvg-id="维尔卡维斯基奥佩拉斯 vs 维尼亚斯斯特卡斯" tvg-chno="1113" tvg-name="维尔卡维斯基奥佩拉斯 vs 维尼亚斯斯特卡斯" tvg-group="篮球" group-title="篮球",维尔卡维斯基奥佩拉斯 vs 维尼亚斯斯特卡斯·聚合源
+#EXTINF:-1 tvg-id="维尔卡维斯基奥佩拉斯 vs 维尼亚斯斯特卡斯" tvg-chno="1111" tvg-name="维尔卡维斯基奥佩拉斯 vs 维尼亚斯斯特卡斯" tvg-group="篮球" group-title="篮球",维尔卡维斯基奥佩拉斯 vs 维尼亚斯斯特卡斯·聚合源
 http://192.168.5.35:44635/play/f1722fd633a25a588368be4e97b804dfa42a5f15
-#EXTINF:-1 tvg-id="耶莱尼亚女篮 vs 弗罗茨瓦夫女篮" tvg-chno="1114" tvg-name="耶莱尼亚女篮 vs 弗罗茨瓦夫女篮" tvg-group="篮球" group-title="篮球",耶莱尼亚女篮 vs 弗罗茨瓦夫女篮·聚合源
+#EXTINF:-1 tvg-id="耶莱尼亚女篮 vs 弗罗茨瓦夫女篮" tvg-chno="1112" tvg-name="耶莱尼亚女篮 vs 弗罗茨瓦夫女篮" tvg-group="篮球" group-title="篮球",耶莱尼亚女篮 vs 弗罗茨瓦夫女篮·聚合源
 http://192.168.5.35:44635/play/0ae3c0410e81d6c643b778c5c8408db9f199a606
-#EXTINF:-1 tvg-id="能源女篮 vs 库尔斯克迪纳摩女篮" tvg-chno="1115" tvg-name="能源女篮 vs 库尔斯克迪纳摩女篮" tvg-group="篮球" group-title="篮球",能源女篮 vs 库尔斯克迪纳摩女篮·聚合源
+#EXTINF:-1 tvg-id="能源女篮 vs 库尔斯克迪纳摩女篮" tvg-chno="1113" tvg-name="能源女篮 vs 库尔斯克迪纳摩女篮" tvg-group="篮球" group-title="篮球",能源女篮 vs 库尔斯克迪纳摩女篮·聚合源
 http://192.168.5.35:44635/play/3fe3352af2a0677f2096b8726f355139e6cb4f0b
-#EXTINF:-1 tvg-id="能源女篮 vs 库尔斯克迪纳摩女篮" tvg-chno="1115" tvg-name="能源女篮 vs 库尔斯克迪纳摩女篮" tvg-group="篮球" group-title="篮球",能源女篮 vs 库尔斯克迪纳摩女篮·聚合源
+#EXTINF:-1 tvg-id="能源女篮 vs 库尔斯克迪纳摩女篮" tvg-chno="1113" tvg-name="能源女篮 vs 库尔斯克迪纳摩女篮" tvg-group="篮球" group-title="篮球",能源女篮 vs 库尔斯克迪纳摩女篮·聚合源
 http://192.168.5.35:44635/play/bf76253cc833a9f2263bdceb8af906e5a4807081
-#EXTINF:-1 tvg-id="莫斯科迪纳摩女篮 vs 石油人女篮" tvg-chno="1116" tvg-name="莫斯科迪纳摩女篮 vs 石油人女篮" tvg-group="篮球" group-title="篮球",莫斯科迪纳摩女篮 vs 石油人女篮·聚合源
+#EXTINF:-1 tvg-id="莫斯科迪纳摩女篮 vs 石油人女篮" tvg-chno="1114" tvg-name="莫斯科迪纳摩女篮 vs 石油人女篮" tvg-group="篮球" group-title="篮球",莫斯科迪纳摩女篮 vs 石油人女篮·聚合源
 http://192.168.5.35:44635/play/be996da309821f22a492646612a176b8d82cfb8c
-#EXTINF:-1 tvg-id="莫斯科迪纳摩女篮 vs 石油人女篮" tvg-chno="1116" tvg-name="莫斯科迪纳摩女篮 vs 石油人女篮" tvg-group="篮球" group-title="篮球",莫斯科迪纳摩女篮 vs 石油人女篮·聚合源
+#EXTINF:-1 tvg-id="莫斯科迪纳摩女篮 vs 石油人女篮" tvg-chno="1114" tvg-name="莫斯科迪纳摩女篮 vs 石油人女篮" tvg-group="篮球" group-title="篮球",莫斯科迪纳摩女篮 vs 石油人女篮·聚合源
 http://192.168.5.35:44635/play/1f860f24d6a8676fd6a44d115cab12831647c305
-#EXTINF:-1 tvg-id="萨拉基利斯B队 vs 瑞塔斯B" tvg-chno="1117" tvg-name="萨拉基利斯B队 vs 瑞塔斯B" tvg-group="篮球" group-title="篮球",萨拉基利斯B队 vs 瑞塔斯B·聚合源
+#EXTINF:-1 tvg-id="萨拉基利斯B队 vs 瑞塔斯B" tvg-chno="1115" tvg-name="萨拉基利斯B队 vs 瑞塔斯B" tvg-group="篮球" group-title="篮球",萨拉基利斯B队 vs 瑞塔斯B·聚合源
 http://192.168.5.35:44635/play/54bfab0e5ecbf42a62954f45e308f5a390831744
-#EXTINF:-1 tvg-id="阿利图斯爱国者 vs 奥林帕斯瀑布" tvg-chno="1118" tvg-name="阿利图斯爱国者 vs 奥林帕斯瀑布" tvg-group="篮球" group-title="篮球",阿利图斯爱国者 vs 奥林帕斯瀑布·聚合源
+#EXTINF:-1 tvg-id="阿利图斯爱国者 vs 奥林帕斯瀑布" tvg-chno="1116" tvg-name="阿利图斯爱国者 vs 奥林帕斯瀑布" tvg-group="篮球" group-title="篮球",阿利图斯爱国者 vs 奥林帕斯瀑布·聚合源
 http://192.168.5.35:44635/play/9aaff57ce8802b56be4dd320420755dbc4aace06
-#EXTINF:-1 tvg-id="阿尔泰巴尔瑙尔 vs 伊泽夫斯克" tvg-chno="1119" tvg-name="阿尔泰巴尔瑙尔 vs 伊泽夫斯克" tvg-group="篮球" group-title="篮球",阿尔泰巴尔瑙尔 vs 伊泽夫斯克·聚合源
+#EXTINF:-1 tvg-id="阿尔泰巴尔瑙尔 vs 伊泽夫斯克" tvg-chno="1117" tvg-name="阿尔泰巴尔瑙尔 vs 伊泽夫斯克" tvg-group="篮球" group-title="篮球",阿尔泰巴尔瑙尔 vs 伊泽夫斯克·聚合源
 http://192.168.5.35:44635/play/9a4196989a85fbfa549a392463ec5878a6ec1d7d
-#EXTINF:-1 tvg-id="阿尔泰巴尔瑙尔 vs 伊泽夫斯克" tvg-chno="1119" tvg-name="阿尔泰巴尔瑙尔 vs 伊泽夫斯克" tvg-group="篮球" group-title="篮球",阿尔泰巴尔瑙尔 vs 伊泽夫斯克·聚合源
+#EXTINF:-1 tvg-id="阿尔泰巴尔瑙尔 vs 伊泽夫斯克" tvg-chno="1117" tvg-name="阿尔泰巴尔瑙尔 vs 伊泽夫斯克" tvg-group="篮球" group-title="篮球",阿尔泰巴尔瑙尔 vs 伊泽夫斯克·聚合源
 http://192.168.5.35:44635/play/ac32e1c5c2aef786c37207e2ed0944c9528a930a
-#EXTINF:-1 tvg-id="马萨基爱 vs 维迪斯" tvg-chno="1120" tvg-name="马萨基爱 vs 维迪斯" tvg-group="篮球" group-title="篮球",马萨基爱 vs 维迪斯·聚合源
+#EXTINF:-1 tvg-id="马萨基爱 vs 维迪斯" tvg-chno="1118" tvg-name="马萨基爱 vs 维迪斯" tvg-group="篮球" group-title="篮球",马萨基爱 vs 维迪斯·聚合源
 http://192.168.5.35:44635/play/56e44797c9a6936752476658f8ea80fff359de4c
 #EXTINF:-1 tvg-id="狮城水手 vs 阿德莱德联" tvg-chno="1201" tvg-name="狮城水手 vs 阿德莱德联" tvg-group="足球" group-title="足球",狮城水手 vs 阿德莱德联·咪咕直播·720P
 http://192.168.5.35:35456/jrs/%E7%8B%AE%E5%9F%8E%E6%B0%B4%E6%89%8B%20vs%20%E9%98%BF%E5%BE%B7%E8%8E%B1%E5%BE%B7%E8%81%94%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
