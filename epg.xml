@@ -4,7 +4,9 @@
   <channel id="ESPN"><display-name>ESPN</display-name></channel>
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
+  <channel id="奇才 vs 老鹰"><display-name>奇才 vs 老鹰</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
+  <channel id="活塞 vs 76人"><display-name>活塞 vs 76人</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <programme start="20261109020000 +0800" stop="20261109051948 +0800" channel="CBS">
     <title>New York Jets at Kansas City Chiefs（NFL）</title>
@@ -54,8 +56,16 @@
     <title>Tampa Bay Buccaneers at Chicago Bears（NFL）</title>
     <category>体育</category>
   </programme>
+  <programme start="20261105080000 +0800" stop="20261105104012 +0800" channel="奇才 vs 老鹰">
+    <title>Atlanta Hawks at Washington Wizards（NBA）</title>
+    <category>体育</category>
+  </programme>
   <programme start="20261105080000 +0800" stop="20261105104012 +0800" channel="活塞">
     <title>NBA：活塞 vs 76人</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261105080000 +0800" stop="20261105104012 +0800" channel="活塞 vs 76人">
+    <title>Philadelphia 76ers at Detroit Pistons（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261105080000 +0800" stop="20261105083000 +0800" channel="赛程预告">
@@ -206,8 +216,12 @@
     <title>图卢兹：图卢兹 vs 斯特拉斯堡；威尼斯：威尼斯 vs 乌迪内斯</title>
     <category>体育</category>
   </programme>
-  <programme start="20261107040000 +0800" stop="20261107060000 +0800" channel="赛程预告">
+  <programme start="20261107040000 +0800" stop="20261107080000 +0800" channel="赛程预告">
     <title>西甲：塞维利亚 vs 阿拉维斯；英超：埃弗顿 vs 考文垂</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261107080000 +0800" stop="20261107100000 +0800" channel="赛程预告">
+    <title>NBA：老鹰 vs 奇才；黄蜂 vs 凯尔特人</title>
     <category>体育</category>
   </programme>
 </tv>
