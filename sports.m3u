@@ -19,24 +19,30 @@ http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1102" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="奇才 vs 老鹰" tvg-chno="1103" tvg-name="奇才 vs 老鹰" tvg-group="篮球" group-title="篮球",奇才 vs 老鹰·腾讯直播
+#EXTINF:-1 tvg-id="凯尔特人 vs 雄鹿" tvg-chno="1103" tvg-name="凯尔特人 vs 雄鹿" tvg-group="篮球" group-title="篮球",凯尔特人 vs 雄鹿·咪咕直播
+http://192.168.5.35:35456/jrs/%E5%87%AF%E5%B0%94%E7%89%B9%E4%BA%BA%20vs%20%E9%9B%84%E9%B9%BF%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD
+#EXTINF:-1 tvg-id="篮网 vs 黄蜂" tvg-chno="1104" tvg-name="篮网 vs 黄蜂" tvg-group="篮球" group-title="篮球",篮网 vs 黄蜂·咪咕直播
+http://192.168.5.35:35456/jrs/%E7%AF%AE%E7%BD%91%20vs%20%E9%BB%84%E8%9C%82%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD
+#EXTINF:-1 tvg-id="尼克斯 vs 公牛" tvg-chno="1105" tvg-name="尼克斯 vs 公牛" tvg-group="篮球" group-title="篮球",尼克斯 vs 公牛·腾讯直播
+http://192.168.5.35:35456/jrs/%E5%B0%BC%E5%85%8B%E6%96%AF%20vs%20%E5%85%AC%E7%89%9B%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD
+#EXTINF:-1 tvg-id="尼克斯 vs 公牛" tvg-chno="1106" tvg-name="尼克斯 vs 公牛" tvg-group="篮球" group-title="篮球",尼克斯 vs 公牛·咪咕直播
+http://192.168.5.35:35456/jrs/%E5%B0%BC%E5%85%8B%E6%96%AF%20vs%20%E5%85%AC%E7%89%9B%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD
+#EXTINF:-1 tvg-id="奇才 vs 老鹰" tvg-chno="1107" tvg-name="奇才 vs 老鹰" tvg-group="篮球" group-title="篮球",奇才 vs 老鹰·腾讯直播
 http://192.168.5.35:35456/jrs/%E5%A5%87%E6%89%8D%20vs%20%E8%80%81%E9%B9%B0%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD
-#EXTINF:-1 tvg-id="奇才 vs 老鹰" tvg-chno="1104" tvg-name="奇才 vs 老鹰" tvg-group="篮球" group-title="篮球",奇才 vs 老鹰·咪咕直播
-http://192.168.5.35:35456/jrs/%E5%A5%87%E6%89%8D%20vs%20%E8%80%81%E9%B9%B0%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD
-#EXTINF:-1 tvg-id="活塞 vs 76人" tvg-chno="1105" tvg-name="活塞 vs 76人" tvg-group="篮球" group-title="篮球",活塞 vs 76人·腾讯直播
-http://192.168.5.35:35456/jrs/%E6%B4%BB%E5%A1%9E%20vs%2076%E4%BA%BA%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD
-#EXTINF:-1 tvg-id="活塞 vs 76人" tvg-chno="1106" tvg-name="活塞 vs 76人" tvg-group="篮球" group-title="篮球",活塞 vs 76人·咪咕直播
-http://192.168.5.35:35456/jrs/%E6%B4%BB%E5%A1%9E%20vs%2076%E4%BA%BA%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD
-#EXTINF:-1 tvg-id="巴西利亚 vs 弗拉门戈" tvg-chno="1107" tvg-name="巴西利亚 vs 弗拉门戈" tvg-group="篮球" group-title="篮球",巴西利亚 vs 弗拉门戈
+#EXTINF:-1 tvg-id="奇才 vs 老鹰" tvg-chno="1108" tvg-name="奇才 vs 老鹰" tvg-group="篮球" group-title="篮球",奇才 vs 老鹰·聚合备用
+http://192.168.5.35:44635/play/21d43365d843df2daee938f46552a9016cd9d484
+#EXTINF:-1 tvg-id="巴西利亚 vs 弗拉门戈" tvg-chno="1109" tvg-name="巴西利亚 vs 弗拉门戈" tvg-group="篮球" group-title="篮球",巴西利亚 vs 弗拉门戈
 http://192.168.5.35:44635/play/c21ddca025d2c1967a34f126424b85a4a99877b9
-#EXTINF:-1 tvg-id="巴西利亚 vs 弗拉门戈" tvg-chno="1108" tvg-name="巴西利亚 vs 弗拉门戈" tvg-group="篮球" group-title="篮球",巴西利亚 vs 弗拉门戈
+#EXTINF:-1 tvg-id="巴西利亚 vs 弗拉门戈" tvg-chno="1110" tvg-name="巴西利亚 vs 弗拉门戈" tvg-group="篮球" group-title="篮球",巴西利亚 vs 弗拉门戈
 http://192.168.5.35:44635/play/4d8dc30468d3521760b1b6ff923b5d7262fd9635
-#EXTINF:-1 tvg-id="摩日达斯克鲁济斯 vs 福塔雷萨" tvg-chno="1109" tvg-name="摩日达斯克鲁济斯 vs 福塔雷萨" tvg-group="篮球" group-title="篮球",摩日达斯克鲁济斯 vs 福塔雷萨
+#EXTINF:-1 tvg-id="摩日达斯克鲁济斯 vs 福塔雷萨" tvg-chno="1111" tvg-name="摩日达斯克鲁济斯 vs 福塔雷萨" tvg-group="篮球" group-title="篮球",摩日达斯克鲁济斯 vs 福塔雷萨
 http://192.168.5.35:44635/play/4e45b1c4c82a7010ae8b62086583a856c84c193a
-#EXTINF:-1 tvg-id="摩日达斯克鲁济斯 vs 福塔雷萨" tvg-chno="1110" tvg-name="摩日达斯克鲁济斯 vs 福塔雷萨" tvg-group="篮球" group-title="篮球",摩日达斯克鲁济斯 vs 福塔雷萨
+#EXTINF:-1 tvg-id="摩日达斯克鲁济斯 vs 福塔雷萨" tvg-chno="1112" tvg-name="摩日达斯克鲁济斯 vs 福塔雷萨" tvg-group="篮球" group-title="篮球",摩日达斯克鲁济斯 vs 福塔雷萨
 http://192.168.5.35:44635/play/6aedab32766ee9224842d4fa8753897f5160d96e
-#EXTINF:-1 tvg-id="阿帕拉契亚州立大学 vs 基督世界学院" tvg-chno="1111" tvg-name="阿帕拉契亚州立大学 vs 基督世界学院" tvg-group="篮球" group-title="篮球",阿帕拉契亚州立大学 vs 基督世界学院
-http://192.168.5.35:44635/play/0b3e44a38e2114f93615f807343a36cbbebd93b7
+#EXTINF:-1 tvg-id="活塞 vs 76人" tvg-chno="1113" tvg-name="活塞 vs 76人" tvg-group="篮球" group-title="篮球",活塞 vs 76人
+http://192.168.5.35:44635/play/9bd69190e05a5dd3bbb1960a041c8f28b6727ab6
+#EXTINF:-1 tvg-id="活塞 vs 76人" tvg-chno="1114" tvg-name="活塞 vs 76人" tvg-group="篮球" group-title="篮球",活塞 vs 76人
+http://192.168.5.35:44635/play/c729fcd9235982f8d6bca59535d3b5a7d0b2c8f7
 #EXTINF:-1 tvg-id="亚松森奥林匹亚 vs 雷科莱塔" tvg-chno="1201" tvg-name="亚松森奥林匹亚 vs 雷科莱塔" tvg-group="足球" group-title="足球",亚松森奥林匹亚 vs 雷科莱塔
 http://192.168.5.35:44635/play/e94ed1646fac49d7cb3c560fb32c583219d19311
 #EXTINF:-1 tvg-id="亚松森奥林匹亚 vs 雷科莱塔" tvg-chno="1202" tvg-name="亚松森奥林匹亚 vs 雷科莱塔" tvg-group="足球" group-title="足球",亚松森奥林匹亚 vs 雷科莱塔
@@ -71,15 +77,23 @@ http://192.168.5.35:44635/play/5a59c3ca4d09025c738936078ca441d0f2f241c8
 http://192.168.5.35:44635/play/daedc4479b5f148859b5ee7572f1e683663edced
 #EXTINF:-1 tvg-id="泰国清迈队U15 vs 江苏U15" tvg-chno="1217" tvg-name="泰国清迈队U15 vs 江苏U15" tvg-group="足球" group-title="足球",泰国清迈队U15 vs 江苏U15
 http://192.168.5.35:44635/play/0a84afbc49e135b846d6022b34b10563c9e1592e
-#EXTINF:-1 tvg-id="路斯天使 vs 圣萨尔瓦多联盟" tvg-chno="1218" tvg-name="路斯天使 vs 圣萨尔瓦多联盟" tvg-group="足球" group-title="足球",路斯天使 vs 圣萨尔瓦多联盟
+#EXTINF:-1 tvg-id="特拉斯卡拉 vs 拉巴斯竞技" tvg-chno="1218" tvg-name="特拉斯卡拉 vs 拉巴斯竞技" tvg-group="足球" group-title="足球",特拉斯卡拉 vs 拉巴斯竞技
+http://192.168.5.35:44635/play/7aba16c37fde77c48b658d96eb0edb11a150c554
+#EXTINF:-1 tvg-id="特拉斯卡拉 vs 拉巴斯竞技" tvg-chno="1219" tvg-name="特拉斯卡拉 vs 拉巴斯竞技" tvg-group="足球" group-title="足球",特拉斯卡拉 vs 拉巴斯竞技
+http://192.168.5.35:44635/play/07490506651e9551d4ca726621bbd1ca994bd1aa
+#EXTINF:-1 tvg-id="百万富翁 vs 卡利美洲" tvg-chno="1220" tvg-name="百万富翁 vs 卡利美洲" tvg-group="足球" group-title="足球",百万富翁 vs 卡利美洲
+http://192.168.5.35:44635/play/171e38c5cb502334a1c27ff64ffca2d9f6e949bf
+#EXTINF:-1 tvg-id="百万富翁 vs 卡利美洲" tvg-chno="1221" tvg-name="百万富翁 vs 卡利美洲" tvg-group="足球" group-title="足球",百万富翁 vs 卡利美洲
+http://192.168.5.35:44635/play/88e8542611318afb9693fd648298865b47482012
+#EXTINF:-1 tvg-id="路斯天使 vs 圣萨尔瓦多联盟" tvg-chno="1222" tvg-name="路斯天使 vs 圣萨尔瓦多联盟" tvg-group="足球" group-title="足球",路斯天使 vs 圣萨尔瓦多联盟
 http://192.168.5.35:44635/play/2a28dbc2306a0f5569650371d136ee66133d768e
-#EXTINF:-1 tvg-id="都市运动会 vs 卡拉波波" tvg-chno="1219" tvg-name="都市运动会 vs 卡拉波波" tvg-group="足球" group-title="足球",都市运动会 vs 卡拉波波
+#EXTINF:-1 tvg-id="都市运动会 vs 卡拉波波" tvg-chno="1223" tvg-name="都市运动会 vs 卡拉波波" tvg-group="足球" group-title="足球",都市运动会 vs 卡拉波波
 http://192.168.5.35:44635/play/25dcad17a7fff22419b230cb544700ace8780e1d
-#EXTINF:-1 tvg-id="都市运动会 vs 卡拉波波" tvg-chno="1220" tvg-name="都市运动会 vs 卡拉波波" tvg-group="足球" group-title="足球",都市运动会 vs 卡拉波波
+#EXTINF:-1 tvg-id="都市运动会 vs 卡拉波波" tvg-chno="1224" tvg-name="都市运动会 vs 卡拉波波" tvg-group="足球" group-title="足球",都市运动会 vs 卡拉波波
 http://192.168.5.35:44635/play/7a4291e674fada1043c20dcce4bf4cf5b4295b20
-#EXTINF:-1 tvg-id="鹿队 vs 莫雷利亚" tvg-chno="1221" tvg-name="鹿队 vs 莫雷利亚" tvg-group="足球" group-title="足球",鹿队 vs 莫雷利亚
+#EXTINF:-1 tvg-id="鹿队 vs 莫雷利亚" tvg-chno="1225" tvg-name="鹿队 vs 莫雷利亚" tvg-group="足球" group-title="足球",鹿队 vs 莫雷利亚
 http://192.168.5.35:44635/play/0c6c74ad1e043d308cc7dd4b53c39407a73e80ec
-#EXTINF:-1 tvg-id="鹿队 vs 莫雷利亚" tvg-chno="1222" tvg-name="鹿队 vs 莫雷利亚" tvg-group="足球" group-title="足球",鹿队 vs 莫雷利亚
+#EXTINF:-1 tvg-id="鹿队 vs 莫雷利亚" tvg-chno="1226" tvg-name="鹿队 vs 莫雷利亚" tvg-group="足球" group-title="足球",鹿队 vs 莫雷利亚
 http://192.168.5.35:44635/play/2e10d9d4fd9d149d4c25cffba56b5c33acb0d3dd
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
