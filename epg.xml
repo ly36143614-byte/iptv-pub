@@ -5,7 +5,6 @@
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="Zenith vs YG"><display-name>Zenith vs YG</display-name></channel>
-  <channel id="凯尔特人 vs 雄鹿"><display-name>凯尔特人 vs 雄鹿</display-name></channel>
   <channel id="国王 vs 湖人"><display-name>国王 vs 湖人</display-name></channel>
   <channel id="太阳 vs 开拓者"><display-name>太阳 vs 开拓者</display-name></channel>
   <channel id="快船 vs 热火"><display-name>快船 vs 热火</display-name></channel>
@@ -66,10 +65,6 @@
   </programme>
   <programme start="20261105120000 +0800" stop="20261105143000 +0800" channel="Zenith vs YG">
     <title>ZENITH vs YG（EPL World SEA S19 - Playoffs）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261105083000 +0800" stop="20261105111012 +0800" channel="凯尔特人 vs 雄鹿">
-    <title>Milwaukee Bucks at Boston Celtics 已结束（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261105110000 +0800" stop="20261105134012 +0800" channel="国王 vs 湖人">
