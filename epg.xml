@@ -8,11 +8,9 @@
   <channel id="凯尔特人 vs 雄鹿"><display-name>凯尔特人 vs 雄鹿</display-name></channel>
   <channel id="国王 vs 湖人"><display-name>国王 vs 湖人</display-name></channel>
   <channel id="太阳 vs 开拓者"><display-name>太阳 vs 开拓者</display-name></channel>
-  <channel id="奇才 vs 老鹰"><display-name>奇才 vs 老鹰</display-name></channel>
   <channel id="尼克斯 vs 公牛"><display-name>尼克斯 vs 公牛</display-name></channel>
   <channel id="快船 vs 热火"><display-name>快船 vs 热火</display-name></channel>
   <channel id="掘金 vs 猛龙"><display-name>掘金 vs 猛龙</display-name></channel>
-  <channel id="活塞 vs 76人"><display-name>活塞 vs 76人</display-name></channel>
   <channel id="火箭 vs 森林狼"><display-name>火箭 vs 森林狼</display-name></channel>
   <channel id="灰熊 vs 步行者"><display-name>灰熊 vs 步行者</display-name></channel>
   <channel id="篮网 vs 黄蜂"><display-name>篮网 vs 黄蜂</display-name></channel>
@@ -84,10 +82,6 @@
     <title>Portland Trail Blazers at Phoenix Suns（NBA）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261105080000 +0800" stop="20261105104012 +0800" channel="奇才 vs 老鹰">
-    <title>Atlanta Hawks at Washington Wizards 已结束（NBA）</title>
-    <category>体育</category>
-  </programme>
   <programme start="20261105083000 +0800" stop="20261105111012 +0800" channel="尼克斯 vs 公牛">
     <title>Chicago Bulls at New York Knicks 已结束（NBA）</title>
     <category>体育</category>
@@ -98,10 +92,6 @@
   </programme>
   <programme start="20261105100000 +0800" stop="20261105124012 +0800" channel="掘金 vs 猛龙">
     <title>Toronto Raptors at Denver Nuggets 已结束（NBA）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261105080000 +0800" stop="20261105104012 +0800" channel="活塞 vs 76人">
-    <title>Philadelphia 76ers at Detroit Pistons 已结束（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261105093000 +0800" stop="20261105121012 +0800" channel="火箭 vs 森林狼">
