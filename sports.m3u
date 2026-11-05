@@ -133,15 +133,13 @@ http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1303" tvg-name="ESPN" tvg-group="综合体育" group-title="综合体育",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1304" tvg-name="Tennis Channel" tvg-group="综合体育" group-title="综合体育",Tennis Channel
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1305" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1304" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1306" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1305" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1307" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1308" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1307" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
@@ -177,25 +175,43 @@ http://192.168.5.35:44635/play/a504ea80dd3b5a61529058b3d24c0949b64e0040
 http://192.168.5.35:44635/play/e1559eae347a5b1c67c0f38b6a6d0a95819c5e4a
 #EXTINF:-1 tvg-id="GL vs L1ga Team" tvg-chno="1403" tvg-name="GL vs L1ga Team" tvg-group="DOTA2" group-title="DOTA2",GL vs L1ga Team·聚合源
 http://192.168.5.35:44635/play/eacfbc9cb66de0abfe9e10dc8e0d4da8fdcc3bda
-#EXTINF:-1 tvg-id="Lynx vs TTS" tvg-chno="1404" tvg-name="Lynx vs TTS" tvg-group="DOTA2" group-title="DOTA2",Lynx vs TTS·聚合源
+#EXTINF:-1 tvg-id="Lens vs Cooman" tvg-chno="1404" tvg-name="Lens vs Cooman" tvg-group="DOTA2" group-title="DOTA2",Lens vs Cooman·聚合源
+http://192.168.5.35:44635/play/25f97c602373b1f576a21fa89e603ce47f4f2717
+#EXTINF:-1 tvg-id="Lens vs Cooman" tvg-chno="1404" tvg-name="Lens vs Cooman" tvg-group="DOTA2" group-title="DOTA2",Lens vs Cooman·聚合源
+http://192.168.5.35:44635/play/bb17a8a472a0bf1f25518f8577232d4deffc87b1
+#EXTINF:-1 tvg-id="Lynx vs TTS" tvg-chno="1405" tvg-name="Lynx vs TTS" tvg-group="DOTA2" group-title="DOTA2",Lynx vs TTS·聚合源
 http://192.168.5.35:44635/play/95beb438635dd0357a45f86ad8a43d2662ffd530
-#EXTINF:-1 tvg-id="Lynx vs TTS" tvg-chno="1404" tvg-name="Lynx vs TTS" tvg-group="DOTA2" group-title="DOTA2",Lynx vs TTS·聚合源
+#EXTINF:-1 tvg-id="Lynx vs TTS" tvg-chno="1405" tvg-name="Lynx vs TTS" tvg-group="DOTA2" group-title="DOTA2",Lynx vs TTS·聚合源
 http://192.168.5.35:44635/play/d439380d9e8dd4a06cb63fe851545d5d3f6a54e8
-#EXTINF:-1 tvg-id="NaVi vs TBD" tvg-chno="1405" tvg-name="NaVi vs TBD" tvg-group="DOTA2" group-title="DOTA2",NaVi vs TBD·聚合源
+#EXTINF:-1 tvg-id="NaVi vs TBD" tvg-chno="1406" tvg-name="NaVi vs TBD" tvg-group="DOTA2" group-title="DOTA2",NaVi vs TBD·聚合源
 http://192.168.5.35:44635/play/8f097dc59c1264ebcbe8f3d2d0a95f1dfc4bf7a5
-#EXTINF:-1 tvg-id="NaVi vs TBD" tvg-chno="1405" tvg-name="NaVi vs TBD" tvg-group="DOTA2" group-title="DOTA2",NaVi vs TBD·聚合源
+#EXTINF:-1 tvg-id="NaVi vs TBD" tvg-chno="1406" tvg-name="NaVi vs TBD" tvg-group="DOTA2" group-title="DOTA2",NaVi vs TBD·聚合源
 http://192.168.5.35:44635/play/a0a7b76f2b97a7577ab3918236c31ec7d60e736f
-#EXTINF:-1 tvg-id="RB vs YG" tvg-chno="1406" tvg-name="RB vs YG" tvg-group="DOTA2" group-title="DOTA2",RB vs YG·聚合源
+#EXTINF:-1 tvg-id="RB vs YG" tvg-chno="1407" tvg-name="RB vs YG" tvg-group="DOTA2" group-title="DOTA2",RB vs YG·聚合源
 http://192.168.5.35:44635/play/7161b11aad27f79f36a1f5afbd650d09d9c68c57
-#EXTINF:-1 tvg-id="RB vs YG" tvg-chno="1406" tvg-name="RB vs YG" tvg-group="DOTA2" group-title="DOTA2",RB vs YG·聚合源
+#EXTINF:-1 tvg-id="RB vs YG" tvg-chno="1407" tvg-name="RB vs YG" tvg-group="DOTA2" group-title="DOTA2",RB vs YG·聚合源
 http://192.168.5.35:44635/play/734120ae5b0098e4ab1ff5b05698501fbaeefd86
-#EXTINF:-1 tvg-id="Rostik vs Daxak" tvg-chno="1407" tvg-name="Rostik vs Daxak" tvg-group="DOTA2" group-title="DOTA2",Rostik vs Daxak·聚合源
+#EXTINF:-1 tvg-id="Rostik vs Daxak" tvg-chno="1408" tvg-name="Rostik vs Daxak" tvg-group="DOTA2" group-title="DOTA2",Rostik vs Daxak·聚合源
 http://192.168.5.35:44635/play/a08279c2782e0ffc832d38a763b3bf2f71bde07e
-#EXTINF:-1 tvg-id="Rostik vs Daxak" tvg-chno="1407" tvg-name="Rostik vs Daxak" tvg-group="DOTA2" group-title="DOTA2",Rostik vs Daxak·聚合源
+#EXTINF:-1 tvg-id="Rostik vs Daxak" tvg-chno="1408" tvg-name="Rostik vs Daxak" tvg-group="DOTA2" group-title="DOTA2",Rostik vs Daxak·聚合源
 http://192.168.5.35:44635/play/b044f3fd30e275655d042ebdd23472157cf8952d
-#EXTINF:-1 tvg-id="Zenith vs YG" tvg-chno="1408" tvg-name="Zenith vs YG" tvg-group="DOTA2" group-title="DOTA2",Zenith vs YG·聚合源
+#EXTINF:-1 tvg-id="Synapse vs Allied" tvg-chno="1409" tvg-name="Synapse vs Allied" tvg-group="DOTA2" group-title="DOTA2",Synapse vs Allied·聚合源
+http://192.168.5.35:44635/play/6d9b0e8d893aadd7201c55cd31b342d060c0e81a
+#EXTINF:-1 tvg-id="TEAM ILTW vs Stray" tvg-chno="1410" tvg-name="TEAM ILTW vs Stray" tvg-group="DOTA2" group-title="DOTA2",TEAM ILTW vs Stray·聚合源
+http://192.168.5.35:44635/play/8638296a6652a9b3b94ff536f982fd1b428b02e6
+#EXTINF:-1 tvg-id="TEAM ILTW vs Stray" tvg-chno="1410" tvg-name="TEAM ILTW vs Stray" tvg-group="DOTA2" group-title="DOTA2",TEAM ILTW vs Stray·聚合源
+http://192.168.5.35:44635/play/be69e0d3ddb1f68a5a877ae12fda23ac4a6eeb58
+#EXTINF:-1 tvg-id="Xipto vs Z10" tvg-chno="1411" tvg-name="Xipto vs Z10" tvg-group="DOTA2" group-title="DOTA2",Xipto vs Z10·聚合源
+http://192.168.5.35:44635/play/2a28c156e557a7b76111372545404d61e962850d
+#EXTINF:-1 tvg-id="Xipto vs Z10" tvg-chno="1411" tvg-name="Xipto vs Z10" tvg-group="DOTA2" group-title="DOTA2",Xipto vs Z10·聚合源
+http://192.168.5.35:44635/play/85992251a0002e30ee48b07ad987e76134fa9142
+#EXTINF:-1 tvg-id="Yes vs GL" tvg-chno="1412" tvg-name="Yes vs GL" tvg-group="DOTA2" group-title="DOTA2",Yes vs GL·聚合源
+http://192.168.5.35:44635/play/e77c820a91b071d4e874a29d777219f8f71e745e
+#EXTINF:-1 tvg-id="Yes vs GL" tvg-chno="1412" tvg-name="Yes vs GL" tvg-group="DOTA2" group-title="DOTA2",Yes vs GL·聚合源
+http://192.168.5.35:44635/play/63a8d329552664a79e2031e70921ac47b6a678bc
+#EXTINF:-1 tvg-id="Zenith vs YG" tvg-chno="1413" tvg-name="Zenith vs YG" tvg-group="DOTA2" group-title="DOTA2",Zenith vs YG·聚合源
 http://192.168.5.35:44635/play/5bbbc30b2c00528c112a587ea1038983067aa0b8
-#EXTINF:-1 tvg-id="Zenith vs YG" tvg-chno="1408" tvg-name="Zenith vs YG" tvg-group="DOTA2" group-title="DOTA2",Zenith vs YG·聚合源
+#EXTINF:-1 tvg-id="Zenith vs YG" tvg-chno="1413" tvg-name="Zenith vs YG" tvg-group="DOTA2" group-title="DOTA2",Zenith vs YG·聚合源
 http://192.168.5.35:44635/play/e5b3813903459ba2cee0b1fa1a20575abb443189
 #EXTINF:-1 tvg-id="11-05 鹈鹕 vs 爵士" tvg-chno="1501" tvg-name="11-05 鹈鹕 vs 爵士" tvg-group="NBA回放" group-title="NBA回放",11-05 鹈鹕 vs 爵士
 http://192.168.5.35:8098/f/2026-11-05%20%E9%B9%88%E9%B9%95%20vs%20%E7%88%B5%E5%A3%AB.mkv
