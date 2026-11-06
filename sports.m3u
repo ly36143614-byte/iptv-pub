@@ -46,7 +46,9 @@ http://192.168.5.35:44635/play/463e5b44448fe1f9788aec1a70aa48f3a47296a5
 #EXTINF:-1 tvg-id="千叶喷射机 vs 千叶阿尔提里" tvg-chno="1110" tvg-name="千叶喷射机 vs 千叶阿尔提里" tvg-group="篮球" group-title="篮球",千叶喷射机 vs 千叶阿尔提里·聚合源
 http://192.168.5.35:44635/play/c4b389a64125a3a675c4a572a1871eedcc796129
 #EXTINF:-1 tvg-id="品川区篮球队 vs 三重十四" tvg-chno="1111" tvg-name="品川区篮球队 vs 三重十四" tvg-group="篮球" group-title="篮球",品川区篮球队 vs 三重十四·聚合源
-http://192.168.5.35:44635/play/f2efae8547b008907942a3e2527dab26a11b68dc
+http://192.168.5.35:44635/play/9006341a81d4e7b2d0f3d8f045083825f7770207
+#EXTINF:-1 tvg-id="品川区篮球队 vs 三重十四" tvg-chno="1111" tvg-name="品川区篮球队 vs 三重十四" tvg-group="篮球" group-title="篮球",品川区篮球队 vs 三重十四·聚合源
+http://192.168.5.35:44635/play/4e9db7904a21bfcca4817643a01305ed3a77ac2d
 #EXTINF:-1 tvg-id="塔斯马尼亚跳伞蚁 vs 新西兰破坏者" tvg-chno="1112" tvg-name="塔斯马尼亚跳伞蚁 vs 新西兰破坏者" tvg-group="篮球" group-title="篮球",塔斯马尼亚跳伞蚁 vs 新西兰破坏者·聚合源
 http://192.168.5.35:44635/play/18b298fa1e16cf542d1661d58b5110d51a30f621
 #EXTINF:-1 tvg-id="塔斯马尼亚跳伞蚁 vs 新西兰破坏者" tvg-chno="1112" tvg-name="塔斯马尼亚跳伞蚁 vs 新西兰破坏者" tvg-group="篮球" group-title="篮球",塔斯马尼亚跳伞蚁 vs 新西兰破坏者·聚合源
@@ -73,26 +75,24 @@ http://192.168.5.35:44635/play/354ecb03bc33432da24e3608bd0bb1a75db6a716
 http://192.168.5.35:44635/play/f21f3bf487126438ca966e011bf7ee3918c6a03b
 #EXTINF:-1 tvg-id="广岛蜻蜓 vs 长崎维尔卡" tvg-chno="1117" tvg-name="广岛蜻蜓 vs 长崎维尔卡" tvg-group="篮球" group-title="篮球",广岛蜻蜓 vs 长崎维尔卡·聚合源
 http://192.168.5.35:44635/play/bd5b9695d2de7682e8980d32234496b0c5ad5820
-#EXTINF:-1 tvg-id="新疆天山女篮 vs 广西金海女篮" tvg-chno="1118" tvg-name="新疆天山女篮 vs 广西金海女篮" tvg-group="篮球" group-title="篮球",新疆天山女篮 vs 广西金海女篮·聚合源
+#EXTINF:-1 tvg-id="拉马特哈萨隆 vs 莫茨金村马卡比" tvg-chno="1118" tvg-name="拉马特哈萨隆 vs 莫茨金村马卡比" tvg-group="篮球" group-title="篮球",拉马特哈萨隆 vs 莫茨金村马卡比·聚合源
+http://192.168.5.35:44635/play/9230c6c9e8283df80901ffba72cc33eab5a82ad0
+#EXTINF:-1 tvg-id="新疆天山女篮 vs 广西金海女篮" tvg-chno="1119" tvg-name="新疆天山女篮 vs 广西金海女篮" tvg-group="篮球" group-title="篮球",新疆天山女篮 vs 广西金海女篮·聚合源
 http://192.168.5.35:44635/play/e3fe9347709089e7e697d377009b777a7a53b059
-#EXTINF:-1 tvg-id="新疆天山女篮 vs 广西金海女篮" tvg-chno="1118" tvg-name="新疆天山女篮 vs 广西金海女篮" tvg-group="篮球" group-title="篮球",新疆天山女篮 vs 广西金海女篮·聚合源
+#EXTINF:-1 tvg-id="新疆天山女篮 vs 广西金海女篮" tvg-chno="1119" tvg-name="新疆天山女篮 vs 广西金海女篮" tvg-group="篮球" group-title="篮球",新疆天山女篮 vs 广西金海女篮·聚合源
 http://192.168.5.35:44635/play/e644ed64c50b3afeba1360255f6d31fc76ffcef8
-#EXTINF:-1 tvg-id="滋贺湖 vs 川崎雷霆勇者" tvg-chno="1119" tvg-name="滋贺湖 vs 川崎雷霆勇者" tvg-group="篮球" group-title="篮球",滋贺湖 vs 川崎雷霆勇者·聚合源
+#EXTINF:-1 tvg-id="滋贺湖 vs 川崎雷霆勇者" tvg-chno="1120" tvg-name="滋贺湖 vs 川崎雷霆勇者" tvg-group="篮球" group-title="篮球",滋贺湖 vs 川崎雷霆勇者·聚合源
 http://192.168.5.35:44635/play/699cc35fe9259ef9880f92a64375b5c57c7e7913
-#EXTINF:-1 tvg-id="滋贺湖 vs 川崎雷霆勇者" tvg-chno="1119" tvg-name="滋贺湖 vs 川崎雷霆勇者" tvg-group="篮球" group-title="篮球",滋贺湖 vs 川崎雷霆勇者·聚合源
+#EXTINF:-1 tvg-id="滋贺湖 vs 川崎雷霆勇者" tvg-chno="1120" tvg-name="滋贺湖 vs 川崎雷霆勇者" tvg-group="篮球" group-title="篮球",滋贺湖 vs 川崎雷霆勇者·聚合源
 http://192.168.5.35:44635/play/0372c0772e23276b2c11086e710958e3c82f448c
-#EXTINF:-1 tvg-id="澳门黑骑士 vs 广州龙狮B队" tvg-chno="1120" tvg-name="澳门黑骑士 vs 广州龙狮B队" tvg-group="篮球" group-title="篮球",澳门黑骑士 vs 广州龙狮B队·聚合源
+#EXTINF:-1 tvg-id="澳门黑骑士 vs 广州龙狮B队" tvg-chno="1121" tvg-name="澳门黑骑士 vs 广州龙狮B队" tvg-group="篮球" group-title="篮球",澳门黑骑士 vs 广州龙狮B队·聚合源
 http://192.168.5.35:44635/play/1e4d84d7e22b09714680b47168c2082b11fe2c4d
-#EXTINF:-1 tvg-id="澳门黑骑士 vs 广州龙狮B队" tvg-chno="1120" tvg-name="澳门黑骑士 vs 广州龙狮B队" tvg-group="篮球" group-title="篮球",澳门黑骑士 vs 广州龙狮B队·聚合源
+#EXTINF:-1 tvg-id="澳门黑骑士 vs 广州龙狮B队" tvg-chno="1121" tvg-name="澳门黑骑士 vs 广州龙狮B队" tvg-group="篮球" group-title="篮球",澳门黑骑士 vs 广州龙狮B队·聚合源
 http://192.168.5.35:44635/play/1f705062531dfd1579d7d3763dee8cd76a6f0608
-#EXTINF:-1 tvg-id="生力啤 vs 基尼巴国王" tvg-chno="1121" tvg-name="生力啤 vs 基尼巴国王" tvg-group="篮球" group-title="篮球",生力啤 vs 基尼巴国王·聚合源
+#EXTINF:-1 tvg-id="生力啤 vs 基尼巴国王" tvg-chno="1122" tvg-name="生力啤 vs 基尼巴国王" tvg-group="篮球" group-title="篮球",生力啤 vs 基尼巴国王·聚合源
 http://192.168.5.35:44635/play/b7eeb36b9771652b8e60b2f53cb4b81cfb687496
-#EXTINF:-1 tvg-id="生力啤 vs 基尼巴国王" tvg-chno="1121" tvg-name="生力啤 vs 基尼巴国王" tvg-group="篮球" group-title="篮球",生力啤 vs 基尼巴国王·聚合源
+#EXTINF:-1 tvg-id="生力啤 vs 基尼巴国王" tvg-chno="1122" tvg-name="生力啤 vs 基尼巴国王" tvg-group="篮球" group-title="篮球",生力啤 vs 基尼巴国王·聚合源
 http://192.168.5.35:44635/play/7d0113285ace17d19a0cd4ce7c8ef5b7a57bcab3
-#EXTINF:-1 tvg-id="福建金篮女篮 vs 浙江稠州银行女篮" tvg-chno="1122" tvg-name="福建金篮女篮 vs 浙江稠州银行女篮" tvg-group="篮球" group-title="篮球",福建金篮女篮 vs 浙江稠州银行女篮·聚合源
-http://192.168.5.35:44635/play/d5ca9fa87ddf56e0faecec5fd8caeeb31b50c8ea
-#EXTINF:-1 tvg-id="福建金篮女篮 vs 浙江稠州银行女篮" tvg-chno="1122" tvg-name="福建金篮女篮 vs 浙江稠州银行女篮" tvg-group="篮球" group-title="篮球",福建金篮女篮 vs 浙江稠州银行女篮·聚合源
-http://192.168.5.35:44635/play/45d197a76212053b0d89adffa34cf2accda538e2
 #EXTINF:-1 tvg-id="艾里祖尔 vs 艾丽祖尔阿什克伦" tvg-chno="1123" tvg-name="艾里祖尔 vs 艾丽祖尔阿什克伦" tvg-group="篮球" group-title="篮球",艾里祖尔 vs 艾丽祖尔阿什克伦·聚合源
 http://192.168.5.35:44635/play/43a00cb8ff1ed30b6af6755d5e8cf84298cc6605
 #EXTINF:-1 tvg-id="霍隆夏普尔 vs 加利尔夏普尔" tvg-chno="1124" tvg-name="霍隆夏普尔 vs 加利尔夏普尔" tvg-group="篮球" group-title="篮球",霍隆夏普尔 vs 加利尔夏普尔·聚合源
@@ -121,18 +121,10 @@ http://192.168.5.35:35456/jrs/%E6%B0%B8%E4%BA%9A%E5%8D%A1%E8%BE%BE%20vs%20%E5%BE
 http://192.168.5.35:44635/play/8794e7175d37e05b644d5aed68308bcc890f5245
 #EXTINF:-1 tvg-id="永亚卡达 vs 德瓦" tvg-chno="1205" tvg-name="永亚卡达 vs 德瓦" tvg-group="足球1080" group-title="足球1080",永亚卡达 vs 德瓦·1080P原声
 http://192.168.5.35:44635/play/66c548d667207ceaac9bc1f51fccf6c3841f9f5d
-#EXTINF:-1 tvg-id="猎人FC vs 德仁FC" tvg-chno="1206" tvg-name="猎人FC vs 德仁FC" tvg-group="足球" group-title="足球",猎人FC vs 德仁FC·聚合源
-http://192.168.5.35:44635/play/fb37340d3632557527e996a3ebb3a2e41fec01ad
-#EXTINF:-1 tvg-id="猎人FC vs 德仁FC" tvg-chno="1206" tvg-name="猎人FC vs 德仁FC" tvg-group="足球" group-title="足球",猎人FC vs 德仁FC·聚合源
-http://192.168.5.35:44635/play/3264fafe8bec6fde3bf42bd2714b2d6bbdfd4a07
-#EXTINF:-1 tvg-id="皇家达贡 vs 亚洲雄狮" tvg-chno="1207" tvg-name="皇家达贡 vs 亚洲雄狮" tvg-group="足球" group-title="足球",皇家达贡 vs 亚洲雄狮·聚合源
+#EXTINF:-1 tvg-id="皇家达贡 vs 亚洲雄狮" tvg-chno="1206" tvg-name="皇家达贡 vs 亚洲雄狮" tvg-group="足球" group-title="足球",皇家达贡 vs 亚洲雄狮·聚合源
 http://192.168.5.35:44635/play/5a212bfde78066a89eacc30d2368d6b1af34ec82
-#EXTINF:-1 tvg-id="皇家达贡 vs 亚洲雄狮" tvg-chno="1207" tvg-name="皇家达贡 vs 亚洲雄狮" tvg-group="足球" group-title="足球",皇家达贡 vs 亚洲雄狮·聚合源
+#EXTINF:-1 tvg-id="皇家达贡 vs 亚洲雄狮" tvg-chno="1206" tvg-name="皇家达贡 vs 亚洲雄狮" tvg-group="足球" group-title="足球",皇家达贡 vs 亚洲雄狮·聚合源
 http://192.168.5.35:44635/play/de9df0fb788182db34c0b52ec2325bf94913c62d
-#EXTINF:-1 tvg-id="阿德莱德联女足 vs 惠灵顿凤凰女足" tvg-chno="1208" tvg-name="阿德莱德联女足 vs 惠灵顿凤凰女足" tvg-group="足球" group-title="足球",阿德莱德联女足 vs 惠灵顿凤凰女足·聚合源
-http://192.168.5.35:44635/play/c2adf08359bd7e4dc46dca3cfb320a24c693f7df
-#EXTINF:-1 tvg-id="阿德莱德联女足 vs 惠灵顿凤凰女足" tvg-chno="1208" tvg-name="阿德莱德联女足 vs 惠灵顿凤凰女足" tvg-group="足球" group-title="足球",阿德莱德联女足 vs 惠灵顿凤凰女足·聚合源
-http://192.168.5.35:44635/play/f2cb3ab9e1003d739f4e27b7f761a89152597e7a
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NFL·NBC" tvg-chno="1302" tvg-name="NFL·NBC" tvg-group="综合体育" group-title="综合体育",NFL·NBC
