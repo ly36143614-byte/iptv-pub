@@ -23,10 +23,10 @@ http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 http://192.168.5.35:44635/play/3a6f7bda7c8e00b8b17811f580e858a8a976fbd6
 #EXTINF:-1 tvg-id="北方莫蒂隆人 vs 派萨人" tvg-chno="1103" tvg-name="北方莫蒂隆人 vs 派萨人" tvg-group="篮球" group-title="篮球",北方莫蒂隆人 vs 派萨人·聚合源
 http://192.168.5.35:44635/play/55c467dd4c47dc0fcd9de447706d87d1ed3326a1
-#EXTINF:-1 tvg-id="奥萨斯科 vs 圣荷塞" tvg-chno="1104" tvg-name="奥萨斯科 vs 圣荷塞" tvg-group="篮球" group-title="篮球",奥萨斯科 vs 圣荷塞·聚合源
-http://192.168.5.35:44635/play/d2552692f9450b59a5cde1129333a636c2690662
-#EXTINF:-1 tvg-id="奥萨斯科 vs 圣荷塞" tvg-chno="1104" tvg-name="奥萨斯科 vs 圣荷塞" tvg-group="篮球" group-title="篮球",奥萨斯科 vs 圣荷塞·聚合源
-http://192.168.5.35:44635/play/943b3b51de13c47458446f19913f6e5df4a9a875
+#EXTINF:-1 tvg-id="圣心大学 vs 缅因大学" tvg-chno="1104" tvg-name="圣心大学 vs 缅因大学" tvg-group="篮球" group-title="篮球",圣心大学 vs 缅因大学·聚合源
+http://192.168.5.35:44635/play/36c9cbd9d54658647cda7eff13326a7fbc93297e
+#EXTINF:-1 tvg-id="圣心大学 vs 缅因大学" tvg-chno="1104" tvg-name="圣心大学 vs 缅因大学" tvg-group="篮球" group-title="篮球",圣心大学 vs 缅因大学·聚合源
+http://192.168.5.35:44635/play/ae422c64bfab949a4306d0a490870dcc2d07386e
 #EXTINF:-1 tvg-id="宾夕法尼亚州立大学 vs 查他努加大学" tvg-chno="1105" tvg-name="宾夕法尼亚州立大学 vs 查他努加大学" tvg-group="篮球" group-title="篮球",宾夕法尼亚州立大学 vs 查他努加大学·聚合源
 http://192.168.5.35:44635/play/919f5670748a268e72311574d2f7c0987027e54e
 #EXTINF:-1 tvg-id="宾夕法尼亚州立大学 vs 查他努加大学" tvg-chno="1105" tvg-name="宾夕法尼亚州立大学 vs 查他努加大学" tvg-group="篮球" group-title="篮球",宾夕法尼亚州立大学 vs 查他努加大学·聚合源
@@ -97,12 +97,10 @@ http://192.168.5.35:44635/play/9bc79cae74474eeb7ad2a196ee6564a1a5a21bf1
 http://192.168.5.35:44635/play/91e7eb745655b0150056313e6093f1d73640ca19
 #EXTINF:-1 tvg-id="浙江U15 vs 江苏U15" tvg-chno="1214" tvg-name="浙江U15 vs 江苏U15" tvg-group="足球" group-title="足球",浙江U15 vs 江苏U15·聚合源
 http://192.168.5.35:44635/play/0858a988d31f181ee34ee8a287d0298e480951ee
-#EXTINF:-1 tvg-id="玻利瓦尔 vs 皇家波托斯" tvg-chno="1215" tvg-name="玻利瓦尔 vs 皇家波托斯" tvg-group="足球" group-title="足球",玻利瓦尔 vs 皇家波托斯·聚合源
-http://192.168.5.35:44635/play/d78cc7cbc201e24b476e5ca19056ab20cbad07de
-#EXTINF:-1 tvg-id="玻利瓦尔 vs 皇家波托斯" tvg-chno="1215" tvg-name="玻利瓦尔 vs 皇家波托斯" tvg-group="足球" group-title="足球",玻利瓦尔 vs 皇家波托斯·聚合源
-http://192.168.5.35:44635/play/503fac2a9bd0bd110bf332610ffc34c11f7f2ffc
-#EXTINF:-1 tvg-id="足球之星 vs 孟买迪纳摩" tvg-chno="1216" tvg-name="足球之星 vs 孟买迪纳摩" tvg-group="足球" group-title="足球",足球之星 vs 孟买迪纳摩·聚合源
+#EXTINF:-1 tvg-id="足球之星 vs 孟买迪纳摩" tvg-chno="1215" tvg-name="足球之星 vs 孟买迪纳摩" tvg-group="足球" group-title="足球",足球之星 vs 孟买迪纳摩·聚合源
 http://192.168.5.35:44635/play/b228fedb5986e7375499e73c53efed1f038b6f4f
+#EXTINF:-1 tvg-id="重庆奥体女足 vs 福建泉州南安女足" tvg-chno="1216" tvg-name="重庆奥体女足 vs 福建泉州南安女足" tvg-group="足球" group-title="足球",重庆奥体女足 vs 福建泉州南安女足·聚合源
+http://192.168.5.35:44635/play/841968f99948245b1bc636ebb8dd814487c014b5
 #EXTINF:-1 tvg-id="重庆青训U15 vs 上海申花U15" tvg-chno="1217" tvg-name="重庆青训U15 vs 上海申花U15" tvg-group="足球" group-title="足球",重庆青训U15 vs 上海申花U15·聚合源
 http://192.168.5.35:44635/play/119cd5ee4d5afb761b1d361bcc8f7a76648d3756
 #EXTINF:-1 tvg-id="重庆青训U15 vs 上海申花U15" tvg-chno="1217" tvg-name="重庆青训U15 vs 上海申花U15" tvg-group="足球" group-title="足球",重庆青训U15 vs 上海申花U15·聚合源
