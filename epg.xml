@@ -6,6 +6,7 @@
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="Xipto vs oveA"><display-name>Xipto vs oveA</display-name></channel>
+  <channel id="potn9ki- vs PR"><display-name>potn9ki- vs PR</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <programme start="20261109020000 +0800" stop="20261109051948 +0800" channel="CBS">
     <title>New York Jets at Kansas City Chiefs（NFL）</title>
@@ -57,6 +58,10 @@
   </programme>
   <programme start="20261106200000 +0800" stop="20261106223000 +0800" channel="Xipto vs oveA">
     <title>Xipto vs oveA（EPC Season 3 - November 6）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261106210000 +0800" stop="20261106233000 +0800" channel="potn9ki- vs PR">
+    <title>potn9k vs PR（DreamLeague D2 S5 - November 6）</title>
     <category>体育</category>
   </programme>
   <programme start="20261106190000 +0800" stop="20261106200000 +0800" channel="赛程预告">
