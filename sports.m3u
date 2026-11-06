@@ -78,9 +78,7 @@ http://192.168.5.35:44635/play/699cc35fe9259ef9880f92a64375b5c57c7e7913
 #EXTINF:-1 tvg-id="滋贺湖 vs 川崎雷霆勇者" tvg-chno="1119" tvg-name="滋贺湖 vs 川崎雷霆勇者" tvg-group="篮球" group-title="篮球",滋贺湖 vs 川崎雷霆勇者·聚合源
 http://192.168.5.35:44635/play/0372c0772e23276b2c11086e710958e3c82f448c
 #EXTINF:-1 tvg-id="澳门黑骑士 vs 广州龙狮B队" tvg-chno="1120" tvg-name="澳门黑骑士 vs 广州龙狮B队" tvg-group="篮球" group-title="篮球",澳门黑骑士 vs 广州龙狮B队·聚合源
-http://192.168.5.35:44635/play/1e4d84d7e22b09714680b47168c2082b11fe2c4d
-#EXTINF:-1 tvg-id="澳门黑骑士 vs 广州龙狮B队" tvg-chno="1120" tvg-name="澳门黑骑士 vs 广州龙狮B队" tvg-group="篮球" group-title="篮球",澳门黑骑士 vs 广州龙狮B队·聚合源
-http://192.168.5.35:44635/play/1f705062531dfd1579d7d3763dee8cd76a6f0608
+http://192.168.5.35:44635/play/b24f9983335a76c091a33076a156d1b7478f4f1d
 #EXTINF:-1 tvg-id="生力啤 vs 基尼巴国王" tvg-chno="1121" tvg-name="生力啤 vs 基尼巴国王" tvg-group="篮球" group-title="篮球",生力啤 vs 基尼巴国王·聚合源
 http://192.168.5.35:44635/play/b7eeb36b9771652b8e60b2f53cb4b81cfb687496
 #EXTINF:-1 tvg-id="生力啤 vs 基尼巴国王" tvg-chno="1121" tvg-name="生力啤 vs 基尼巴国王" tvg-group="篮球" group-title="篮球",生力啤 vs 基尼巴国王·聚合源
@@ -105,37 +103,35 @@ http://192.168.5.35:44635/play/bf6ef1391f58ad0e4d1a24ec30a38ff86dd6338c
 http://192.168.5.35:44635/play/c8cfde992980ac650a20a57127a016e74035c10e
 #EXTINF:-1 tvg-id="堪培拉FC vs 悉尼联" tvg-chno="1203" tvg-name="堪培拉FC vs 悉尼联" tvg-group="足球" group-title="足球",堪培拉FC vs 悉尼联·聚合源
 http://192.168.5.35:44635/play/62e8e8503327dbdebf9f14704154980591fb7a4a
-#EXTINF:-1 tvg-id="寇巴U20 vs 阿扎兹加U20" tvg-chno="1204" tvg-name="寇巴U20 vs 阿扎兹加U20" tvg-group="足球" group-title="足球",寇巴U20 vs 阿扎兹加U20·聚合源
-http://192.168.5.35:44635/play/48c7f2a19a3af37d465b7cfff2ed9b4e6899e912
-#EXTINF:-1 tvg-id="悉尼FC vs 中央海岸水手" tvg-chno="1205" tvg-name="悉尼FC vs 中央海岸水手" tvg-group="足球1080" group-title="足球1080",悉尼FC vs 中央海岸水手·1080P原声
+#EXTINF:-1 tvg-id="悉尼FC vs 中央海岸水手" tvg-chno="1204" tvg-name="悉尼FC vs 中央海岸水手" tvg-group="足球1080" group-title="足球1080",悉尼FC vs 中央海岸水手·1080P原声
 http://192.168.5.35:35456/jrs/%E6%82%89%E5%B0%BCFC%20vs%20%E4%B8%AD%E5%A4%AE%E6%B5%B7%E5%B2%B8%E6%B0%B4%E6%89%8B%C2%B71080P%E5%8E%9F%E5%A3%B0
-#EXTINF:-1 tvg-id="悉尼FC vs 中央海岸水手" tvg-chno="1205" tvg-name="悉尼FC vs 中央海岸水手" tvg-group="足球1080" group-title="足球1080",悉尼FC vs 中央海岸水手·1080P原声
+#EXTINF:-1 tvg-id="悉尼FC vs 中央海岸水手" tvg-chno="1204" tvg-name="悉尼FC vs 中央海岸水手" tvg-group="足球1080" group-title="足球1080",悉尼FC vs 中央海岸水手·1080P原声
 http://192.168.5.35:44635/play/92ed9bcf039d4f40e6babb53aee3b54cc881bb4c
-#EXTINF:-1 tvg-id="悉尼FC vs 中央海岸水手" tvg-chno="1205" tvg-name="悉尼FC vs 中央海岸水手" tvg-group="足球1080" group-title="足球1080",悉尼FC vs 中央海岸水手·1080P原声
+#EXTINF:-1 tvg-id="悉尼FC vs 中央海岸水手" tvg-chno="1204" tvg-name="悉尼FC vs 中央海岸水手" tvg-group="足球1080" group-title="足球1080",悉尼FC vs 中央海岸水手·1080P原声
 http://192.168.5.35:44635/play/60db22df12db8f0983d5028db523cfe479fe96c0
-#EXTINF:-1 tvg-id="欢乐兄弟FC vs 精英国王FC" tvg-chno="1206" tvg-name="欢乐兄弟FC vs 精英国王FC" tvg-group="足球" group-title="足球",欢乐兄弟FC vs 精英国王FC·聚合源
+#EXTINF:-1 tvg-id="欢乐兄弟FC vs 精英国王FC" tvg-chno="1205" tvg-name="欢乐兄弟FC vs 精英国王FC" tvg-group="足球" group-title="足球",欢乐兄弟FC vs 精英国王FC·聚合源
 http://192.168.5.35:44635/play/1eaf1c0859f8a36f22bda156122d0ca93b4d4ea3
-#EXTINF:-1 tvg-id="欢乐兄弟FC vs 精英国王FC" tvg-chno="1206" tvg-name="欢乐兄弟FC vs 精英国王FC" tvg-group="足球" group-title="足球",欢乐兄弟FC vs 精英国王FC·聚合源
+#EXTINF:-1 tvg-id="欢乐兄弟FC vs 精英国王FC" tvg-chno="1205" tvg-name="欢乐兄弟FC vs 精英国王FC" tvg-group="足球" group-title="足球",欢乐兄弟FC vs 精英国王FC·聚合源
 http://192.168.5.35:44635/play/08382dacef747ba09f2086ff5db3cf60d2091ee6
-#EXTINF:-1 tvg-id="永亚卡达 vs 德瓦" tvg-chno="1207" tvg-name="永亚卡达 vs 德瓦" tvg-group="足球1080" group-title="足球1080",永亚卡达 vs 德瓦·1080P原声
+#EXTINF:-1 tvg-id="永亚卡达 vs 德瓦" tvg-chno="1206" tvg-name="永亚卡达 vs 德瓦" tvg-group="足球1080" group-title="足球1080",永亚卡达 vs 德瓦·1080P原声
 http://192.168.5.35:35456/jrs/%E6%B0%B8%E4%BA%9A%E5%8D%A1%E8%BE%BE%20vs%20%E5%BE%B7%E7%93%A6%C2%B71080P%E5%8E%9F%E5%A3%B0
-#EXTINF:-1 tvg-id="永亚卡达 vs 德瓦" tvg-chno="1207" tvg-name="永亚卡达 vs 德瓦" tvg-group="足球1080" group-title="足球1080",永亚卡达 vs 德瓦·1080P原声
+#EXTINF:-1 tvg-id="永亚卡达 vs 德瓦" tvg-chno="1206" tvg-name="永亚卡达 vs 德瓦" tvg-group="足球1080" group-title="足球1080",永亚卡达 vs 德瓦·1080P原声
 http://192.168.5.35:44635/play/8794e7175d37e05b644d5aed68308bcc890f5245
-#EXTINF:-1 tvg-id="永亚卡达 vs 德瓦" tvg-chno="1207" tvg-name="永亚卡达 vs 德瓦" tvg-group="足球1080" group-title="足球1080",永亚卡达 vs 德瓦·1080P原声
+#EXTINF:-1 tvg-id="永亚卡达 vs 德瓦" tvg-chno="1206" tvg-name="永亚卡达 vs 德瓦" tvg-group="足球1080" group-title="足球1080",永亚卡达 vs 德瓦·1080P原声
 http://192.168.5.35:44635/play/66c548d667207ceaac9bc1f51fccf6c3841f9f5d
-#EXTINF:-1 tvg-id="猎人FC vs 德仁FC" tvg-chno="1208" tvg-name="猎人FC vs 德仁FC" tvg-group="足球" group-title="足球",猎人FC vs 德仁FC·聚合源
+#EXTINF:-1 tvg-id="猎人FC vs 德仁FC" tvg-chno="1207" tvg-name="猎人FC vs 德仁FC" tvg-group="足球" group-title="足球",猎人FC vs 德仁FC·聚合源
 http://192.168.5.35:44635/play/fb37340d3632557527e996a3ebb3a2e41fec01ad
-#EXTINF:-1 tvg-id="猎人FC vs 德仁FC" tvg-chno="1208" tvg-name="猎人FC vs 德仁FC" tvg-group="足球" group-title="足球",猎人FC vs 德仁FC·聚合源
+#EXTINF:-1 tvg-id="猎人FC vs 德仁FC" tvg-chno="1207" tvg-name="猎人FC vs 德仁FC" tvg-group="足球" group-title="足球",猎人FC vs 德仁FC·聚合源
 http://192.168.5.35:44635/play/3264fafe8bec6fde3bf42bd2714b2d6bbdfd4a07
-#EXTINF:-1 tvg-id="皇家达贡 vs 亚洲雄狮" tvg-chno="1209" tvg-name="皇家达贡 vs 亚洲雄狮" tvg-group="足球" group-title="足球",皇家达贡 vs 亚洲雄狮·聚合源
+#EXTINF:-1 tvg-id="皇家达贡 vs 亚洲雄狮" tvg-chno="1208" tvg-name="皇家达贡 vs 亚洲雄狮" tvg-group="足球" group-title="足球",皇家达贡 vs 亚洲雄狮·聚合源
 http://192.168.5.35:44635/play/5a212bfde78066a89eacc30d2368d6b1af34ec82
-#EXTINF:-1 tvg-id="皇家达贡 vs 亚洲雄狮" tvg-chno="1209" tvg-name="皇家达贡 vs 亚洲雄狮" tvg-group="足球" group-title="足球",皇家达贡 vs 亚洲雄狮·聚合源
+#EXTINF:-1 tvg-id="皇家达贡 vs 亚洲雄狮" tvg-chno="1208" tvg-name="皇家达贡 vs 亚洲雄狮" tvg-group="足球" group-title="足球",皇家达贡 vs 亚洲雄狮·聚合源
 http://192.168.5.35:44635/play/de9df0fb788182db34c0b52ec2325bf94913c62d
-#EXTINF:-1 tvg-id="阿德莱德联女足 vs 惠灵顿凤凰女足" tvg-chno="1210" tvg-name="阿德莱德联女足 vs 惠灵顿凤凰女足" tvg-group="足球1080" group-title="足球1080",阿德莱德联女足 vs 惠灵顿凤凰女足·1080P原声
+#EXTINF:-1 tvg-id="阿德莱德联女足 vs 惠灵顿凤凰女足" tvg-chno="1209" tvg-name="阿德莱德联女足 vs 惠灵顿凤凰女足" tvg-group="足球1080" group-title="足球1080",阿德莱德联女足 vs 惠灵顿凤凰女足·1080P原声
 http://192.168.5.35:35456/jrs/%E9%98%BF%E5%BE%B7%E8%8E%B1%E5%BE%B7%E8%81%94%E5%A5%B3%E8%B6%B3%20vs%20%E6%83%A0%E7%81%B5%E9%A1%BF%E5%87%A4%E5%87%B0%E5%A5%B3%E8%B6%B3%C2%B71080P%E5%8E%9F%E5%A3%B0
-#EXTINF:-1 tvg-id="阿德莱德联女足 vs 惠灵顿凤凰女足" tvg-chno="1210" tvg-name="阿德莱德联女足 vs 惠灵顿凤凰女足" tvg-group="足球1080" group-title="足球1080",阿德莱德联女足 vs 惠灵顿凤凰女足·1080P原声
+#EXTINF:-1 tvg-id="阿德莱德联女足 vs 惠灵顿凤凰女足" tvg-chno="1209" tvg-name="阿德莱德联女足 vs 惠灵顿凤凰女足" tvg-group="足球1080" group-title="足球1080",阿德莱德联女足 vs 惠灵顿凤凰女足·1080P原声
 http://192.168.5.35:44635/play/c2adf08359bd7e4dc46dca3cfb320a24c693f7df
-#EXTINF:-1 tvg-id="阿德莱德联女足 vs 惠灵顿凤凰女足" tvg-chno="1210" tvg-name="阿德莱德联女足 vs 惠灵顿凤凰女足" tvg-group="足球1080" group-title="足球1080",阿德莱德联女足 vs 惠灵顿凤凰女足·1080P原声
+#EXTINF:-1 tvg-id="阿德莱德联女足 vs 惠灵顿凤凰女足" tvg-chno="1209" tvg-name="阿德莱德联女足 vs 惠灵顿凤凰女足" tvg-group="足球1080" group-title="足球1080",阿德莱德联女足 vs 惠灵顿凤凰女足·1080P原声
 http://192.168.5.35:44635/play/f2cb3ab9e1003d739f4e27b7f761a89152597e7a
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
