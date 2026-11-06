@@ -19,14 +19,14 @@ http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1102" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="北方莫蒂隆人 vs 派萨人" tvg-chno="1103" tvg-name="北方莫蒂隆人 vs 派萨人" tvg-group="篮球" group-title="篮球",北方莫蒂隆人 vs 派萨人·聚合源
-http://192.168.5.35:44635/play/3a6f7bda7c8e00b8b17811f580e858a8a976fbd6
-#EXTINF:-1 tvg-id="北方莫蒂隆人 vs 派萨人" tvg-chno="1103" tvg-name="北方莫蒂隆人 vs 派萨人" tvg-group="篮球" group-title="篮球",北方莫蒂隆人 vs 派萨人·聚合源
-http://192.168.5.35:44635/play/55c467dd4c47dc0fcd9de447706d87d1ed3326a1
-#EXTINF:-1 tvg-id="圣心大学 vs 缅因大学" tvg-chno="1104" tvg-name="圣心大学 vs 缅因大学" tvg-group="篮球" group-title="篮球",圣心大学 vs 缅因大学·聚合源
+#EXTINF:-1 tvg-id="圣心大学 vs 缅因大学" tvg-chno="1103" tvg-name="圣心大学 vs 缅因大学" tvg-group="篮球" group-title="篮球",圣心大学 vs 缅因大学·聚合源
 http://192.168.5.35:44635/play/36c9cbd9d54658647cda7eff13326a7fbc93297e
-#EXTINF:-1 tvg-id="圣心大学 vs 缅因大学" tvg-chno="1104" tvg-name="圣心大学 vs 缅因大学" tvg-group="篮球" group-title="篮球",圣心大学 vs 缅因大学·聚合源
+#EXTINF:-1 tvg-id="圣心大学 vs 缅因大学" tvg-chno="1103" tvg-name="圣心大学 vs 缅因大学" tvg-group="篮球" group-title="篮球",圣心大学 vs 缅因大学·聚合源
 http://192.168.5.35:44635/play/ae422c64bfab949a4306d0a490870dcc2d07386e
+#EXTINF:-1 tvg-id="圣母大学 vs 默西赫斯特大学" tvg-chno="1104" tvg-name="圣母大学 vs 默西赫斯特大学" tvg-group="篮球" group-title="篮球",圣母大学 vs 默西赫斯特大学·聚合源
+http://192.168.5.35:44635/play/c4150cc1dc1ba601c5e673e97eca098454f30728
+#EXTINF:-1 tvg-id="圣母大学 vs 默西赫斯特大学" tvg-chno="1104" tvg-name="圣母大学 vs 默西赫斯特大学" tvg-group="篮球" group-title="篮球",圣母大学 vs 默西赫斯特大学·聚合源
+http://192.168.5.35:44635/play/284e10aea673bb95891a52d01cfefbebea942bdf
 #EXTINF:-1 tvg-id="宾夕法尼亚州立大学 vs 查他努加大学" tvg-chno="1105" tvg-name="宾夕法尼亚州立大学 vs 查他努加大学" tvg-group="篮球" group-title="篮球",宾夕法尼亚州立大学 vs 查他努加大学·聚合源
 http://192.168.5.35:44635/play/919f5670748a268e72311574d2f7c0987027e54e
 #EXTINF:-1 tvg-id="宾夕法尼亚州立大学 vs 查他努加大学" tvg-chno="1105" tvg-name="宾夕法尼亚州立大学 vs 查他努加大学" tvg-group="篮球" group-title="篮球",宾夕法尼亚州立大学 vs 查他努加大学·聚合源
@@ -35,17 +35,21 @@ http://192.168.5.35:44635/play/f91d72c8fc918d20ded2c56b9c81dc4421891fb4
 http://192.168.5.35:44635/play/f510dfba823698bc180c1494668d09a73a2e23dd
 #EXTINF:-1 tvg-id="康涅狄格大学女篮 vs 密歇根女篮" tvg-chno="1106" tvg-name="康涅狄格大学女篮 vs 密歇根女篮" tvg-group="篮球" group-title="篮球",康涅狄格大学女篮 vs 密歇根女篮·聚合源
 http://192.168.5.35:44635/play/6b261826a4a386169bf3f78421cde28bf9a248e0
-#EXTINF:-1 tvg-id="欧贝拉TC vs 阿根廷胡宁竞技" tvg-chno="1107" tvg-name="欧贝拉TC vs 阿根廷胡宁竞技" tvg-group="篮球" group-title="篮球",欧贝拉TC vs 阿根廷胡宁竞技·聚合源
+#EXTINF:-1 tvg-id="昆尼皮亚克大学 vs 布莱恩特大学" tvg-chno="1107" tvg-name="昆尼皮亚克大学 vs 布莱恩特大学" tvg-group="篮球" group-title="篮球",昆尼皮亚克大学 vs 布莱恩特大学·聚合源
+http://192.168.5.35:44635/play/b5186daa42b7711156e9409d1a5556eb821012ea
+#EXTINF:-1 tvg-id="昆尼皮亚克大学 vs 布莱恩特大学" tvg-chno="1107" tvg-name="昆尼皮亚克大学 vs 布莱恩特大学" tvg-group="篮球" group-title="篮球",昆尼皮亚克大学 vs 布莱恩特大学·聚合源
+http://192.168.5.35:44635/play/c5b7143e739ee3defc92b6c4142f0283a0dab625
+#EXTINF:-1 tvg-id="欧贝拉TC vs 阿根廷胡宁竞技" tvg-chno="1108" tvg-name="欧贝拉TC vs 阿根廷胡宁竞技" tvg-group="篮球" group-title="篮球",欧贝拉TC vs 阿根廷胡宁竞技·聚合源
 http://192.168.5.35:44635/play/6da0b287ebd2bb738cbaca11f761aff5612fc504
-#EXTINF:-1 tvg-id="欧贝拉TC vs 阿根廷胡宁竞技" tvg-chno="1107" tvg-name="欧贝拉TC vs 阿根廷胡宁竞技" tvg-group="篮球" group-title="篮球",欧贝拉TC vs 阿根廷胡宁竞技·聚合源
+#EXTINF:-1 tvg-id="欧贝拉TC vs 阿根廷胡宁竞技" tvg-chno="1108" tvg-name="欧贝拉TC vs 阿根廷胡宁竞技" tvg-group="篮球" group-title="篮球",欧贝拉TC vs 阿根廷胡宁竞技·聚合源
 http://192.168.5.35:44635/play/0fe5df98661c5cefdaedb668c42f872f22c7db0d
-#EXTINF:-1 tvg-id="西顿霍尔大学 vs 长岛大学" tvg-chno="1108" tvg-name="西顿霍尔大学 vs 长岛大学" tvg-group="篮球" group-title="篮球",西顿霍尔大学 vs 长岛大学·聚合源
+#EXTINF:-1 tvg-id="西顿霍尔大学 vs 长岛大学" tvg-chno="1109" tvg-name="西顿霍尔大学 vs 长岛大学" tvg-group="篮球" group-title="篮球",西顿霍尔大学 vs 长岛大学·聚合源
 http://192.168.5.35:44635/play/1fbe281c407d991785853f87c6003fe1aa1166de
-#EXTINF:-1 tvg-id="西顿霍尔大学 vs 长岛大学" tvg-chno="1108" tvg-name="西顿霍尔大学 vs 长岛大学" tvg-group="篮球" group-title="篮球",西顿霍尔大学 vs 长岛大学·聚合源
+#EXTINF:-1 tvg-id="西顿霍尔大学 vs 长岛大学" tvg-chno="1109" tvg-name="西顿霍尔大学 vs 长岛大学" tvg-group="篮球" group-title="篮球",西顿霍尔大学 vs 长岛大学·聚合源
 http://192.168.5.35:44635/play/a05b142eef14c1febd23d09a0c1bbf2a9f749157
-#EXTINF:-1 tvg-id="费尔菲尔德大学 vs 佛蒙特大学" tvg-chno="1109" tvg-name="费尔菲尔德大学 vs 佛蒙特大学" tvg-group="篮球" group-title="篮球",费尔菲尔德大学 vs 佛蒙特大学·聚合源
+#EXTINF:-1 tvg-id="费尔菲尔德大学 vs 佛蒙特大学" tvg-chno="1110" tvg-name="费尔菲尔德大学 vs 佛蒙特大学" tvg-group="篮球" group-title="篮球",费尔菲尔德大学 vs 佛蒙特大学·聚合源
 http://192.168.5.35:44635/play/3e14cf39d40094f72b32a436c08005b863df4951
-#EXTINF:-1 tvg-id="费尔菲尔德大学 vs 佛蒙特大学" tvg-chno="1109" tvg-name="费尔菲尔德大学 vs 佛蒙特大学" tvg-group="篮球" group-title="篮球",费尔菲尔德大学 vs 佛蒙特大学·聚合源
+#EXTINF:-1 tvg-id="费尔菲尔德大学 vs 佛蒙特大学" tvg-chno="1110" tvg-name="费尔菲尔德大学 vs 佛蒙特大学" tvg-group="篮球" group-title="篮球",费尔菲尔德大学 vs 佛蒙特大学·聚合源
 http://192.168.5.35:44635/play/58aa567cfe8f250b560ace5c9ad5e8a32384112c
 #EXTINF:-1 tvg-id="CD马拉松 vs 帕兰德森" tvg-chno="1201" tvg-name="CD马拉松 vs 帕兰德森" tvg-group="足球" group-title="足球",CD马拉松 vs 帕兰德森·聚合源
 http://192.168.5.35:44635/play/286756bb9ee584aa7659b8098d8e5213e9b835ed
@@ -107,13 +111,11 @@ http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1304" tvg-name="Tennis Channel" tvg-group="综合体育" group-title="综合体育",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1305" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
-https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1306" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1305" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1307" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1308" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1307" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
