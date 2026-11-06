@@ -282,8 +282,12 @@
     <title>澳超：阿德莱德 vs 墨胜利；日职：大阪钢巴 vs 大阪樱花</title>
     <category>体育</category>
   </programme>
-  <programme start="20261108153000 +0800" stop="20261108173000 +0800" channel="赛程预告">
+  <programme start="20261108153000 +0800" stop="20261108180000 +0800" channel="赛程预告">
     <title>中超：山东泰山 vs 成都蓉城；大连英博 vs 天津津门虎；北京国安 vs 重庆铜梁龙；云南玉昆 vs 武汉三镇；浙江 vs 河南；青岛海牛 vs 深圳新鹏城；上海海港 vs 辽宁铁人；上海申花 vs 青岛西海岸</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261108180000 +0800" stop="20261108200000 +0800" channel="赛程预告">
+    <title>Dota2：CHero vs Astra（1w Essence III Play-In）；ICxI vs Z10（Asgard Championship S2）；PR vs PTime（DreamLeague D2 S5）；Xipto vs ZENITH（DreamLeague D2 S5）；Nemiga vs Synapse（DreamLeague D2 S5）</title>
     <category>体育</category>
   </programme>
 </tv>
