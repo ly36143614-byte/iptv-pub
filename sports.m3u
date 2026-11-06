@@ -133,7 +133,9 @@ https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1357" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1358" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1358" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1359" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="AB vs PuckChamp" tvg-chno="1401" tvg-name="AB vs PuckChamp" tvg-group="DOTA2" group-title="DOTA2",AB vs PuckChamp·聚合源
 http://192.168.5.35:44635/play/404b22b901be065f1205a813c8a21ea2d3f1e91e
@@ -183,13 +185,17 @@ http://192.168.5.35:44635/play/96c3e15c42be41e2f410f71d5ff42f10a0e9564f
 http://192.168.5.35:44635/play/2a28c156e557a7b76111372545404d61e962850d
 #EXTINF:-1 tvg-id="Xipto vs Z10" tvg-chno="1412" tvg-name="Xipto vs Z10" tvg-group="DOTA2" group-title="DOTA2",Xipto vs Z10·聚合源
 http://192.168.5.35:44635/play/85992251a0002e30ee48b07ad987e76134fa9142
-#EXTINF:-1 tvg-id="Zenith" tvg-chno="1413" tvg-name="Zenith" tvg-group="DOTA2" group-title="DOTA2",Zenith·聚合源
+#EXTINF:-1 tvg-id="Xipto vs oveA" tvg-chno="1413" tvg-name="Xipto vs oveA" tvg-group="DOTA2" group-title="DOTA2",Xipto vs oveA·聚合源
+http://192.168.5.35:44635/play/8292b5fd16e44ad6d2c741fd419818863bf9a301
+#EXTINF:-1 tvg-id="Xipto vs oveA" tvg-chno="1413" tvg-name="Xipto vs oveA" tvg-group="DOTA2" group-title="DOTA2",Xipto vs oveA·聚合源
+http://192.168.5.35:44635/play/c819047eeab427ff9cf10820056a488b7f4b2398
+#EXTINF:-1 tvg-id="Zenith" tvg-chno="1414" tvg-name="Zenith" tvg-group="DOTA2" group-title="DOTA2",Zenith·聚合源
 http://192.168.5.35:44635/play/2f1022aaf7d24b28752b3417302a6ea4485d84db
-#EXTINF:-1 tvg-id="Zenith" tvg-chno="1413" tvg-name="Zenith" tvg-group="DOTA2" group-title="DOTA2",Zenith·聚合源
+#EXTINF:-1 tvg-id="Zenith" tvg-chno="1414" tvg-name="Zenith" tvg-group="DOTA2" group-title="DOTA2",Zenith·聚合源
 http://192.168.5.35:44635/play/d7c8c6b607b70d4d1a308e5b07fbc8569a0b7719
-#EXTINF:-1 tvg-id="potn9ki- vs Zenith" tvg-chno="1414" tvg-name="potn9ki- vs Zenith" tvg-group="DOTA2" group-title="DOTA2",potn9ki- vs Zenith·聚合源
+#EXTINF:-1 tvg-id="potn9ki- vs Zenith" tvg-chno="1415" tvg-name="potn9ki- vs Zenith" tvg-group="DOTA2" group-title="DOTA2",potn9ki- vs Zenith·聚合源
 http://192.168.5.35:44635/play/32a4099fd7ca7ce06ef1fd23d73b0b8ff4899597
-#EXTINF:-1 tvg-id="potn9ki- vs Zenith" tvg-chno="1414" tvg-name="potn9ki- vs Zenith" tvg-group="DOTA2" group-title="DOTA2",potn9ki- vs Zenith·聚合源
+#EXTINF:-1 tvg-id="potn9ki- vs Zenith" tvg-chno="1415" tvg-name="potn9ki- vs Zenith" tvg-group="DOTA2" group-title="DOTA2",potn9ki- vs Zenith·聚合源
 http://192.168.5.35:44635/play/94044796fa26b161c1f929e0a4ae682588f940c1
 #EXTINF:-1 tvg-id="11-06 滋贺湖 vs 川崎雷霆勇者" tvg-chno="1501" tvg-name="11-06 滋贺湖 vs 川崎雷霆勇者" tvg-group="NBA回放" group-title="NBA回放",11-06 滋贺湖 vs 川崎雷霆勇者
 http://192.168.5.35:8098/f/2026-11-06%20%E6%BB%8B%E8%B4%BA%E6%B9%96%20vs%20%E5%B7%9D%E5%B4%8E%E9%9B%B7%E9%9C%86%E5%8B%87%E8%80%85.mkv
