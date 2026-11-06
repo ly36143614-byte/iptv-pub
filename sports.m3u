@@ -65,12 +65,20 @@ http://192.168.5.35:44635/play/1548e3ca097ca26c9637b43c5d46641d2480163b
 http://192.168.5.35:44635/play/e6864dce3c8316329b86beb94a847116388b905d
 #EXTINF:-1 tvg-id="河北英励女篮 vs 河南济源王屋山女篮" tvg-chno="1201" tvg-name="河北英励女篮 vs 河南济源王屋山女篮" tvg-group="足球" group-title="足球",河北英励女篮 vs 河南济源王屋山女篮·咪咕直播·720P
 http://192.168.5.35:35456/jrs/%E6%B2%B3%E5%8C%97%E8%8B%B1%E5%8A%B1%E5%A5%B3%E7%AF%AE%20vs%20%E6%B2%B3%E5%8D%97%E6%B5%8E%E6%BA%90%E7%8E%8B%E5%B1%8B%E5%B1%B1%E5%A5%B3%E7%AF%AE%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
-#EXTINF:-1 tvg-id="马都拉联 vs 阿雷马" tvg-chno="1202" tvg-name="马都拉联 vs 阿雷马" tvg-group="足球1080" group-title="足球1080",马都拉联 vs 阿雷马·1080P原声
-http://192.168.5.35:35456/jrs/%E9%A9%AC%E9%83%BD%E6%8B%89%E8%81%94%20vs%20%E9%98%BF%E9%9B%B7%E9%A9%AC%C2%B71080P%E5%8E%9F%E5%A3%B0
-#EXTINF:-1 tvg-id="特拉维夫马卡比 vs 佩塔提科" tvg-chno="1203" tvg-name="特拉维夫马卡比 vs 佩塔提科" tvg-group="足球" group-title="足球",特拉维夫马卡比 vs 佩塔提科·聚合源
+#EXTINF:-1 tvg-id="特拉维夫马卡比 vs 佩塔提科" tvg-chno="1202" tvg-name="特拉维夫马卡比 vs 佩塔提科" tvg-group="足球" group-title="足球",特拉维夫马卡比 vs 佩塔提科·聚合源
 http://192.168.5.35:44635/play/434557c4687e40c28ad78314a3eb7e1d177ba245
-#EXTINF:-1 tvg-id="特拉维夫马卡比 vs 佩塔提科" tvg-chno="1203" tvg-name="特拉维夫马卡比 vs 佩塔提科" tvg-group="足球" group-title="足球",特拉维夫马卡比 vs 佩塔提科·聚合源
+#EXTINF:-1 tvg-id="特拉维夫马卡比 vs 佩塔提科" tvg-chno="1202" tvg-name="特拉维夫马卡比 vs 佩塔提科" tvg-group="足球" group-title="足球",特拉维夫马卡比 vs 佩塔提科·聚合源
 http://192.168.5.35:44635/play/f4081188b54e4c06f5434b3aa72ba3ad685d8784
+#EXTINF:-1 tvg-id="莫斯科中央陆军青年队 vs 克拉斯诺达尔青年队" tvg-chno="1203" tvg-name="莫斯科中央陆军青年队 vs 克拉斯诺达尔青年队" tvg-group="足球" group-title="足球",莫斯科中央陆军青年队 vs 克拉斯诺达尔青年队·聚合源
+http://192.168.5.35:44635/play/7781ff5a3b6ae07a84197ca183c803e7ad0cee1e
+#EXTINF:-1 tvg-id="莫斯科中央陆军青年队 vs 克拉斯诺达尔青年队" tvg-chno="1203" tvg-name="莫斯科中央陆军青年队 vs 克拉斯诺达尔青年队" tvg-group="足球" group-title="足球",莫斯科中央陆军青年队 vs 克拉斯诺达尔青年队·聚合源
+http://192.168.5.35:44635/play/67c78220da37267e1c0e74a28b4d29ab6034905c
+#EXTINF:-1 tvg-id="马都拉联 vs 阿雷马" tvg-chno="1204" tvg-name="马都拉联 vs 阿雷马" tvg-group="足球1080" group-title="足球1080",马都拉联 vs 阿雷马·1080P原声
+http://192.168.5.35:35456/jrs/%E9%A9%AC%E9%83%BD%E6%8B%89%E8%81%94%20vs%20%E9%98%BF%E9%9B%B7%E9%A9%AC%C2%B71080P%E5%8E%9F%E5%A3%B0
+#EXTINF:-1 tvg-id="马都拉联 vs 阿雷马" tvg-chno="1204" tvg-name="马都拉联 vs 阿雷马" tvg-group="足球1080" group-title="足球1080",马都拉联 vs 阿雷马·1080P原声
+http://192.168.5.35:44635/play/36930e4e15a7a209b709e00bde448b65d6a45e59
+#EXTINF:-1 tvg-id="马都拉联 vs 阿雷马" tvg-chno="1204" tvg-name="马都拉联 vs 阿雷马" tvg-group="足球1080" group-title="足球1080",马都拉联 vs 阿雷马·1080P原声
+http://192.168.5.35:44635/play/17a39a0508d4d309a1ede6fbb2e69761a912403e
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NFL·NBC" tvg-chno="1302" tvg-name="NFL·NBC" tvg-group="综合体育" group-title="综合体育",NFL·NBC
