@@ -6,7 +6,6 @@
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="Xipto vs oveA"><display-name>Xipto vs oveA</display-name></channel>
-  <channel id="potn9ki- vs PR"><display-name>potn9ki- vs PR</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <programme start="20261109020000 +0800" stop="20261109051948 +0800" channel="CBS">
     <title>New York Jets at Kansas City Chiefs（NFL）</title>
@@ -60,20 +59,16 @@
     <title>Xipto vs oveA（EPC Season 3 - November 6）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261106210000 +0800" stop="20261106233000 +0800" channel="potn9ki- vs PR">
-    <title>potn9k vs PR（DreamLeague D2 S5 - November 6）</title>
-    <category>体育</category>
-  </programme>
   <programme start="20261106190000 +0800" stop="20261106200000 +0800" channel="赛程预告">
     <title>Dota2：DAXAK vs Cooman（FME S5）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261106200000 +0800" stop="20261106210000 +0800" channel="赛程预告">
+  <programme start="20261106200000 +0800" stop="20261106213000 +0800" channel="赛程预告">
     <title>Dota2：Xipto vs oveA（EPC Season 3）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261106210000 +0800" stop="20261106223000 +0800" channel="赛程预告">
-    <title>Dota2：angry vs PC（Asgard Championship S2）；Frogs vs Nemiga（DreamLeague D2 S5）；PTime vs ZENITH（DreamLeague D2 S5）；potn9k vs PR（DreamLeague D2 S5）</title>
+  <programme start="20261106213000 +0800" stop="20261106223000 +0800" channel="赛程预告">
+    <title>Dota2：angry vs PC（Asgard Championship S2）</title>
     <category>体育</category>
   </programme>
   <programme start="20261106223000 +0800" stop="20261106225500 +0800" channel="赛程预告">
@@ -145,7 +140,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261107143000 +0800" stop="20261107150000 +0800" channel="赛程预告">
-    <title>中甲：南通支云 vs 佛山南狮；深圳青年人 vs 苏州东吴；陕西联合 vs 广西恒宸；无锡吴钩 vs 长春亚泰；延边龙鼎 vs 石家庄功夫；广东广州豹 vs 南京城市；宁波 vs 定南赣联；大连鲲城 vs 梅州客家</title>
+    <title>中甲：南通支云 vs 佛山南狮；深圳青年人 vs 苏州东吴；大连鲲城 vs 梅州客家；宁波 vs 定南赣联；广东广州豹 vs 南京城市；延边龙鼎 vs 石家庄功夫；陕西联合 vs 广西恒宸；无锡吴钩 vs 长春亚泰</title>
     <category>体育</category>
   </programme>
   <programme start="20261107150000 +0800" stop="20261107153000 +0800" channel="赛程预告">
@@ -193,7 +188,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261107223000 +0800" stop="20261107230000 +0800" channel="赛程预告">
-    <title>德甲：莱红牛 vs 奥格斯堡；德甲：帕德博恩 vs 法兰克福；德甲：多特蒙德 vs 埃沃斯堡；德甲：美因茨 vs 拜仁；足球：达曼协作 vs 利雅得新月；德甲：美因茨 vs 拜仁慕尼黑；RB莱比锡：RB莱比锡 vs 奥格斯堡；德甲：多特蒙德 vs 埃尔沃斯贝格</title>
+    <title>德甲：莱红牛 vs 奥格斯堡；德甲：帕德博恩 vs 法兰克福；德甲：多特蒙德 vs 埃沃斯堡；德甲：美因茨 vs 拜仁；足球：达曼协作 vs 利雅得新月；德甲：多特蒙德 vs 埃尔沃斯贝格；RB莱比锡：RB莱比锡 vs 奥格斯堡；德甲：美因茨 vs 拜仁慕尼黑</title>
     <category>体育</category>
   </programme>
   <programme start="20261107230000 +0800" stop="20261107231500 +0800" channel="赛程预告">
@@ -285,7 +280,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261108153000 +0800" stop="20261108180000 +0800" channel="赛程预告">
-    <title>中超：山东泰山 vs 成都蓉城；大连英博 vs 天津津门虎；上海申花 vs 青岛西海岸；上海海港 vs 辽宁铁人；浙江 vs 河南；青岛海牛 vs 深圳新鹏城；北京国安 vs 重庆铜梁龙；云南玉昆 vs 武汉三镇</title>
+    <title>中超：山东泰山 vs 成都蓉城；大连英博 vs 天津津门虎；云南玉昆 vs 武汉三镇；北京国安 vs 重庆铜梁龙；浙江 vs 河南；青岛海牛 vs 深圳新鹏城；上海海港 vs 辽宁铁人；上海申花 vs 青岛西海岸</title>
     <category>体育</category>
   </programme>
   <programme start="20261108180000 +0800" stop="20261108191500 +0800" channel="赛程预告">
