@@ -97,12 +97,20 @@ http://192.168.5.35:44635/play/3e860e7196a993c0f31facf913d23c66befa620d
 http://192.168.5.35:44635/play/38071910b720eb2d09a0f314ae55fd16b090825c
 #EXTINF:-1 tvg-id="奥博隆 vs 利维贝雷" tvg-chno="1206" tvg-name="奥博隆 vs 利维贝雷" tvg-group="足球" group-title="足球",奥博隆 vs 利维贝雷·聚合源
 http://192.168.5.35:44635/play/08031cd56add40631ed82abb3059eb93490c7d94
-#EXTINF:-1 tvg-id="河静鸿岭 vs 南定绿钢" tvg-chno="1207" tvg-name="河静鸿岭 vs 南定绿钢" tvg-group="足球1080" group-title="足球1080",河静鸿岭 vs 南定绿钢·1080P原声
+#EXTINF:-1 tvg-id="普莱西亚 vs 维勒斯" tvg-chno="1207" tvg-name="普莱西亚 vs 维勒斯" tvg-group="足球" group-title="足球",普莱西亚 vs 维勒斯·聚合源
+http://192.168.5.35:44635/play/1911a91afb71eb190ad9955692a3b550d99a2344
+#EXTINF:-1 tvg-id="普莱西亚 vs 维勒斯" tvg-chno="1207" tvg-name="普莱西亚 vs 维勒斯" tvg-group="足球" group-title="足球",普莱西亚 vs 维勒斯·聚合源
+http://192.168.5.35:44635/play/3fc8c685d86f878fc49319cbbbaf9240030d0bfd
+#EXTINF:-1 tvg-id="河静鸿岭 vs 南定绿钢" tvg-chno="1208" tvg-name="河静鸿岭 vs 南定绿钢" tvg-group="足球1080" group-title="足球1080",河静鸿岭 vs 南定绿钢·1080P原声
 http://192.168.5.35:35456/jrs/%E6%B2%B3%E9%9D%99%E9%B8%BF%E5%B2%AD%20vs%20%E5%8D%97%E5%AE%9A%E7%BB%BF%E9%92%A2%C2%B71080P%E5%8E%9F%E5%A3%B0
-#EXTINF:-1 tvg-id="河静鸿岭 vs 南定绿钢" tvg-chno="1207" tvg-name="河静鸿岭 vs 南定绿钢" tvg-group="足球1080" group-title="足球1080",河静鸿岭 vs 南定绿钢·1080P原声
+#EXTINF:-1 tvg-id="河静鸿岭 vs 南定绿钢" tvg-chno="1208" tvg-name="河静鸿岭 vs 南定绿钢" tvg-group="足球1080" group-title="足球1080",河静鸿岭 vs 南定绿钢·1080P原声
 http://192.168.5.35:44635/play/1201e5873f2ee0ebf1820f26281fb9315ebcaa2b
-#EXTINF:-1 tvg-id="河静鸿岭 vs 南定绿钢" tvg-chno="1207" tvg-name="河静鸿岭 vs 南定绿钢" tvg-group="足球1080" group-title="足球1080",河静鸿岭 vs 南定绿钢·1080P原声
+#EXTINF:-1 tvg-id="河静鸿岭 vs 南定绿钢" tvg-chno="1208" tvg-name="河静鸿岭 vs 南定绿钢" tvg-group="足球1080" group-title="足球1080",河静鸿岭 vs 南定绿钢·1080P原声
 http://192.168.5.35:44635/play/4285d9b4ef55c953bde2bc48b7cd55e1c174ecac
+#EXTINF:-1 tvg-id="特拉维夫马卡比 vs 佩塔提科" tvg-chno="1209" tvg-name="特拉维夫马卡比 vs 佩塔提科" tvg-group="足球" group-title="足球",特拉维夫马卡比 vs 佩塔提科·聚合源
+http://192.168.5.35:44635/play/434557c4687e40c28ad78314a3eb7e1d177ba245
+#EXTINF:-1 tvg-id="特拉维夫马卡比 vs 佩塔提科" tvg-chno="1209" tvg-name="特拉维夫马卡比 vs 佩塔提科" tvg-group="足球" group-title="足球",特拉维夫马卡比 vs 佩塔提科·聚合源
+http://192.168.5.35:44635/play/f4081188b54e4c06f5434b3aa72ba3ad685d8784
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NFL·NBC" tvg-chno="1302" tvg-name="NFL·NBC" tvg-group="综合体育" group-title="综合体育",NFL·NBC
@@ -111,13 +119,11 @@ http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1304" tvg-name="Tennis Channel" tvg-group="综合体育" group-title="综合体育",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1305" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
-https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1306" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1305" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1307" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1308" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1307" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
