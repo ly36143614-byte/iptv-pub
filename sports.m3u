@@ -19,12 +19,10 @@ http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1102" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="陕西榆林天泽女篮 vs 山东山高女篮" tvg-chno="1103" tvg-name="陕西榆林天泽女篮 vs 山东山高女篮" tvg-group="篮球" group-title="篮球",陕西榆林天泽女篮 vs 山东山高女篮·咪咕直播·720P
+#EXTINF:-1 tvg-id="贵州极光破晓女篮 vs 北京首钢园女篮" tvg-chno="1103" tvg-name="贵州极光破晓女篮 vs 北京首钢园女篮" tvg-group="篮球" group-title="篮球",贵州极光破晓女篮 vs 北京首钢园女篮·咪咕直播·720P
+http://192.168.5.35:35456/jrs/%E8%B4%B5%E5%B7%9E%E6%9E%81%E5%85%89%E7%A0%B4%E6%99%93%E5%A5%B3%E7%AF%AE%20vs%20%E5%8C%97%E4%BA%AC%E9%A6%96%E9%92%A2%E5%9B%AD%E5%A5%B3%E7%AF%AE%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
+#EXTINF:-1 tvg-id="陕西榆林天泽女篮 vs 山东山高女篮" tvg-chno="1104" tvg-name="陕西榆林天泽女篮 vs 山东山高女篮" tvg-group="篮球" group-title="篮球",陕西榆林天泽女篮 vs 山东山高女篮·咪咕直播·720P
 http://192.168.5.35:35456/jrs/%E9%99%95%E8%A5%BF%E6%A6%86%E6%9E%97%E5%A4%A9%E6%B3%BD%E5%A5%B3%E7%AF%AE%20vs%20%E5%B1%B1%E4%B8%9C%E5%B1%B1%E9%AB%98%E5%A5%B3%E7%AF%AE%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
-#EXTINF:-1 tvg-id="CSB开拓者 vs JRU重型轰炸机" tvg-chno="1104" tvg-name="CSB开拓者 vs JRU重型轰炸机" tvg-group="篮球" group-title="篮球",CSB开拓者 vs JRU重型轰炸机·聚合源
-http://192.168.5.35:44635/play/db713ff603e043b34bf969e2cc181900f74fca76
-#EXTINF:-1 tvg-id="CSB开拓者 vs JRU重型轰炸机" tvg-chno="1104" tvg-name="CSB开拓者 vs JRU重型轰炸机" tvg-group="篮球" group-title="篮球",CSB开拓者 vs JRU重型轰炸机·聚合源
-http://192.168.5.35:44635/play/6c3c9699fc8cc7b8d7242cd6581d3109f505bf70
 #EXTINF:-1 tvg-id="三河海马 vs 群马雷鹤" tvg-chno="1105" tvg-name="三河海马 vs 群马雷鹤" tvg-group="篮球" group-title="篮球",三河海马 vs 群马雷鹤·聚合源
 http://192.168.5.35:44635/play/82d59722b1f71e45d27b40f05939af8a689fb334
 #EXTINF:-1 tvg-id="三河海马 vs 群马雷鹤" tvg-chno="1105" tvg-name="三河海马 vs 群马雷鹤" tvg-group="篮球" group-title="篮球",三河海马 vs 群马雷鹤·聚合源
@@ -65,11 +63,9 @@ http://192.168.5.35:44635/play/776cbdac9a94cdfb43343e417be3e4b2d7553c8f
 http://192.168.5.35:44635/play/02782513a776f0526c332e88e3217aacd0f8c4a8
 #EXTINF:-1 tvg-id="海法夏普尔 vs 莫迪因夏普尔" tvg-chno="1114" tvg-name="海法夏普尔 vs 莫迪因夏普尔" tvg-group="篮球" group-title="篮球",海法夏普尔 vs 莫迪因夏普尔·聚合源
 http://192.168.5.35:44635/play/e5bb140fb196ea7da7f528f4f9816eaa72b542da
-#EXTINF:-1 tvg-id="滋贺湖 vs 川崎雷霆勇者" tvg-chno="1115" tvg-name="滋贺湖 vs 川崎雷霆勇者" tvg-group="篮球1080" group-title="篮球1080",滋贺湖 vs 川崎雷霆勇者·1080P原声
-http://192.168.5.35:35456/jrs/%E6%BB%8B%E8%B4%BA%E6%B9%96%20vs%20%E5%B7%9D%E5%B4%8E%E9%9B%B7%E9%9C%86%E5%8B%87%E8%80%85%C2%B71080P%E5%8E%9F%E5%A3%B0
-#EXTINF:-1 tvg-id="滋贺湖 vs 川崎雷霆勇者" tvg-chno="1115" tvg-name="滋贺湖 vs 川崎雷霆勇者" tvg-group="篮球1080" group-title="篮球1080",滋贺湖 vs 川崎雷霆勇者·1080P原声
+#EXTINF:-1 tvg-id="滋贺湖 vs 川崎雷霆勇者" tvg-chno="1115" tvg-name="滋贺湖 vs 川崎雷霆勇者" tvg-group="篮球" group-title="篮球",滋贺湖 vs 川崎雷霆勇者·聚合源
 http://192.168.5.35:44635/play/699cc35fe9259ef9880f92a64375b5c57c7e7913
-#EXTINF:-1 tvg-id="滋贺湖 vs 川崎雷霆勇者" tvg-chno="1115" tvg-name="滋贺湖 vs 川崎雷霆勇者" tvg-group="篮球1080" group-title="篮球1080",滋贺湖 vs 川崎雷霆勇者·1080P原声
+#EXTINF:-1 tvg-id="滋贺湖 vs 川崎雷霆勇者" tvg-chno="1115" tvg-name="滋贺湖 vs 川崎雷霆勇者" tvg-group="篮球" group-title="篮球",滋贺湖 vs 川崎雷霆勇者·聚合源
 http://192.168.5.35:44635/play/0372c0772e23276b2c11086e710958e3c82f448c
 #EXTINF:-1 tvg-id="澳门黑骑士 vs 广州龙狮B队" tvg-chno="1116" tvg-name="澳门黑骑士 vs 广州龙狮B队" tvg-group="篮球" group-title="篮球",澳门黑骑士 vs 广州龙狮B队·聚合源
 http://192.168.5.35:44635/play/1e4d84d7e22b09714680b47168c2082b11fe2c4d
@@ -79,25 +75,33 @@ http://192.168.5.35:44635/play/1f705062531dfd1579d7d3763dee8cd76a6f0608
 http://192.168.5.35:44635/play/b7eeb36b9771652b8e60b2f53cb4b81cfb687496
 #EXTINF:-1 tvg-id="生力啤 vs 基尼巴国王" tvg-chno="1117" tvg-name="生力啤 vs 基尼巴国王" tvg-group="篮球" group-title="篮球",生力啤 vs 基尼巴国王·聚合源
 http://192.168.5.35:44635/play/7d0113285ace17d19a0cd4ce7c8ef5b7a57bcab3
-#EXTINF:-1 tvg-id="陕西榆林天泽女篮 vs 山东赤水河酒女篮" tvg-chno="1118" tvg-name="陕西榆林天泽女篮 vs 山东赤水河酒女篮" tvg-group="篮球" group-title="篮球",陕西榆林天泽女篮 vs 山东赤水河酒女篮·聚合源
+#EXTINF:-1 tvg-id="石家庄英励女篮 vs 河南豫光金铅女篮" tvg-chno="1118" tvg-name="石家庄英励女篮 vs 河南豫光金铅女篮" tvg-group="篮球" group-title="篮球",石家庄英励女篮 vs 河南豫光金铅女篮·聚合源
+http://192.168.5.35:44635/play/c926ddf8dfec824f59d161d5a99a182700958065
+#EXTINF:-1 tvg-id="石家庄英励女篮 vs 河南豫光金铅女篮" tvg-chno="1118" tvg-name="石家庄英励女篮 vs 河南豫光金铅女篮" tvg-group="篮球" group-title="篮球",石家庄英励女篮 vs 河南豫光金铅女篮·聚合源
+http://192.168.5.35:44635/play/c7d91ac35183472439b164d9c3f08060f2df9cd1
+#EXTINF:-1 tvg-id="陕西榆林天泽女篮 vs 山东赤水河酒女篮" tvg-chno="1119" tvg-name="陕西榆林天泽女篮 vs 山东赤水河酒女篮" tvg-group="篮球" group-title="篮球",陕西榆林天泽女篮 vs 山东赤水河酒女篮·聚合源
 http://192.168.5.35:44635/play/f2a39f072637f07ad2dcc65f9d81cc4909573c26
-#EXTINF:-1 tvg-id="陕西榆林天泽女篮 vs 山东赤水河酒女篮" tvg-chno="1118" tvg-name="陕西榆林天泽女篮 vs 山东赤水河酒女篮" tvg-group="篮球" group-title="篮球",陕西榆林天泽女篮 vs 山东赤水河酒女篮·聚合源
+#EXTINF:-1 tvg-id="陕西榆林天泽女篮 vs 山东赤水河酒女篮" tvg-chno="1119" tvg-name="陕西榆林天泽女篮 vs 山东赤水河酒女篮" tvg-group="篮球" group-title="篮球",陕西榆林天泽女篮 vs 山东赤水河酒女篮·聚合源
 http://192.168.5.35:44635/play/e343cd2778a956d3b709d772a3f41153667519fd
-#EXTINF:-1 tvg-id="霍隆夏普尔 vs 加利尔夏普尔" tvg-chno="1119" tvg-name="霍隆夏普尔 vs 加利尔夏普尔" tvg-group="篮球" group-title="篮球",霍隆夏普尔 vs 加利尔夏普尔·聚合源
+#EXTINF:-1 tvg-id="霍隆夏普尔 vs 加利尔夏普尔" tvg-chno="1120" tvg-name="霍隆夏普尔 vs 加利尔夏普尔" tvg-group="篮球" group-title="篮球",霍隆夏普尔 vs 加利尔夏普尔·聚合源
 http://192.168.5.35:44635/play/8088533ff6db0b32aa5d754624dc57ef82ae915b
-#EXTINF:-1 tvg-id="霍隆夏普尔 vs 加利尔夏普尔" tvg-chno="1119" tvg-name="霍隆夏普尔 vs 加利尔夏普尔" tvg-group="篮球" group-title="篮球",霍隆夏普尔 vs 加利尔夏普尔·聚合源
+#EXTINF:-1 tvg-id="霍隆夏普尔 vs 加利尔夏普尔" tvg-chno="1120" tvg-name="霍隆夏普尔 vs 加利尔夏普尔" tvg-group="篮球" group-title="篮球",霍隆夏普尔 vs 加利尔夏普尔·聚合源
 http://192.168.5.35:44635/play/4078a61a6decadb6ca5cd0e47cfb07dbcbec743a
-#EXTINF:-1 tvg-id="文贤大学 vs 顺化" tvg-chno="1201" tvg-name="文贤大学 vs 顺化" tvg-group="足球" group-title="足球",文贤大学 vs 顺化·聚合源
+#EXTINF:-1 tvg-id="河北英励女篮 vs 河南济源王屋山女篮" tvg-chno="1201" tvg-name="河北英励女篮 vs 河南济源王屋山女篮" tvg-group="足球" group-title="足球",河北英励女篮 vs 河南济源王屋山女篮·咪咕直播·720P
+http://192.168.5.35:35456/jrs/%E6%B2%B3%E5%8C%97%E8%8B%B1%E5%8A%B1%E5%A5%B3%E7%AF%AE%20vs%20%E6%B2%B3%E5%8D%97%E6%B5%8E%E6%BA%90%E7%8E%8B%E5%B1%8B%E5%B1%B1%E5%A5%B3%E7%AF%AE%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
+#EXTINF:-1 tvg-id="大连体产女篮 vs 合肥文旅女篮" tvg-chno="1202" tvg-name="大连体产女篮 vs 合肥文旅女篮" tvg-group="足球" group-title="足球",大连体产女篮 vs 合肥文旅女篮·咪咕直播·720P
+http://192.168.5.35:35456/jrs/%E5%A4%A7%E8%BF%9E%E4%BD%93%E4%BA%A7%E5%A5%B3%E7%AF%AE%20vs%20%E5%90%88%E8%82%A5%E6%96%87%E6%97%85%E5%A5%B3%E7%AF%AE%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
+#EXTINF:-1 tvg-id="文贤大学 vs 顺化" tvg-chno="1203" tvg-name="文贤大学 vs 顺化" tvg-group="足球" group-title="足球",文贤大学 vs 顺化·聚合源
 http://192.168.5.35:44635/play/fbfbcf5f441f47c93de318c8773a7e3e964476c0
-#EXTINF:-1 tvg-id="文贤大学 vs 顺化" tvg-chno="1201" tvg-name="文贤大学 vs 顺化" tvg-group="足球" group-title="足球",文贤大学 vs 顺化·聚合源
+#EXTINF:-1 tvg-id="文贤大学 vs 顺化" tvg-chno="1203" tvg-name="文贤大学 vs 顺化" tvg-group="足球" group-title="足球",文贤大学 vs 顺化·聚合源
 http://192.168.5.35:44635/play/219737f338bd7eb38ae23063866c39c80914a606
-#EXTINF:-1 tvg-id="班加罗尔联合会 vs 莫哈末丹" tvg-chno="1202" tvg-name="班加罗尔联合会 vs 莫哈末丹" tvg-group="足球" group-title="足球",班加罗尔联合会 vs 莫哈末丹·聚合源
+#EXTINF:-1 tvg-id="班加罗尔联合会 vs 莫哈末丹" tvg-chno="1204" tvg-name="班加罗尔联合会 vs 莫哈末丹" tvg-group="足球" group-title="足球",班加罗尔联合会 vs 莫哈末丹·聚合源
 http://192.168.5.35:44635/play/00378ef9fa9125cdcd32e3b99d5efa1b3e482291
-#EXTINF:-1 tvg-id="班加罗尔联合会 vs 莫哈末丹" tvg-chno="1202" tvg-name="班加罗尔联合会 vs 莫哈末丹" tvg-group="足球" group-title="足球",班加罗尔联合会 vs 莫哈末丹·聚合源
+#EXTINF:-1 tvg-id="班加罗尔联合会 vs 莫哈末丹" tvg-chno="1204" tvg-name="班加罗尔联合会 vs 莫哈末丹" tvg-group="足球" group-title="足球",班加罗尔联合会 vs 莫哈末丹·聚合源
 http://192.168.5.35:44635/play/53aaf06d545e39852021ac77bcb0b75c5987b8c9
-#EXTINF:-1 tvg-id="莫斯科火车头青年队 vs 莫斯科斯巴达青年队" tvg-chno="1203" tvg-name="莫斯科火车头青年队 vs 莫斯科斯巴达青年队" tvg-group="足球" group-title="足球",莫斯科火车头青年队 vs 莫斯科斯巴达青年队·聚合源
+#EXTINF:-1 tvg-id="莫斯科火车头青年队 vs 莫斯科斯巴达青年队" tvg-chno="1205" tvg-name="莫斯科火车头青年队 vs 莫斯科斯巴达青年队" tvg-group="足球" group-title="足球",莫斯科火车头青年队 vs 莫斯科斯巴达青年队·聚合源
 http://192.168.5.35:44635/play/0e5e87ce26c835fb00613f55f146a1b0738137e3
-#EXTINF:-1 tvg-id="莫斯科火车头青年队 vs 莫斯科斯巴达青年队" tvg-chno="1203" tvg-name="莫斯科火车头青年队 vs 莫斯科斯巴达青年队" tvg-group="足球" group-title="足球",莫斯科火车头青年队 vs 莫斯科斯巴达青年队·聚合源
+#EXTINF:-1 tvg-id="莫斯科火车头青年队 vs 莫斯科斯巴达青年队" tvg-chno="1205" tvg-name="莫斯科火车头青年队 vs 莫斯科斯巴达青年队" tvg-group="足球" group-title="足球",莫斯科火车头青年队 vs 莫斯科斯巴达青年队·聚合源
 http://192.168.5.35:44635/play/b82493b58afa6a789c77d5df95e366c0befc3db9
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
@@ -129,9 +133,7 @@ https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1357" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1358" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1359" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1358" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="AB vs PuckChamp" tvg-chno="1401" tvg-name="AB vs PuckChamp" tvg-group="DOTA2" group-title="DOTA2",AB vs PuckChamp·聚合源
 http://192.168.5.35:44635/play/404b22b901be065f1205a813c8a21ea2d3f1e91e
