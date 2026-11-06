@@ -29,12 +29,12 @@ http://192.168.5.35:44635/play/220a56173c9a3733644ba3b5ed0e4be06810b8b4
 http://192.168.5.35:44635/play/3f98c822ad70ec4670ac4491842e6e991d645273
 #EXTINF:-1 tvg-id="佛罗里达国际大学 vs 西弗罗里达大学" tvg-chno="1105" tvg-name="佛罗里达国际大学 vs 西弗罗里达大学" tvg-group="篮球" group-title="篮球",佛罗里达国际大学 vs 西弗罗里达大学·聚合源
 http://192.168.5.35:44635/play/8bb58cb9c64eea679b61202f4ad7bdc698f8c3c0
-#EXTINF:-1 tvg-id="俄勒冈大学 vs 东华盛顿大学" tvg-chno="1106" tvg-name="俄勒冈大学 vs 东华盛顿大学" tvg-group="篮球" group-title="篮球",俄勒冈大学 vs 东华盛顿大学·聚合源
+#EXTINF:-1 tvg-id="佛罗里达湾岸大学 vs 佛罗里达州新学院" tvg-chno="1106" tvg-name="佛罗里达湾岸大学 vs 佛罗里达州新学院" tvg-group="篮球" group-title="篮球",佛罗里达湾岸大学 vs 佛罗里达州新学院·聚合源
+http://192.168.5.35:44635/play/03c8a051a0661cca9f5a32aa056c2694411d8e86
+#EXTINF:-1 tvg-id="俄勒冈大学 vs 东华盛顿大学" tvg-chno="1107" tvg-name="俄勒冈大学 vs 东华盛顿大学" tvg-group="篮球" group-title="篮球",俄勒冈大学 vs 东华盛顿大学·聚合源
 http://192.168.5.35:44635/play/b65328fc5fbf4073e1f808c2653fed6361f2e39e
-#EXTINF:-1 tvg-id="俄勒冈大学 vs 东华盛顿大学" tvg-chno="1106" tvg-name="俄勒冈大学 vs 东华盛顿大学" tvg-group="篮球" group-title="篮球",俄勒冈大学 vs 东华盛顿大学·聚合源
+#EXTINF:-1 tvg-id="俄勒冈大学 vs 东华盛顿大学" tvg-chno="1107" tvg-name="俄勒冈大学 vs 东华盛顿大学" tvg-group="篮球" group-title="篮球",俄勒冈大学 vs 东华盛顿大学·聚合源
 http://192.168.5.35:44635/play/d2a982e6b05b4c75341c23bcd45120c04115129c
-#EXTINF:-1 tvg-id="卫奇塔州立大学女篮 vs 堪萨斯城女篮" tvg-chno="1107" tvg-name="卫奇塔州立大学女篮 vs 堪萨斯城女篮" tvg-group="篮球" group-title="篮球",卫奇塔州立大学女篮 vs 堪萨斯城女篮·聚合源
-http://192.168.5.35:44635/play/3e44805af1a89f0c65dbfda80fb3d73f39423d32
 #EXTINF:-1 tvg-id="弗吉尼亚大学 vs 东北大学" tvg-chno="1108" tvg-name="弗吉尼亚大学 vs 东北大学" tvg-group="篮球" group-title="篮球",弗吉尼亚大学 vs 东北大学·聚合源
 http://192.168.5.35:44635/play/053ec6cd6ceed36b7c935ed36b4239d17726ebfd
 #EXTINF:-1 tvg-id="弗吉尼亚大学 vs 东北大学" tvg-chno="1108" tvg-name="弗吉尼亚大学 vs 东北大学" tvg-group="篮球" group-title="篮球",弗吉尼亚大学 vs 东北大学·聚合源
@@ -45,10 +45,8 @@ http://192.168.5.35:44635/play/a92cf6e84f5e7916f3c8c176fc8ab97bd201c00b
 http://192.168.5.35:44635/play/db721c0314d95e5605449ae79e02a55d57a06afb
 #EXTINF:-1 tvg-id="波士顿学院 vs 马萨诸塞大学" tvg-chno="1110" tvg-name="波士顿学院 vs 马萨诸塞大学" tvg-group="篮球" group-title="篮球",波士顿学院 vs 马萨诸塞大学·聚合源
 http://192.168.5.35:44635/play/50313fa60d14b1ca101cae038de9e9b377763d3e
-#EXTINF:-1 tvg-id="索拉卡纳 vs 巴斯克特塔图" tvg-chno="1111" tvg-name="索拉卡纳 vs 巴斯克特塔图" tvg-group="篮球" group-title="篮球",索拉卡纳 vs 巴斯克特塔图·聚合源
-http://192.168.5.35:44635/play/cb944492c77f2a7bc93bf99eb95dd49d9b9858e4
-#EXTINF:-1 tvg-id="索拉卡纳 vs 巴斯克特塔图" tvg-chno="1111" tvg-name="索拉卡纳 vs 巴斯克特塔图" tvg-group="篮球" group-title="篮球",索拉卡纳 vs 巴斯克特塔图·聚合源
-http://192.168.5.35:44635/play/8ba9f84bd4f2bef9a4f461786fc4dc2a1172dabf
+#EXTINF:-1 tvg-id="肯特州立大学 vs 罗伯茨卫斯理大学" tvg-chno="1111" tvg-name="肯特州立大学 vs 罗伯茨卫斯理大学" tvg-group="篮球" group-title="篮球",肯特州立大学 vs 罗伯茨卫斯理大学·聚合源
+http://192.168.5.35:44635/play/213aafd1f01440f5e8fa2938933fb8ae40edd03d
 #EXTINF:-1 tvg-id="贝勒大学 vs 阿肯色大学派恩布拉夫分校" tvg-chno="1112" tvg-name="贝勒大学 vs 阿肯色大学派恩布拉夫分校" tvg-group="篮球" group-title="篮球",贝勒大学 vs 阿肯色大学派恩布拉夫分校·聚合源
 http://192.168.5.35:44635/play/7b73dcc8a22f220297cccac7c4352ecbca4cee8c
 #EXTINF:-1 tvg-id="贝勒大学 vs 阿肯色大学派恩布拉夫分校" tvg-chno="1112" tvg-name="贝勒大学 vs 阿肯色大学派恩布拉夫分校" tvg-group="篮球" group-title="篮球",贝勒大学 vs 阿肯色大学派恩布拉夫分校·聚合源
@@ -77,9 +75,11 @@ http://192.168.5.35:44635/play/26040012f91bdc6129948e8206d23d9b6c0b23cc
 http://192.168.5.35:44635/play/65d49f1b3653c42262b39d896a4cf6129f99417f
 #EXTINF:-1 tvg-id="托尔特卡斯竞技 vs 沃尔滕青训中心" tvg-chno="1209" tvg-name="托尔特卡斯竞技 vs 沃尔滕青训中心" tvg-group="足球" group-title="足球",托尔特卡斯竞技 vs 沃尔滕青训中心·聚合源
 http://192.168.5.35:44635/play/d03d96317e7b74ddeedb7dec29894ffb70b947d1
-#EXTINF:-1 tvg-id="维多利亚 vs 弗鲁米嫩塞" tvg-chno="1210" tvg-name="维多利亚 vs 弗鲁米嫩塞" tvg-group="足球" group-title="足球",维多利亚 vs 弗鲁米嫩塞·聚合源
+#EXTINF:-1 tvg-id="维多利亚 vs 弗鲁米嫩塞" tvg-chno="1210" tvg-name="维多利亚 vs 弗鲁米嫩塞" tvg-group="足球1080" group-title="足球1080",维多利亚 vs 弗鲁米嫩塞·1080P原声
+http://192.168.5.35:35456/jrs/%E7%BB%B4%E5%A4%9A%E5%88%A9%E4%BA%9A%20vs%20%E5%BC%97%E9%B2%81%E7%B1%B3%E5%AB%A9%E5%A1%9E%C2%B71080P%E5%8E%9F%E5%A3%B0
+#EXTINF:-1 tvg-id="维多利亚 vs 弗鲁米嫩塞" tvg-chno="1210" tvg-name="维多利亚 vs 弗鲁米嫩塞" tvg-group="足球1080" group-title="足球1080",维多利亚 vs 弗鲁米嫩塞·1080P原声
 http://192.168.5.35:44635/play/fae44ce7c929f1ece8d537910ef8904c9525c1f1
-#EXTINF:-1 tvg-id="维多利亚 vs 弗鲁米嫩塞" tvg-chno="1210" tvg-name="维多利亚 vs 弗鲁米嫩塞" tvg-group="足球" group-title="足球",维多利亚 vs 弗鲁米嫩塞·聚合源
+#EXTINF:-1 tvg-id="维多利亚 vs 弗鲁米嫩塞" tvg-chno="1210" tvg-name="维多利亚 vs 弗鲁米嫩塞" tvg-group="足球1080" group-title="足球1080",维多利亚 vs 弗鲁米嫩塞·1080P原声
 http://192.168.5.35:44635/play/2f5927218c526be2d606a7b4f88c13d90a3fe7f4
 #EXTINF:-1 tvg-id="美洲狮女足 vs 圣路易斯竞技女足" tvg-chno="1211" tvg-name="美洲狮女足 vs 圣路易斯竞技女足" tvg-group="足球" group-title="足球",美洲狮女足 vs 圣路易斯竞技女足·聚合源
 http://192.168.5.35:44635/play/5325a49782110f7244628939d220fa562e687516
