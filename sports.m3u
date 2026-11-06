@@ -78,11 +78,7 @@ http://192.168.5.35:35456/jrs/%E5%A4%AA%E9%98%B3%20vs%20%E9%AD%94%E6%9C%AF%C2%B7
 #EXTINF:-1 tvg-id="太阳 vs 魔术" tvg-chno="1113" tvg-name="太阳 vs 魔术" tvg-group="篮球1080" group-title="篮球1080",太阳 vs 魔术·1080P原声
 http://192.168.5.35:35456/jrs/%E5%A4%AA%E9%98%B3%20vs%20%E9%AD%94%E6%9C%AF%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
 #EXTINF:-1 tvg-id="太阳 vs 魔术" tvg-chno="1113" tvg-name="太阳 vs 魔术" tvg-group="篮球1080" group-title="篮球1080",太阳 vs 魔术·1080P原声
-http://192.168.5.35:44635/play/0c8b79eb9e6a0f6d02bb71498a21b34a8173b48e
-#EXTINF:-1 tvg-id="太阳 vs 魔术" tvg-chno="1113" tvg-name="太阳 vs 魔术" tvg-group="篮球1080" group-title="篮球1080",太阳 vs 魔术·1080P原声
-http://192.168.5.35:44635/play/1c9f8546d39dc9b69d63c65402656f6e9e77c838
-#EXTINF:-1 tvg-id="太阳 vs 魔术" tvg-chno="1113" tvg-name="太阳 vs 魔术" tvg-group="篮球1080" group-title="篮球1080",太阳 vs 魔术·1080P原声
-http://192.168.5.35:44635/play/fcafb4de66c4160d3e91416f42ffc14cc3481874
+http://192.168.5.35:44635/play/6dd965839b86f7ac1fe4c84eff063a2cd20aeb84
 #EXTINF:-1 tvg-id="奈良雄心 vs 德岛甘巴罗斯" tvg-chno="1114" tvg-name="奈良雄心 vs 德岛甘巴罗斯" tvg-group="篮球" group-title="篮球",奈良雄心 vs 德岛甘巴罗斯·聚合源
 http://192.168.5.35:44635/play/b56ff2dfc77ece8e5350c01e85524f00ac5df2af
 #EXTINF:-1 tvg-id="奈良雄心 vs 德岛甘巴罗斯" tvg-chno="1114" tvg-name="奈良雄心 vs 德岛甘巴罗斯" tvg-group="篮球" group-title="篮球",奈良雄心 vs 德岛甘巴罗斯·聚合源
@@ -115,10 +111,6 @@ http://192.168.5.35:44635/play/7ddfb9a86e5cca4ff90a5e07712b6375494c2a26
 http://192.168.5.35:44635/play/d5ca9fa87ddf56e0faecec5fd8caeeb31b50c8ea
 #EXTINF:-1 tvg-id="福建众腾女篮 vs 浙江稠州银行女篮" tvg-chno="1121" tvg-name="福建众腾女篮 vs 浙江稠州银行女篮" tvg-group="篮球" group-title="篮球",福建众腾女篮 vs 浙江稠州银行女篮·聚合源
 http://192.168.5.35:44635/play/45d197a76212053b0d89adffa34cf2accda538e2
-#EXTINF:-1 tvg-id="黑豹 vs 太阳" tvg-chno="1122" tvg-name="黑豹 vs 太阳" tvg-group="篮球" group-title="篮球",黑豹 vs 太阳·聚合源
-http://192.168.5.35:44635/play/7a245b9eb1eef41f89c951e211a8dc67056474b5
-#EXTINF:-1 tvg-id="黑豹 vs 太阳" tvg-chno="1122" tvg-name="黑豹 vs 太阳" tvg-group="篮球" group-title="篮球",黑豹 vs 太阳·聚合源
-http://192.168.5.35:44635/play/7cac760451236b0821d9704cdb855fdfd2802572
 #EXTINF:-1 tvg-id="ASE阿尔杰女足 vs MC阿尔及尔女足" tvg-chno="1201" tvg-name="ASE阿尔杰女足 vs MC阿尔及尔女足" tvg-group="足球" group-title="足球",ASE阿尔杰女足 vs MC阿尔及尔女足·聚合源
 http://192.168.5.35:44635/play/1334b1200c861af1640b655a2d443c52319c376d
 #EXTINF:-1 tvg-id="三沙队 vs 琼中队" tvg-chno="1202" tvg-name="三沙队 vs 琼中队" tvg-group="足球" group-title="足球",三沙队 vs 琼中队·聚合源
@@ -185,15 +177,13 @@ http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1303" tvg-name="ESPN" tvg-group="综合体育" group-title="综合体育",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1304" tvg-name="Tennis Channel" tvg-group="综合体育" group-title="综合体育",Tennis Channel
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1305" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1304" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1306" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1305" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1307" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1308" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1307" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
@@ -203,15 +193,13 @@ http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NBC" tvg-chno="1354" tvg-name="NBC" tvg-group="体育综合" group-title="体育综合",NBC
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
-#EXTINF:-1 tvg-id="F1·Formula" tvg-chno="1355" tvg-name="F1·Formula" tvg-group="体育综合" group-title="体育综合",F1·Formula
-https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
-#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1356" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
+#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1355" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1357" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1356" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1358" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1357" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1359" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1358" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="AB vs PuckChamp" tvg-chno="1401" tvg-name="AB vs PuckChamp" tvg-group="DOTA2" group-title="DOTA2",AB vs PuckChamp·聚合源
 http://192.168.5.35:44635/play/404b22b901be065f1205a813c8a21ea2d3f1e91e
