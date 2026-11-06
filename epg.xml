@@ -4,8 +4,6 @@
   <channel id="ESPN"><display-name>ESPN</display-name></channel>
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
-  <channel id="勇士 vs 热火"><display-name>勇士 vs 热火</display-name></channel>
-  <channel id="太阳 vs 魔术"><display-name>太阳 vs 魔术</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <programme start="20261109020000 +0800" stop="20261109051948 +0800" channel="CBS">
     <title>New York Jets at Kansas City Chiefs（NFL）</title>
@@ -27,10 +25,6 @@
     <title>Buffalo Bills at Minnesota Vikings（NFL）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261106110000 +0800" stop="20261106134012 +0800" channel="NBA TV">
-    <title>Miami Heat at Golden State Warriors（NBA）</title>
-    <category>体育</category>
-  </programme>
   <programme start="20261108060000 +0800" stop="20261108084012 +0800" channel="NBA TV">
     <title>Denver Nuggets at Indiana Pacers（NBA）</title>
     <category>体育</category>
@@ -49,22 +43,6 @@
   </programme>
   <programme start="20261109092000 +0800" stop="20261109123948 +0800" channel="NBC">
     <title>Tampa Bay Buccaneers at Chicago Bears（NFL）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261106110000 +0800" stop="20261106134012 +0800" channel="勇士 vs 热火">
-    <title>Miami Heat at Golden State Warriors（NBA）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261106100000 +0800" stop="20261106124012 +0800" channel="太阳 vs 魔术">
-    <title>Orlando Magic at Phoenix Suns（NBA）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261106100000 +0800" stop="20261106110000 +0800" channel="赛程预告">
-    <title>NBA：太阳 vs 魔术</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261106110000 +0800" stop="20261106150000 +0800" channel="赛程预告">
-    <title>NBA：勇士 vs 热火</title>
     <category>体育</category>
   </programme>
   <programme start="20261106150000 +0800" stop="20261106163000 +0800" channel="赛程预告">
@@ -139,24 +117,8 @@
     <title>葡超：法马利康 vs 阿罗卡</title>
     <category>体育</category>
   </programme>
-  <programme start="20261107070000 +0800" stop="20261107080000 +0800" channel="赛程预告">
+  <programme start="20261107070000 +0800" stop="20261107130000 +0800" channel="赛程预告">
     <title>巴甲：维多利亚 vs 弗鲁米嫩</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261107080000 +0800" stop="20261107083000 +0800" channel="赛程预告">
-    <title>NBA：老鹰 vs 奇才；黄蜂 vs 凯尔特人</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261107083000 +0800" stop="20261107090000 +0800" channel="赛程预告">
-    <title>NBA：骑士 vs 76人</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261107090000 +0800" stop="20261107110000 +0800" channel="赛程预告">
-    <title>NBA：独行侠 vs 爵士；灰熊 vs 雷霆；雄鹿 vs 猛龙；鹈鹕 vs 森林狼</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261107110000 +0800" stop="20261107130000 +0800" channel="赛程预告">
-    <title>NBA：湖人 vs 开拓者；国王 vs 马刺</title>
     <category>体育</category>
   </programme>
   <programme start="20261107130000 +0800" stop="20261107143000 +0800" channel="赛程预告">
