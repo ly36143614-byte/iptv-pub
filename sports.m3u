@@ -73,17 +73,15 @@ http://192.168.5.35:44635/play/0372c0772e23276b2c11086e710958e3c82f448c
 http://192.168.5.35:44635/play/1e4d84d7e22b09714680b47168c2082b11fe2c4d
 #EXTINF:-1 tvg-id="澳门黑骑士 vs 广州龙狮B队" tvg-chno="1117" tvg-name="澳门黑骑士 vs 广州龙狮B队" tvg-group="篮球" group-title="篮球",澳门黑骑士 vs 广州龙狮B队·聚合源
 http://192.168.5.35:44635/play/1f705062531dfd1579d7d3763dee8cd76a6f0608
-#EXTINF:-1 tvg-id="瓜萨维弗雷勒斯 vs 纳科鹰" tvg-chno="1118" tvg-name="瓜萨维弗雷勒斯 vs 纳科鹰" tvg-group="篮球" group-title="篮球",瓜萨维弗雷勒斯 vs 纳科鹰·聚合源
-http://192.168.5.35:44635/play/d68137fdb764a0af37f842a3fdf4d4bca435f41d
-#EXTINF:-1 tvg-id="生力啤 vs 基尼巴国王" tvg-chno="1119" tvg-name="生力啤 vs 基尼巴国王" tvg-group="篮球" group-title="篮球",生力啤 vs 基尼巴国王·聚合源
+#EXTINF:-1 tvg-id="生力啤 vs 基尼巴国王" tvg-chno="1118" tvg-name="生力啤 vs 基尼巴国王" tvg-group="篮球" group-title="篮球",生力啤 vs 基尼巴国王·聚合源
 http://192.168.5.35:44635/play/b7eeb36b9771652b8e60b2f53cb4b81cfb687496
-#EXTINF:-1 tvg-id="生力啤 vs 基尼巴国王" tvg-chno="1119" tvg-name="生力啤 vs 基尼巴国王" tvg-group="篮球" group-title="篮球",生力啤 vs 基尼巴国王·聚合源
+#EXTINF:-1 tvg-id="生力啤 vs 基尼巴国王" tvg-chno="1118" tvg-name="生力啤 vs 基尼巴国王" tvg-group="篮球" group-title="篮球",生力啤 vs 基尼巴国王·聚合源
 http://192.168.5.35:44635/play/7d0113285ace17d19a0cd4ce7c8ef5b7a57bcab3
-#EXTINF:-1 tvg-id="福建众腾女篮 vs 浙江稠州银行女篮" tvg-chno="1120" tvg-name="福建众腾女篮 vs 浙江稠州银行女篮" tvg-group="篮球" group-title="篮球",福建众腾女篮 vs 浙江稠州银行女篮·聚合源
+#EXTINF:-1 tvg-id="福建众腾女篮 vs 浙江稠州银行女篮" tvg-chno="1119" tvg-name="福建众腾女篮 vs 浙江稠州银行女篮" tvg-group="篮球" group-title="篮球",福建众腾女篮 vs 浙江稠州银行女篮·聚合源
 http://192.168.5.35:44635/play/d5ca9fa87ddf56e0faecec5fd8caeeb31b50c8ea
-#EXTINF:-1 tvg-id="福建众腾女篮 vs 浙江稠州银行女篮" tvg-chno="1120" tvg-name="福建众腾女篮 vs 浙江稠州银行女篮" tvg-group="篮球" group-title="篮球",福建众腾女篮 vs 浙江稠州银行女篮·聚合源
+#EXTINF:-1 tvg-id="福建众腾女篮 vs 浙江稠州银行女篮" tvg-chno="1119" tvg-name="福建众腾女篮 vs 浙江稠州银行女篮" tvg-group="篮球" group-title="篮球",福建众腾女篮 vs 浙江稠州银行女篮·聚合源
 http://192.168.5.35:44635/play/45d197a76212053b0d89adffa34cf2accda538e2
-#EXTINF:-1 tvg-id="韩国中央大学 vs 高丽大学" tvg-chno="1121" tvg-name="韩国中央大学 vs 高丽大学" tvg-group="篮球" group-title="篮球",韩国中央大学 vs 高丽大学·聚合源
+#EXTINF:-1 tvg-id="韩国中央大学 vs 高丽大学" tvg-chno="1120" tvg-name="韩国中央大学 vs 高丽大学" tvg-group="篮球" group-title="篮球",韩国中央大学 vs 高丽大学·聚合源
 http://192.168.5.35:44635/play/d47e742b25015bc5381c2c487423874c7b7469a9
 #EXTINF:-1 tvg-id="ASE阿尔杰女足 vs MC阿尔及尔女足" tvg-chno="1201" tvg-name="ASE阿尔杰女足 vs MC阿尔及尔女足" tvg-group="足球" group-title="足球",ASE阿尔杰女足 vs MC阿尔及尔女足·聚合源
 http://192.168.5.35:44635/play/1334b1200c861af1640b655a2d443c52319c376d
@@ -163,11 +161,13 @@ http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="F1·Formula" tvg-chno="1355" tvg-name="F1·Formula" tvg-group="体育综合" group-title="体育综合",F1·Formula
 https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1356" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1356" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1357" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1357" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1358" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1358" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1359" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="AB vs PuckChamp" tvg-chno="1401" tvg-name="AB vs PuckChamp" tvg-group="DOTA2" group-title="DOTA2",AB vs PuckChamp·聚合源
 http://192.168.5.35:44635/play/404b22b901be065f1205a813c8a21ea2d3f1e91e
