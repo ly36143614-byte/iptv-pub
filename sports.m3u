@@ -69,10 +69,6 @@ http://192.168.5.35:44635/play/67c78220da37267e1c0e74a28b4d29ab6034905c
 http://192.168.5.35:44635/play/751e21d2a97be2b641a105ab9ed841b62f1f9227
 #EXTINF:-1 tvg-id="达巴 vs 哈利亚" tvg-chno="1204" tvg-name="达巴 vs 哈利亚" tvg-group="足球" group-title="足球",达巴 vs 哈利亚·聚合源
 http://192.168.5.35:44635/play/d036c31a351eb84d0858274299430fde82a0b6d9
-#EXTINF:-1 tvg-id="马都拉联 vs 阿雷马" tvg-chno="1205" tvg-name="马都拉联 vs 阿雷马" tvg-group="足球" group-title="足球",马都拉联 vs 阿雷马·聚合源
-http://192.168.5.35:44635/play/36930e4e15a7a209b709e00bde448b65d6a45e59
-#EXTINF:-1 tvg-id="马都拉联 vs 阿雷马" tvg-chno="1205" tvg-name="马都拉联 vs 阿雷马" tvg-group="足球" group-title="足球",马都拉联 vs 阿雷马·聚合源
-http://192.168.5.35:44635/play/17a39a0508d4d309a1ede6fbb2e69761a912403e
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NFL·NBC" tvg-chno="1302" tvg-name="NFL·NBC" tvg-group="综合体育" group-title="综合体育",NFL·NBC
@@ -97,14 +93,8 @@ http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="F1·Formula" tvg-chno="1355" tvg-name="F1·Formula" tvg-group="体育综合" group-title="体育综合",F1·Formula
 https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
-#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1356" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
-https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1357" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1356" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1358" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1359" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
-https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="AB vs PuckChamp" tvg-chno="1401" tvg-name="AB vs PuckChamp" tvg-group="DOTA2" group-title="DOTA2",AB vs PuckChamp·聚合源
 http://192.168.5.35:44635/play/404b22b901be065f1205a813c8a21ea2d3f1e91e
 #EXTINF:-1 tvg-id="AB vs PuckChamp" tvg-chno="1401" tvg-name="AB vs PuckChamp" tvg-group="DOTA2" group-title="DOTA2",AB vs PuckChamp·聚合源
