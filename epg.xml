@@ -4,6 +4,7 @@
   <channel id="ESPN"><display-name>ESPN</display-name></channel>
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
+  <channel id="国王 vs 马刺"><display-name>国王 vs 马刺</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
   <channel id="湖人 vs 开拓者"><display-name>湖人 vs 开拓者</display-name></channel>
   <channel id="灰熊 vs 雷霆"><display-name>灰熊 vs 雷霆</display-name></channel>
@@ -60,6 +61,10 @@
   </programme>
   <programme start="20261111120000 +0800" stop="20261111144012 +0800" channel="NBC">
     <title>Oklahoma City Thunder at Portland Trail Blazers（NBA）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261107110000 +0800" stop="20261107134012 +0800" channel="国王 vs 马刺">
+    <title>San Antonio Spurs at Sacramento Kings（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261109070000 +0800" stop="20261109094012 +0800" channel="活塞">
