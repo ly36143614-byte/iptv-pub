@@ -45,10 +45,10 @@ http://192.168.5.35:44635/play/1e59f849d4206afd7d7cfa25ace238fdc3918c5e
 http://192.168.5.35:44635/play/60e897b16e796e27313abbcb0c67aec8d3bb4ca3
 #EXTINF:-1 tvg-id="珀斯光荣 vs 纽卡斯尔喷气机" tvg-chno="1201" tvg-name="珀斯光荣 vs 纽卡斯尔喷气机" tvg-group="足球1080" group-title="足球1080",珀斯光荣 vs 纽卡斯尔喷气机·1080P原声
 http://192.168.5.35:35456/jrs/%E7%8F%80%E6%96%AF%E5%85%89%E8%8D%A3%20vs%20%E7%BA%BD%E5%8D%A1%E6%96%AF%E5%B0%94%E5%96%B7%E6%B0%94%E6%9C%BA%C2%B71080P%E5%8E%9F%E5%A3%B0
-#EXTINF:-1 tvg-id="永州队 vs 岳阳队" tvg-chno="1202" tvg-name="永州队 vs 岳阳队" tvg-group="足球" group-title="足球",永州队 vs 岳阳队·咪咕直播·720P
-http://192.168.5.35:35456/jrs/%E6%B0%B8%E5%B7%9E%E9%98%9F%20vs%20%E5%B2%B3%E9%98%B3%E9%98%9F%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
-#EXTINF:-1 tvg-id="益阳队 vs 长沙队" tvg-chno="1203" tvg-name="益阳队 vs 长沙队" tvg-group="足球" group-title="足球",益阳队 vs 长沙队·咪咕直播·720P
+#EXTINF:-1 tvg-id="益阳队 vs 长沙队" tvg-chno="1202" tvg-name="益阳队 vs 长沙队" tvg-group="足球" group-title="足球",益阳队 vs 长沙队·咪咕直播·720P
 http://192.168.5.35:35456/jrs/%E7%9B%8A%E9%98%B3%E9%98%9F%20vs%20%E9%95%BF%E6%B2%99%E9%98%9F%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
+#EXTINF:-1 tvg-id="永州队 vs 岳阳队" tvg-chno="1203" tvg-name="永州队 vs 岳阳队" tvg-group="足球" group-title="足球",永州队 vs 岳阳队·咪咕直播·720P
+http://192.168.5.35:35456/jrs/%E6%B0%B8%E5%B7%9E%E9%98%9F%20vs%20%E5%B2%B3%E9%98%B3%E9%98%9F%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
 #EXTINF:-1 tvg-id="BGU明斯克动力 vs 奥斯特罗维茨" tvg-chno="1204" tvg-name="BGU明斯克动力 vs 奥斯特罗维茨" tvg-group="足球" group-title="足球",BGU明斯克动力 vs 奥斯特罗维茨·聚合源
 http://192.168.5.35:44635/play/845190d8cd7988ea7cbf9d37ce27e439f8ea2e9f
 #EXTINF:-1 tvg-id="BGU明斯克动力 vs 奥斯特罗维茨" tvg-chno="1204" tvg-name="BGU明斯克动力 vs 奥斯特罗维茨" tvg-group="足球" group-title="足球",BGU明斯克动力 vs 奥斯特罗维茨·聚合源
@@ -87,21 +87,13 @@ http://192.168.5.35:44635/play/75eabec97aac3c5b2a3eee0aca01be53ff621d64
 http://192.168.5.35:44635/play/67a4c654df1a6555826a07c50d58b49bdedcef90
 #EXTINF:-1 tvg-id="明斯克B队 vs 莫洛迪兹诺" tvg-chno="1212" tvg-name="明斯克B队 vs 莫洛迪兹诺" tvg-group="足球" group-title="足球",明斯克B队 vs 莫洛迪兹诺·聚合源
 http://192.168.5.35:44635/play/c90e12c3195a2d63b2cab2d88c7852618ba3a150
-#EXTINF:-1 tvg-id="明斯克迪纳摩B队 vs 斯卢茨克" tvg-chno="1213" tvg-name="明斯克迪纳摩B队 vs 斯卢茨克" tvg-group="足球" group-title="足球",明斯克迪纳摩B队 vs 斯卢茨克·聚合源
-http://192.168.5.35:44635/play/8c05b514cacccf55cf16830f1f8089d43a2f4802
-#EXTINF:-1 tvg-id="明斯克迪纳摩B队 vs 斯卢茨克" tvg-chno="1213" tvg-name="明斯克迪纳摩B队 vs 斯卢茨克" tvg-group="足球" group-title="足球",明斯克迪纳摩B队 vs 斯卢茨克·聚合源
-http://192.168.5.35:44635/play/0d249c8a9e2e9f01ee0a9af7b7299b06006f11e5
-#EXTINF:-1 tvg-id="梅塔利斯特 vs 基辅火车头" tvg-chno="1214" tvg-name="梅塔利斯特 vs 基辅火车头" tvg-group="足球" group-title="足球",梅塔利斯特 vs 基辅火车头·聚合源
-http://192.168.5.35:44635/play/9e580cac0d5616a73899f32bf378a6e6d7c5cae5
-#EXTINF:-1 tvg-id="梅塔利斯特 vs 基辅火车头" tvg-chno="1214" tvg-name="梅塔利斯特 vs 基辅火车头" tvg-group="足球" group-title="足球",梅塔利斯特 vs 基辅火车头·聚合源
-http://192.168.5.35:44635/play/63eea5b0c15f1d59a6ca257647dcf742626ffc03
-#EXTINF:-1 tvg-id="理文 vs 冠忠南区" tvg-chno="1215" tvg-name="理文 vs 冠忠南区" tvg-group="足球" group-title="足球",理文 vs 冠忠南区·聚合源
+#EXTINF:-1 tvg-id="理文 vs 冠忠南区" tvg-chno="1213" tvg-name="理文 vs 冠忠南区" tvg-group="足球" group-title="足球",理文 vs 冠忠南区·聚合源
 http://192.168.5.35:44635/play/e4c16c467b6d3cee5c58ac8bf75fd61d902eef24
-#EXTINF:-1 tvg-id="理文 vs 冠忠南区" tvg-chno="1215" tvg-name="理文 vs 冠忠南区" tvg-group="足球" group-title="足球",理文 vs 冠忠南区·聚合源
+#EXTINF:-1 tvg-id="理文 vs 冠忠南区" tvg-chno="1213" tvg-name="理文 vs 冠忠南区" tvg-group="足球" group-title="足球",理文 vs 冠忠南区·聚合源
 http://192.168.5.35:44635/play/cdd042141cc3ca656deca534cb9ff7841b2ba9e1
-#EXTINF:-1 tvg-id="顿涅茨克矿工青年队 vs 基辅迪纳摩青年队" tvg-chno="1216" tvg-name="顿涅茨克矿工青年队 vs 基辅迪纳摩青年队" tvg-group="足球" group-title="足球",顿涅茨克矿工青年队 vs 基辅迪纳摩青年队·聚合源
+#EXTINF:-1 tvg-id="顿涅茨克矿工青年队 vs 基辅迪纳摩青年队" tvg-chno="1214" tvg-name="顿涅茨克矿工青年队 vs 基辅迪纳摩青年队" tvg-group="足球" group-title="足球",顿涅茨克矿工青年队 vs 基辅迪纳摩青年队·聚合源
 http://192.168.5.35:44635/play/6fbfaa875085d23de8fefe04c8734fbae40ebef2
-#EXTINF:-1 tvg-id="顿涅茨克矿工青年队 vs 基辅迪纳摩青年队" tvg-chno="1216" tvg-name="顿涅茨克矿工青年队 vs 基辅迪纳摩青年队" tvg-group="足球" group-title="足球",顿涅茨克矿工青年队 vs 基辅迪纳摩青年队·聚合源
+#EXTINF:-1 tvg-id="顿涅茨克矿工青年队 vs 基辅迪纳摩青年队" tvg-chno="1214" tvg-name="顿涅茨克矿工青年队 vs 基辅迪纳摩青年队" tvg-group="足球" group-title="足球",顿涅茨克矿工青年队 vs 基辅迪纳摩青年队·聚合源
 http://192.168.5.35:44635/play/a5c31a71f95bfcdcbac370c82e1efbcc27681cff
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
