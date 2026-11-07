@@ -19,27 +19,33 @@ http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1102" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="卡伊罗瓦市 vs 博尔多篮球会" tvg-chno="1103" tvg-name="卡伊罗瓦市 vs 博尔多篮球会" tvg-group="篮球" group-title="篮球",卡伊罗瓦市 vs 博尔多篮球会·聚合源
+#EXTINF:-1 tvg-id="伯塔斯女篮 vs 费内巴切女篮" tvg-chno="1103" tvg-name="伯塔斯女篮 vs 费内巴切女篮" tvg-group="篮球" group-title="篮球",伯塔斯女篮 vs 费内巴切女篮·聚合源
+http://192.168.5.35:44635/play/6cb196241dee4ee749b10a6ef0ac4b8d3202551a
+#EXTINF:-1 tvg-id="加拉塔萨雷女篮 vs 贝西克塔斯女篮" tvg-chno="1104" tvg-name="加拉塔萨雷女篮 vs 贝西克塔斯女篮" tvg-group="篮球" group-title="篮球",加拉塔萨雷女篮 vs 贝西克塔斯女篮·聚合源
+http://192.168.5.35:44635/play/e2df46fe9c71ab8804d6096907584b67d704da86
+#EXTINF:-1 tvg-id="加拉塔萨雷女篮 vs 贝西克塔斯女篮" tvg-chno="1104" tvg-name="加拉塔萨雷女篮 vs 贝西克塔斯女篮" tvg-group="篮球" group-title="篮球",加拉塔萨雷女篮 vs 贝西克塔斯女篮·聚合源
+http://192.168.5.35:44635/play/e8bce6c8dda195ddd8686931404309e2081aa217
+#EXTINF:-1 tvg-id="卡伊罗瓦市 vs 博尔多篮球会" tvg-chno="1105" tvg-name="卡伊罗瓦市 vs 博尔多篮球会" tvg-group="篮球" group-title="篮球",卡伊罗瓦市 vs 博尔多篮球会·聚合源
 http://192.168.5.35:44635/play/d2f73b513ff036e55d7a9b2792a3b800a7b18d30
-#EXTINF:-1 tvg-id="卡伊罗瓦市 vs 博尔多篮球会" tvg-chno="1103" tvg-name="卡伊罗瓦市 vs 博尔多篮球会" tvg-group="篮球" group-title="篮球",卡伊罗瓦市 vs 博尔多篮球会·聚合源
+#EXTINF:-1 tvg-id="卡伊罗瓦市 vs 博尔多篮球会" tvg-chno="1105" tvg-name="卡伊罗瓦市 vs 博尔多篮球会" tvg-group="篮球" group-title="篮球",卡伊罗瓦市 vs 博尔多篮球会·聚合源
 http://192.168.5.35:44635/play/bd7af1c33075dce5c75af1cb6bf8a4129da49cf2
-#EXTINF:-1 tvg-id="巴统RSU vs 第比利斯国立大学" tvg-chno="1104" tvg-name="巴统RSU vs 第比利斯国立大学" tvg-group="篮球" group-title="篮球",巴统RSU vs 第比利斯国立大学·聚合源
+#EXTINF:-1 tvg-id="巴统RSU vs 第比利斯国立大学" tvg-chno="1106" tvg-name="巴统RSU vs 第比利斯国立大学" tvg-group="篮球" group-title="篮球",巴统RSU vs 第比利斯国立大学·聚合源
 http://192.168.5.35:44635/play/1759d05adc646d6ea373142c88dc55a8c82060c5
-#EXTINF:-1 tvg-id="巴统RSU vs 第比利斯国立大学" tvg-chno="1104" tvg-name="巴统RSU vs 第比利斯国立大学" tvg-group="篮球" group-title="篮球",巴统RSU vs 第比利斯国立大学·聚合源
+#EXTINF:-1 tvg-id="巴统RSU vs 第比利斯国立大学" tvg-chno="1106" tvg-name="巴统RSU vs 第比利斯国立大学" tvg-group="篮球" group-title="篮球",巴统RSU vs 第比利斯国立大学·聚合源
 http://192.168.5.35:44635/play/840cc1f4e70584a2975092de6fddada6bbcd1f79
-#EXTINF:-1 tvg-id="广东奥普特女篮 vs 河南豫光金铅女篮" tvg-chno="1105" tvg-name="广东奥普特女篮 vs 河南豫光金铅女篮" tvg-group="篮球" group-title="篮球",广东奥普特女篮 vs 河南豫光金铅女篮·聚合源
+#EXTINF:-1 tvg-id="广东奥普特女篮 vs 河南豫光金铅女篮" tvg-chno="1107" tvg-name="广东奥普特女篮 vs 河南豫光金铅女篮" tvg-group="篮球" group-title="篮球",广东奥普特女篮 vs 河南豫光金铅女篮·聚合源
 http://192.168.5.35:44635/play/de80b4c9c98f1672e9c7a5736d308c7d0eab2ba3
-#EXTINF:-1 tvg-id="广东奥普特女篮 vs 河南豫光金铅女篮" tvg-chno="1105" tvg-name="广东奥普特女篮 vs 河南豫光金铅女篮" tvg-group="篮球" group-title="篮球",广东奥普特女篮 vs 河南豫光金铅女篮·聚合源
+#EXTINF:-1 tvg-id="广东奥普特女篮 vs 河南豫光金铅女篮" tvg-chno="1107" tvg-name="广东奥普特女篮 vs 河南豫光金铅女篮" tvg-group="篮球" group-title="篮球",广东奥普特女篮 vs 河南豫光金铅女篮·聚合源
 http://192.168.5.35:44635/play/71d1cb13016ee36b2035eafcebb61cd55b2d8f50
-#EXTINF:-1 tvg-id="武汉盛帆黄鹤女篮 vs 合肥文旅女篮" tvg-chno="1106" tvg-name="武汉盛帆黄鹤女篮 vs 合肥文旅女篮" tvg-group="篮球" group-title="篮球",武汉盛帆黄鹤女篮 vs 合肥文旅女篮·聚合源
+#EXTINF:-1 tvg-id="武汉盛帆黄鹤女篮 vs 合肥文旅女篮" tvg-chno="1108" tvg-name="武汉盛帆黄鹤女篮 vs 合肥文旅女篮" tvg-group="篮球" group-title="篮球",武汉盛帆黄鹤女篮 vs 合肥文旅女篮·聚合源
 http://192.168.5.35:44635/play/cb7698de696e80bdbbaa894547c947404e1c95ae
-#EXTINF:-1 tvg-id="武汉盛帆黄鹤女篮 vs 合肥文旅女篮" tvg-chno="1106" tvg-name="武汉盛帆黄鹤女篮 vs 合肥文旅女篮" tvg-group="篮球" group-title="篮球",武汉盛帆黄鹤女篮 vs 合肥文旅女篮·聚合源
+#EXTINF:-1 tvg-id="武汉盛帆黄鹤女篮 vs 合肥文旅女篮" tvg-chno="1108" tvg-name="武汉盛帆黄鹤女篮 vs 合肥文旅女篮" tvg-group="篮球" group-title="篮球",武汉盛帆黄鹤女篮 vs 合肥文旅女篮·聚合源
 http://192.168.5.35:44635/play/f07d4e448230b44c1dccf72e8758599911db9d7d
-#EXTINF:-1 tvg-id="里斯本竞技女篮 vs 巴雷鲁女篮" tvg-chno="1107" tvg-name="里斯本竞技女篮 vs 巴雷鲁女篮" tvg-group="篮球" group-title="篮球",里斯本竞技女篮 vs 巴雷鲁女篮·聚合源
+#EXTINF:-1 tvg-id="里斯本竞技女篮 vs 巴雷鲁女篮" tvg-chno="1109" tvg-name="里斯本竞技女篮 vs 巴雷鲁女篮" tvg-group="篮球" group-title="篮球",里斯本竞技女篮 vs 巴雷鲁女篮·聚合源
 http://192.168.5.35:44635/play/069593b4a5cbabbfab3f1cd204ba3f6a254eee7b
-#EXTINF:-1 tvg-id="阿布拉韦弗斯 vs 圣胡安骑士" tvg-chno="1108" tvg-name="阿布拉韦弗斯 vs 圣胡安骑士" tvg-group="篮球" group-title="篮球",阿布拉韦弗斯 vs 圣胡安骑士·聚合源
+#EXTINF:-1 tvg-id="阿布拉韦弗斯 vs 圣胡安骑士" tvg-chno="1110" tvg-name="阿布拉韦弗斯 vs 圣胡安骑士" tvg-group="篮球" group-title="篮球",阿布拉韦弗斯 vs 圣胡安骑士·聚合源
 http://192.168.5.35:44635/play/1e59f849d4206afd7d7cfa25ace238fdc3918c5e
-#EXTINF:-1 tvg-id="阿布拉韦弗斯 vs 圣胡安骑士" tvg-chno="1108" tvg-name="阿布拉韦弗斯 vs 圣胡安骑士" tvg-group="篮球" group-title="篮球",阿布拉韦弗斯 vs 圣胡安骑士·聚合源
+#EXTINF:-1 tvg-id="阿布拉韦弗斯 vs 圣胡安骑士" tvg-chno="1110" tvg-name="阿布拉韦弗斯 vs 圣胡安骑士" tvg-group="篮球" group-title="篮球",阿布拉韦弗斯 vs 圣胡安骑士·聚合源
 http://192.168.5.35:44635/play/60e897b16e796e27313abbcb0c67aec8d3bb4ca3
 #EXTINF:-1 tvg-id="珀斯光荣 vs 纽卡斯尔喷气机" tvg-chno="1201" tvg-name="珀斯光荣 vs 纽卡斯尔喷气机" tvg-group="足球1080" group-title="足球1080",珀斯光荣 vs 纽卡斯尔喷气机·1080P原声
 http://192.168.5.35:35456/jrs/%E7%8F%80%E6%96%AF%E5%85%89%E8%8D%A3%20vs%20%E7%BA%BD%E5%8D%A1%E6%96%AF%E5%B0%94%E5%96%B7%E6%B0%94%E6%9C%BA%C2%B71080P%E5%8E%9F%E5%A3%B0
@@ -55,13 +61,15 @@ http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1303" tvg-name="ESPN" tvg-group="综合体育" group-title="综合体育",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1304" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1304" tvg-name="Tennis Channel" tvg-group="综合体育" group-title="综合体育",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1305" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1305" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1306" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1307" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1307" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1308" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
