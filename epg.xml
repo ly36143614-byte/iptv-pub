@@ -158,7 +158,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261108013000 +0800" stop="20261108020000 +0800" channel="赛程预告">
-    <title>英超：诺丁汉 vs 曼城；德甲：斯图加特 vs 不来梅；西甲：奥萨苏纳 vs 毕尔巴鄂；足球：吉达国民 vs 布赖代合作；德甲：斯图加特 vs 不莱梅；西甲：奥萨苏纳 vs 毕尔巴鄂竞技；英超：诺丁汉森林 vs 曼城</title>
+    <title>英超：诺丁汉 vs 曼城；德甲：斯图加特 vs 不来梅；西甲：奥萨苏纳 vs 毕尔巴鄂；英超：诺丁汉森林 vs 曼城；足球：吉达国民 vs 布赖代合作；德甲：斯图加特 vs 不莱梅；西甲：奥萨苏纳 vs 毕尔巴鄂竞技</title>
     <category>体育</category>
   </programme>
   <programme start="20261108020000 +0800" stop="20261108023000 +0800" channel="赛程预告">
@@ -325,8 +325,12 @@
     <title>NBA：森林狼 vs 爵士</title>
     <category>体育</category>
   </programme>
-  <programme start="20261109083000 +0800" stop="20261109103000 +0800" channel="赛程预告">
+  <programme start="20261109083000 +0800" stop="20261109090000 +0800" channel="赛程预告">
     <title>NBA：独行侠 vs 篮网</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261109090000 +0800" stop="20261109110000 +0800" channel="赛程预告">
+    <title>NBA：雄鹿 vs 凯尔特人</title>
     <category>体育</category>
   </programme>
   <programme start="20261107083000 +0800" stop="20261107111012 +0800" channel="骑士 vs 76人">
