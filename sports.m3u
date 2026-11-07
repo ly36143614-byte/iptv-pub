@@ -83,10 +83,10 @@ http://192.168.5.35:44635/play/c154b696e2e883fb248ce744aa357f3040b3213b
 http://192.168.5.35:44635/play/e74612b674175a9567277389183bbe1540499897
 #EXTINF:-1 tvg-id="塞门德里亚1924 vs 格拉菲卡" tvg-chno="1211" tvg-name="塞门德里亚1924 vs 格拉菲卡" tvg-group="足球" group-title="足球",塞门德里亚1924 vs 格拉菲卡·聚合源
 http://192.168.5.35:44635/play/d54cc442b49ef4a313e4c9d5685d477fa0a96f9b
-#EXTINF:-1 tvg-id="宁都队 vs 瑞金队" tvg-chno="1212" tvg-name="宁都队 vs 瑞金队" tvg-group="足球" group-title="足球",宁都队 vs 瑞金队·聚合源
-http://192.168.5.35:44635/play/eb4ad74a910f1c1f1bf2b7b2766bbef5073f2eb0
-#EXTINF:-1 tvg-id="宁都队 vs 瑞金队" tvg-chno="1212" tvg-name="宁都队 vs 瑞金队" tvg-group="足球" group-title="足球",宁都队 vs 瑞金队·聚合源
-http://192.168.5.35:44635/play/e5c41f3ddaef2f10f0c82e099cd802baf6628238
+#EXTINF:-1 tvg-id="奥斯纳布吕克 vs 凯泽斯劳滕" tvg-chno="1212" tvg-name="奥斯纳布吕克 vs 凯泽斯劳滕" tvg-group="足球" group-title="足球",奥斯纳布吕克 vs 凯泽斯劳滕·聚合源
+http://192.168.5.35:44635/play/f9ea1774517068cecaca140489f2f6d10a355a6d
+#EXTINF:-1 tvg-id="奥斯纳布吕克 vs 凯泽斯劳滕" tvg-chno="1212" tvg-name="奥斯纳布吕克 vs 凯泽斯劳滕" tvg-group="足球" group-title="足球",奥斯纳布吕克 vs 凯泽斯劳滕·聚合源
+http://192.168.5.35:44635/play/68a66d183a88a76e567e318bde970d5269b37690
 #EXTINF:-1 tvg-id="弗拉察博特夫 vs 普罗夫迪夫火车头" tvg-chno="1213" tvg-name="弗拉察博特夫 vs 普罗夫迪夫火车头" tvg-group="足球" group-title="足球",弗拉察博特夫 vs 普罗夫迪夫火车头·聚合源
 http://192.168.5.35:44635/play/c1fb390d2f619449ceb7193c684fa32cad9dfaf3
 #EXTINF:-1 tvg-id="弗拉察博特夫 vs 普罗夫迪夫火车头" tvg-chno="1213" tvg-name="弗拉察博特夫 vs 普罗夫迪夫火车头" tvg-group="足球" group-title="足球",弗拉察博特夫 vs 普罗夫迪夫火车头·聚合源
@@ -123,9 +123,13 @@ http://192.168.5.35:44635/play/ce4278e5e98b59b2171b25aaf441105cddb905e4
 http://192.168.5.35:44635/play/dd3f6f2bcb15e9a981cab0af29414419d70ac81e
 #EXTINF:-1 tvg-id="科莫1907女足 vs 罗马女足" tvg-chno="1220" tvg-name="科莫1907女足 vs 罗马女足" tvg-group="足球" group-title="足球",科莫1907女足 vs 罗马女足·聚合源
 http://192.168.5.35:44635/play/914dde3533b845ee58f95fe3252c5ec62db9b4de
-#EXTINF:-1 tvg-id="陵水队 vs 东方队" tvg-chno="1221" tvg-name="陵水队 vs 东方队" tvg-group="足球" group-title="足球",陵水队 vs 东方队·聚合源
+#EXTINF:-1 tvg-id="纽伦堡 vs 达姆施塔特" tvg-chno="1221" tvg-name="纽伦堡 vs 达姆施塔特" tvg-group="足球" group-title="足球",纽伦堡 vs 达姆施塔特·聚合源
+http://192.168.5.35:44635/play/a96391a28cb99b1fdbf591bebb89288ed50ed9ee
+#EXTINF:-1 tvg-id="纽伦堡 vs 达姆施塔特" tvg-chno="1221" tvg-name="纽伦堡 vs 达姆施塔特" tvg-group="足球" group-title="足球",纽伦堡 vs 达姆施塔特·聚合源
+http://192.168.5.35:44635/play/2969654696d8c6eb9ed1df7686b1c172180921d3
+#EXTINF:-1 tvg-id="陵水队 vs 东方队" tvg-chno="1222" tvg-name="陵水队 vs 东方队" tvg-group="足球" group-title="足球",陵水队 vs 东方队·聚合源
 http://192.168.5.35:44635/play/7c0d00d5bd7d6ee25474d86807aba57297c8ef50
-#EXTINF:-1 tvg-id="陵水队 vs 东方队" tvg-chno="1221" tvg-name="陵水队 vs 东方队" tvg-group="足球" group-title="足球",陵水队 vs 东方队·聚合源
+#EXTINF:-1 tvg-id="陵水队 vs 东方队" tvg-chno="1222" tvg-name="陵水队 vs 东方队" tvg-group="足球" group-title="足球",陵水队 vs 东方队·聚合源
 http://192.168.5.35:44635/play/4e4d52111a32e94eb7867a1daf0a2dcc54437812
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
@@ -135,11 +139,13 @@ http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1304" tvg-name="Tennis Channel" tvg-group="综合体育" group-title="综合体育",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1305" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1305" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
+https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1306" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1307" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1307" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1308" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
@@ -155,8 +161,8 @@ https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1357" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1358" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1358" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="CH vs cyxariki" tvg-chno="1401" tvg-name="CH vs cyxariki" tvg-group="DOTA2" group-title="DOTA2",CH vs cyxariki·聚合源
 http://192.168.5.35:44635/play/85c04a2405302ee8dd47c2ec4b6b37bf21a309cf
 #EXTINF:-1 tvg-id="CH vs cyxariki" tvg-chno="1401" tvg-name="CH vs cyxariki" tvg-group="DOTA2" group-title="DOTA2",CH vs cyxariki·聚合源
