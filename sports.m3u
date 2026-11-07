@@ -187,15 +187,11 @@ http://192.168.5.35:44635/play/5afd1612ca67e50af886211cf18b1acaaea444dd
 http://192.168.5.35:44635/play/c42bf2f74406f1fcc0c2c90f5eb1f579a53305b0
 #EXTINF:-1 tvg-id="釜山运输 vs 全北现代B队" tvg-chno="1220" tvg-name="釜山运输 vs 全北现代B队" tvg-group="足球" group-title="足球",釜山运输 vs 全北现代B队·聚合源
 http://192.168.5.35:44635/play/0842d0d6cfa2f0ab4962f3c51858934127514091
-#EXTINF:-1 tvg-id="马可尼 vs 湾水市" tvg-chno="1221" tvg-name="马可尼 vs 湾水市" tvg-group="足球" group-title="足球",马可尼 vs 湾水市·聚合源
-http://192.168.5.35:44635/play/97921a1f98b0ee68392a7291a4620ee8132d0aaa
-#EXTINF:-1 tvg-id="马可尼 vs 湾水市" tvg-chno="1221" tvg-name="马可尼 vs 湾水市" tvg-group="足球" group-title="足球",马可尼 vs 湾水市·聚合源
-http://192.168.5.35:44635/play/67ba00dbf1cd94a47de7a3cd0a28736a18407195
-#EXTINF:-1 tvg-id="鸟栖砂岩 vs 富山胜利" tvg-chno="1222" tvg-name="鸟栖砂岩 vs 富山胜利" tvg-group="足球1080" group-title="足球1080",鸟栖砂岩 vs 富山胜利·1080P原声
+#EXTINF:-1 tvg-id="鸟栖砂岩 vs 富山胜利" tvg-chno="1221" tvg-name="鸟栖砂岩 vs 富山胜利" tvg-group="足球1080" group-title="足球1080",鸟栖砂岩 vs 富山胜利·1080P原声
 http://192.168.5.35:35456/jrs/%E9%B8%9F%E6%A0%96%E7%A0%82%E5%B2%A9%20vs%20%E5%AF%8C%E5%B1%B1%E8%83%9C%E5%88%A9%C2%B71080P%E5%8E%9F%E5%A3%B0
-#EXTINF:-1 tvg-id="鸟栖砂岩 vs 富山胜利" tvg-chno="1222" tvg-name="鸟栖砂岩 vs 富山胜利" tvg-group="足球1080" group-title="足球1080",鸟栖砂岩 vs 富山胜利·1080P原声
+#EXTINF:-1 tvg-id="鸟栖砂岩 vs 富山胜利" tvg-chno="1221" tvg-name="鸟栖砂岩 vs 富山胜利" tvg-group="足球1080" group-title="足球1080",鸟栖砂岩 vs 富山胜利·1080P原声
 http://192.168.5.35:44635/play/71348d9e789ed02de0e52b2c4e58d148ed49d336
-#EXTINF:-1 tvg-id="鸟栖砂岩 vs 富山胜利" tvg-chno="1222" tvg-name="鸟栖砂岩 vs 富山胜利" tvg-group="足球1080" group-title="足球1080",鸟栖砂岩 vs 富山胜利·1080P原声
+#EXTINF:-1 tvg-id="鸟栖砂岩 vs 富山胜利" tvg-chno="1221" tvg-name="鸟栖砂岩 vs 富山胜利" tvg-group="足球1080" group-title="足球1080",鸟栖砂岩 vs 富山胜利·1080P原声
 http://192.168.5.35:44635/play/9b890d6e4842614b360ccc4f504a1eeeb635d5bf
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
@@ -225,9 +221,7 @@ https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1357" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1358" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1359" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1358" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="Frogl vs Zenith" tvg-chno="1401" tvg-name="Frogl vs Zenith" tvg-group="DOTA2" group-title="DOTA2",Frogl vs Zenith·聚合源
 http://192.168.5.35:44635/play/8fa23f49eed0e361438ec1aed08a9017094f59cf
