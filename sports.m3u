@@ -49,52 +49,40 @@ http://192.168.5.35:35456/jrs/%E7%8F%80%E6%96%AF%E5%85%89%E8%8D%A3%20vs%20%E7%BA
 http://192.168.5.35:35456/jrs/%E7%9B%8A%E9%98%B3%E9%98%9F%20vs%20%E9%95%BF%E6%B2%99%E9%98%9F%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
 #EXTINF:-1 tvg-id="永州队 vs 岳阳队" tvg-chno="1203" tvg-name="永州队 vs 岳阳队" tvg-group="足球" group-title="足球",永州队 vs 岳阳队·咪咕直播·720P
 http://192.168.5.35:35456/jrs/%E6%B0%B8%E5%B7%9E%E9%98%9F%20vs%20%E5%B2%B3%E9%98%B3%E9%98%9F%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
-#EXTINF:-1 tvg-id="BGU明斯克动力 vs 奥斯特罗维茨" tvg-chno="1204" tvg-name="BGU明斯克动力 vs 奥斯特罗维茨" tvg-group="足球" group-title="足球",BGU明斯克动力 vs 奥斯特罗维茨·聚合源
-http://192.168.5.35:44635/play/845190d8cd7988ea7cbf9d37ce27e439f8ea2e9f
-#EXTINF:-1 tvg-id="BGU明斯克动力 vs 奥斯特罗维茨" tvg-chno="1204" tvg-name="BGU明斯克动力 vs 奥斯特罗维茨" tvg-group="足球" group-title="足球",BGU明斯克动力 vs 奥斯特罗维茨·聚合源
-http://192.168.5.35:44635/play/a7a7513e9eb7e5330d8d0abb1ab2736a7ce11c05
-#EXTINF:-1 tvg-id="克斯欧仁古库 vs 文尼沙FK" tvg-chno="1205" tvg-name="克斯欧仁古库 vs 文尼沙FK" tvg-group="足球" group-title="足球",克斯欧仁古库 vs 文尼沙FK·聚合源
+#EXTINF:-1 tvg-id="克斯欧仁古库 vs 文尼沙FK" tvg-chno="1204" tvg-name="克斯欧仁古库 vs 文尼沙FK" tvg-group="足球" group-title="足球",克斯欧仁古库 vs 文尼沙FK·聚合源
 http://192.168.5.35:44635/play/cb506b2de9c09d927658fe2862219553fb31690e
-#EXTINF:-1 tvg-id="克斯欧仁古库 vs 文尼沙FK" tvg-chno="1205" tvg-name="克斯欧仁古库 vs 文尼沙FK" tvg-group="足球" group-title="足球",克斯欧仁古库 vs 文尼沙FK·聚合源
+#EXTINF:-1 tvg-id="克斯欧仁古库 vs 文尼沙FK" tvg-chno="1204" tvg-name="克斯欧仁古库 vs 文尼沙FK" tvg-group="足球" group-title="足球",克斯欧仁古库 vs 文尼沙FK·聚合源
 http://192.168.5.35:44635/play/489b2f351bf44e9935f8005c51e2a34c46eaba6f
-#EXTINF:-1 tvg-id="凡城体育 vs 锡瓦斯" tvg-chno="1206" tvg-name="凡城体育 vs 锡瓦斯" tvg-group="足球" group-title="足球",凡城体育 vs 锡瓦斯·聚合源
+#EXTINF:-1 tvg-id="凡城体育 vs 锡瓦斯" tvg-chno="1205" tvg-name="凡城体育 vs 锡瓦斯" tvg-group="足球" group-title="足球",凡城体育 vs 锡瓦斯·聚合源
 http://192.168.5.35:44635/play/bd0ce4dda459c6f940b72e21fbbb7bf80eb82296
-#EXTINF:-1 tvg-id="凡城体育 vs 锡瓦斯" tvg-chno="1206" tvg-name="凡城体育 vs 锡瓦斯" tvg-group="足球" group-title="足球",凡城体育 vs 锡瓦斯·聚合源
+#EXTINF:-1 tvg-id="凡城体育 vs 锡瓦斯" tvg-chno="1205" tvg-name="凡城体育 vs 锡瓦斯" tvg-group="足球" group-title="足球",凡城体育 vs 锡瓦斯·聚合源
 http://192.168.5.35:44635/play/603182a4ad81d07561247005e87178823236ee83
-#EXTINF:-1 tvg-id="嘉莱黄英 vs 河内FC" tvg-chno="1207" tvg-name="嘉莱黄英 vs 河内FC" tvg-group="足球" group-title="足球",嘉莱黄英 vs 河内FC·聚合源
+#EXTINF:-1 tvg-id="嘉莱黄英 vs 河内FC" tvg-chno="1206" tvg-name="嘉莱黄英 vs 河内FC" tvg-group="足球" group-title="足球",嘉莱黄英 vs 河内FC·聚合源
 http://192.168.5.35:44635/play/d863591c5ab4c189748bec7b8bec44aa9134f2cf
-#EXTINF:-1 tvg-id="嘉莱黄英 vs 河内FC" tvg-chno="1207" tvg-name="嘉莱黄英 vs 河内FC" tvg-group="足球" group-title="足球",嘉莱黄英 vs 河内FC·聚合源
+#EXTINF:-1 tvg-id="嘉莱黄英 vs 河内FC" tvg-chno="1206" tvg-name="嘉莱黄英 vs 河内FC" tvg-group="足球" group-title="足球",嘉莱黄英 vs 河内FC·聚合源
 http://192.168.5.35:44635/play/a8d907ffab5142d1b92f767f5a535e17fbec16f7
-#EXTINF:-1 tvg-id="埃于普体育 vs 科贾埃利体育" tvg-chno="1208" tvg-name="埃于普体育 vs 科贾埃利体育" tvg-group="足球1080" group-title="足球1080",埃于普体育 vs 科贾埃利体育·1080P原声
+#EXTINF:-1 tvg-id="埃于普体育 vs 科贾埃利体育" tvg-chno="1207" tvg-name="埃于普体育 vs 科贾埃利体育" tvg-group="足球1080" group-title="足球1080",埃于普体育 vs 科贾埃利体育·1080P原声
 http://192.168.5.35:35456/jrs/%E5%9F%83%E4%BA%8E%E6%99%AE%E4%BD%93%E8%82%B2%20vs%20%E7%A7%91%E8%B4%BE%E5%9F%83%E5%88%A9%E4%BD%93%E8%82%B2%C2%B71080P%E5%8E%9F%E5%A3%B0
-#EXTINF:-1 tvg-id="埃于普体育 vs 科贾埃利体育" tvg-chno="1208" tvg-name="埃于普体育 vs 科贾埃利体育" tvg-group="足球1080" group-title="足球1080",埃于普体育 vs 科贾埃利体育·1080P原声
+#EXTINF:-1 tvg-id="埃于普体育 vs 科贾埃利体育" tvg-chno="1207" tvg-name="埃于普体育 vs 科贾埃利体育" tvg-group="足球1080" group-title="足球1080",埃于普体育 vs 科贾埃利体育·1080P原声
 http://192.168.5.35:44635/play/37b24a5676d57debb3bc26801e660df28a777b6e
-#EXTINF:-1 tvg-id="埃于普体育 vs 科贾埃利体育" tvg-chno="1208" tvg-name="埃于普体育 vs 科贾埃利体育" tvg-group="足球1080" group-title="足球1080",埃于普体育 vs 科贾埃利体育·1080P原声
+#EXTINF:-1 tvg-id="埃于普体育 vs 科贾埃利体育" tvg-chno="1207" tvg-name="埃于普体育 vs 科贾埃利体育" tvg-group="足球1080" group-title="足球1080",埃于普体育 vs 科贾埃利体育·1080P原声
 http://192.168.5.35:44635/play/dfa329e772e749d32347f3a3a5c964870e95e2bd
-#EXTINF:-1 tvg-id="墨尔本城女足 vs 北京城建女足" tvg-chno="1209" tvg-name="墨尔本城女足 vs 北京城建女足" tvg-group="足球" group-title="足球",墨尔本城女足 vs 北京城建女足·聚合源
+#EXTINF:-1 tvg-id="墨尔本城女足 vs 北京城建女足" tvg-chno="1208" tvg-name="墨尔本城女足 vs 北京城建女足" tvg-group="足球" group-title="足球",墨尔本城女足 vs 北京城建女足·聚合源
 http://192.168.5.35:44635/play/fe85cb30466f21bac5297ca7b0f93d0da61ed6c5
-#EXTINF:-1 tvg-id="墨尔本城女足 vs 北京城建女足" tvg-chno="1209" tvg-name="墨尔本城女足 vs 北京城建女足" tvg-group="足球" group-title="足球",墨尔本城女足 vs 北京城建女足·聚合源
+#EXTINF:-1 tvg-id="墨尔本城女足 vs 北京城建女足" tvg-chno="1208" tvg-name="墨尔本城女足 vs 北京城建女足" tvg-group="足球" group-title="足球",墨尔本城女足 vs 北京城建女足·聚合源
 http://192.168.5.35:44635/play/85d293a7f6bb50e7f3e9f191dd8e6de137c14327
-#EXTINF:-1 tvg-id="奥拉迪亚 vs CSM斯拉蒂纳" tvg-chno="1210" tvg-name="奥拉迪亚 vs CSM斯拉蒂纳" tvg-group="足球" group-title="足球",奥拉迪亚 vs CSM斯拉蒂纳·聚合源
+#EXTINF:-1 tvg-id="奥拉迪亚 vs CSM斯拉蒂纳" tvg-chno="1209" tvg-name="奥拉迪亚 vs CSM斯拉蒂纳" tvg-group="足球" group-title="足球",奥拉迪亚 vs CSM斯拉蒂纳·聚合源
 http://192.168.5.35:44635/play/0d0edc67df60a3bbbd981b73f5885f3fba1752bd
-#EXTINF:-1 tvg-id="奥拉迪亚 vs CSM斯拉蒂纳" tvg-chno="1210" tvg-name="奥拉迪亚 vs CSM斯拉蒂纳" tvg-group="足球" group-title="足球",奥拉迪亚 vs CSM斯拉蒂纳·聚合源
+#EXTINF:-1 tvg-id="奥拉迪亚 vs CSM斯拉蒂纳" tvg-chno="1209" tvg-name="奥拉迪亚 vs CSM斯拉蒂纳" tvg-group="足球" group-title="足球",奥拉迪亚 vs CSM斯拉蒂纳·聚合源
 http://192.168.5.35:44635/play/7dd7d0d92ee437ebdedd998117fea1675be4f90b
-#EXTINF:-1 tvg-id="库雷撒勒 vs 诺米联" tvg-chno="1211" tvg-name="库雷撒勒 vs 诺米联" tvg-group="足球" group-title="足球",库雷撒勒 vs 诺米联·聚合源
+#EXTINF:-1 tvg-id="库雷撒勒 vs 诺米联" tvg-chno="1210" tvg-name="库雷撒勒 vs 诺米联" tvg-group="足球" group-title="足球",库雷撒勒 vs 诺米联·聚合源
 http://192.168.5.35:44635/play/5b6c8bb6ba22f87e9c531e156149572a3ac62e7e
-#EXTINF:-1 tvg-id="库雷撒勒 vs 诺米联" tvg-chno="1211" tvg-name="库雷撒勒 vs 诺米联" tvg-group="足球" group-title="足球",库雷撒勒 vs 诺米联·聚合源
+#EXTINF:-1 tvg-id="库雷撒勒 vs 诺米联" tvg-chno="1210" tvg-name="库雷撒勒 vs 诺米联" tvg-group="足球" group-title="足球",库雷撒勒 vs 诺米联·聚合源
 http://192.168.5.35:44635/play/75eabec97aac3c5b2a3eee0aca01be53ff621d64
-#EXTINF:-1 tvg-id="明斯克B队 vs 莫洛迪兹诺" tvg-chno="1212" tvg-name="明斯克B队 vs 莫洛迪兹诺" tvg-group="足球" group-title="足球",明斯克B队 vs 莫洛迪兹诺·聚合源
+#EXTINF:-1 tvg-id="明斯克B队 vs 莫洛迪兹诺" tvg-chno="1211" tvg-name="明斯克B队 vs 莫洛迪兹诺" tvg-group="足球" group-title="足球",明斯克B队 vs 莫洛迪兹诺·聚合源
 http://192.168.5.35:44635/play/67a4c654df1a6555826a07c50d58b49bdedcef90
-#EXTINF:-1 tvg-id="明斯克B队 vs 莫洛迪兹诺" tvg-chno="1212" tvg-name="明斯克B队 vs 莫洛迪兹诺" tvg-group="足球" group-title="足球",明斯克B队 vs 莫洛迪兹诺·聚合源
+#EXTINF:-1 tvg-id="明斯克B队 vs 莫洛迪兹诺" tvg-chno="1211" tvg-name="明斯克B队 vs 莫洛迪兹诺" tvg-group="足球" group-title="足球",明斯克B队 vs 莫洛迪兹诺·聚合源
 http://192.168.5.35:44635/play/c90e12c3195a2d63b2cab2d88c7852618ba3a150
-#EXTINF:-1 tvg-id="理文 vs 冠忠南区" tvg-chno="1213" tvg-name="理文 vs 冠忠南区" tvg-group="足球" group-title="足球",理文 vs 冠忠南区·聚合源
-http://192.168.5.35:44635/play/e4c16c467b6d3cee5c58ac8bf75fd61d902eef24
-#EXTINF:-1 tvg-id="理文 vs 冠忠南区" tvg-chno="1213" tvg-name="理文 vs 冠忠南区" tvg-group="足球" group-title="足球",理文 vs 冠忠南区·聚合源
-http://192.168.5.35:44635/play/cdd042141cc3ca656deca534cb9ff7841b2ba9e1
-#EXTINF:-1 tvg-id="顿涅茨克矿工青年队 vs 基辅迪纳摩青年队" tvg-chno="1214" tvg-name="顿涅茨克矿工青年队 vs 基辅迪纳摩青年队" tvg-group="足球" group-title="足球",顿涅茨克矿工青年队 vs 基辅迪纳摩青年队·聚合源
-http://192.168.5.35:44635/play/6fbfaa875085d23de8fefe04c8734fbae40ebef2
-#EXTINF:-1 tvg-id="顿涅茨克矿工青年队 vs 基辅迪纳摩青年队" tvg-chno="1214" tvg-name="顿涅茨克矿工青年队 vs 基辅迪纳摩青年队" tvg-group="足球" group-title="足球",顿涅茨克矿工青年队 vs 基辅迪纳摩青年队·聚合源
-http://192.168.5.35:44635/play/a5c31a71f95bfcdcbac370c82e1efbcc27681cff
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NFL·NBC" tvg-chno="1302" tvg-name="NFL·NBC" tvg-group="综合体育" group-title="综合体育",NFL·NBC
@@ -123,7 +111,9 @@ https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1357" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1358" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1358" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1359" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="Frogl vs Zenith" tvg-chno="1401" tvg-name="Frogl vs Zenith" tvg-group="DOTA2" group-title="DOTA2",Frogl vs Zenith·聚合源
 http://192.168.5.35:44635/play/8fa23f49eed0e361438ec1aed08a9017094f59cf
