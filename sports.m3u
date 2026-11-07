@@ -19,13 +19,9 @@ http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1102" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="老鹰 vs 奇才" tvg-chno="1103" tvg-name="老鹰 vs 奇才" tvg-group="篮球" group-title="篮球",老鹰 vs 奇才·腾讯直播1·720P
-http://192.168.5.35:35456/jrs/%E8%80%81%E9%B9%B0%20vs%20%E5%A5%87%E6%89%8D%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD1%C2%B7720P
-#EXTINF:-1 tvg-id="老鹰 vs 奇才" tvg-chno="1103" tvg-name="老鹰 vs 奇才" tvg-group="篮球" group-title="篮球",老鹰 vs 奇才·腾讯直播1·720P
+#EXTINF:-1 tvg-id="老鹰 vs 奇才" tvg-chno="1103" tvg-name="老鹰 vs 奇才" tvg-group="篮球" group-title="篮球",老鹰 vs 奇才·咪咕直播·720P
 http://192.168.5.35:35456/jrs/%E8%80%81%E9%B9%B0%20vs%20%E5%A5%87%E6%89%8D%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
-#EXTINF:-1 tvg-id="黄蜂 vs 凯尔特人" tvg-chno="1104" tvg-name="黄蜂 vs 凯尔特人" tvg-group="篮球" group-title="篮球",黄蜂 vs 凯尔特人·腾讯直播1·720P
-http://192.168.5.35:35456/jrs/%E9%BB%84%E8%9C%82%20vs%20%E5%87%AF%E5%B0%94%E7%89%B9%E4%BA%BA%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD1%C2%B7720P
-#EXTINF:-1 tvg-id="黄蜂 vs 凯尔特人" tvg-chno="1104" tvg-name="黄蜂 vs 凯尔特人" tvg-group="篮球" group-title="篮球",黄蜂 vs 凯尔特人·腾讯直播1·720P
+#EXTINF:-1 tvg-id="黄蜂 vs 凯尔特人" tvg-chno="1104" tvg-name="黄蜂 vs 凯尔特人" tvg-group="篮球" group-title="篮球",黄蜂 vs 凯尔特人·咪咕直播·720P
 http://192.168.5.35:35456/jrs/%E9%BB%84%E8%9C%82%20vs%20%E5%87%AF%E5%B0%94%E7%89%B9%E4%BA%BA%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
 #EXTINF:-1 tvg-id="国王 vs 马刺" tvg-chno="1105" tvg-name="国王 vs 马刺" tvg-group="篮球" group-title="篮球",国王 vs 马刺·腾讯直播1·720P
 http://192.168.5.35:35456/jrs/%E5%9B%BD%E7%8E%8B%20vs%20%E9%A9%AC%E5%88%BA%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD1%C2%B7720P
@@ -33,34 +29,34 @@ http://192.168.5.35:35456/jrs/%E5%9B%BD%E7%8E%8B%20vs%20%E9%A9%AC%E5%88%BA%C2%B7
 http://192.168.5.35:35456/jrs/%E5%9B%BD%E7%8E%8B%20vs%20%E9%A9%AC%E5%88%BA%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD2%C2%B7720P
 #EXTINF:-1 tvg-id="国王 vs 马刺" tvg-chno="1105" tvg-name="国王 vs 马刺" tvg-group="篮球" group-title="篮球",国王 vs 马刺·腾讯直播1·720P
 http://192.168.5.35:35456/jrs/%E5%9B%BD%E7%8E%8B%20vs%20%E9%A9%AC%E5%88%BA%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
-#EXTINF:-1 tvg-id="密歇根大学 vs 康涅狄格大学" tvg-chno="1106" tvg-name="密歇根大学 vs 康涅狄格大学" tvg-group="篮球" group-title="篮球",密歇根大学 vs 康涅狄格大学·聚合源
+#EXTINF:-1 tvg-id="亚利桑那州立大学 vs 北科罗拉多大学" tvg-chno="1106" tvg-name="亚利桑那州立大学 vs 北科罗拉多大学" tvg-group="篮球" group-title="篮球",亚利桑那州立大学 vs 北科罗拉多大学·聚合源
+http://192.168.5.35:44635/play/64900a2188768b93d889d52f2753551c2a09b316
+#EXTINF:-1 tvg-id="亚利桑那州立大学 vs 北科罗拉多大学" tvg-chno="1106" tvg-name="亚利桑那州立大学 vs 北科罗拉多大学" tvg-group="篮球" group-title="篮球",亚利桑那州立大学 vs 北科罗拉多大学·聚合源
+http://192.168.5.35:44635/play/033dc6190c9cf00b79a8f01370cc43a6ad86bce6
+#EXTINF:-1 tvg-id="堪萨斯大学 vs 中田纳西州立大学" tvg-chno="1107" tvg-name="堪萨斯大学 vs 中田纳西州立大学" tvg-group="篮球" group-title="篮球",堪萨斯大学 vs 中田纳西州立大学·聚合源
+http://192.168.5.35:44635/play/eb85b4d1be8a911660ad371e00bf4d4e3829fb86
+#EXTINF:-1 tvg-id="堪萨斯大学 vs 中田纳西州立大学" tvg-chno="1107" tvg-name="堪萨斯大学 vs 中田纳西州立大学" tvg-group="篮球" group-title="篮球",堪萨斯大学 vs 中田纳西州立大学·聚合源
+http://192.168.5.35:44635/play/79106e353427e4a4ac7a88ff0e76237a905014df
+#EXTINF:-1 tvg-id="密歇根大学 vs 康涅狄格大学" tvg-chno="1108" tvg-name="密歇根大学 vs 康涅狄格大学" tvg-group="篮球" group-title="篮球",密歇根大学 vs 康涅狄格大学·聚合源
 http://192.168.5.35:44635/play/0dde55c29aeb5f8a8aabd7a4a53bb5d8bc316d0a
-#EXTINF:-1 tvg-id="密歇根大学 vs 康涅狄格大学" tvg-chno="1106" tvg-name="密歇根大学 vs 康涅狄格大学" tvg-group="篮球" group-title="篮球",密歇根大学 vs 康涅狄格大学·聚合源
+#EXTINF:-1 tvg-id="密歇根大学 vs 康涅狄格大学" tvg-chno="1108" tvg-name="密歇根大学 vs 康涅狄格大学" tvg-group="篮球" group-title="篮球",密歇根大学 vs 康涅狄格大学·聚合源
 http://192.168.5.35:44635/play/28e7631ecb87ac8509fe54baa517702f964226b7
-#EXTINF:-1 tvg-id="德克萨斯基督教大学 vs 南方大学" tvg-chno="1107" tvg-name="德克萨斯基督教大学 vs 南方大学" tvg-group="篮球" group-title="篮球",德克萨斯基督教大学 vs 南方大学·聚合源
-http://192.168.5.35:44635/play/f4f2c66916ba9b70b2d0ecc037b72a88d989b6b2
-#EXTINF:-1 tvg-id="德克萨斯基督教大学 vs 南方大学" tvg-chno="1107" tvg-name="德克萨斯基督教大学 vs 南方大学" tvg-group="篮球" group-title="篮球",德克萨斯基督教大学 vs 南方大学·聚合源
-http://192.168.5.35:44635/play/61abf7e27ac1977f0221ecf109d83f3fb9a88e24
-#EXTINF:-1 tvg-id="灰熊 vs 雷霆" tvg-chno="1108" tvg-name="灰熊 vs 雷霆" tvg-group="篮球" group-title="篮球",灰熊 vs 雷霆·腾讯直播1·720P
+#EXTINF:-1 tvg-id="灰熊 vs 雷霆" tvg-chno="1109" tvg-name="灰熊 vs 雷霆" tvg-group="篮球" group-title="篮球",灰熊 vs 雷霆·腾讯直播1·720P
 http://192.168.5.35:35456/jrs/%E7%81%B0%E7%86%8A%20vs%20%E9%9B%B7%E9%9C%86%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD1%C2%B7720P
-#EXTINF:-1 tvg-id="灰熊 vs 雷霆" tvg-chno="1108" tvg-name="灰熊 vs 雷霆" tvg-group="篮球" group-title="篮球",灰熊 vs 雷霆·腾讯直播1·720P
+#EXTINF:-1 tvg-id="灰熊 vs 雷霆" tvg-chno="1109" tvg-name="灰熊 vs 雷霆" tvg-group="篮球" group-title="篮球",灰熊 vs 雷霆·腾讯直播1·720P
 http://192.168.5.35:35456/jrs/%E7%81%B0%E7%86%8A%20vs%20%E9%9B%B7%E9%9C%86%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD3%C2%B7720P
-#EXTINF:-1 tvg-id="灰熊 vs 雷霆" tvg-chno="1108" tvg-name="灰熊 vs 雷霆" tvg-group="篮球" group-title="篮球",灰熊 vs 雷霆·腾讯直播1·720P
+#EXTINF:-1 tvg-id="灰熊 vs 雷霆" tvg-chno="1109" tvg-name="灰熊 vs 雷霆" tvg-group="篮球" group-title="篮球",灰熊 vs 雷霆·腾讯直播1·720P
 http://192.168.5.35:35456/jrs/%E7%81%B0%E7%86%8A%20vs%20%E9%9B%B7%E9%9C%86%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
-#EXTINF:-1 tvg-id="灰熊 vs 雷霆" tvg-chno="1108" tvg-name="灰熊 vs 雷霆" tvg-group="篮球" group-title="篮球",灰熊 vs 雷霆·腾讯直播1·720P
+#EXTINF:-1 tvg-id="灰熊 vs 雷霆" tvg-chno="1109" tvg-name="灰熊 vs 雷霆" tvg-group="篮球" group-title="篮球",灰熊 vs 雷霆·腾讯直播1·720P
 http://192.168.5.35:44635/play/fde372a885c6addf07d6ec1484c9cc6435eb0366
-#EXTINF:-1 tvg-id="灰熊 vs 雷霆" tvg-chno="1108" tvg-name="灰熊 vs 雷霆" tvg-group="篮球" group-title="篮球",灰熊 vs 雷霆·腾讯直播1·720P
+#EXTINF:-1 tvg-id="灰熊 vs 雷霆" tvg-chno="1109" tvg-name="灰熊 vs 雷霆" tvg-group="篮球" group-title="篮球",灰熊 vs 雷霆·腾讯直播1·720P
 http://192.168.5.35:44635/play/f6556193eb33ba866292bcccfed24ce35de71266
-#EXTINF:-1 tvg-id="灰熊 vs 雷霆" tvg-chno="1108" tvg-name="灰熊 vs 雷霆" tvg-group="篮球" group-title="篮球",灰熊 vs 雷霆·腾讯直播1·720P
+#EXTINF:-1 tvg-id="灰熊 vs 雷霆" tvg-chno="1109" tvg-name="灰熊 vs 雷霆" tvg-group="篮球" group-title="篮球",灰熊 vs 雷霆·腾讯直播1·720P
 http://192.168.5.35:44635/play/4d1e2772705048702823f9806a99d51e7fd60dfb
-#EXTINF:-1 tvg-id="爱荷华大学 vs 东伊利诺大学" tvg-chno="1109" tvg-name="爱荷华大学 vs 东伊利诺大学" tvg-group="篮球" group-title="篮球",爱荷华大学 vs 东伊利诺大学·聚合源
+#EXTINF:-1 tvg-id="爱荷华大学 vs 东伊利诺大学" tvg-chno="1110" tvg-name="爱荷华大学 vs 东伊利诺大学" tvg-group="篮球" group-title="篮球",爱荷华大学 vs 东伊利诺大学·聚合源
 http://192.168.5.35:44635/play/650ca3e90003e3a4d69483bbca5f3b10e5e2a33a
-#EXTINF:-1 tvg-id="爱荷华大学 vs 东伊利诺大学" tvg-chno="1109" tvg-name="爱荷华大学 vs 东伊利诺大学" tvg-group="篮球" group-title="篮球",爱荷华大学 vs 东伊利诺大学·聚合源
+#EXTINF:-1 tvg-id="爱荷华大学 vs 东伊利诺大学" tvg-chno="1110" tvg-name="爱荷华大学 vs 东伊利诺大学" tvg-group="篮球" group-title="篮球",爱荷华大学 vs 东伊利诺大学·聚合源
 http://192.168.5.35:44635/play/e64136e47c1a568dfc364ba077c49d2b922710d1
-#EXTINF:-1 tvg-id="爱荷华州立 vs 南密西西比大学" tvg-chno="1110" tvg-name="爱荷华州立 vs 南密西西比大学" tvg-group="篮球" group-title="篮球",爱荷华州立 vs 南密西西比大学·聚合源
-http://192.168.5.35:44635/play/435782399b151d4edae650a13cb6b1f3ead9a9d3
-#EXTINF:-1 tvg-id="爱荷华州立 vs 南密西西比大学" tvg-chno="1110" tvg-name="爱荷华州立 vs 南密西西比大学" tvg-group="篮球" group-title="篮球",爱荷华州立 vs 南密西西比大学·聚合源
-http://192.168.5.35:44635/play/25e00f897581dd6df8e9aed0ef058a458e53e147
 #EXTINF:-1 tvg-id="独行侠 vs 爵士" tvg-chno="1111" tvg-name="独行侠 vs 爵士" tvg-group="篮球" group-title="篮球",独行侠 vs 爵士·腾讯直播1·720P
 http://192.168.5.35:35456/jrs/%E7%8B%AC%E8%A1%8C%E4%BE%A0%20vs%20%E7%88%B5%E5%A3%AB%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD1%C2%B7720P
 #EXTINF:-1 tvg-id="独行侠 vs 爵士" tvg-chno="1111" tvg-name="独行侠 vs 爵士" tvg-group="篮球" group-title="篮球",独行侠 vs 爵士·腾讯直播1·720P
@@ -100,13 +96,11 @@ http://192.168.5.35:35456/jrs/%E9%AA%91%E5%A3%AB%20vs%2076%E4%BA%BA%C2%B7%E8%85%
 #EXTINF:-1 tvg-id="骑士 vs 76人" tvg-chno="1114" tvg-name="骑士 vs 76人" tvg-group="篮球1080" group-title="篮球1080",骑士 vs 76人·纬来1080
 http://192.168.5.35:35456/jrs/%E9%AA%91%E5%A3%AB%20vs%2076%E4%BA%BA%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
 #EXTINF:-1 tvg-id="骑士 vs 76人" tvg-chno="1114" tvg-name="骑士 vs 76人" tvg-group="篮球1080" group-title="篮球1080",骑士 vs 76人·纬来1080
-http://192.168.5.35:44635/play/7d7f8768fde3b173b63ed1cb8099857b40a1e3af
-#EXTINF:-1 tvg-id="骑士 vs 76人" tvg-chno="1114" tvg-name="骑士 vs 76人" tvg-group="篮球1080" group-title="篮球1080",骑士 vs 76人·纬来1080
-http://192.168.5.35:44635/play/0d9c1173e3f77350015a18aa72dfee773455f694
-#EXTINF:-1 tvg-id="骑士 vs 76人" tvg-chno="1114" tvg-name="骑士 vs 76人" tvg-group="篮球1080" group-title="篮球1080",骑士 vs 76人·纬来1080
-http://192.168.5.35:44635/play/d148e28318312a4e6fae7aebcfd3e096b1fc93d5
+http://192.168.5.35:44635/play/7736d779cb0d269c20abdedcf69dd036c7324591
 #EXTINF:-1 tvg-id="鹈鹕 vs 森林狼" tvg-chno="1115" tvg-name="鹈鹕 vs 森林狼" tvg-group="篮球" group-title="篮球",鹈鹕 vs 森林狼·腾讯直播1·720P
 http://192.168.5.35:35456/jrs/%E9%B9%88%E9%B9%95%20vs%20%E6%A3%AE%E6%9E%97%E7%8B%BC%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD1%C2%B7720P
+#EXTINF:-1 tvg-id="鹈鹕 vs 森林狼" tvg-chno="1115" tvg-name="鹈鹕 vs 森林狼" tvg-group="篮球" group-title="篮球",鹈鹕 vs 森林狼·腾讯直播1·720P
+http://192.168.5.35:35456/jrs/%E9%B9%88%E9%B9%95%20vs%20%E6%A3%AE%E6%9E%97%E7%8B%BC%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD3%C2%B7720P
 #EXTINF:-1 tvg-id="鹈鹕 vs 森林狼" tvg-chno="1115" tvg-name="鹈鹕 vs 森林狼" tvg-group="篮球" group-title="篮球",鹈鹕 vs 森林狼·腾讯直播1·720P
 http://192.168.5.35:35456/jrs/%E9%B9%88%E9%B9%95%20vs%20%E6%A3%AE%E6%9E%97%E7%8B%BC%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
 #EXTINF:-1 tvg-id="鹈鹕 vs 森林狼" tvg-chno="1115" tvg-name="鹈鹕 vs 森林狼" tvg-group="篮球" group-title="篮球",鹈鹕 vs 森林狼·腾讯直播1·720P
@@ -135,45 +129,33 @@ http://192.168.5.35:44635/play/1f9d3a1fd0912ad96cfdb04ec0488ce4b2312ce0
 http://192.168.5.35:44635/play/b84474045525af27f9e1c39a3725af8c8527639d
 #EXTINF:-1 tvg-id="亚特兰特 vs 桑托斯拉古纳" tvg-chno="1205" tvg-name="亚特兰特 vs 桑托斯拉古纳" tvg-group="足球" group-title="足球",亚特兰特 vs 桑托斯拉古纳·聚合源
 http://192.168.5.35:44635/play/3f7704ce0b6c28272a620e179d495069d2ba8a29
-#EXTINF:-1 tvg-id="亚特兰特 vs 桑托斯拉古纳" tvg-chno="1205" tvg-name="亚特兰特 vs 桑托斯拉古纳" tvg-group="足球" group-title="足球",亚特兰特 vs 桑托斯拉古纳·聚合源
-http://192.168.5.35:44635/play/18ec76b91b6755d59c18429f707035449e9a191b
-#EXTINF:-1 tvg-id="内卡萨 vs 蒂华纳" tvg-chno="1206" tvg-name="内卡萨 vs 蒂华纳" tvg-group="足球" group-title="足球",内卡萨 vs 蒂华纳·聚合源
-http://192.168.5.35:44635/play/84e3868b04f756e0988e56ab38dea971e8deca27
-#EXTINF:-1 tvg-id="内卡萨 vs 蒂华纳" tvg-chno="1206" tvg-name="内卡萨 vs 蒂华纳" tvg-group="足球" group-title="足球",内卡萨 vs 蒂华纳·聚合源
-http://192.168.5.35:44635/play/445e54334ef72fb72ac6870b9fdd53268ae13de7
-#EXTINF:-1 tvg-id="圣地亚哥波浪女足 vs 犹他王室女足" tvg-chno="1207" tvg-name="圣地亚哥波浪女足 vs 犹他王室女足" tvg-group="足球" group-title="足球",圣地亚哥波浪女足 vs 犹他王室女足·聚合源
+#EXTINF:-1 tvg-id="圣地亚哥波浪女足 vs 犹他王室女足" tvg-chno="1206" tvg-name="圣地亚哥波浪女足 vs 犹他王室女足" tvg-group="足球" group-title="足球",圣地亚哥波浪女足 vs 犹他王室女足·聚合源
 http://192.168.5.35:44635/play/62024d742a5e319b8049a341f325b9666988bdf5
-#EXTINF:-1 tvg-id="圣地亚哥波浪女足 vs 犹他王室女足" tvg-chno="1207" tvg-name="圣地亚哥波浪女足 vs 犹他王室女足" tvg-group="足球" group-title="足球",圣地亚哥波浪女足 vs 犹他王室女足·聚合源
+#EXTINF:-1 tvg-id="圣地亚哥波浪女足 vs 犹他王室女足" tvg-chno="1206" tvg-name="圣地亚哥波浪女足 vs 犹他王室女足" tvg-group="足球" group-title="足球",圣地亚哥波浪女足 vs 犹他王室女足·聚合源
 http://192.168.5.35:44635/play/6d6e1a577abc14e350c36b9dd7cf78088c916ed7
-#EXTINF:-1 tvg-id="圣路易斯竞技 vs 华雷斯" tvg-chno="1208" tvg-name="圣路易斯竞技 vs 华雷斯" tvg-group="足球" group-title="足球",圣路易斯竞技 vs 华雷斯·聚合源
+#EXTINF:-1 tvg-id="圣路易斯竞技 vs 华雷斯" tvg-chno="1207" tvg-name="圣路易斯竞技 vs 华雷斯" tvg-group="足球" group-title="足球",圣路易斯竞技 vs 华雷斯·聚合源
 http://192.168.5.35:44635/play/061a5b74ebd2c74c54f731a1e94e2f4a90c35aaa
-#EXTINF:-1 tvg-id="圣路易斯竞技 vs 华雷斯" tvg-chno="1208" tvg-name="圣路易斯竞技 vs 华雷斯" tvg-group="足球" group-title="足球",圣路易斯竞技 vs 华雷斯·聚合源
+#EXTINF:-1 tvg-id="圣路易斯竞技 vs 华雷斯" tvg-chno="1207" tvg-name="圣路易斯竞技 vs 华雷斯" tvg-group="足球" group-title="足球",圣路易斯竞技 vs 华雷斯·聚合源
 http://192.168.5.35:44635/play/7aedf2e72ee28cdd01e78aaa6c06187cf2a7cd0f
-#EXTINF:-1 tvg-id="堤格雷 vs 萨米恩托" tvg-chno="1209" tvg-name="堤格雷 vs 萨米恩托" tvg-group="足球" group-title="足球",堤格雷 vs 萨米恩托·聚合源
-http://192.168.5.35:44635/play/7b1438853872930e84217849237e9d0aae089a1e
-#EXTINF:-1 tvg-id="堤格雷 vs 萨米恩托" tvg-chno="1209" tvg-name="堤格雷 vs 萨米恩托" tvg-group="足球" group-title="足球",堤格雷 vs 萨米恩托·聚合源
-http://192.168.5.35:44635/play/985bdd55a589778fa02ebb8946bbdf31dc964570
-#EXTINF:-1 tvg-id="奥克兰城 vs 伯肯黑德联" tvg-chno="1210" tvg-name="奥克兰城 vs 伯肯黑德联" tvg-group="足球" group-title="足球",奥克兰城 vs 伯肯黑德联·聚合源
-http://192.168.5.35:44635/play/e524e7cae6c294f4380279b76fdab266ad89f5e7
-#EXTINF:-1 tvg-id="奥克兰城 vs 伯肯黑德联" tvg-chno="1210" tvg-name="奥克兰城 vs 伯肯黑德联" tvg-group="足球" group-title="足球",奥克兰城 vs 伯肯黑德联·聚合源
-http://192.168.5.35:44635/play/1f39aac6127f085115eb0b9b71c1b9827ac55a01
-#EXTINF:-1 tvg-id="岩手盛冈仙鹤 vs 冲绳SV" tvg-chno="1211" tvg-name="岩手盛冈仙鹤 vs 冲绳SV" tvg-group="足球" group-title="足球",岩手盛冈仙鹤 vs 冲绳SV·聚合源
+#EXTINF:-1 tvg-id="岩手盛冈仙鹤 vs 冲绳SV" tvg-chno="1208" tvg-name="岩手盛冈仙鹤 vs 冲绳SV" tvg-group="足球" group-title="足球",岩手盛冈仙鹤 vs 冲绳SV·聚合源
 http://192.168.5.35:44635/play/6834baea094cd7810bd3d7f18ac31db43bb86eae
-#EXTINF:-1 tvg-id="岩手盛冈仙鹤 vs 冲绳SV" tvg-chno="1211" tvg-name="岩手盛冈仙鹤 vs 冲绳SV" tvg-group="足球" group-title="足球",岩手盛冈仙鹤 vs 冲绳SV·聚合源
+#EXTINF:-1 tvg-id="岩手盛冈仙鹤 vs 冲绳SV" tvg-chno="1208" tvg-name="岩手盛冈仙鹤 vs 冲绳SV" tvg-group="足球" group-title="足球",岩手盛冈仙鹤 vs 冲绳SV·聚合源
 http://192.168.5.35:44635/play/90097d817eb41f76145cc32a5785d1d708669b9d
-#EXTINF:-1 tvg-id="莱卡特老虎 vs 布罗德美度兰" tvg-chno="1212" tvg-name="莱卡特老虎 vs 布罗德美度兰" tvg-group="足球" group-title="足球",莱卡特老虎 vs 布罗德美度兰·聚合源
+#EXTINF:-1 tvg-id="莱卡特老虎 vs 布罗德美度兰" tvg-chno="1209" tvg-name="莱卡特老虎 vs 布罗德美度兰" tvg-group="足球" group-title="足球",莱卡特老虎 vs 布罗德美度兰·聚合源
 http://192.168.5.35:44635/play/70eaacebf0ea6e95bb9997dfec8befe7b3419726
-#EXTINF:-1 tvg-id="莱卡特老虎 vs 布罗德美度兰" tvg-chno="1212" tvg-name="莱卡特老虎 vs 布罗德美度兰" tvg-group="足球" group-title="足球",莱卡特老虎 vs 布罗德美度兰·聚合源
+#EXTINF:-1 tvg-id="莱卡特老虎 vs 布罗德美度兰" tvg-chno="1209" tvg-name="莱卡特老虎 vs 布罗德美度兰" tvg-group="足球" group-title="足球",莱卡特老虎 vs 布罗德美度兰·聚合源
 http://192.168.5.35:44635/play/57a0f39e240f49b149d4597e39b6672c32872b90
-#EXTINF:-1 tvg-id="菲利米德海湾 vs 惠灵顿凤凰后备队" tvg-chno="1213" tvg-name="菲利米德海湾 vs 惠灵顿凤凰后备队" tvg-group="足球" group-title="足球",菲利米德海湾 vs 惠灵顿凤凰后备队·聚合源
-http://192.168.5.35:44635/play/38b117716ce6268415f3a2647b6657ba4c2e2eaf
-#EXTINF:-1 tvg-id="蓝十字女足 vs 莱昂女足" tvg-chno="1214" tvg-name="蓝十字女足 vs 莱昂女足" tvg-group="足球" group-title="足球",蓝十字女足 vs 莱昂女足·聚合源
+#EXTINF:-1 tvg-id="菲利米德海湾 vs 惠灵顿凤凰后备队" tvg-chno="1210" tvg-name="菲利米德海湾 vs 惠灵顿凤凰后备队" tvg-group="足球" group-title="足球",菲利米德海湾 vs 惠灵顿凤凰后备队·聚合源
+http://192.168.5.35:44635/play/c42618ebfe8380cb29a83e280eb1ff7ee4e81491
+#EXTINF:-1 tvg-id="菲利米德海湾 vs 惠灵顿凤凰后备队" tvg-chno="1210" tvg-name="菲利米德海湾 vs 惠灵顿凤凰后备队" tvg-group="足球" group-title="足球",菲利米德海湾 vs 惠灵顿凤凰后备队·聚合源
+http://192.168.5.35:44635/play/f08181f74478b8977ec239db853191c62a3b48bc
+#EXTINF:-1 tvg-id="蓝十字女足 vs 莱昂女足" tvg-chno="1211" tvg-name="蓝十字女足 vs 莱昂女足" tvg-group="足球" group-title="足球",蓝十字女足 vs 莱昂女足·聚合源
 http://192.168.5.35:44635/play/2c6f341c910eabd408d13bbd774caa431166bca1
-#EXTINF:-1 tvg-id="蓝十字女足 vs 莱昂女足" tvg-chno="1214" tvg-name="蓝十字女足 vs 莱昂女足" tvg-group="足球" group-title="足球",蓝十字女足 vs 莱昂女足·聚合源
+#EXTINF:-1 tvg-id="蓝十字女足 vs 莱昂女足" tvg-chno="1211" tvg-name="蓝十字女足 vs 莱昂女足" tvg-group="足球" group-title="足球",蓝十字女足 vs 莱昂女足·聚合源
 http://192.168.5.35:44635/play/b9568e1758774003433d11bf238b9f1604f93461
-#EXTINF:-1 tvg-id="马可尼 vs 湾水市" tvg-chno="1215" tvg-name="马可尼 vs 湾水市" tvg-group="足球" group-title="足球",马可尼 vs 湾水市·聚合源
+#EXTINF:-1 tvg-id="马可尼 vs 湾水市" tvg-chno="1212" tvg-name="马可尼 vs 湾水市" tvg-group="足球" group-title="足球",马可尼 vs 湾水市·聚合源
 http://192.168.5.35:44635/play/97921a1f98b0ee68392a7291a4620ee8132d0aaa
-#EXTINF:-1 tvg-id="马可尼 vs 湾水市" tvg-chno="1215" tvg-name="马可尼 vs 湾水市" tvg-group="足球" group-title="足球",马可尼 vs 湾水市·聚合源
+#EXTINF:-1 tvg-id="马可尼 vs 湾水市" tvg-chno="1212" tvg-name="马可尼 vs 湾水市" tvg-group="足球" group-title="足球",马可尼 vs 湾水市·聚合源
 http://192.168.5.35:44635/play/67ba00dbf1cd94a47de7a3cd0a28736a18407195
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
@@ -209,10 +191,6 @@ http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1359" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="惠灵顿奥林匹克 vs 奥克兰联" tvg-chno="1360" tvg-name="惠灵顿奥林匹克 vs 奥克兰联" tvg-group="体育综合" group-title="体育综合",惠灵顿奥林匹克 vs 奥克兰联·聚合源
-http://192.168.5.35:44635/play/f4d8897cf7311ceebbced121cde192a7b913e743
-#EXTINF:-1 tvg-id="惠灵顿奥林匹克 vs 奥克兰联" tvg-chno="1360" tvg-name="惠灵顿奥林匹克 vs 奥克兰联" tvg-group="体育综合" group-title="体育综合",惠灵顿奥林匹克 vs 奥克兰联·聚合源
-http://192.168.5.35:44635/play/7f05b8ffaa3a77c06ed54fd54dcfcb1c938c92a7
 #EXTINF:-1 tvg-id="Frogl vs Zenith" tvg-chno="1401" tvg-name="Frogl vs Zenith" tvg-group="DOTA2" group-title="DOTA2",Frogl vs Zenith·聚合源
 http://192.168.5.35:44635/play/d32cd79897d24d3d620bca9508f18ecea72c78ae
 #EXTINF:-1 tvg-id="L1ga Team vs Yes" tvg-chno="1402" tvg-name="L1ga Team vs Yes" tvg-group="DOTA2" group-title="DOTA2",L1ga Team vs Yes·聚合源
