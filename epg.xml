@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="wb-epg">
+  <channel id="Amaru Gaming vs Z10"><display-name>Amaru Gaming vs Z10</display-name></channel>
   <channel id="CBS"><display-name>CBS</display-name></channel>
   <channel id="ESPN"><display-name>ESPN</display-name></channel>
-  <channel id="Frogl vs Zenith"><display-name>Frogl vs Zenith</display-name></channel>
+  <channel id="InterActive vs PuckChamp"><display-name>InterActive vs PuckChamp</display-name></channel>
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
-  <channel id="potn9ki- vs Nemiga"><display-name>potn9ki- vs Nemiga</display-name></channel>
-  <channel id="potn9ki- vs Synapse"><display-name>potn9ki- vs Synapse</display-name></channel>
+  <channel id="步行者 vs 掘金"><display-name>步行者 vs 掘金</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
+  <programme start="20261108063000 +0800" stop="20261108090000 +0800" channel="Amaru Gaming vs Z10">
+    <title>Amaru vs Z10（DreamLeague D2 S5 - November 7）</title>
+    <category>体育</category>
+  </programme>
   <programme start="20261109020000 +0800" stop="20261109051948 +0800" channel="CBS">
     <title>New York Jets at Kansas City Chiefs（NFL）</title>
     <category>体育</category>
@@ -57,8 +61,8 @@
     <title>Golden State Warriors at Houston Rockets（NBA）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261107190529 +0800" stop="20261107194754 +0800" channel="Frogl vs Zenith">
-    <title>ZENITH vs Froglings（DreamLeague Division 2 Series 5）</title>
+  <programme start="20261108030633 +0800" stop="20261108040144 +0800" channel="InterActive vs PuckChamp">
+    <title>PuckChamp vs InterActive Philippines（DreamLeague Division 2 Series 5）</title>
     <category>体育</category>
   </programme>
   <programme start="20261108060000 +0800" stop="20261108084012 +0800" channel="NBA TV">
@@ -93,12 +97,8 @@
     <title>Pittsburgh Steelers at Cincinnati Bengals（NFL）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261107191405 +0800" stop="20261107194128 +0800" channel="potn9ki- vs Nemiga">
-    <title>potn9ki vs Nemiga Gaming（DreamLeague Division 2 Series 5）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261107233743 +0800" stop="20261108001941 +0800" channel="potn9ki- vs Synapse">
-    <title>potn9ki vs Team Synapse（DreamLeague Division 2 Series 5）</title>
+  <programme start="20261108060000 +0800" stop="20261108084012 +0800" channel="步行者 vs 掘金">
+    <title>Denver Nuggets at Indiana Pacers（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261109070000 +0800" stop="20261109094012 +0800" channel="活塞">
