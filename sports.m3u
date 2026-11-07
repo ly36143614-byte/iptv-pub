@@ -20,29 +20,31 @@ http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1102" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="伯塔斯女篮 vs 费内巴切女篮" tvg-chno="1103" tvg-name="伯塔斯女篮 vs 费内巴切女篮" tvg-group="篮球" group-title="篮球",伯塔斯女篮 vs 费内巴切女篮·聚合源
-http://192.168.5.35:44635/play/6cb196241dee4ee749b10a6ef0ac4b8d3202551a
-#EXTINF:-1 tvg-id="加拉塔萨雷女篮 vs 贝西克塔斯女篮" tvg-chno="1104" tvg-name="加拉塔萨雷女篮 vs 贝西克塔斯女篮" tvg-group="篮球" group-title="篮球",加拉塔萨雷女篮 vs 贝西克塔斯女篮·聚合源
+http://192.168.5.35:44635/play/49025caca64baf0072a3c516b8e6758235831dcf
+#EXTINF:-1 tvg-id="伯塔斯女篮 vs 费内巴切女篮" tvg-chno="1103" tvg-name="伯塔斯女篮 vs 费内巴切女篮" tvg-group="篮球" group-title="篮球",伯塔斯女篮 vs 费内巴切女篮·聚合源
+http://192.168.5.35:44635/play/898e0242806c463c2f59548d17a4664c386c0008
+#EXTINF:-1 tvg-id="候格斯堡女篮 vs 布拉赫女篮" tvg-chno="1104" tvg-name="候格斯堡女篮 vs 布拉赫女篮" tvg-group="篮球" group-title="篮球",候格斯堡女篮 vs 布拉赫女篮·聚合源
+http://192.168.5.35:44635/play/f3e68685db30d09a61c66dd39f87b3e1db617fd5
+#EXTINF:-1 tvg-id="加拉塔萨雷女篮 vs 贝西克塔斯女篮" tvg-chno="1105" tvg-name="加拉塔萨雷女篮 vs 贝西克塔斯女篮" tvg-group="篮球" group-title="篮球",加拉塔萨雷女篮 vs 贝西克塔斯女篮·聚合源
 http://192.168.5.35:44635/play/e2df46fe9c71ab8804d6096907584b67d704da86
-#EXTINF:-1 tvg-id="加拉塔萨雷女篮 vs 贝西克塔斯女篮" tvg-chno="1104" tvg-name="加拉塔萨雷女篮 vs 贝西克塔斯女篮" tvg-group="篮球" group-title="篮球",加拉塔萨雷女篮 vs 贝西克塔斯女篮·聚合源
+#EXTINF:-1 tvg-id="加拉塔萨雷女篮 vs 贝西克塔斯女篮" tvg-chno="1105" tvg-name="加拉塔萨雷女篮 vs 贝西克塔斯女篮" tvg-group="篮球" group-title="篮球",加拉塔萨雷女篮 vs 贝西克塔斯女篮·聚合源
 http://192.168.5.35:44635/play/e8bce6c8dda195ddd8686931404309e2081aa217
-#EXTINF:-1 tvg-id="卡伊罗瓦市 vs 博尔多篮球会" tvg-chno="1105" tvg-name="卡伊罗瓦市 vs 博尔多篮球会" tvg-group="篮球" group-title="篮球",卡伊罗瓦市 vs 博尔多篮球会·聚合源
+#EXTINF:-1 tvg-id="卡伊罗瓦市 vs 博尔多篮球会" tvg-chno="1106" tvg-name="卡伊罗瓦市 vs 博尔多篮球会" tvg-group="篮球" group-title="篮球",卡伊罗瓦市 vs 博尔多篮球会·聚合源
 http://192.168.5.35:44635/play/d2f73b513ff036e55d7a9b2792a3b800a7b18d30
-#EXTINF:-1 tvg-id="卡伊罗瓦市 vs 博尔多篮球会" tvg-chno="1105" tvg-name="卡伊罗瓦市 vs 博尔多篮球会" tvg-group="篮球" group-title="篮球",卡伊罗瓦市 vs 博尔多篮球会·聚合源
+#EXTINF:-1 tvg-id="卡伊罗瓦市 vs 博尔多篮球会" tvg-chno="1106" tvg-name="卡伊罗瓦市 vs 博尔多篮球会" tvg-group="篮球" group-title="篮球",卡伊罗瓦市 vs 博尔多篮球会·聚合源
 http://192.168.5.35:44635/play/bd7af1c33075dce5c75af1cb6bf8a4129da49cf2
-#EXTINF:-1 tvg-id="巴统RSU vs 第比利斯国立大学" tvg-chno="1106" tvg-name="巴统RSU vs 第比利斯国立大学" tvg-group="篮球" group-title="篮球",巴统RSU vs 第比利斯国立大学·聚合源
+#EXTINF:-1 tvg-id="巴统RSU vs 第比利斯国立大学" tvg-chno="1107" tvg-name="巴统RSU vs 第比利斯国立大学" tvg-group="篮球" group-title="篮球",巴统RSU vs 第比利斯国立大学·聚合源
 http://192.168.5.35:44635/play/1759d05adc646d6ea373142c88dc55a8c82060c5
-#EXTINF:-1 tvg-id="巴统RSU vs 第比利斯国立大学" tvg-chno="1106" tvg-name="巴统RSU vs 第比利斯国立大学" tvg-group="篮球" group-title="篮球",巴统RSU vs 第比利斯国立大学·聚合源
+#EXTINF:-1 tvg-id="巴统RSU vs 第比利斯国立大学" tvg-chno="1107" tvg-name="巴统RSU vs 第比利斯国立大学" tvg-group="篮球" group-title="篮球",巴统RSU vs 第比利斯国立大学·聚合源
 http://192.168.5.35:44635/play/840cc1f4e70584a2975092de6fddada6bbcd1f79
-#EXTINF:-1 tvg-id="广东奥普特女篮 vs 河南豫光金铅女篮" tvg-chno="1107" tvg-name="广东奥普特女篮 vs 河南豫光金铅女篮" tvg-group="篮球" group-title="篮球",广东奥普特女篮 vs 河南豫光金铅女篮·聚合源
+#EXTINF:-1 tvg-id="广东奥普特女篮 vs 河南豫光金铅女篮" tvg-chno="1108" tvg-name="广东奥普特女篮 vs 河南豫光金铅女篮" tvg-group="篮球" group-title="篮球",广东奥普特女篮 vs 河南豫光金铅女篮·聚合源
 http://192.168.5.35:44635/play/de80b4c9c98f1672e9c7a5736d308c7d0eab2ba3
-#EXTINF:-1 tvg-id="广东奥普特女篮 vs 河南豫光金铅女篮" tvg-chno="1107" tvg-name="广东奥普特女篮 vs 河南豫光金铅女篮" tvg-group="篮球" group-title="篮球",广东奥普特女篮 vs 河南豫光金铅女篮·聚合源
+#EXTINF:-1 tvg-id="广东奥普特女篮 vs 河南豫光金铅女篮" tvg-chno="1108" tvg-name="广东奥普特女篮 vs 河南豫光金铅女篮" tvg-group="篮球" group-title="篮球",广东奥普特女篮 vs 河南豫光金铅女篮·聚合源
 http://192.168.5.35:44635/play/71d1cb13016ee36b2035eafcebb61cd55b2d8f50
-#EXTINF:-1 tvg-id="武汉盛帆黄鹤女篮 vs 合肥文旅女篮" tvg-chno="1108" tvg-name="武汉盛帆黄鹤女篮 vs 合肥文旅女篮" tvg-group="篮球" group-title="篮球",武汉盛帆黄鹤女篮 vs 合肥文旅女篮·聚合源
+#EXTINF:-1 tvg-id="武汉盛帆黄鹤女篮 vs 合肥文旅女篮" tvg-chno="1109" tvg-name="武汉盛帆黄鹤女篮 vs 合肥文旅女篮" tvg-group="篮球" group-title="篮球",武汉盛帆黄鹤女篮 vs 合肥文旅女篮·聚合源
 http://192.168.5.35:44635/play/cb7698de696e80bdbbaa894547c947404e1c95ae
-#EXTINF:-1 tvg-id="武汉盛帆黄鹤女篮 vs 合肥文旅女篮" tvg-chno="1108" tvg-name="武汉盛帆黄鹤女篮 vs 合肥文旅女篮" tvg-group="篮球" group-title="篮球",武汉盛帆黄鹤女篮 vs 合肥文旅女篮·聚合源
+#EXTINF:-1 tvg-id="武汉盛帆黄鹤女篮 vs 合肥文旅女篮" tvg-chno="1109" tvg-name="武汉盛帆黄鹤女篮 vs 合肥文旅女篮" tvg-group="篮球" group-title="篮球",武汉盛帆黄鹤女篮 vs 合肥文旅女篮·聚合源
 http://192.168.5.35:44635/play/f07d4e448230b44c1dccf72e8758599911db9d7d
-#EXTINF:-1 tvg-id="里斯本竞技女篮 vs 巴雷鲁女篮" tvg-chno="1109" tvg-name="里斯本竞技女篮 vs 巴雷鲁女篮" tvg-group="篮球" group-title="篮球",里斯本竞技女篮 vs 巴雷鲁女篮·聚合源
-http://192.168.5.35:44635/play/069593b4a5cbabbfab3f1cd204ba3f6a254eee7b
 #EXTINF:-1 tvg-id="阿布拉韦弗斯 vs 圣胡安骑士" tvg-chno="1110" tvg-name="阿布拉韦弗斯 vs 圣胡安骑士" tvg-group="篮球" group-title="篮球",阿布拉韦弗斯 vs 圣胡安骑士·聚合源
 http://192.168.5.35:44635/play/1e59f849d4206afd7d7cfa25ace238fdc3918c5e
 #EXTINF:-1 tvg-id="阿布拉韦弗斯 vs 圣胡安骑士" tvg-chno="1110" tvg-name="阿布拉韦弗斯 vs 圣胡安骑士" tvg-group="篮球" group-title="篮球",阿布拉韦弗斯 vs 圣胡安骑士·聚合源
@@ -123,9 +125,13 @@ http://192.168.5.35:44635/play/3398a8f924d564d192ca8402e53c5bdd2e653cb3
 http://192.168.5.35:44635/play/c1147d5999facf4780450ecd223ee60052b1e84a
 #EXTINF:-1 tvg-id="Xipto vs PR" tvg-chno="1408" tvg-name="Xipto vs PR" tvg-group="DOTA2" group-title="DOTA2",Xipto vs PR·聚合源
 http://192.168.5.35:44635/play/208c06b26fa06424f4a9313a1e934b2ac66c3237
-#EXTINF:-1 tvg-id="potn9ki- vs Nemiga" tvg-chno="1409" tvg-name="potn9ki- vs Nemiga" tvg-group="DOTA2" group-title="DOTA2",potn9ki- vs Nemiga·聚合源
+#EXTINF:-1 tvg-id="oveA vs MENA Warriors" tvg-chno="1409" tvg-name="oveA vs MENA Warriors" tvg-group="DOTA2" group-title="DOTA2",oveA vs MENA Warriors·聚合源
+http://192.168.5.35:44635/play/428534ff497a2d1eebc9fe8988cf6dc1807864e5
+#EXTINF:-1 tvg-id="oveA vs MENA Warriors" tvg-chno="1409" tvg-name="oveA vs MENA Warriors" tvg-group="DOTA2" group-title="DOTA2",oveA vs MENA Warriors·聚合源
+http://192.168.5.35:44635/play/6399b6271fe7392c92036400d975c10eca004305
+#EXTINF:-1 tvg-id="potn9ki- vs Nemiga" tvg-chno="1410" tvg-name="potn9ki- vs Nemiga" tvg-group="DOTA2" group-title="DOTA2",potn9ki- vs Nemiga·聚合源
 http://192.168.5.35:44635/play/b9f7f44e695a88fcb61f97b569374251bd1fcc38
-#EXTINF:-1 tvg-id="potn9ki- vs Nemiga" tvg-chno="1409" tvg-name="potn9ki- vs Nemiga" tvg-group="DOTA2" group-title="DOTA2",potn9ki- vs Nemiga·聚合源
+#EXTINF:-1 tvg-id="potn9ki- vs Nemiga" tvg-chno="1410" tvg-name="potn9ki- vs Nemiga" tvg-group="DOTA2" group-title="DOTA2",potn9ki- vs Nemiga·聚合源
 http://192.168.5.35:44635/play/d45a6c13745a852b0fcbeb5751cf2572a9409f03
 #EXTINF:-1 tvg-id="11-07 黄蜂 vs 凯尔特人" tvg-chno="1501" tvg-name="11-07 黄蜂 vs 凯尔特人" tvg-group="NBA回放" group-title="NBA回放",11-07 黄蜂 vs 凯尔特人
 http://192.168.5.35:8098/f/2026-11-07%20%E9%BB%84%E8%9C%82%20vs%20%E5%87%AF%E5%B0%94%E7%89%B9%E4%BA%BA.mkv
