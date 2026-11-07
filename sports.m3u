@@ -19,14 +19,12 @@ http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1102" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="伯塔斯女篮 vs 费内巴切女篮" tvg-chno="1103" tvg-name="伯塔斯女篮 vs 费内巴切女篮" tvg-group="篮球" group-title="篮球",伯塔斯女篮 vs 费内巴切女篮·聚合源
-http://192.168.5.35:44635/play/49025caca64baf0072a3c516b8e6758235831dcf
-#EXTINF:-1 tvg-id="伯塔斯女篮 vs 费内巴切女篮" tvg-chno="1103" tvg-name="伯塔斯女篮 vs 费内巴切女篮" tvg-group="篮球" group-title="篮球",伯塔斯女篮 vs 费内巴切女篮·聚合源
-http://192.168.5.35:44635/play/898e0242806c463c2f59548d17a4664c386c0008
-#EXTINF:-1 tvg-id="土耳其电信 vs 科尔菲兹" tvg-chno="1104" tvg-name="土耳其电信 vs 科尔菲兹" tvg-group="篮球" group-title="篮球",土耳其电信 vs 科尔菲兹·聚合源
+#EXTINF:-1 tvg-id="土耳其电信 vs 科尔菲兹" tvg-chno="1103" tvg-name="土耳其电信 vs 科尔菲兹" tvg-group="篮球" group-title="篮球",土耳其电信 vs 科尔菲兹·聚合源
 http://192.168.5.35:44635/play/d7cdfe4fb4715438efc3a22a433183c31774d702
-#EXTINF:-1 tvg-id="土耳其电信 vs 科尔菲兹" tvg-chno="1104" tvg-name="土耳其电信 vs 科尔菲兹" tvg-group="篮球" group-title="篮球",土耳其电信 vs 科尔菲兹·聚合源
+#EXTINF:-1 tvg-id="土耳其电信 vs 科尔菲兹" tvg-chno="1103" tvg-name="土耳其电信 vs 科尔菲兹" tvg-group="篮球" group-title="篮球",土耳其电信 vs 科尔菲兹·聚合源
 http://192.168.5.35:44635/play/2c4779ea6c0655829a6e683f053cf1be996f6440
+#EXTINF:-1 tvg-id="帕兰加库尔希艾 vs 欧米茄金牛座" tvg-chno="1104" tvg-name="帕兰加库尔希艾 vs 欧米茄金牛座" tvg-group="篮球" group-title="篮球",帕兰加库尔希艾 vs 欧米茄金牛座·聚合源
+http://192.168.5.35:44635/play/6f7bda8cf46ba543aa6001ea01cc4f43411b098c
 #EXTINF:-1 tvg-id="广东奥普特女篮 vs 河南豫光金铅女篮" tvg-chno="1105" tvg-name="广东奥普特女篮 vs 河南豫光金铅女篮" tvg-group="篮球" group-title="篮球",广东奥普特女篮 vs 河南豫光金铅女篮·聚合源
 http://192.168.5.35:44635/play/de80b4c9c98f1672e9c7a5736d308c7d0eab2ba3
 #EXTINF:-1 tvg-id="广东奥普特女篮 vs 河南豫光金铅女篮" tvg-chno="1105" tvg-name="广东奥普特女篮 vs 河南豫光金铅女篮" tvg-group="篮球" group-title="篮球",广东奥普特女篮 vs 河南豫光金铅女篮·聚合源
@@ -41,9 +39,11 @@ http://192.168.5.35:44635/play/7823204cf97b2b3ac31acc17c53b61e36d88e086
 http://192.168.5.35:44635/play/682b3cc534aa2feb19678c75a0df3cb9ff12a1c1
 #EXTINF:-1 tvg-id="科勒基尔 vs 切克梅杰" tvg-chno="1108" tvg-name="科勒基尔 vs 切克梅杰" tvg-group="篮球" group-title="篮球",科勒基尔 vs 切克梅杰·聚合源
 http://192.168.5.35:44635/play/e9b4c7a8dcbe55cff26ba0a9a679dcbd91ecd102
-#EXTINF:-1 tvg-id="阿布拉韦弗斯 vs 圣胡安骑士" tvg-chno="1109" tvg-name="阿布拉韦弗斯 vs 圣胡安骑士" tvg-group="篮球" group-title="篮球",阿布拉韦弗斯 vs 圣胡安骑士·聚合源
+#EXTINF:-1 tvg-id="莱夫卡扎荣耀 vs 阿里斯" tvg-chno="1109" tvg-name="莱夫卡扎荣耀 vs 阿里斯" tvg-group="篮球" group-title="篮球",莱夫卡扎荣耀 vs 阿里斯·聚合源
+http://192.168.5.35:44635/play/cbf8ca898e6f7980fe66180f03e36fa241e9b37a
+#EXTINF:-1 tvg-id="阿布拉韦弗斯 vs 圣胡安骑士" tvg-chno="1110" tvg-name="阿布拉韦弗斯 vs 圣胡安骑士" tvg-group="篮球" group-title="篮球",阿布拉韦弗斯 vs 圣胡安骑士·聚合源
 http://192.168.5.35:44635/play/1e59f849d4206afd7d7cfa25ace238fdc3918c5e
-#EXTINF:-1 tvg-id="阿布拉韦弗斯 vs 圣胡安骑士" tvg-chno="1109" tvg-name="阿布拉韦弗斯 vs 圣胡安骑士" tvg-group="篮球" group-title="篮球",阿布拉韦弗斯 vs 圣胡安骑士·聚合源
+#EXTINF:-1 tvg-id="阿布拉韦弗斯 vs 圣胡安骑士" tvg-chno="1110" tvg-name="阿布拉韦弗斯 vs 圣胡安骑士" tvg-group="篮球" group-title="篮球",阿布拉韦弗斯 vs 圣胡安骑士·聚合源
 http://192.168.5.35:44635/play/60e897b16e796e27313abbcb0c67aec8d3bb4ca3
 #EXTINF:-1 tvg-id="利兹联 vs 热刺" tvg-chno="1201" tvg-name="利兹联 vs 热刺" tvg-group="足球" group-title="足球",利兹联 vs 热刺·咪咕直播·720P
 http://192.168.5.35:35456/jrs/%E5%88%A9%E5%85%B9%E8%81%94%20vs%20%E7%83%AD%E5%88%BA%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
@@ -114,11 +114,11 @@ http://192.168.5.35:44635/play/8fa23f49eed0e361438ec1aed08a9017094f59cf
 #EXTINF:-1 tvg-id="Frogl vs Zenith" tvg-chno="1402" tvg-name="Frogl vs Zenith" tvg-group="DOTA2" group-title="DOTA2",Frogl vs Zenith·聚合源
 http://192.168.5.35:44635/play/8591b5bf57acebeeb2a453958fbd101cce3385c6
 #EXTINF:-1 tvg-id="L1ga Team vs Team Legion" tvg-chno="1403" tvg-name="L1ga Team vs Team Legion" tvg-group="DOTA2" group-title="DOTA2",L1ga Team vs Team Legion·聚合源
-http://192.168.5.35:44635/play/6246b63bdeaa924d74916c2cad0c83aa21234628
-#EXTINF:-1 tvg-id="L1ga Team vs Team Legion" tvg-chno="1403" tvg-name="L1ga Team vs Team Legion" tvg-group="DOTA2" group-title="DOTA2",L1ga Team vs Team Legion·聚合源
 http://192.168.5.35:44635/play/fa581084ec03d60f5518521ca5baa626b0a15a24
 #EXTINF:-1 tvg-id="L1ga Team vs Team Legion" tvg-chno="1403" tvg-name="L1ga Team vs Team Legion" tvg-group="DOTA2" group-title="DOTA2",L1ga Team vs Team Legion·聚合源
-http://192.168.5.35:44635/play/3b0d1555824eb688b4fb11e4a6cfa3d49e7975da
+http://192.168.5.35:44635/play/6246b63bdeaa924d74916c2cad0c83aa21234628
+#EXTINF:-1 tvg-id="L1ga Team vs Team Legion" tvg-chno="1403" tvg-name="L1ga Team vs Team Legion" tvg-group="DOTA2" group-title="DOTA2",L1ga Team vs Team Legion·聚合源
+http://192.168.5.35:44635/play/f9369ed28b347076c29490f6b83f3e86e882ee0e
 #EXTINF:-1 tvg-id="PR vs Zenith" tvg-chno="1404" tvg-name="PR vs Zenith" tvg-group="DOTA2" group-title="DOTA2",PR vs Zenith·聚合源
 http://192.168.5.35:44635/play/9fec2578983d7c6e2082e98aa5e5b1297e880733
 #EXTINF:-1 tvg-id="PR vs Zenith" tvg-chno="1404" tvg-name="PR vs Zenith" tvg-group="DOTA2" group-title="DOTA2",PR vs Zenith·聚合源
