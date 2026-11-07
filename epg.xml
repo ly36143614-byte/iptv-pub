@@ -7,7 +7,6 @@
   <channel id="国王 vs 马刺"><display-name>国王 vs 马刺</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
   <channel id="湖人 vs 开拓者"><display-name>湖人 vs 开拓者</display-name></channel>
-  <channel id="灰熊 vs 雷霆"><display-name>灰熊 vs 雷霆</display-name></channel>
   <channel id="老鹰 vs 奇才"><display-name>老鹰 vs 奇才</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <channel id="雄鹿 vs 猛龙"><display-name>雄鹿 vs 猛龙</display-name></channel>
@@ -74,10 +73,6 @@
     <title>Portland Trail Blazers at Los Angeles Lakers（NBA）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261107090000 +0800" stop="20261107114012 +0800" channel="灰熊 vs 雷霆">
-    <title>Oklahoma City Thunder at Memphis Grizzlies 已结束（NBA）</title>
-    <category>体育</category>
-  </programme>
   <programme start="20261107080000 +0800" stop="20261107104012 +0800" channel="老鹰 vs 奇才">
     <title>Washington Wizards at Atlanta Hawks 已结束（NBA）</title>
     <category>体育</category>
@@ -91,7 +86,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261107143000 +0800" stop="20261107150000 +0800" channel="赛程预告">
-    <title>中甲：广东广州豹 vs 南京城市；深圳青年人 vs 苏州东吴；无锡吴钩 vs 长春亚泰；陕西联合 vs 广西恒宸；大连鲲城 vs 梅州客家；延边龙鼎 vs 石家庄功夫；宁波 vs 定南赣联；南通支云 vs 佛山南狮</title>
+    <title>中甲：广东广州豹 vs 南京城市；深圳青年人 vs 苏州东吴；无锡吴钩 vs 长春亚泰；延边龙鼎 vs 石家庄功夫；大连鲲城 vs 梅州客家；宁波 vs 定南赣联；南通支云 vs 佛山南狮；陕西联合 vs 广西恒宸</title>
     <category>体育</category>
   </programme>
   <programme start="20261107150000 +0800" stop="20261107153000 +0800" channel="赛程预告">
@@ -139,7 +134,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261107223000 +0800" stop="20261107230000 +0800" channel="赛程预告">
-    <title>德甲：莱红牛 vs 奥格斯堡；德甲：帕德博恩 vs 法兰克福；德甲：多特蒙德 vs 埃沃斯堡；德甲：美因茨 vs 拜仁；足球：达曼协作 vs 利雅得新月；德甲：多特蒙德 vs 埃尔沃斯贝格；RB莱比锡：RB莱比锡 vs 奥格斯堡；德甲：美因茨 vs 拜仁慕尼黑</title>
+    <title>德甲：莱红牛 vs 奥格斯堡；德甲：帕德博恩 vs 法兰克福；德甲：多特蒙德 vs 埃沃斯堡；德甲：美因茨 vs 拜仁；足球：达曼协作 vs 利雅得新月；RB莱比锡：RB莱比锡 vs 奥格斯堡；德甲：美因茨 vs 拜仁慕尼黑；德甲：多特蒙德 vs 埃尔沃斯贝格</title>
     <category>体育</category>
   </programme>
   <programme start="20261107230000 +0800" stop="20261107231500 +0800" channel="赛程预告">
@@ -239,7 +234,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261108153000 +0800" stop="20261108180000 +0800" channel="赛程预告">
-    <title>韩职：江原FC vs 全北现代；中超：大连英博 vs 天津津门虎；中超：山东泰山 vs 成都蓉城；中超：上海海港 vs 辽宁铁人；中超：上海申花 vs 青岛西海岸；中超：青岛海牛 vs 深圳新鹏城；中超：浙江 vs 河南；中超：北京国安 vs 重庆铜梁龙；中超：云南玉昆 vs 武汉三镇</title>
+    <title>韩职：江原FC vs 全北现代；中超：大连英博 vs 天津津门虎；中超：山东泰山 vs 成都蓉城；中超：青岛海牛 vs 深圳新鹏城；中超：上海申花 vs 青岛西海岸；中超：上海海港 vs 辽宁铁人；中超：浙江 vs 河南；中超：北京国安 vs 重庆铜梁龙；中超：云南玉昆 vs 武汉三镇</title>
     <category>体育</category>
   </programme>
   <programme start="20261108180000 +0800" stop="20261108191500 +0800" channel="赛程预告">
