@@ -86,11 +86,7 @@ http://192.168.5.35:35456/jrs/%E7%8B%AC%E8%A1%8C%E4%BE%A0%20vs%20%E7%88%B5%E5%A3
 #EXTINF:-1 tvg-id="独行侠 vs 爵士" tvg-chno="1115" tvg-name="独行侠 vs 爵士" tvg-group="篮球" group-title="篮球",独行侠 vs 爵士·腾讯直播1·720P
 http://192.168.5.35:35456/jrs/%E7%8B%AC%E8%A1%8C%E4%BE%A0%20vs%20%E7%88%B5%E5%A3%AB%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
 #EXTINF:-1 tvg-id="独行侠 vs 爵士" tvg-chno="1115" tvg-name="独行侠 vs 爵士" tvg-group="篮球" group-title="篮球",独行侠 vs 爵士·腾讯直播1·720P
-http://192.168.5.35:44635/play/4f6f9dc81a48b6041bf137f58fd5cc2f465c9621
-#EXTINF:-1 tvg-id="独行侠 vs 爵士" tvg-chno="1115" tvg-name="独行侠 vs 爵士" tvg-group="篮球" group-title="篮球",独行侠 vs 爵士·腾讯直播1·720P
-http://192.168.5.35:44635/play/2ad366c6ed55a3f733612dfeac060571ae5cca14
-#EXTINF:-1 tvg-id="独行侠 vs 爵士" tvg-chno="1115" tvg-name="独行侠 vs 爵士" tvg-group="篮球" group-title="篮球",独行侠 vs 爵士·腾讯直播1·720P
-http://192.168.5.35:44635/play/ca927e5d68a264b32443801f19498a77fb36ce10
+http://192.168.5.35:44635/play/ccc302c533516c71efba1ea7b4491dd52a8d93bd
 #EXTINF:-1 tvg-id="路易斯安那拉法叶分校 vs 得州哥普斯克里斯分校" tvg-chno="1116" tvg-name="路易斯安那拉法叶分校 vs 得州哥普斯克里斯分校" tvg-group="篮球" group-title="篮球",路易斯安那拉法叶分校 vs 得州哥普斯克里斯分校·聚合源
 http://192.168.5.35:44635/play/a3653dbd1faff6a64bd06c2cc9dfa99ed8ccbaac
 #EXTINF:-1 tvg-id="路易斯安那拉法叶分校 vs 得州哥普斯克里斯分校" tvg-chno="1116" tvg-name="路易斯安那拉法叶分校 vs 得州哥普斯克里斯分校" tvg-group="篮球" group-title="篮球",路易斯安那拉法叶分校 vs 得州哥普斯克里斯分校·聚合源
@@ -165,13 +161,9 @@ http://192.168.5.35:44635/play/57a0f39e240f49b149d4597e39b6672c32872b90
 http://192.168.5.35:44635/play/c42618ebfe8380cb29a83e280eb1ff7ee4e81491
 #EXTINF:-1 tvg-id="菲利米德海湾 vs 惠灵顿凤凰后备队" tvg-chno="1212" tvg-name="菲利米德海湾 vs 惠灵顿凤凰后备队" tvg-group="足球" group-title="足球",菲利米德海湾 vs 惠灵顿凤凰后备队·聚合源
 http://192.168.5.35:44635/play/f08181f74478b8977ec239db853191c62a3b48bc
-#EXTINF:-1 tvg-id="蓝十字女足 vs 莱昂女足" tvg-chno="1213" tvg-name="蓝十字女足 vs 莱昂女足" tvg-group="足球" group-title="足球",蓝十字女足 vs 莱昂女足·聚合源
-http://192.168.5.35:44635/play/2c6f341c910eabd408d13bbd774caa431166bca1
-#EXTINF:-1 tvg-id="蓝十字女足 vs 莱昂女足" tvg-chno="1213" tvg-name="蓝十字女足 vs 莱昂女足" tvg-group="足球" group-title="足球",蓝十字女足 vs 莱昂女足·聚合源
-http://192.168.5.35:44635/play/b9568e1758774003433d11bf238b9f1604f93461
-#EXTINF:-1 tvg-id="马可尼 vs 湾水市" tvg-chno="1214" tvg-name="马可尼 vs 湾水市" tvg-group="足球" group-title="足球",马可尼 vs 湾水市·聚合源
+#EXTINF:-1 tvg-id="马可尼 vs 湾水市" tvg-chno="1213" tvg-name="马可尼 vs 湾水市" tvg-group="足球" group-title="足球",马可尼 vs 湾水市·聚合源
 http://192.168.5.35:44635/play/97921a1f98b0ee68392a7291a4620ee8132d0aaa
-#EXTINF:-1 tvg-id="马可尼 vs 湾水市" tvg-chno="1214" tvg-name="马可尼 vs 湾水市" tvg-group="足球" group-title="足球",马可尼 vs 湾水市·聚合源
+#EXTINF:-1 tvg-id="马可尼 vs 湾水市" tvg-chno="1213" tvg-name="马可尼 vs 湾水市" tvg-group="足球" group-title="足球",马可尼 vs 湾水市·聚合源
 http://192.168.5.35:44635/play/67ba00dbf1cd94a47de7a3cd0a28736a18407195
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
