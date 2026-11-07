@@ -43,14 +43,14 @@ http://192.168.5.35:44635/play/a1c49a2bf8e8add0e2c059cdd8c0a450cecb382a
 http://192.168.5.35:44635/play/245edfa5cbc9c6e268132ce3e98f5f1cef863b74
 #EXTINF:-1 tvg-id="印第安纳大学波利斯分校 vs 田纳西大学马丁分校" tvg-chno="1108" tvg-name="印第安纳大学波利斯分校 vs 田纳西大学马丁分校" tvg-group="篮球" group-title="篮球",印第安纳大学波利斯分校 vs 田纳西大学马丁分校·聚合源
 http://192.168.5.35:44635/play/8e3e893ad52759b6a18ac8510ac7771698625ff7
-#EXTINF:-1 tvg-id="巴克尼尔大学 vs 欧道明大学" tvg-chno="1109" tvg-name="巴克尼尔大学 vs 欧道明大学" tvg-group="篮球" group-title="篮球",巴克尼尔大学 vs 欧道明大学·聚合源
+#EXTINF:-1 tvg-id="圣塔克拉拉女篮 vs 犹他谷大学女篮" tvg-chno="1109" tvg-name="圣塔克拉拉女篮 vs 犹他谷大学女篮" tvg-group="篮球" group-title="篮球",圣塔克拉拉女篮 vs 犹他谷大学女篮·聚合源
+http://192.168.5.35:44635/play/96c50a52ac1fb63f3dec53c4e52e640ef5771c99
+#EXTINF:-1 tvg-id="圣塔克拉拉女篮 vs 犹他谷大学女篮" tvg-chno="1109" tvg-name="圣塔克拉拉女篮 vs 犹他谷大学女篮" tvg-group="篮球" group-title="篮球",圣塔克拉拉女篮 vs 犹他谷大学女篮·聚合源
+http://192.168.5.35:44635/play/5addb41b13dc452d009be67c74e98f052cb100d2
+#EXTINF:-1 tvg-id="巴克尼尔大学 vs 欧道明大学" tvg-chno="1110" tvg-name="巴克尼尔大学 vs 欧道明大学" tvg-group="篮球" group-title="篮球",巴克尼尔大学 vs 欧道明大学·聚合源
 http://192.168.5.35:44635/play/36d7e7ddf567fb31e29b65166968c50fe3809086
-#EXTINF:-1 tvg-id="巴克尼尔大学 vs 欧道明大学" tvg-chno="1109" tvg-name="巴克尼尔大学 vs 欧道明大学" tvg-group="篮球" group-title="篮球",巴克尼尔大学 vs 欧道明大学·聚合源
+#EXTINF:-1 tvg-id="巴克尼尔大学 vs 欧道明大学" tvg-chno="1110" tvg-name="巴克尼尔大学 vs 欧道明大学" tvg-group="篮球" group-title="篮球",巴克尼尔大学 vs 欧道明大学·聚合源
 http://192.168.5.35:44635/play/faf6b03d966446b34221588cb533b38418c7ac2e
-#EXTINF:-1 tvg-id="帕图 vs 弗拉门戈" tvg-chno="1110" tvg-name="帕图 vs 弗拉门戈" tvg-group="篮球" group-title="篮球",帕图 vs 弗拉门戈·聚合源
-http://192.168.5.35:44635/play/ba4845043bb8bb841634a12170ceb9e38ae237e4
-#EXTINF:-1 tvg-id="帕图 vs 弗拉门戈" tvg-chno="1110" tvg-name="帕图 vs 弗拉门戈" tvg-group="篮球" group-title="篮球",帕图 vs 弗拉门戈·聚合源
-http://192.168.5.35:44635/play/304c5a0caaa1ab04e1725f06e5a6b314ab927e66
 #EXTINF:-1 tvg-id="弗尔曼大学 vs 北爱荷华大学" tvg-chno="1111" tvg-name="弗尔曼大学 vs 北爱荷华大学" tvg-group="篮球" group-title="篮球",弗尔曼大学 vs 北爱荷华大学·聚合源
 http://192.168.5.35:44635/play/42a360b87b51bc80375bd43ff44ca3d97f375f22
 #EXTINF:-1 tvg-id="弗尔曼大学 vs 北爱荷华大学" tvg-chno="1111" tvg-name="弗尔曼大学 vs 北爱荷华大学" tvg-group="篮球" group-title="篮球",弗尔曼大学 vs 北爱荷华大学·聚合源
@@ -79,35 +79,31 @@ http://192.168.5.35:44635/play/6d9b94955d0a66143ce236375719a0c933b9398f
 http://192.168.5.35:44635/play/8161e0721ae851108d34747e7ef4fe8e6b895dc1
 #EXTINF:-1 tvg-id="亚松森自由 vs 巴拉圭民族" tvg-chno="1201" tvg-name="亚松森自由 vs 巴拉圭民族" tvg-group="足球" group-title="足球",亚松森自由 vs 巴拉圭民族·聚合源
 http://192.168.5.35:44635/play/4faf3d4cebbb03d5d3d1da5e3d58876b9de591cd
-#EXTINF:-1 tvg-id="北莱昂内斯俱乐部 vs 瓜亚基尔城" tvg-chno="1202" tvg-name="北莱昂内斯俱乐部 vs 瓜亚基尔城" tvg-group="足球" group-title="足球",北莱昂内斯俱乐部 vs 瓜亚基尔城·聚合源
-http://192.168.5.35:44635/play/95281a9922264a235bf785bdcbc5602032d7eaf9
-#EXTINF:-1 tvg-id="北莱昂内斯俱乐部 vs 瓜亚基尔城" tvg-chno="1202" tvg-name="北莱昂内斯俱乐部 vs 瓜亚基尔城" tvg-group="足球" group-title="足球",北莱昂内斯俱乐部 vs 瓜亚基尔城·聚合源
-http://192.168.5.35:44635/play/e0d3fa643d7f905888b77611e4d1f946313c48db
-#EXTINF:-1 tvg-id="卡塔根纳 vs 索阿查" tvg-chno="1203" tvg-name="卡塔根纳 vs 索阿查" tvg-group="足球" group-title="足球",卡塔根纳 vs 索阿查·聚合源
+#EXTINF:-1 tvg-id="卡塔根纳 vs 索阿查" tvg-chno="1202" tvg-name="卡塔根纳 vs 索阿查" tvg-group="足球" group-title="足球",卡塔根纳 vs 索阿查·聚合源
 http://192.168.5.35:44635/play/369736820afb18d75192d0e1a746bbdce86ba9a0
-#EXTINF:-1 tvg-id="卡塔根纳 vs 索阿查" tvg-chno="1203" tvg-name="卡塔根纳 vs 索阿查" tvg-group="足球" group-title="足球",卡塔根纳 vs 索阿查·聚合源
+#EXTINF:-1 tvg-id="卡塔根纳 vs 索阿查" tvg-chno="1202" tvg-name="卡塔根纳 vs 索阿查" tvg-group="足球" group-title="足球",卡塔根纳 vs 索阿查·聚合源
 http://192.168.5.35:44635/play/44a609ec030cb64ee9346d6952f5704209edda44
-#EXTINF:-1 tvg-id="国民竞技 vs 佩雷拉" tvg-chno="1204" tvg-name="国民竞技 vs 佩雷拉" tvg-group="足球" group-title="足球",国民竞技 vs 佩雷拉·聚合源
+#EXTINF:-1 tvg-id="国民竞技 vs 佩雷拉" tvg-chno="1203" tvg-name="国民竞技 vs 佩雷拉" tvg-group="足球" group-title="足球",国民竞技 vs 佩雷拉·聚合源
 http://192.168.5.35:44635/play/5fb8bdd07dfa14416487687665f37e66ac358e45
-#EXTINF:-1 tvg-id="国民竞技 vs 佩雷拉" tvg-chno="1204" tvg-name="国民竞技 vs 佩雷拉" tvg-group="足球" group-title="足球",国民竞技 vs 佩雷拉·聚合源
+#EXTINF:-1 tvg-id="国民竞技 vs 佩雷拉" tvg-chno="1203" tvg-name="国民竞技 vs 佩雷拉" tvg-group="足球" group-title="足球",国民竞技 vs 佩雷拉·聚合源
 http://192.168.5.35:44635/play/641fdc1c8926c6ba9ce366ddfcd052fef85b3bc4
-#EXTINF:-1 tvg-id="库亚巴 vs 尤文图德" tvg-chno="1205" tvg-name="库亚巴 vs 尤文图德" tvg-group="足球" group-title="足球",库亚巴 vs 尤文图德·聚合源
+#EXTINF:-1 tvg-id="库亚巴 vs 尤文图德" tvg-chno="1204" tvg-name="库亚巴 vs 尤文图德" tvg-group="足球" group-title="足球",库亚巴 vs 尤文图德·聚合源
 http://192.168.5.35:44635/play/ef507637e7f728c757405ea720427c4f0c9f3a5a
-#EXTINF:-1 tvg-id="库亚巴 vs 尤文图德" tvg-chno="1205" tvg-name="库亚巴 vs 尤文图德" tvg-group="足球" group-title="足球",库亚巴 vs 尤文图德·聚合源
+#EXTINF:-1 tvg-id="库亚巴 vs 尤文图德" tvg-chno="1204" tvg-name="库亚巴 vs 尤文图德" tvg-group="足球" group-title="足球",库亚巴 vs 尤文图德·聚合源
 http://192.168.5.35:44635/play/778a0490be04948ab76ba497185030ce3b69476d
-#EXTINF:-1 tvg-id="梅尔加 vs 巴勃罗B队" tvg-chno="1206" tvg-name="梅尔加 vs 巴勃罗B队" tvg-group="足球" group-title="足球",梅尔加 vs 巴勃罗B队·聚合源
+#EXTINF:-1 tvg-id="梅尔加 vs 巴勃罗B队" tvg-chno="1205" tvg-name="梅尔加 vs 巴勃罗B队" tvg-group="足球" group-title="足球",梅尔加 vs 巴勃罗B队·聚合源
 http://192.168.5.35:44635/play/bfa170283c8aa42e64299b7b532f54d65403af8d
-#EXTINF:-1 tvg-id="梅尔加 vs 巴勃罗B队" tvg-chno="1206" tvg-name="梅尔加 vs 巴勃罗B队" tvg-group="足球" group-title="足球",梅尔加 vs 巴勃罗B队·聚合源
+#EXTINF:-1 tvg-id="梅尔加 vs 巴勃罗B队" tvg-chno="1205" tvg-name="梅尔加 vs 巴勃罗B队" tvg-group="足球" group-title="足球",梅尔加 vs 巴勃罗B队·聚合源
 http://192.168.5.35:44635/play/57c8496dd01578ad1c6becf9512c3d427471b6dc
-#EXTINF:-1 tvg-id="维拉诺瓦 vs 克里丘马" tvg-chno="1207" tvg-name="维拉诺瓦 vs 克里丘马" tvg-group="足球" group-title="足球",维拉诺瓦 vs 克里丘马·聚合源
+#EXTINF:-1 tvg-id="维拉诺瓦 vs 克里丘马" tvg-chno="1206" tvg-name="维拉诺瓦 vs 克里丘马" tvg-group="足球" group-title="足球",维拉诺瓦 vs 克里丘马·聚合源
 http://192.168.5.35:44635/play/6fd881e1d4c1194e64ead09e6f22c5b3a70eafa5
-#EXTINF:-1 tvg-id="维拉诺瓦 vs 克里丘马" tvg-chno="1207" tvg-name="维拉诺瓦 vs 克里丘马" tvg-group="足球" group-title="足球",维拉诺瓦 vs 克里丘马·聚合源
+#EXTINF:-1 tvg-id="维拉诺瓦 vs 克里丘马" tvg-chno="1206" tvg-name="维拉诺瓦 vs 克里丘马" tvg-group="足球" group-title="足球",维拉诺瓦 vs 克里丘马·聚合源
 http://192.168.5.35:44635/play/a5ecaba33091e187cdb823883cd406c414bf8962
-#EXTINF:-1 tvg-id="阿特拉斯 vs 帕丘卡" tvg-chno="1208" tvg-name="阿特拉斯 vs 帕丘卡" tvg-group="足球1080" group-title="足球1080",阿特拉斯 vs 帕丘卡·1080P原声
+#EXTINF:-1 tvg-id="阿特拉斯 vs 帕丘卡" tvg-chno="1207" tvg-name="阿特拉斯 vs 帕丘卡" tvg-group="足球1080" group-title="足球1080",阿特拉斯 vs 帕丘卡·1080P原声
 http://192.168.5.35:35456/jrs/%E9%98%BF%E7%89%B9%E6%8B%89%E6%96%AF%20vs%20%E5%B8%95%E4%B8%98%E5%8D%A1%C2%B71080P%E5%8E%9F%E5%A3%B0
-#EXTINF:-1 tvg-id="阿特拉斯 vs 帕丘卡" tvg-chno="1208" tvg-name="阿特拉斯 vs 帕丘卡" tvg-group="足球1080" group-title="足球1080",阿特拉斯 vs 帕丘卡·1080P原声
+#EXTINF:-1 tvg-id="阿特拉斯 vs 帕丘卡" tvg-chno="1207" tvg-name="阿特拉斯 vs 帕丘卡" tvg-group="足球1080" group-title="足球1080",阿特拉斯 vs 帕丘卡·1080P原声
 http://192.168.5.35:44635/play/e9bdb9d4fef12e13def6689755640598334a50bf
-#EXTINF:-1 tvg-id="阿特拉斯 vs 帕丘卡" tvg-chno="1208" tvg-name="阿特拉斯 vs 帕丘卡" tvg-group="足球1080" group-title="足球1080",阿特拉斯 vs 帕丘卡·1080P原声
+#EXTINF:-1 tvg-id="阿特拉斯 vs 帕丘卡" tvg-chno="1207" tvg-name="阿特拉斯 vs 帕丘卡" tvg-group="足球1080" group-title="足球1080",阿特拉斯 vs 帕丘卡·1080P原声
 http://192.168.5.35:44635/play/1c6e8d3eeb6ef9fe20988532649834cc418c6c4f
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
@@ -115,13 +111,11 @@ http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1303" tvg-name="ESPN" tvg-group="综合体育" group-title="综合体育",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1304" tvg-name="Tennis Channel" tvg-group="综合体育" group-title="综合体育",Tennis Channel
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1305" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1304" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1305" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1307" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1306" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
