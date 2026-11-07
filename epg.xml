@@ -5,6 +5,7 @@
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
+  <channel id="湖人 vs 开拓者"><display-name>湖人 vs 开拓者</display-name></channel>
   <channel id="灰熊 vs 雷霆"><display-name>灰熊 vs 雷霆</display-name></channel>
   <channel id="独行侠 vs 爵士"><display-name>独行侠 vs 爵士</display-name></channel>
   <channel id="老鹰 vs 奇才"><display-name>老鹰 vs 奇才</display-name></channel>
@@ -63,6 +64,10 @@
   </programme>
   <programme start="20261109070000 +0800" stop="20261109094012 +0800" channel="活塞">
     <title>NBA：活塞 vs 湖人</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261107110000 +0800" stop="20261107134012 +0800" channel="湖人 vs 开拓者">
+    <title>Portland Trail Blazers at Los Angeles Lakers（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261107090000 +0800" stop="20261107114012 +0800" channel="灰熊 vs 雷霆">
