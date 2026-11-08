@@ -4,6 +4,8 @@
   <channel id="ESPN"><display-name>ESPN</display-name></channel>
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
+  <channel id="Nemiga vs Synapse"><display-name>Nemiga vs Synapse</display-name></channel>
+  <channel id="Xipto vs Zenith"><display-name>Xipto vs Zenith</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <programme start="20261109020000 +0800" stop="20261109051948 +0800" channel="CBS">
@@ -86,16 +88,20 @@
     <title>Pittsburgh Steelers at Cincinnati Bengals（NFL）</title>
     <category>体育</category>
   </programme>
+  <programme start="20261108180000 +0800" stop="20261108203000 +0800" channel="Nemiga vs Synapse">
+    <title>Nemiga vs Synapse（DreamLeague D2 S5 - November 8）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261108180000 +0800" stop="20261108203000 +0800" channel="Xipto vs Zenith">
+    <title>Xipto vs ZENITH（DreamLeague D2 S5 - November 8）</title>
+    <category>体育</category>
+  </programme>
   <programme start="20261109070000 +0800" stop="20261109094012 +0800" channel="活塞">
     <title>NBA：活塞 vs 湖人</title>
     <category>体育</category>
   </programme>
   <programme start="20261110080000 +0800" stop="20261110104012 +0800" channel="活塞">
     <title>NBA：活塞 vs 奇才</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261108153000 +0800" stop="20261108180000 +0800" channel="赛程预告">
-    <title>中超：山东泰山 vs 成都蓉城；大连英博 vs 天津津门虎；云南玉昆 vs 武汉三镇；青岛海牛 vs 深圳新鹏城；上海申花 vs 青岛西海岸；上海海港 vs 辽宁铁人；北京国安 vs 重庆铜梁龙；浙江 vs 河南</title>
     <category>体育</category>
   </programme>
   <programme start="20261108180000 +0800" stop="20261108191500 +0800" channel="赛程预告">
