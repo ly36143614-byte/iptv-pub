@@ -53,14 +53,14 @@ http://192.168.5.35:35456/jrs/%E8%A1%A1%E9%98%B3%E9%98%9F%20vs%20%E5%A8%84%E5%BA
 http://192.168.5.35:44635/play/77da3820157a611026049236c1da91ee70c80c2c
 #EXTINF:-1 tvg-id="AC米兰U20 vs 白化莱夫U20" tvg-chno="1203" tvg-name="AC米兰U20 vs 白化莱夫U20" tvg-group="足球" group-title="足球",AC米兰U20 vs 白化莱夫U20·聚合源
 http://192.168.5.35:44635/play/c3c2d1d1b6de9600b4335a1deda102257347a21d
-#EXTINF:-1 tvg-id="广东广州豹U20 vs 湖北青年星U20" tvg-chno="1204" tvg-name="广东广州豹U20 vs 湖北青年星U20" tvg-group="足球" group-title="足球",广东广州豹U20 vs 湖北青年星U20·聚合源
-http://192.168.5.35:44635/play/189c6a1f4630fd5b7936e0ccdae11aff611e4774
-#EXTINF:-1 tvg-id="广东广州豹U20 vs 湖北青年星U20" tvg-chno="1204" tvg-name="广东广州豹U20 vs 湖北青年星U20" tvg-group="足球" group-title="足球",广东广州豹U20 vs 湖北青年星U20·聚合源
-http://192.168.5.35:44635/play/029a47d8808d224c33e8cc448b9d9db29747c62c
-#EXTINF:-1 tvg-id="斯拉维亚莫兹里 vs 巴兰诺域治" tvg-chno="1205" tvg-name="斯拉维亚莫兹里 vs 巴兰诺域治" tvg-group="足球" group-title="足球",斯拉维亚莫兹里 vs 巴兰诺域治·聚合源
-http://192.168.5.35:44635/play/7337c7c4e06a654224406cd751fc4f370bf5f5f8
-#EXTINF:-1 tvg-id="斯拉维亚莫兹里 vs 巴兰诺域治" tvg-chno="1205" tvg-name="斯拉维亚莫兹里 vs 巴兰诺域治" tvg-group="足球" group-title="足球",斯拉维亚莫兹里 vs 巴兰诺域治·聚合源
-http://192.168.5.35:44635/play/eabace1d001eb5f9d79c986e7eb7bfabd3da2851
+#EXTINF:-1 tvg-id="基督教体育 vs 普罗比霍洛登卡" tvg-chno="1204" tvg-name="基督教体育 vs 普罗比霍洛登卡" tvg-group="足球" group-title="足球",基督教体育 vs 普罗比霍洛登卡·聚合源
+http://192.168.5.35:44635/play/e09e6607ba8cb0611605d1f0b226771b21786032
+#EXTINF:-1 tvg-id="基督教体育 vs 普罗比霍洛登卡" tvg-chno="1204" tvg-name="基督教体育 vs 普罗比霍洛登卡" tvg-group="足球" group-title="足球",基督教体育 vs 普罗比霍洛登卡·聚合源
+http://192.168.5.35:44635/play/cd1515040a7e0bd5821205d46d057208aa814b48
+#EXTINF:-1 tvg-id="胡志明市 vs 富寿春善" tvg-chno="1205" tvg-name="胡志明市 vs 富寿春善" tvg-group="足球" group-title="足球",胡志明市 vs 富寿春善·聚合源
+http://192.168.5.35:44635/play/5994a955026a822b76caf0856429ec2d505b7908
+#EXTINF:-1 tvg-id="胡志明市 vs 富寿春善" tvg-chno="1205" tvg-name="胡志明市 vs 富寿春善" tvg-group="足球" group-title="足球",胡志明市 vs 富寿春善·聚合源
+http://192.168.5.35:44635/play/f774ef2779986ec87e7d826142d5302d041ed3fc
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NFL·NBC" tvg-chno="1302" tvg-name="NFL·NBC" tvg-group="综合体育" group-title="综合体育",NFL·NBC
@@ -111,34 +111,34 @@ http://192.168.5.35:44635/play/fbde01e9afd52a92c8c4e5b916539d6f48b9a0da
 http://192.168.5.35:44635/play/b2b15b7603351437c2fc7cbdac6c618bbe5dc1b7
 #EXTINF:-1 tvg-id="HKR vs MENA Warriors" tvg-chno="1404" tvg-name="HKR vs MENA Warriors" tvg-group="DOTA2" group-title="DOTA2",HKR vs MENA Warriors·聚合源
 http://192.168.5.35:44635/play/eb7f8d5c0c9d9ba9b5fd021937354df3aee78ac3
-#EXTINF:-1 tvg-id="InterActive" tvg-chno="1405" tvg-name="InterActive" tvg-group="DOTA2" group-title="DOTA2",InterActive·聚合源
+#EXTINF:-1 tvg-id="HKR vs oveA" tvg-chno="1405" tvg-name="HKR vs oveA" tvg-group="DOTA2" group-title="DOTA2",HKR vs oveA·聚合源
+http://192.168.5.35:44635/play/c51f1f8172aa0ed4cf87fc17a9715fe1eee73820
+#EXTINF:-1 tvg-id="HKR vs oveA" tvg-chno="1405" tvg-name="HKR vs oveA" tvg-group="DOTA2" group-title="DOTA2",HKR vs oveA·聚合源
+http://192.168.5.35:44635/play/2bd9edffc78c873e10616c1b9ed94302a2f99dd4
+#EXTINF:-1 tvg-id="InterActive" tvg-chno="1406" tvg-name="InterActive" tvg-group="DOTA2" group-title="DOTA2",InterActive·聚合源
 http://192.168.5.35:44635/play/75acd946a43f149429964c4cd96945b387f3380d
-#EXTINF:-1 tvg-id="InterActive" tvg-chno="1405" tvg-name="InterActive" tvg-group="DOTA2" group-title="DOTA2",InterActive·聚合源
+#EXTINF:-1 tvg-id="InterActive" tvg-chno="1406" tvg-name="InterActive" tvg-group="DOTA2" group-title="DOTA2",InterActive·聚合源
 http://192.168.5.35:44635/play/38579b22f591719ce37225365020562c3836ef0e
-#EXTINF:-1 tvg-id="L1ga Team" tvg-chno="1406" tvg-name="L1ga Team" tvg-group="DOTA2" group-title="DOTA2",L1ga Team·聚合源
+#EXTINF:-1 tvg-id="L1ga Team" tvg-chno="1407" tvg-name="L1ga Team" tvg-group="DOTA2" group-title="DOTA2",L1ga Team·聚合源
 http://192.168.5.35:44635/play/96105e91327fca391d1e2ba8703f80219bcb3891
-#EXTINF:-1 tvg-id="L1ga Team" tvg-chno="1406" tvg-name="L1ga Team" tvg-group="DOTA2" group-title="DOTA2",L1ga Team·聚合源
+#EXTINF:-1 tvg-id="L1ga Team" tvg-chno="1407" tvg-name="L1ga Team" tvg-group="DOTA2" group-title="DOTA2",L1ga Team·聚合源
 http://192.168.5.35:44635/play/d6bc2041d45d459d11184dd22a36d13746ec1d31
-#EXTINF:-1 tvg-id="L1ga Team vs Yes" tvg-chno="1407" tvg-name="L1ga Team vs Yes" tvg-group="DOTA2" group-title="DOTA2",L1ga Team vs Yes·聚合源
+#EXTINF:-1 tvg-id="L1ga Team vs Yes" tvg-chno="1408" tvg-name="L1ga Team vs Yes" tvg-group="DOTA2" group-title="DOTA2",L1ga Team vs Yes·聚合源
 http://192.168.5.35:44635/play/6246b63bdeaa924d74916c2cad0c83aa21234628
-#EXTINF:-1 tvg-id="L1ga Team vs Yes" tvg-chno="1407" tvg-name="L1ga Team vs Yes" tvg-group="DOTA2" group-title="DOTA2",L1ga Team vs Yes·聚合源
+#EXTINF:-1 tvg-id="L1ga Team vs Yes" tvg-chno="1408" tvg-name="L1ga Team vs Yes" tvg-group="DOTA2" group-title="DOTA2",L1ga Team vs Yes·聚合源
 http://192.168.5.35:44635/play/3b0d1555824eb688b4fb11e4a6cfa3d49e7975da
-#EXTINF:-1 tvg-id="Nemiga vs Synapse" tvg-chno="1408" tvg-name="Nemiga vs Synapse" tvg-group="DOTA2" group-title="DOTA2",Nemiga vs Synapse·聚合源
+#EXTINF:-1 tvg-id="Nemiga vs Synapse" tvg-chno="1409" tvg-name="Nemiga vs Synapse" tvg-group="DOTA2" group-title="DOTA2",Nemiga vs Synapse·聚合源
 http://192.168.5.35:44635/play/ef74dd88839e67ec6c604b9f6a2d817cbcca1989
-#EXTINF:-1 tvg-id="Nemiga vs Synapse" tvg-chno="1408" tvg-name="Nemiga vs Synapse" tvg-group="DOTA2" group-title="DOTA2",Nemiga vs Synapse·聚合源
+#EXTINF:-1 tvg-id="Nemiga vs Synapse" tvg-chno="1409" tvg-name="Nemiga vs Synapse" tvg-group="DOTA2" group-title="DOTA2",Nemiga vs Synapse·聚合源
 http://192.168.5.35:44635/play/474a2b8bf9e38c2be6000dc0119ba06dca215d12
-#EXTINF:-1 tvg-id="PR" tvg-chno="1409" tvg-name="PR" tvg-group="DOTA2" group-title="DOTA2",PR·聚合源
+#EXTINF:-1 tvg-id="PR" tvg-chno="1410" tvg-name="PR" tvg-group="DOTA2" group-title="DOTA2",PR·聚合源
 http://192.168.5.35:44635/play/9451de2a5edfcf6fa1e4015b64cda1af1657e55f
-#EXTINF:-1 tvg-id="PR" tvg-chno="1409" tvg-name="PR" tvg-group="DOTA2" group-title="DOTA2",PR·聚合源
+#EXTINF:-1 tvg-id="PR" tvg-chno="1410" tvg-name="PR" tvg-group="DOTA2" group-title="DOTA2",PR·聚合源
 http://192.168.5.35:44635/play/783a26e41388bd84e549d9d98a4da8134f923166
-#EXTINF:-1 tvg-id="Xipto vs Zenith" tvg-chno="1410" tvg-name="Xipto vs Zenith" tvg-group="DOTA2" group-title="DOTA2",Xipto vs Zenith·聚合源
+#EXTINF:-1 tvg-id="Xipto vs Zenith" tvg-chno="1411" tvg-name="Xipto vs Zenith" tvg-group="DOTA2" group-title="DOTA2",Xipto vs Zenith·聚合源
 http://192.168.5.35:44635/play/c591d817d7f55c91e9c46a5cdae5e4a1791712f0
-#EXTINF:-1 tvg-id="Xipto vs Zenith" tvg-chno="1410" tvg-name="Xipto vs Zenith" tvg-group="DOTA2" group-title="DOTA2",Xipto vs Zenith·聚合源
+#EXTINF:-1 tvg-id="Xipto vs Zenith" tvg-chno="1411" tvg-name="Xipto vs Zenith" tvg-group="DOTA2" group-title="DOTA2",Xipto vs Zenith·聚合源
 http://192.168.5.35:44635/play/ffbdfdcade011384d9cec65c431ce7513c76c64b
-#EXTINF:-1 tvg-id="YB vs Amaru Gaming" tvg-chno="1411" tvg-name="YB vs Amaru Gaming" tvg-group="DOTA2" group-title="DOTA2",YB vs Amaru Gaming·聚合源
-http://192.168.5.35:44635/play/2cb9e31fe4913bce71533ec61224164278f5e2b3
-#EXTINF:-1 tvg-id="YB vs Amaru Gaming" tvg-chno="1411" tvg-name="YB vs Amaru Gaming" tvg-group="DOTA2" group-title="DOTA2",YB vs Amaru Gaming·聚合源
-http://192.168.5.35:44635/play/250a91cf943f5d67ae554aff46f57b9b586b82cc
 #EXTINF:-1 tvg-id="YB vs CH" tvg-chno="1412" tvg-name="YB vs CH" tvg-group="DOTA2" group-title="DOTA2",YB vs CH·聚合源
 http://192.168.5.35:44635/play/5117a1208de005771c32a55b47ccbdc97b0b1124
 #EXTINF:-1 tvg-id="YB vs CH" tvg-chno="1412" tvg-name="YB vs CH" tvg-group="DOTA2" group-title="DOTA2",YB vs CH·聚合源
