@@ -4,7 +4,6 @@
   <channel id="ESPN"><display-name>ESPN</display-name></channel>
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
-  <channel id="开拓者 vs 马刺"><display-name>开拓者 vs 马刺</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <programme start="20261109020000 +0800" stop="20261109051948 +0800" channel="CBS">
@@ -87,10 +86,6 @@
     <title>Pittsburgh Steelers at Cincinnati Bengals（NFL）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261108110000 +0800" stop="20261108134012 +0800" channel="开拓者 vs 马刺">
-    <title>San Antonio Spurs at Portland Trail Blazers 已结束（NBA）</title>
-    <category>体育</category>
-  </programme>
   <programme start="20261109070000 +0800" stop="20261109094012 +0800" channel="活塞">
     <title>NBA：活塞 vs 湖人</title>
     <category>体育</category>
@@ -104,7 +99,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261108153000 +0800" stop="20261108180000 +0800" channel="赛程预告">
-    <title>韩职：江原FC vs 全北现代；中超：山东泰山 vs 成都蓉城；中超：大连英博 vs 天津津门虎；中超：北京国安 vs 重庆铜梁龙；中超：浙江 vs 河南；中超：云南玉昆 vs 武汉三镇；中超：上海海港 vs 辽宁铁人；中超：上海申花 vs 青岛西海岸；中超：青岛海牛 vs 深圳新鹏城</title>
+    <title>中超：山东泰山 vs 成都蓉城；大连英博 vs 天津津门虎；北京国安 vs 重庆铜梁龙；浙江 vs 河南；云南玉昆 vs 武汉三镇；上海海港 vs 辽宁铁人；上海申花 vs 青岛西海岸；青岛海牛 vs 深圳新鹏城</title>
     <category>体育</category>
   </programme>
   <programme start="20261108180000 +0800" stop="20261108191500 +0800" channel="赛程预告">
