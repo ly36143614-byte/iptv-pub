@@ -43,14 +43,12 @@ http://192.168.5.35:44635/play/785468a88132227e9f292b9aa3c8abc6fffc695a
 http://192.168.5.35:44635/play/0d1bdc6f42257069d96c1b824aebe3a53226e96e
 #EXTINF:-1 tvg-id="克卢日纳波卡 vs 波斯纳" tvg-chno="1110" tvg-name="克卢日纳波卡 vs 波斯纳" tvg-group="篮球" group-title="篮球",克卢日纳波卡 vs 波斯纳·聚合源
 http://192.168.5.35:44635/play/56ee9ab3bb056dfc4d5e66d073cdf92e922eab4f
-#EXTINF:-1 tvg-id="台北台新战神 vs 台啤永丰云豹" tvg-chno="1111" tvg-name="台北台新战神 vs 台啤永丰云豹" tvg-group="篮球" group-title="篮球",台北台新战神 vs 台啤永丰云豹·聚合源
+#EXTINF:-1 tvg-id="卓穆托夫女篮B vs 哈维若夫女篮" tvg-chno="1111" tvg-name="卓穆托夫女篮B vs 哈维若夫女篮" tvg-group="篮球" group-title="篮球",卓穆托夫女篮B vs 哈维若夫女篮·聚合源
+http://192.168.5.35:44635/play/fac8535fc8cb091bf713298be05393dc6886b694
+#EXTINF:-1 tvg-id="台北台新战神 vs 台啤永丰云豹" tvg-chno="1112" tvg-name="台北台新战神 vs 台啤永丰云豹" tvg-group="篮球" group-title="篮球",台北台新战神 vs 台啤永丰云豹·聚合源
 http://192.168.5.35:44635/play/553738a9cbbd526ad1640487f133c163ea45e19d
-#EXTINF:-1 tvg-id="台北台新战神 vs 台啤永丰云豹" tvg-chno="1111" tvg-name="台北台新战神 vs 台啤永丰云豹" tvg-group="篮球" group-title="篮球",台北台新战神 vs 台啤永丰云豹·聚合源
+#EXTINF:-1 tvg-id="台北台新战神 vs 台啤永丰云豹" tvg-chno="1112" tvg-name="台北台新战神 vs 台啤永丰云豹" tvg-group="篮球" group-title="篮球",台北台新战神 vs 台啤永丰云豹·聚合源
 http://192.168.5.35:44635/play/bcf4cbb913d4c4a140f64a154f5a5e06961936b6
-#EXTINF:-1 tvg-id="名古屋战鹰 vs 东京联合" tvg-chno="1112" tvg-name="名古屋战鹰 vs 东京联合" tvg-group="篮球" group-title="篮球",名古屋战鹰 vs 东京联合·聚合源
-http://192.168.5.35:44635/play/eae96086cec734c163e2a8dd95987887972ed408
-#EXTINF:-1 tvg-id="名古屋战鹰 vs 东京联合" tvg-chno="1112" tvg-name="名古屋战鹰 vs 东京联合" tvg-group="篮球" group-title="篮球",名古屋战鹰 vs 东京联合·聚合源
-http://192.168.5.35:44635/play/b72d7fa665f7c272fded43ac95b7b00e0d67be08
 #EXTINF:-1 tvg-id="山西竹叶青酒女篮 vs 广东奥普特女篮" tvg-chno="1113" tvg-name="山西竹叶青酒女篮 vs 广东奥普特女篮" tvg-group="篮球" group-title="篮球",山西竹叶青酒女篮 vs 广东奥普特女篮·聚合源
 http://192.168.5.35:44635/play/785d027d77ad4d04c7136b3b6e1b9d62a23bab7e
 #EXTINF:-1 tvg-id="山西竹叶青酒女篮 vs 广东奥普特女篮" tvg-chno="1113" tvg-name="山西竹叶青酒女篮 vs 广东奥普特女篮" tvg-group="篮球" group-title="篮球",山西竹叶青酒女篮 vs 广东奥普特女篮·聚合源
@@ -83,26 +81,32 @@ http://192.168.5.35:44635/play/984329f07dc9c5f0e8a0db3ef0707c883ebfdd43
 http://192.168.5.35:44635/play/1b7ac719db2c43fb9eae27ca98ba20c7e80ad3d0
 #EXTINF:-1 tvg-id="北京国安 vs 重庆铜梁龙" tvg-chno="1201" tvg-name="北京国安 vs 重庆铜梁龙" tvg-group="足球" group-title="足球",北京国安 vs 重庆铜梁龙·咪咕直播·720P
 http://192.168.5.35:35456/jrs/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89%20vs%20%E9%87%8D%E5%BA%86%E9%93%9C%E6%A2%81%E9%BE%99%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
-#EXTINF:-1 tvg-id="云南玉昆 vs 武汉三镇" tvg-chno="1202" tvg-name="云南玉昆 vs 武汉三镇" tvg-group="足球" group-title="足球",云南玉昆 vs 武汉三镇·咪咕直播·720P
-http://192.168.5.35:35456/jrs/%E4%BA%91%E5%8D%97%E7%8E%89%E6%98%86%20vs%20%E6%AD%A6%E6%B1%89%E4%B8%89%E9%95%87%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
-#EXTINF:-1 tvg-id="浙江队 vs 河南队" tvg-chno="1203" tvg-name="浙江队 vs 河南队" tvg-group="足球" group-title="足球",浙江队 vs 河南队·咪咕直播·720P
+#EXTINF:-1 tvg-id="浙江队 vs 河南队" tvg-chno="1202" tvg-name="浙江队 vs 河南队" tvg-group="足球" group-title="足球",浙江队 vs 河南队·咪咕直播·720P
 http://192.168.5.35:35456/jrs/%E6%B5%99%E6%B1%9F%E9%98%9F%20vs%20%E6%B2%B3%E5%8D%97%E9%98%9F%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
-#EXTINF:-1 tvg-id="SKA哈巴罗夫斯克 vs 伊万诺沃" tvg-chno="1204" tvg-name="SKA哈巴罗夫斯克 vs 伊万诺沃" tvg-group="足球" group-title="足球",SKA哈巴罗夫斯克 vs 伊万诺沃·聚合源
+#EXTINF:-1 tvg-id="SKA哈巴罗夫斯克 vs 伊万诺沃" tvg-chno="1203" tvg-name="SKA哈巴罗夫斯克 vs 伊万诺沃" tvg-group="足球" group-title="足球",SKA哈巴罗夫斯克 vs 伊万诺沃·聚合源
 http://192.168.5.35:44635/play/033c845eec089152fcce4951a2d1655b00e08c25
-#EXTINF:-1 tvg-id="SKA哈巴罗夫斯克 vs 伊万诺沃" tvg-chno="1204" tvg-name="SKA哈巴罗夫斯克 vs 伊万诺沃" tvg-group="足球" group-title="足球",SKA哈巴罗夫斯克 vs 伊万诺沃·聚合源
+#EXTINF:-1 tvg-id="SKA哈巴罗夫斯克 vs 伊万诺沃" tvg-chno="1203" tvg-name="SKA哈巴罗夫斯克 vs 伊万诺沃" tvg-group="足球" group-title="足球",SKA哈巴罗夫斯克 vs 伊万诺沃·聚合源
 http://192.168.5.35:44635/play/d542f2c773d40e7d0402f4a176513b194beaabd6
-#EXTINF:-1 tvg-id="上海海港 vs 辽宁铁人" tvg-chno="1205" tvg-name="上海海港 vs 辽宁铁人" tvg-group="足球" group-title="足球",上海海港 vs 辽宁铁人·聚合源
+#EXTINF:-1 tvg-id="上海海港 vs 辽宁铁人" tvg-chno="1204" tvg-name="上海海港 vs 辽宁铁人" tvg-group="足球" group-title="足球",上海海港 vs 辽宁铁人·聚合源
 http://192.168.5.35:44635/play/dffe5676d9151c10d941022afb4f6e418b993e52
-#EXTINF:-1 tvg-id="上海海港 vs 辽宁铁人" tvg-chno="1205" tvg-name="上海海港 vs 辽宁铁人" tvg-group="足球" group-title="足球",上海海港 vs 辽宁铁人·聚合源
+#EXTINF:-1 tvg-id="上海海港 vs 辽宁铁人" tvg-chno="1204" tvg-name="上海海港 vs 辽宁铁人" tvg-group="足球" group-title="足球",上海海港 vs 辽宁铁人·聚合源
 http://192.168.5.35:44635/play/2228578fea28d9b83dbee86dc93febc2493301d2
-#EXTINF:-1 tvg-id="上海海港 vs 辽宁铁人" tvg-chno="1205" tvg-name="上海海港 vs 辽宁铁人" tvg-group="足球" group-title="足球",上海海港 vs 辽宁铁人·聚合源
+#EXTINF:-1 tvg-id="上海海港 vs 辽宁铁人" tvg-chno="1204" tvg-name="上海海港 vs 辽宁铁人" tvg-group="足球" group-title="足球",上海海港 vs 辽宁铁人·聚合源
 http://192.168.5.35:44635/play/c9ce68add1a8fd34ec5949017fd0a3f2b4956c05
-#EXTINF:-1 tvg-id="上海申花 vs 青岛西海岸" tvg-chno="1206" tvg-name="上海申花 vs 青岛西海岸" tvg-group="足球" group-title="足球",上海申花 vs 青岛西海岸·聚合源
+#EXTINF:-1 tvg-id="上海申花 vs 青岛西海岸" tvg-chno="1205" tvg-name="上海申花 vs 青岛西海岸" tvg-group="足球" group-title="足球",上海申花 vs 青岛西海岸·聚合源
 http://192.168.5.35:44635/play/497cf909b1b9d0c0ca0e214cc69af1e63f5f469c
-#EXTINF:-1 tvg-id="上海申花 vs 青岛西海岸" tvg-chno="1206" tvg-name="上海申花 vs 青岛西海岸" tvg-group="足球" group-title="足球",上海申花 vs 青岛西海岸·聚合源
+#EXTINF:-1 tvg-id="上海申花 vs 青岛西海岸" tvg-chno="1205" tvg-name="上海申花 vs 青岛西海岸" tvg-group="足球" group-title="足球",上海申花 vs 青岛西海岸·聚合源
 http://192.168.5.35:44635/play/2ff67389a0c21a456bc7cb05ee4a4c0ee2a89929
-#EXTINF:-1 tvg-id="上海申花 vs 青岛西海岸" tvg-chno="1206" tvg-name="上海申花 vs 青岛西海岸" tvg-group="足球" group-title="足球",上海申花 vs 青岛西海岸·聚合源
+#EXTINF:-1 tvg-id="上海申花 vs 青岛西海岸" tvg-chno="1205" tvg-name="上海申花 vs 青岛西海岸" tvg-group="足球" group-title="足球",上海申花 vs 青岛西海岸·聚合源
 http://192.168.5.35:44635/play/9d4d4cf435385320f3bc13cddeb0cd1c21c1ca6b
+#EXTINF:-1 tvg-id="云南玉昆 vs 武汉三镇" tvg-chno="1206" tvg-name="云南玉昆 vs 武汉三镇" tvg-group="足球" group-title="足球",云南玉昆 vs 武汉三镇·咪咕直播·720P
+http://192.168.5.35:35456/jrs/%E4%BA%91%E5%8D%97%E7%8E%89%E6%98%86%20vs%20%E6%AD%A6%E6%B1%89%E4%B8%89%E9%95%87%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
+#EXTINF:-1 tvg-id="云南玉昆 vs 武汉三镇" tvg-chno="1206" tvg-name="云南玉昆 vs 武汉三镇" tvg-group="足球" group-title="足球",云南玉昆 vs 武汉三镇·咪咕直播·720P
+http://192.168.5.35:44635/play/09649c98b7d4f4f6f8dfc8e6e9c1595d39030e9f
+#EXTINF:-1 tvg-id="云南玉昆 vs 武汉三镇" tvg-chno="1206" tvg-name="云南玉昆 vs 武汉三镇" tvg-group="足球" group-title="足球",云南玉昆 vs 武汉三镇·咪咕直播·720P
+http://192.168.5.35:44635/play/2c2893e4495fc2c20dc22c7fdec4c2e358bff05a
+#EXTINF:-1 tvg-id="云南玉昆 vs 武汉三镇" tvg-chno="1206" tvg-name="云南玉昆 vs 武汉三镇" tvg-group="足球" group-title="足球",云南玉昆 vs 武汉三镇·咪咕直播·720P
+http://192.168.5.35:44635/play/7bf3ebc3daa0c0075ced7b0ad41ca9dd0c795018
 #EXTINF:-1 tvg-id="信丰队 vs 安远队" tvg-chno="1207" tvg-name="信丰队 vs 安远队" tvg-group="足球" group-title="足球",信丰队 vs 安远队·聚合源
 http://192.168.5.35:44635/play/628a5e53009d912ad17e3dcd8b9e5b07ead73936
 #EXTINF:-1 tvg-id="信丰队 vs 安远队" tvg-chno="1207" tvg-name="信丰队 vs 安远队" tvg-group="足球" group-title="足球",信丰队 vs 安远队·聚合源
@@ -193,7 +197,9 @@ https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1357" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1358" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1358" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1359" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="Amaru Gaming vs Z10" tvg-chno="1401" tvg-name="Amaru Gaming vs Z10" tvg-group="DOTA2" group-title="DOTA2",Amaru Gaming vs Z10·聚合源
 http://192.168.5.35:44635/play/17fe859e5b499fd61c78ee19c3969a82e49f7287
