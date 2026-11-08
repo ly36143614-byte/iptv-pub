@@ -69,9 +69,7 @@ http://192.168.5.35:44635/play/fedf36ab4b3c9bcb64a30a386ef89f4a2bf85c32
 http://192.168.5.35:44635/play/7c7cc8a32f2e5af931e6f68f359d30abd78bdc3a
 #EXTINF:-1 tvg-id="索菲亚利夫斯基 vs 明约" tvg-chno="1117" tvg-name="索菲亚利夫斯基 vs 明约" tvg-group="篮球" group-title="篮球",索菲亚利夫斯基 vs 明约·聚合源
 http://192.168.5.35:44635/play/ba0e2a214747c5a1e2a8718e05711ee6e281be1e
-#EXTINF:-1 tvg-id="阿姆拉加格拉 vs VSA" tvg-chno="1118" tvg-name="阿姆拉加格拉 vs VSA" tvg-group="篮球" group-title="篮球",阿姆拉加格拉 vs VSA·聚合源
-http://192.168.5.35:44635/play/1b7ac719db2c43fb9eae27ca98ba20c7e80ad3d0
-#EXTINF:-1 tvg-id="雅典AEK vs 帕纳辛纳科斯" tvg-chno="1119" tvg-name="雅典AEK vs 帕纳辛纳科斯" tvg-group="篮球" group-title="篮球",雅典AEK vs 帕纳辛纳科斯·聚合源
+#EXTINF:-1 tvg-id="雅典AEK vs 帕纳辛纳科斯" tvg-chno="1118" tvg-name="雅典AEK vs 帕纳辛纳科斯" tvg-group="篮球" group-title="篮球",雅典AEK vs 帕纳辛纳科斯·聚合源
 http://192.168.5.35:44635/play/2564315c3eddc4fccfb5fa412eee515007dc76f7
 #EXTINF:-1 tvg-id="上海海港 vs 辽宁铁人" tvg-chno="1201" tvg-name="上海海港 vs 辽宁铁人" tvg-group="足球" group-title="足球",上海海港 vs 辽宁铁人·聚合源
 http://192.168.5.35:44635/play/87ed6f79307b44ad2cf9014d57d6d8fbc8b9afe6
@@ -109,10 +107,10 @@ http://192.168.5.35:44635/play/63ec125a67d8b16428f66f0f26cf1aeeb4ebb800
 http://192.168.5.35:44635/play/36e1e5b4707b6a4f134e72a322080f508d89373e
 #EXTINF:-1 tvg-id="巴厘联 vs 佩斯克谏义里" tvg-chno="1211" tvg-name="巴厘联 vs 佩斯克谏义里" tvg-group="足球" group-title="足球",巴厘联 vs 佩斯克谏义里·聚合源
 http://192.168.5.35:44635/play/0c20878f12ff0747b2cdf6b4f2adb538cd28d52c
-#EXTINF:-1 tvg-id="河南俱乐部U20 vs 山东泰山U20" tvg-chno="1212" tvg-name="河南俱乐部U20 vs 山东泰山U20" tvg-group="足球" group-title="足球",河南俱乐部U20 vs 山东泰山U20·聚合源
-http://192.168.5.35:44635/play/e42528a784b0fdfeead8d38695543bd9fcf53aa5
-#EXTINF:-1 tvg-id="河南俱乐部U20 vs 山东泰山U20" tvg-chno="1212" tvg-name="河南俱乐部U20 vs 山东泰山U20" tvg-group="足球" group-title="足球",河南俱乐部U20 vs 山东泰山U20·聚合源
-http://192.168.5.35:44635/play/a09074eab3e019035975c79c165d435be22f58b5
+#EXTINF:-1 tvg-id="斯莱曼 vs 巴杨卡拉泗水联" tvg-chno="1212" tvg-name="斯莱曼 vs 巴杨卡拉泗水联" tvg-group="足球" group-title="足球",斯莱曼 vs 巴杨卡拉泗水联·聚合源
+http://192.168.5.35:44635/play/9d207d620339735f622f46fcfe579d3766abf4c3
+#EXTINF:-1 tvg-id="斯莱曼 vs 巴杨卡拉泗水联" tvg-chno="1212" tvg-name="斯莱曼 vs 巴杨卡拉泗水联" tvg-group="足球" group-title="足球",斯莱曼 vs 巴杨卡拉泗水联·聚合源
+http://192.168.5.35:44635/play/cc3600052d787d3c279a5f74feaed7ad7b729cf7
 #EXTINF:-1 tvg-id="浙江队 vs 河南队" tvg-chno="1213" tvg-name="浙江队 vs 河南队" tvg-group="足球" group-title="足球",浙江队 vs 河南队·咪咕直播·720P
 http://192.168.5.35:35456/jrs/%E6%B5%99%E6%B1%9F%E9%98%9F%20vs%20%E6%B2%B3%E5%8D%97%E9%98%9F%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
 #EXTINF:-1 tvg-id="浙江队 vs 河南队" tvg-chno="1213" tvg-name="浙江队 vs 河南队" tvg-group="足球" group-title="足球",浙江队 vs 河南队·咪咕直播·720P
@@ -151,7 +149,9 @@ https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1357" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1358" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1358" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1359" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="Amaru Gaming vs Z10" tvg-chno="1401" tvg-name="Amaru Gaming vs Z10" tvg-group="DOTA2" group-title="DOTA2",Amaru Gaming vs Z10·聚合源
 http://192.168.5.35:44635/play/17fe859e5b499fd61c78ee19c3969a82e49f7287
