@@ -159,21 +159,25 @@ http://192.168.5.35:44635/play/783a26e41388bd84e549d9d98a4da8134f923166
 http://192.168.5.35:44635/play/abcf16c829c8f9f6492a224cad58ffb673ea8079
 #EXTINF:-1 tvg-id="PR vs Synapse" tvg-chno="1410" tvg-name="PR vs Synapse" tvg-group="DOTA2" group-title="DOTA2",PR vs Synapse·聚合源
 http://192.168.5.35:44635/play/1e16d82bd4c5732f7a9696bec3ca87ca678ae4d9
-#EXTINF:-1 tvg-id="Xipto vs Nemiga" tvg-chno="1411" tvg-name="Xipto vs Nemiga" tvg-group="DOTA2" group-title="DOTA2",Xipto vs Nemiga·聚合源
+#EXTINF:-1 tvg-id="Team Legion" tvg-chno="1411" tvg-name="Team Legion" tvg-group="DOTA2" group-title="DOTA2",Team Legion·聚合源
+http://192.168.5.35:44635/play/d4da4ddaa86deaadb2854fd8fd1494fe6a36aa9f
+#EXTINF:-1 tvg-id="Team Legion" tvg-chno="1411" tvg-name="Team Legion" tvg-group="DOTA2" group-title="DOTA2",Team Legion·聚合源
+http://192.168.5.35:44635/play/49138c46f02937b05130d68a19edad5b3fd523eb
+#EXTINF:-1 tvg-id="Xipto vs Nemiga" tvg-chno="1412" tvg-name="Xipto vs Nemiga" tvg-group="DOTA2" group-title="DOTA2",Xipto vs Nemiga·聚合源
 http://192.168.5.35:44635/play/024678fcb4eeeec0afe47ab590984fa446ee0815
-#EXTINF:-1 tvg-id="Xipto vs Nemiga" tvg-chno="1411" tvg-name="Xipto vs Nemiga" tvg-group="DOTA2" group-title="DOTA2",Xipto vs Nemiga·聚合源
+#EXTINF:-1 tvg-id="Xipto vs Nemiga" tvg-chno="1412" tvg-name="Xipto vs Nemiga" tvg-group="DOTA2" group-title="DOTA2",Xipto vs Nemiga·聚合源
 http://192.168.5.35:44635/play/2c8f6777f01a72e2488f45e8954335ba3c6071aa
-#EXTINF:-1 tvg-id="Xipto vs Zenith" tvg-chno="1412" tvg-name="Xipto vs Zenith" tvg-group="DOTA2" group-title="DOTA2",Xipto vs Zenith·聚合源
+#EXTINF:-1 tvg-id="Xipto vs Zenith" tvg-chno="1413" tvg-name="Xipto vs Zenith" tvg-group="DOTA2" group-title="DOTA2",Xipto vs Zenith·聚合源
 http://192.168.5.35:44635/play/c591d817d7f55c91e9c46a5cdae5e4a1791712f0
-#EXTINF:-1 tvg-id="Xipto vs Zenith" tvg-chno="1412" tvg-name="Xipto vs Zenith" tvg-group="DOTA2" group-title="DOTA2",Xipto vs Zenith·聚合源
+#EXTINF:-1 tvg-id="Xipto vs Zenith" tvg-chno="1413" tvg-name="Xipto vs Zenith" tvg-group="DOTA2" group-title="DOTA2",Xipto vs Zenith·聚合源
 http://192.168.5.35:44635/play/ffbdfdcade011384d9cec65c431ce7513c76c64b
-#EXTINF:-1 tvg-id="YB vs CH" tvg-chno="1413" tvg-name="YB vs CH" tvg-group="DOTA2" group-title="DOTA2",YB vs CH·聚合源
+#EXTINF:-1 tvg-id="YB vs CH" tvg-chno="1414" tvg-name="YB vs CH" tvg-group="DOTA2" group-title="DOTA2",YB vs CH·聚合源
 http://192.168.5.35:44635/play/5117a1208de005771c32a55b47ccbdc97b0b1124
-#EXTINF:-1 tvg-id="YB vs CH" tvg-chno="1413" tvg-name="YB vs CH" tvg-group="DOTA2" group-title="DOTA2",YB vs CH·聚合源
+#EXTINF:-1 tvg-id="YB vs CH" tvg-chno="1414" tvg-name="YB vs CH" tvg-group="DOTA2" group-title="DOTA2",YB vs CH·聚合源
 http://192.168.5.35:44635/play/ebe24b95af63846975873304d2c59f2d3b29f47c
-#EXTINF:-1 tvg-id="Z10" tvg-chno="1414" tvg-name="Z10" tvg-group="DOTA2" group-title="DOTA2",Z10·聚合源
+#EXTINF:-1 tvg-id="Z10" tvg-chno="1415" tvg-name="Z10" tvg-group="DOTA2" group-title="DOTA2",Z10·聚合源
 http://192.168.5.35:44635/play/a92b9f59f815b94c02a12c9f167a91c77f47de87
-#EXTINF:-1 tvg-id="Z10" tvg-chno="1414" tvg-name="Z10" tvg-group="DOTA2" group-title="DOTA2",Z10·聚合源
+#EXTINF:-1 tvg-id="Z10" tvg-chno="1415" tvg-name="Z10" tvg-group="DOTA2" group-title="DOTA2",Z10·聚合源
 http://192.168.5.35:44635/play/5c1d3b567dd9237d35bed63d8a6bfc10f7572a6c
 #EXTINF:-1 tvg-id="11-08 骑士 vs 尼克斯" tvg-chno="1501" tvg-name="11-08 骑士 vs 尼克斯" tvg-group="NBA回放" group-title="NBA回放",11-08 骑士 vs 尼克斯
 http://192.168.5.35:8098/f/2026-11-08%20%E9%AA%91%E5%A3%AB%20vs%20%E5%B0%BC%E5%85%8B%E6%96%AF.mkv
