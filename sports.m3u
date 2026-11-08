@@ -20,13 +20,13 @@ http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1102" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="AD科斯特拉 vs 卡塔赫纳大学生" tvg-chno="1103" tvg-name="AD科斯特拉 vs 卡塔赫纳大学生" tvg-group="篮球" group-title="篮球",AD科斯特拉 vs 卡塔赫纳大学生·聚合源
-http://192.168.5.35:44635/play/5967eaabb65c722593b56fe64b96c83cc97c43a7
+http://192.168.5.35:44635/play/ae0c8d4ea92fffc4d3a65a9340680b84a8d744e7
 #EXTINF:-1 tvg-id="克卢日纳波卡 vs 波斯纳" tvg-chno="1104" tvg-name="克卢日纳波卡 vs 波斯纳" tvg-group="篮球" group-title="篮球",克卢日纳波卡 vs 波斯纳·聚合源
 http://192.168.5.35:44635/play/0d1bdc6f42257069d96c1b824aebe3a53226e96e
 #EXTINF:-1 tvg-id="克卢日纳波卡 vs 波斯纳" tvg-chno="1104" tvg-name="克卢日纳波卡 vs 波斯纳" tvg-group="篮球" group-title="篮球",克卢日纳波卡 vs 波斯纳·聚合源
 http://192.168.5.35:44635/play/56ee9ab3bb056dfc4d5e66d073cdf92e922eab4f
 #EXTINF:-1 tvg-id="努伯 vs 卡拉斯莫吉廖夫" tvg-chno="1105" tvg-name="努伯 vs 卡拉斯莫吉廖夫" tvg-group="篮球" group-title="篮球",努伯 vs 卡拉斯莫吉廖夫·聚合源
-http://192.168.5.35:44635/play/d4ea191606873375dc808c5ff5043097cdb31527
+http://192.168.5.35:44635/play/aa720bdcc8da639a2a0a7cf6fccbdfd82d1a4247
 #EXTINF:-1 tvg-id="圣帕罗布哥斯 vs 瓦伦西亚" tvg-chno="1106" tvg-name="圣帕罗布哥斯 vs 瓦伦西亚" tvg-group="篮球" group-title="篮球",圣帕罗布哥斯 vs 瓦伦西亚·聚合源
 http://192.168.5.35:44635/play/bffc023e4129853175d33c6423cbdf9e52b3ae56
 #EXTINF:-1 tvg-id="圣帕罗布哥斯 vs 瓦伦西亚" tvg-chno="1106" tvg-name="圣帕罗布哥斯 vs 瓦伦西亚" tvg-group="篮球" group-title="篮球",圣帕罗布哥斯 vs 瓦伦西亚·聚合源
@@ -87,11 +87,13 @@ http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1304" tvg-name="Tennis Channel" tvg-group="综合体育" group-title="综合体育",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1305" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1305" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
+https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1306" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1307" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1307" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1308" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
@@ -109,6 +111,8 @@ https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1358" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1359" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="Amaru Gaming vs Z10" tvg-chno="1401" tvg-name="Amaru Gaming vs Z10" tvg-group="DOTA2" group-title="DOTA2",Amaru Gaming vs Z10·聚合源
 http://192.168.5.35:44635/play/17fe859e5b499fd61c78ee19c3969a82e49f7287
 #EXTINF:-1 tvg-id="Amaru Gaming vs Z10" tvg-chno="1401" tvg-name="Amaru Gaming vs Z10" tvg-group="DOTA2" group-title="DOTA2",Amaru Gaming vs Z10·聚合源
