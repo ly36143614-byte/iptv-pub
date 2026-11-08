@@ -19,10 +19,10 @@ http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1102" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="克卢日纳波卡 vs 波斯纳" tvg-chno="1103" tvg-name="克卢日纳波卡 vs 波斯纳" tvg-group="篮球" group-title="篮球",克卢日纳波卡 vs 波斯纳·聚合源
-http://192.168.5.35:44635/play/0d1bdc6f42257069d96c1b824aebe3a53226e96e
-#EXTINF:-1 tvg-id="克卢日纳波卡 vs 波斯纳" tvg-chno="1103" tvg-name="克卢日纳波卡 vs 波斯纳" tvg-group="篮球" group-title="篮球",克卢日纳波卡 vs 波斯纳·聚合源
-http://192.168.5.35:44635/play/56ee9ab3bb056dfc4d5e66d073cdf92e922eab4f
+#EXTINF:-1 tvg-id="合肥文旅女篮 vs 广西金海女篮" tvg-chno="1103" tvg-name="合肥文旅女篮 vs 广西金海女篮" tvg-group="篮球" group-title="篮球",合肥文旅女篮 vs 广西金海女篮·聚合源
+http://192.168.5.35:44635/play/bb3e2766f654b1562c06584592f36afebfb282f9
+#EXTINF:-1 tvg-id="合肥文旅女篮 vs 广西金海女篮" tvg-chno="1103" tvg-name="合肥文旅女篮 vs 广西金海女篮" tvg-group="篮球" group-title="篮球",合肥文旅女篮 vs 广西金海女篮·聚合源
+http://192.168.5.35:44635/play/1a0f9dda873374e04c17d24fef640e7acc021622
 #EXTINF:-1 tvg-id="圣帕罗布哥斯 vs 瓦伦西亚" tvg-chno="1104" tvg-name="圣帕罗布哥斯 vs 瓦伦西亚" tvg-group="篮球" group-title="篮球",圣帕罗布哥斯 vs 瓦伦西亚·聚合源
 http://192.168.5.35:44635/play/bffc023e4129853175d33c6423cbdf9e52b3ae56
 #EXTINF:-1 tvg-id="圣帕罗布哥斯 vs 瓦伦西亚" tvg-chno="1104" tvg-name="圣帕罗布哥斯 vs 瓦伦西亚" tvg-group="篮球" group-title="篮球",圣帕罗布哥斯 vs 瓦伦西亚·聚合源
@@ -63,21 +63,23 @@ http://192.168.5.35:35456/jrs/%E5%8F%B2%E5%A1%94%E5%A4%AB%E6%B5%81%E6%B5%AA%20vs
 http://192.168.5.35:44635/play/e09e6607ba8cb0611605d1f0b226771b21786032
 #EXTINF:-1 tvg-id="基督教体育 vs 普罗比霍洛登卡" tvg-chno="1206" tvg-name="基督教体育 vs 普罗比霍洛登卡" tvg-group="足球" group-title="足球",基督教体育 vs 普罗比霍洛登卡·聚合源
 http://192.168.5.35:44635/play/cd1515040a7e0bd5821205d46d057208aa814b48
+#EXTINF:-1 tvg-id="洛佐瓦 vs 卡尔本切尔卡瑟" tvg-chno="1207" tvg-name="洛佐瓦 vs 卡尔本切尔卡瑟" tvg-group="足球" group-title="足球",洛佐瓦 vs 卡尔本切尔卡瑟·聚合源
+http://192.168.5.35:44635/play/c9462bc2f5eb9c9dcff5b57f4660e447dd7b3346
+#EXTINF:-1 tvg-id="洛佐瓦 vs 卡尔本切尔卡瑟" tvg-chno="1207" tvg-name="洛佐瓦 vs 卡尔本切尔卡瑟" tvg-group="足球" group-title="足球",洛佐瓦 vs 卡尔本切尔卡瑟·聚合源
+http://192.168.5.35:44635/play/d1d5a5d79998297b2d735cf2afbea9bd62baf04b
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NFL·NBC" tvg-chno="1302" tvg-name="NFL·NBC" tvg-group="综合体育" group-title="综合体育",NFL·NBC
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1303" tvg-name="ESPN" tvg-group="综合体育" group-title="综合体育",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1304" tvg-name="Tennis Channel" tvg-group="综合体育" group-title="综合体育",Tennis Channel
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1305" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1304" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1306" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1305" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1307" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1308" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1307" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
