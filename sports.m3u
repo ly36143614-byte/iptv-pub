@@ -31,42 +31,46 @@ http://192.168.5.35:44635/play/ae253e469138eb8303ec17bb61150646f97fabb3
 http://192.168.5.35:44635/play/afe63676035513113ee0072a1ab16cf6eb2a67d6
 #EXTINF:-1 tvg-id="特内里费 vs 尤文图特" tvg-chno="1105" tvg-name="特内里费 vs 尤文图特" tvg-group="篮球" group-title="篮球",特内里费 vs 尤文图特·聚合源
 http://192.168.5.35:44635/play/c711a4f0a2a85f1cd3749d6b0f294c2feb72496f
-#EXTINF:-1 tvg-id="罗夫诺 vs 侯华拉" tvg-chno="1106" tvg-name="罗夫诺 vs 侯华拉" tvg-group="篮球" group-title="篮球",罗夫诺 vs 侯华拉·聚合源
+#EXTINF:-1 tvg-id="瑞古尔 vs 比斯特B队" tvg-chno="1106" tvg-name="瑞古尔 vs 比斯特B队" tvg-group="篮球" group-title="篮球",瑞古尔 vs 比斯特B队·聚合源
+http://192.168.5.35:44635/play/136b5b497c9f83b9beffc58c83641c9f60a69e94
+#EXTINF:-1 tvg-id="罗夫诺 vs 侯华拉" tvg-chno="1107" tvg-name="罗夫诺 vs 侯华拉" tvg-group="篮球" group-title="篮球",罗夫诺 vs 侯华拉·聚合源
 http://192.168.5.35:44635/play/c359a98a319422905fe8201bfc0f2883554eb8ac
-#EXTINF:-1 tvg-id="罗夫诺 vs 侯华拉" tvg-chno="1106" tvg-name="罗夫诺 vs 侯华拉" tvg-group="篮球" group-title="篮球",罗夫诺 vs 侯华拉·聚合源
+#EXTINF:-1 tvg-id="罗夫诺 vs 侯华拉" tvg-chno="1107" tvg-name="罗夫诺 vs 侯华拉" tvg-group="篮球" group-title="篮球",罗夫诺 vs 侯华拉·聚合源
 http://192.168.5.35:44635/play/21c31c1860d8db57f464967d3aae9215c5a6115a
-#EXTINF:-1 tvg-id="贝尔格莱德游击 vs SC德尔比" tvg-chno="1107" tvg-name="贝尔格莱德游击 vs SC德尔比" tvg-group="篮球" group-title="篮球",贝尔格莱德游击 vs SC德尔比·聚合源
+#EXTINF:-1 tvg-id="贝尔格莱德游击 vs SC德尔比" tvg-chno="1108" tvg-name="贝尔格莱德游击 vs SC德尔比" tvg-group="篮球" group-title="篮球",贝尔格莱德游击 vs SC德尔比·聚合源
 http://192.168.5.35:44635/play/f61baed5cf287e4d8a98b450c6c2ea4bc6640619
-#EXTINF:-1 tvg-id="贝尔格莱德游击 vs SC德尔比" tvg-chno="1107" tvg-name="贝尔格莱德游击 vs SC德尔比" tvg-group="篮球" group-title="篮球",贝尔格莱德游击 vs SC德尔比·聚合源
+#EXTINF:-1 tvg-id="贝尔格莱德游击 vs SC德尔比" tvg-chno="1108" tvg-name="贝尔格莱德游击 vs SC德尔比" tvg-group="篮球" group-title="篮球",贝尔格莱德游击 vs SC德尔比·聚合源
 http://192.168.5.35:44635/play/5c5d46e6c728c5a9e953d9fe8c3512fe17516d03
 #EXTINF:-1 tvg-id="利物浦女足 vs 阿森纳女足" tvg-chno="1201" tvg-name="利物浦女足 vs 阿森纳女足" tvg-group="足球" group-title="足球",利物浦女足 vs 阿森纳女足·咪咕直播·720P
 http://192.168.5.35:35456/jrs/%E5%88%A9%E7%89%A9%E6%B5%A6%E5%A5%B3%E8%B6%B3%20vs%20%E9%98%BF%E6%A3%AE%E7%BA%B3%E5%A5%B3%E8%B6%B3%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
 #EXTINF:-1 tvg-id="阿斯顿维拉女足 vs 曼联女足" tvg-chno="1202" tvg-name="阿斯顿维拉女足 vs 曼联女足" tvg-group="足球" group-title="足球",阿斯顿维拉女足 vs 曼联女足·咪咕直播·720P
 http://192.168.5.35:35456/jrs/%E9%98%BF%E6%96%AF%E9%A1%BF%E7%BB%B4%E6%8B%89%E5%A5%B3%E8%B6%B3%20vs%20%E6%9B%BC%E8%81%94%E5%A5%B3%E8%B6%B3%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
-#EXTINF:-1 tvg-id="衡阳队 vs 娄底队" tvg-chno="1203" tvg-name="衡阳队 vs 娄底队" tvg-group="足球" group-title="足球",衡阳队 vs 娄底队·咪咕直播·720P
-http://192.168.5.35:35456/jrs/%E8%A1%A1%E9%98%B3%E9%98%9F%20vs%20%E5%A8%84%E5%BA%95%E9%98%9F%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
-#EXTINF:-1 tvg-id="史塔夫流浪 vs 格林斯比" tvg-chno="1204" tvg-name="史塔夫流浪 vs 格林斯比" tvg-group="足球" group-title="足球",史塔夫流浪 vs 格林斯比·咪咕直播·720P
+#EXTINF:-1 tvg-id="史塔夫流浪 vs 格林斯比" tvg-chno="1203" tvg-name="史塔夫流浪 vs 格林斯比" tvg-group="足球" group-title="足球",史塔夫流浪 vs 格林斯比·咪咕直播·720P
 http://192.168.5.35:35456/jrs/%E5%8F%B2%E5%A1%94%E5%A4%AB%E6%B5%81%E6%B5%AA%20vs%20%E6%A0%BC%E6%9E%97%E6%96%AF%E6%AF%94%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
-#EXTINF:-1 tvg-id="哥德堡 vs 马尔默" tvg-chno="1205" tvg-name="哥德堡 vs 马尔默" tvg-group="足球1080" group-title="足球1080",哥德堡 vs 马尔默·1080P原声
+#EXTINF:-1 tvg-id="哥德堡 vs 马尔默" tvg-chno="1204" tvg-name="哥德堡 vs 马尔默" tvg-group="足球1080" group-title="足球1080",哥德堡 vs 马尔默·1080P原声
 http://192.168.5.35:35456/jrs/%E5%93%A5%E5%BE%B7%E5%A0%A1%20vs%20%E9%A9%AC%E5%B0%94%E9%BB%98%C2%B71080P%E5%8E%9F%E5%A3%B0
-#EXTINF:-1 tvg-id="库普斯 vs 图尔库国际" tvg-chno="1206" tvg-name="库普斯 vs 图尔库国际" tvg-group="足球1080" group-title="足球1080",库普斯 vs 图尔库国际·1080P原声
+#EXTINF:-1 tvg-id="库普斯 vs 图尔库国际" tvg-chno="1205" tvg-name="库普斯 vs 图尔库国际" tvg-group="足球1080" group-title="足球1080",库普斯 vs 图尔库国际·1080P原声
 http://192.168.5.35:35456/jrs/%E5%BA%93%E6%99%AE%E6%96%AF%20vs%20%E5%9B%BE%E5%B0%94%E5%BA%93%E5%9B%BD%E9%99%85%C2%B71080P%E5%8E%9F%E5%A3%B0
-#EXTINF:-1 tvg-id="埃尔切 vs 贝蒂斯" tvg-chno="1207" tvg-name="埃尔切 vs 贝蒂斯" tvg-group="足球1080" group-title="足球1080",埃尔切 vs 贝蒂斯·1080P原声
+#EXTINF:-1 tvg-id="埃尔切 vs 贝蒂斯" tvg-chno="1206" tvg-name="埃尔切 vs 贝蒂斯" tvg-group="足球1080" group-title="足球1080",埃尔切 vs 贝蒂斯·1080P原声
 http://192.168.5.35:35456/jrs/%E5%9F%83%E5%B0%94%E5%88%87%20vs%20%E8%B4%9D%E8%92%82%E6%96%AF%C2%B71080P%E5%8E%9F%E5%A3%B0
-#EXTINF:-1 tvg-id="埃尔切 vs 贝蒂斯" tvg-chno="1207" tvg-name="埃尔切 vs 贝蒂斯" tvg-group="足球1080" group-title="足球1080",埃尔切 vs 贝蒂斯·1080P原声
+#EXTINF:-1 tvg-id="埃尔切 vs 贝蒂斯" tvg-chno="1206" tvg-name="埃尔切 vs 贝蒂斯" tvg-group="足球1080" group-title="足球1080",埃尔切 vs 贝蒂斯·1080P原声
 http://192.168.5.35:35456/jrs/%E5%9F%83%E5%B0%94%E5%88%87%20vs%20%E8%B4%9D%E8%92%82%E6%96%AF%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
-#EXTINF:-1 tvg-id="托里斯 vs 拉蒂纳" tvg-chno="1208" tvg-name="托里斯 vs 拉蒂纳" tvg-group="足球" group-title="足球",托里斯 vs 拉蒂纳·聚合源
+#EXTINF:-1 tvg-id="古晋城 vs 雪州" tvg-chno="1207" tvg-name="古晋城 vs 雪州" tvg-group="足球" group-title="足球",古晋城 vs 雪州·聚合源
+http://192.168.5.35:44635/play/487e602023672332bbd321c17f336d07c0137bc3
+#EXTINF:-1 tvg-id="古晋城 vs 雪州" tvg-chno="1207" tvg-name="古晋城 vs 雪州" tvg-group="足球" group-title="足球",古晋城 vs 雪州·聚合源
+http://192.168.5.35:44635/play/3d6c5a973fb7579be59ab0b5f55770b7fd4fbe08
+#EXTINF:-1 tvg-id="巴蜀府 vs 四色菊联" tvg-chno="1208" tvg-name="巴蜀府 vs 四色菊联" tvg-group="足球" group-title="足球",巴蜀府 vs 四色菊联·聚合源
+http://192.168.5.35:44635/play/ba5a7d9d06edf3749c0a0ca9f64934de74f470e5
+#EXTINF:-1 tvg-id="巴蜀府 vs 四色菊联" tvg-chno="1208" tvg-name="巴蜀府 vs 四色菊联" tvg-group="足球" group-title="足球",巴蜀府 vs 四色菊联·聚合源
+http://192.168.5.35:44635/play/e99b9327d65a6beed7b0cbdb8db6d23bdc6e9013
+#EXTINF:-1 tvg-id="托里斯 vs 拉蒂纳" tvg-chno="1209" tvg-name="托里斯 vs 拉蒂纳" tvg-group="足球" group-title="足球",托里斯 vs 拉蒂纳·聚合源
 http://192.168.5.35:44635/play/a75f8dfdcd2f045a67f19fabddc21194c0c5c78f
-#EXTINF:-1 tvg-id="托里斯 vs 拉蒂纳" tvg-chno="1208" tvg-name="托里斯 vs 拉蒂纳" tvg-group="足球" group-title="足球",托里斯 vs 拉蒂纳·聚合源
+#EXTINF:-1 tvg-id="托里斯 vs 拉蒂纳" tvg-chno="1209" tvg-name="托里斯 vs 拉蒂纳" tvg-group="足球" group-title="足球",托里斯 vs 拉蒂纳·聚合源
 http://192.168.5.35:44635/play/f70f7a5aa5fe9f89afa80eb787be6947bd338cd4
-#EXTINF:-1 tvg-id="格罗瑟托 vs 佩斯卡拉" tvg-chno="1209" tvg-name="格罗瑟托 vs 佩斯卡拉" tvg-group="足球" group-title="足球",格罗瑟托 vs 佩斯卡拉·聚合源
+#EXTINF:-1 tvg-id="格罗瑟托 vs 佩斯卡拉" tvg-chno="1210" tvg-name="格罗瑟托 vs 佩斯卡拉" tvg-group="足球" group-title="足球",格罗瑟托 vs 佩斯卡拉·聚合源
 http://192.168.5.35:44635/play/defc742156c99d4c869e967748b9e09312364039
-#EXTINF:-1 tvg-id="格罗瑟托 vs 佩斯卡拉" tvg-chno="1209" tvg-name="格罗瑟托 vs 佩斯卡拉" tvg-group="足球" group-title="足球",格罗瑟托 vs 佩斯卡拉·聚合源
+#EXTINF:-1 tvg-id="格罗瑟托 vs 佩斯卡拉" tvg-chno="1210" tvg-name="格罗瑟托 vs 佩斯卡拉" tvg-group="足球" group-title="足球",格罗瑟托 vs 佩斯卡拉·聚合源
 http://192.168.5.35:44635/play/11ea9f1a2318c9e98d6b3735ed066f0dbee3669f
-#EXTINF:-1 tvg-id="浙江U15 vs 上海申花U15" tvg-chno="1210" tvg-name="浙江U15 vs 上海申花U15" tvg-group="足球" group-title="足球",浙江U15 vs 上海申花U15·聚合源
-http://192.168.5.35:44635/play/8b0959f18c71bb11da7c73943e6c53b6e9e1cd6c
-#EXTINF:-1 tvg-id="浙江U15 vs 上海申花U15" tvg-chno="1210" tvg-name="浙江U15 vs 上海申花U15" tvg-group="足球" group-title="足球",浙江U15 vs 上海申花U15·聚合源
-http://192.168.5.35:44635/play/024f3f6029f8989cbfe7fbad66d2d930b461ff51
 #EXTINF:-1 tvg-id="海伦芬 vs 费耶诺德" tvg-chno="1211" tvg-name="海伦芬 vs 费耶诺德" tvg-group="足球" group-title="足球",海伦芬 vs 费耶诺德·聚合源
 http://192.168.5.35:44635/play/218eb09aacf96552de292cc11fd8e5becdd59d44
 #EXTINF:-1 tvg-id="海伦芬 vs 费耶诺德" tvg-chno="1211" tvg-name="海伦芬 vs 费耶诺德" tvg-group="足球" group-title="足球",海伦芬 vs 费耶诺德·聚合源
@@ -75,15 +79,21 @@ http://192.168.5.35:44635/play/eaad1ec08459767ba4d618454463175db3396067
 http://192.168.5.35:44635/play/702bef8febde0a8be82571b03452be571509ba84
 #EXTINF:-1 tvg-id="特诺皮尔B队 vs 文尼察尼瓦" tvg-chno="1212" tvg-name="特诺皮尔B队 vs 文尼察尼瓦" tvg-group="足球" group-title="足球",特诺皮尔B队 vs 文尼察尼瓦·聚合源
 http://192.168.5.35:44635/play/59681ede9392ccf471b86f1f7194e61f4ac74c5c
-#EXTINF:-1 tvg-id="那不勒斯 vs 拉齐奥" tvg-chno="1213" tvg-name="那不勒斯 vs 拉齐奥" tvg-group="足球1080" group-title="足球1080",那不勒斯 vs 拉齐奥·1080P原声
+#EXTINF:-1 tvg-id="衡阳队 vs 娄底队" tvg-chno="1213" tvg-name="衡阳队 vs 娄底队" tvg-group="足球" group-title="足球",衡阳队 vs 娄底队·咪咕直播·720P
+http://192.168.5.35:35456/jrs/%E8%A1%A1%E9%98%B3%E9%98%9F%20vs%20%E5%A8%84%E5%BA%95%E9%98%9F%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
+#EXTINF:-1 tvg-id="衡阳队 vs 娄底队" tvg-chno="1213" tvg-name="衡阳队 vs 娄底队" tvg-group="足球" group-title="足球",衡阳队 vs 娄底队·咪咕直播·720P
+http://192.168.5.35:44635/play/61f100cd8e1e26aa155ceb27e76b38cf3a8e37f4
+#EXTINF:-1 tvg-id="衡阳队 vs 娄底队" tvg-chno="1213" tvg-name="衡阳队 vs 娄底队" tvg-group="足球" group-title="足球",衡阳队 vs 娄底队·咪咕直播·720P
+http://192.168.5.35:44635/play/bc9df9b4d64de4fefe880719ad16f116903b9a4c
+#EXTINF:-1 tvg-id="那不勒斯 vs 拉齐奥" tvg-chno="1214" tvg-name="那不勒斯 vs 拉齐奥" tvg-group="足球1080" group-title="足球1080",那不勒斯 vs 拉齐奥·1080P原声
 http://192.168.5.35:35456/jrs/%E9%82%A3%E4%B8%8D%E5%8B%92%E6%96%AF%20vs%20%E6%8B%89%E9%BD%90%E5%A5%A5%C2%B71080P%E5%8E%9F%E5%A3%B0
-#EXTINF:-1 tvg-id="那不勒斯 vs 拉齐奥" tvg-chno="1213" tvg-name="那不勒斯 vs 拉齐奥" tvg-group="足球1080" group-title="足球1080",那不勒斯 vs 拉齐奥·1080P原声
+#EXTINF:-1 tvg-id="那不勒斯 vs 拉齐奥" tvg-chno="1214" tvg-name="那不勒斯 vs 拉齐奥" tvg-group="足球1080" group-title="足球1080",那不勒斯 vs 拉齐奥·1080P原声
 http://192.168.5.35:35456/jrs/%E9%82%A3%E4%B8%8D%E5%8B%92%E6%96%AF%20vs%20%E6%8B%89%E9%BD%90%E5%A5%A5%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
-#EXTINF:-1 tvg-id="那不勒斯 vs 拉齐奥" tvg-chno="1213" tvg-name="那不勒斯 vs 拉齐奥" tvg-group="足球1080" group-title="足球1080",那不勒斯 vs 拉齐奥·1080P原声
+#EXTINF:-1 tvg-id="那不勒斯 vs 拉齐奥" tvg-chno="1214" tvg-name="那不勒斯 vs 拉齐奥" tvg-group="足球1080" group-title="足球1080",那不勒斯 vs 拉齐奥·1080P原声
 http://192.168.5.35:44635/play/ebacfe1cea95f3b28acb30075bb4cc0f7934c370
-#EXTINF:-1 tvg-id="那不勒斯 vs 拉齐奥" tvg-chno="1213" tvg-name="那不勒斯 vs 拉齐奥" tvg-group="足球1080" group-title="足球1080",那不勒斯 vs 拉齐奥·1080P原声
+#EXTINF:-1 tvg-id="那不勒斯 vs 拉齐奥" tvg-chno="1214" tvg-name="那不勒斯 vs 拉齐奥" tvg-group="足球1080" group-title="足球1080",那不勒斯 vs 拉齐奥·1080P原声
 http://192.168.5.35:44635/play/c5083e08d107bbac22ab551da3086e621b610daa
-#EXTINF:-1 tvg-id="那不勒斯 vs 拉齐奥" tvg-chno="1213" tvg-name="那不勒斯 vs 拉齐奥" tvg-group="足球1080" group-title="足球1080",那不勒斯 vs 拉齐奥·1080P原声
+#EXTINF:-1 tvg-id="那不勒斯 vs 拉齐奥" tvg-chno="1214" tvg-name="那不勒斯 vs 拉齐奥" tvg-group="足球1080" group-title="足球1080",那不勒斯 vs 拉齐奥·1080P原声
 http://192.168.5.35:44635/play/fbc3b566e1a6ba3b462d69f2c2509142b6ab0c6e
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
