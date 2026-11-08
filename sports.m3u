@@ -47,9 +47,13 @@ http://192.168.5.35:44635/play/c711a4f0a2a85f1cd3749d6b0f294c2feb72496f
 http://192.168.5.35:44635/play/60aa8c912283a8e3758d48badd36336ef203536b
 #EXTINF:-1 tvg-id="福诺体育 vs 切迪奥斯曼" tvg-chno="1109" tvg-name="福诺体育 vs 切迪奥斯曼" tvg-group="篮球" group-title="篮球",福诺体育 vs 切迪奥斯曼·聚合源
 http://192.168.5.35:44635/play/6e3b6f71329c97c4e00166add1e6a54ea8ccc7c0
-#EXTINF:-1 tvg-id="雅典AEK vs 帕纳辛纳科斯" tvg-chno="1110" tvg-name="雅典AEK vs 帕纳辛纳科斯" tvg-group="篮球" group-title="篮球",雅典AEK vs 帕纳辛纳科斯·聚合源
+#EXTINF:-1 tvg-id="贝尔格莱德游击 vs SC德尔比" tvg-chno="1110" tvg-name="贝尔格莱德游击 vs SC德尔比" tvg-group="篮球" group-title="篮球",贝尔格莱德游击 vs SC德尔比·聚合源
+http://192.168.5.35:44635/play/f61baed5cf287e4d8a98b450c6c2ea4bc6640619
+#EXTINF:-1 tvg-id="贝尔格莱德游击 vs SC德尔比" tvg-chno="1110" tvg-name="贝尔格莱德游击 vs SC德尔比" tvg-group="篮球" group-title="篮球",贝尔格莱德游击 vs SC德尔比·聚合源
+http://192.168.5.35:44635/play/5c5d46e6c728c5a9e953d9fe8c3512fe17516d03
+#EXTINF:-1 tvg-id="雅典AEK vs 帕纳辛纳科斯" tvg-chno="1111" tvg-name="雅典AEK vs 帕纳辛纳科斯" tvg-group="篮球" group-title="篮球",雅典AEK vs 帕纳辛纳科斯·聚合源
 http://192.168.5.35:44635/play/7ff06de5ecc8acc3c10a35a69260952287f9fff3
-#EXTINF:-1 tvg-id="雅典AEK vs 帕纳辛纳科斯" tvg-chno="1110" tvg-name="雅典AEK vs 帕纳辛纳科斯" tvg-group="篮球" group-title="篮球",雅典AEK vs 帕纳辛纳科斯·聚合源
+#EXTINF:-1 tvg-id="雅典AEK vs 帕纳辛纳科斯" tvg-chno="1111" tvg-name="雅典AEK vs 帕纳辛纳科斯" tvg-group="篮球" group-title="篮球",雅典AEK vs 帕纳辛纳科斯·聚合源
 http://192.168.5.35:44635/play/4a654db15cc62066d1825699d09cd12de18d633e
 #EXTINF:-1 tvg-id="那不勒斯 vs 拉齐奥" tvg-chno="1201" tvg-name="那不勒斯 vs 拉齐奥" tvg-group="足球1080" group-title="足球1080",那不勒斯 vs 拉齐奥·1080P原声
 http://192.168.5.35:35456/jrs/%E9%82%A3%E4%B8%8D%E5%8B%92%E6%96%AF%20vs%20%E6%8B%89%E9%BD%90%E5%A5%A5%C2%B71080P%E5%8E%9F%E5%A3%B0
@@ -67,33 +71,47 @@ http://192.168.5.35:35456/jrs/%E5%8F%B2%E5%A1%94%E5%A4%AB%E6%B5%81%E6%B5%AA%20vs
 http://192.168.5.35:44635/play/e346459e38b90efff31386de5ad1827edd0e1911
 #EXTINF:-1 tvg-id="伊米什利FK vs 萨姆加耶特" tvg-chno="1206" tvg-name="伊米什利FK vs 萨姆加耶特" tvg-group="足球" group-title="足球",伊米什利FK vs 萨姆加耶特·聚合源
 http://192.168.5.35:44635/play/e7466b91c5eacb20e28087a09bfd72ae5703b974
-#EXTINF:-1 tvg-id="基洛夫迪纳摩 vs 布良斯克迪纳摩" tvg-chno="1207" tvg-name="基洛夫迪纳摩 vs 布良斯克迪纳摩" tvg-group="足球" group-title="足球",基洛夫迪纳摩 vs 布良斯克迪纳摩·聚合源
+#EXTINF:-1 tvg-id="休尼克FC vs 卡潘宝山" tvg-chno="1207" tvg-name="休尼克FC vs 卡潘宝山" tvg-group="足球" group-title="足球",休尼克FC vs 卡潘宝山·聚合源
+http://192.168.5.35:44635/play/4a9ad00653bd324926a6730257a34e1ee447998c
+#EXTINF:-1 tvg-id="休尼克FC vs 卡潘宝山" tvg-chno="1207" tvg-name="休尼克FC vs 卡潘宝山" tvg-group="足球" group-title="足球",休尼克FC vs 卡潘宝山·聚合源
+http://192.168.5.35:44635/play/c898c8e88970867491495fcc2271fb6e7b0dde45
+#EXTINF:-1 tvg-id="基洛夫迪纳摩 vs 布良斯克迪纳摩" tvg-chno="1208" tvg-name="基洛夫迪纳摩 vs 布良斯克迪纳摩" tvg-group="足球" group-title="足球",基洛夫迪纳摩 vs 布良斯克迪纳摩·聚合源
 http://192.168.5.35:44635/play/2a5ed1d587d8d23a3cec1bcfb33f808cc6daa545
-#EXTINF:-1 tvg-id="基洛夫迪纳摩 vs 布良斯克迪纳摩" tvg-chno="1207" tvg-name="基洛夫迪纳摩 vs 布良斯克迪纳摩" tvg-group="足球" group-title="足球",基洛夫迪纳摩 vs 布良斯克迪纳摩·聚合源
+#EXTINF:-1 tvg-id="基洛夫迪纳摩 vs 布良斯克迪纳摩" tvg-chno="1208" tvg-name="基洛夫迪纳摩 vs 布良斯克迪纳摩" tvg-group="足球" group-title="足球",基洛夫迪纳摩 vs 布良斯克迪纳摩·聚合源
 http://192.168.5.35:44635/play/f99fdbd3d7c3dd2c008065efa90d6643850cb321
-#EXTINF:-1 tvg-id="波尔图B队 vs 波尔蒂芒人" tvg-chno="1208" tvg-name="波尔图B队 vs 波尔蒂芒人" tvg-group="足球" group-title="足球",波尔图B队 vs 波尔蒂芒人·聚合源
+#EXTINF:-1 tvg-id="布哈拉 vs 纳萨夫" tvg-chno="1209" tvg-name="布哈拉 vs 纳萨夫" tvg-group="足球" group-title="足球",布哈拉 vs 纳萨夫·聚合源
+http://192.168.5.35:44635/play/ea5592d6116df8d9bc767d158379646d47348754
+#EXTINF:-1 tvg-id="布哈拉 vs 纳萨夫" tvg-chno="1209" tvg-name="布哈拉 vs 纳萨夫" tvg-group="足球" group-title="足球",布哈拉 vs 纳萨夫·聚合源
+http://192.168.5.35:44635/play/4645907ab9fda2171075be9bf3e8a8759271ab94
+#EXTINF:-1 tvg-id="波尔图B队 vs 波尔蒂芒人" tvg-chno="1210" tvg-name="波尔图B队 vs 波尔蒂芒人" tvg-group="足球" group-title="足球",波尔图B队 vs 波尔蒂芒人·聚合源
 http://192.168.5.35:44635/play/ab97e1fda7c37f0db53fbf39825d5acc43dc8c06
-#EXTINF:-1 tvg-id="波尔图B队 vs 波尔蒂芒人" tvg-chno="1208" tvg-name="波尔图B队 vs 波尔蒂芒人" tvg-group="足球" group-title="足球",波尔图B队 vs 波尔蒂芒人·聚合源
+#EXTINF:-1 tvg-id="波尔图B队 vs 波尔蒂芒人" tvg-chno="1210" tvg-name="波尔图B队 vs 波尔蒂芒人" tvg-group="足球" group-title="足球",波尔图B队 vs 波尔蒂芒人·聚合源
 http://192.168.5.35:44635/play/82b38141b57ce48de14573778b3f4ac0d3bb0596
-#EXTINF:-1 tvg-id="费伦斯 vs 路西塔尼亚" tvg-chno="1209" tvg-name="费伦斯 vs 路西塔尼亚" tvg-group="足球" group-title="足球",费伦斯 vs 路西塔尼亚·聚合源
+#EXTINF:-1 tvg-id="维尔克希夫策 vs 迪纳兹维什哥罗德" tvg-chno="1211" tvg-name="维尔克希夫策 vs 迪纳兹维什哥罗德" tvg-group="足球" group-title="足球",维尔克希夫策 vs 迪纳兹维什哥罗德·聚合源
+http://192.168.5.35:44635/play/3b742af61e70e1416019c05657676dcc9cdf2a83
+#EXTINF:-1 tvg-id="维尔克希夫策 vs 迪纳兹维什哥罗德" tvg-chno="1211" tvg-name="维尔克希夫策 vs 迪纳兹维什哥罗德" tvg-group="足球" group-title="足球",维尔克希夫策 vs 迪纳兹维什哥罗德·聚合源
+http://192.168.5.35:44635/play/73d1d1401651a4a48d11dbff02394b602e284971
+#EXTINF:-1 tvg-id="费伦斯 vs 路西塔尼亚" tvg-chno="1212" tvg-name="费伦斯 vs 路西塔尼亚" tvg-group="足球" group-title="足球",费伦斯 vs 路西塔尼亚·聚合源
 http://192.168.5.35:44635/play/4543184ad5879675579f16f13483114164485d4f
-#EXTINF:-1 tvg-id="费伦斯 vs 路西塔尼亚" tvg-chno="1209" tvg-name="费伦斯 vs 路西塔尼亚" tvg-group="足球" group-title="足球",费伦斯 vs 路西塔尼亚·聚合源
+#EXTINF:-1 tvg-id="费伦斯 vs 路西塔尼亚" tvg-chno="1212" tvg-name="费伦斯 vs 路西塔尼亚" tvg-group="足球" group-title="足球",费伦斯 vs 路西塔尼亚·聚合源
 http://192.168.5.35:44635/play/0b832921aee23211b0995ecf093d2dc9eb3f10a4
+#EXTINF:-1 tvg-id="费尔干纳石油工人 vs 阿尔马雷克" tvg-chno="1213" tvg-name="费尔干纳石油工人 vs 阿尔马雷克" tvg-group="足球" group-title="足球",费尔干纳石油工人 vs 阿尔马雷克·聚合源
+http://192.168.5.35:44635/play/401028986ce385d82446299ade925790fed8ff89
+#EXTINF:-1 tvg-id="费尔干纳石油工人 vs 阿尔马雷克" tvg-chno="1213" tvg-name="费尔干纳石油工人 vs 阿尔马雷克" tvg-group="足球" group-title="足球",费尔干纳石油工人 vs 阿尔马雷克·聚合源
+http://192.168.5.35:44635/play/affc63cb8be353f8c1c08622e0cd81809f4f3ed1
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NFL·NBC" tvg-chno="1302" tvg-name="NFL·NBC" tvg-group="综合体育" group-title="综合体育",NFL·NBC
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1303" tvg-name="ESPN" tvg-group="综合体育" group-title="综合体育",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1304" tvg-name="Tennis Channel" tvg-group="综合体育" group-title="综合体育",Tennis Channel
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1305" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1304" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1306" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1305" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1307" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1308" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1307" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
