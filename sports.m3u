@@ -21,8 +21,10 @@ http://23.237.104.106:8080/USA_NBA/index.m3u8
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="蔚山现代太阳神 vs 安养赤红火箭" tvg-chno="1103" tvg-name="蔚山现代太阳神 vs 安养赤红火箭" tvg-group="篮球1080" group-title="篮球1080",蔚山现代太阳神 vs 安养赤红火箭·1080P原声
 http://192.168.5.35:35456/jrs/%E8%94%9A%E5%B1%B1%E7%8E%B0%E4%BB%A3%E5%A4%AA%E9%98%B3%E7%A5%9E%20vs%20%E5%AE%89%E5%85%BB%E8%B5%A4%E7%BA%A2%E7%81%AB%E7%AE%AD%C2%B71080P%E5%8E%9F%E5%A3%B0
-#EXTINF:-1 tvg-id="贵州贵阳竞技 vs 山东泰山B队" tvg-chno="1104" tvg-name="贵州贵阳竞技 vs 山东泰山B队" tvg-group="篮球" group-title="篮球",贵州贵阳竞技 vs 山东泰山B队·咪咕直播·720P
-http://192.168.5.35:35456/jrs/%E8%B4%B5%E5%B7%9E%E8%B4%B5%E9%98%B3%E7%AB%9E%E6%8A%80%20vs%20%E5%B1%B1%E4%B8%9C%E6%B3%B0%E5%B1%B1B%E9%98%9F%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
+#EXTINF:-1 tvg-id="BNK釜山萨姆女篮 vs 富川KEB女篮" tvg-chno="1104" tvg-name="BNK釜山萨姆女篮 vs 富川KEB女篮" tvg-group="篮球" group-title="篮球",BNK釜山萨姆女篮 vs 富川KEB女篮·聚合源
+http://192.168.5.35:44635/play/ef4cdea3201146079303df29e4b110d5e16280b2
+#EXTINF:-1 tvg-id="BNK釜山萨姆女篮 vs 富川KEB女篮" tvg-chno="1104" tvg-name="BNK釜山萨姆女篮 vs 富川KEB女篮" tvg-group="篮球" group-title="篮球",BNK釜山萨姆女篮 vs 富川KEB女篮·聚合源
+http://192.168.5.35:44635/play/b4ee2cf2d196f9d4582c2a56792d986682966453
 #EXTINF:-1 tvg-id="三河海马 vs 滋贺湖" tvg-chno="1105" tvg-name="三河海马 vs 滋贺湖" tvg-group="篮球" group-title="篮球",三河海马 vs 滋贺湖·聚合源
 http://192.168.5.35:44635/play/bce601caa760b7b2573ed9570f6c865681aa842e
 #EXTINF:-1 tvg-id="三河海马 vs 滋贺湖" tvg-chno="1105" tvg-name="三河海马 vs 滋贺湖" tvg-group="篮球" group-title="篮球",三河海马 vs 滋贺湖·聚合源
@@ -39,119 +41,149 @@ http://192.168.5.35:44635/play/ed3dd9650deee4ce6ad4be8897a181a483703933
 http://192.168.5.35:44635/play/cf48a0a47602c7daa80ad87b81c8f3bb5a9a1d42
 #EXTINF:-1 tvg-id="丰田阳光女篮 vs 电装小仙女女篮" tvg-chno="1108" tvg-name="丰田阳光女篮 vs 电装小仙女女篮" tvg-group="篮球" group-title="篮球",丰田阳光女篮 vs 电装小仙女女篮·聚合源
 http://192.168.5.35:44635/play/4eb435fcb160b3ecdf837de3b1be33fd4b9cb28f
-#EXTINF:-1 tvg-id="岐阜猛扑 vs 金泽武士团" tvg-chno="1109" tvg-name="岐阜猛扑 vs 金泽武士团" tvg-group="篮球" group-title="篮球",岐阜猛扑 vs 金泽武士团·聚合源
+#EXTINF:-1 tvg-id="名古屋战鹰 vs 东京联合" tvg-chno="1109" tvg-name="名古屋战鹰 vs 东京联合" tvg-group="篮球" group-title="篮球",名古屋战鹰 vs 东京联合·聚合源
+http://192.168.5.35:44635/play/eae96086cec734c163e2a8dd95987887972ed408
+#EXTINF:-1 tvg-id="名古屋战鹰 vs 东京联合" tvg-chno="1109" tvg-name="名古屋战鹰 vs 东京联合" tvg-group="篮球" group-title="篮球",名古屋战鹰 vs 东京联合·聚合源
+http://192.168.5.35:44635/play/b72d7fa665f7c272fded43ac95b7b00e0d67be08
+#EXTINF:-1 tvg-id="岐阜猛扑 vs 金泽武士团" tvg-chno="1110" tvg-name="岐阜猛扑 vs 金泽武士团" tvg-group="篮球" group-title="篮球",岐阜猛扑 vs 金泽武士团·聚合源
 http://192.168.5.35:44635/play/3ccf48eb6de8a0ca75e03129284d48773030c5a3
-#EXTINF:-1 tvg-id="岐阜猛扑 vs 金泽武士团" tvg-chno="1109" tvg-name="岐阜猛扑 vs 金泽武士团" tvg-group="篮球" group-title="篮球",岐阜猛扑 vs 金泽武士团·聚合源
+#EXTINF:-1 tvg-id="岐阜猛扑 vs 金泽武士团" tvg-chno="1110" tvg-name="岐阜猛扑 vs 金泽武士团" tvg-group="篮球" group-title="篮球",岐阜猛扑 vs 金泽武士团·聚合源
 http://192.168.5.35:44635/play/2fabbd4250f90a7c5069ba708d39b8058b7aecd1
-#EXTINF:-1 tvg-id="开拓者 vs 马刺" tvg-chno="1110" tvg-name="开拓者 vs 马刺" tvg-group="篮球" group-title="篮球",开拓者 vs 马刺·聚合源
+#EXTINF:-1 tvg-id="开拓者 vs 马刺" tvg-chno="1111" tvg-name="开拓者 vs 马刺" tvg-group="篮球" group-title="篮球",开拓者 vs 马刺·聚合源
 http://192.168.5.35:44635/play/e092b2f6ee23aff5d20bf0809360925cb6e473f1
-#EXTINF:-1 tvg-id="横滨卓越 vs 越谷阿尔法" tvg-chno="1111" tvg-name="横滨卓越 vs 越谷阿尔法" tvg-group="篮球" group-title="篮球",横滨卓越 vs 越谷阿尔法·聚合源
+#EXTINF:-1 tvg-id="横滨卓越 vs 越谷阿尔法" tvg-chno="1112" tvg-name="横滨卓越 vs 越谷阿尔法" tvg-group="篮球" group-title="篮球",横滨卓越 vs 越谷阿尔法·聚合源
 http://192.168.5.35:44635/play/67ddc784fccfcb6195d15ac6684007065d8ffba6
-#EXTINF:-1 tvg-id="横滨卓越 vs 越谷阿尔法" tvg-chno="1111" tvg-name="横滨卓越 vs 越谷阿尔法" tvg-group="篮球" group-title="篮球",横滨卓越 vs 越谷阿尔法·聚合源
+#EXTINF:-1 tvg-id="横滨卓越 vs 越谷阿尔法" tvg-chno="1112" tvg-name="横滨卓越 vs 越谷阿尔法" tvg-group="篮球" group-title="篮球",横滨卓越 vs 越谷阿尔法·聚合源
 http://192.168.5.35:44635/play/4e43547cae2d2688c60a0b8cd9c663bcd34a22b9
-#EXTINF:-1 tvg-id="爱媛维京人 vs 福冈新锐" tvg-chno="1112" tvg-name="爱媛维京人 vs 福冈新锐" tvg-group="篮球" group-title="篮球",爱媛维京人 vs 福冈新锐·聚合源
+#EXTINF:-1 tvg-id="爱媛维京人 vs 福冈新锐" tvg-chno="1113" tvg-name="爱媛维京人 vs 福冈新锐" tvg-group="篮球" group-title="篮球",爱媛维京人 vs 福冈新锐·聚合源
 http://192.168.5.35:44635/play/b19215d9c8af43e46262c7f18ca54c83051fad9f
-#EXTINF:-1 tvg-id="爱媛维京人 vs 福冈新锐" tvg-chno="1112" tvg-name="爱媛维京人 vs 福冈新锐" tvg-group="篮球" group-title="篮球",爱媛维京人 vs 福冈新锐·聚合源
+#EXTINF:-1 tvg-id="爱媛维京人 vs 福冈新锐" tvg-chno="1113" tvg-name="爱媛维京人 vs 福冈新锐" tvg-group="篮球" group-title="篮球",爱媛维京人 vs 福冈新锐·聚合源
 http://192.168.5.35:44635/play/97827571c5eadd6788cd40650608601688e50215
-#EXTINF:-1 tvg-id="珀斯野猫 vs 凯恩斯太攀蛇" tvg-chno="1113" tvg-name="珀斯野猫 vs 凯恩斯太攀蛇" tvg-group="篮球" group-title="篮球",珀斯野猫 vs 凯恩斯太攀蛇·聚合源
+#EXTINF:-1 tvg-id="珀斯野猫 vs 凯恩斯太攀蛇" tvg-chno="1114" tvg-name="珀斯野猫 vs 凯恩斯太攀蛇" tvg-group="篮球" group-title="篮球",珀斯野猫 vs 凯恩斯太攀蛇·聚合源
 http://192.168.5.35:44635/play/52e7d9c9a65a4c8617d37145299fc70a4f798728
-#EXTINF:-1 tvg-id="珀斯野猫 vs 凯恩斯太攀蛇" tvg-chno="1113" tvg-name="珀斯野猫 vs 凯恩斯太攀蛇" tvg-group="篮球" group-title="篮球",珀斯野猫 vs 凯恩斯太攀蛇·聚合源
+#EXTINF:-1 tvg-id="珀斯野猫 vs 凯恩斯太攀蛇" tvg-chno="1114" tvg-name="珀斯野猫 vs 凯恩斯太攀蛇" tvg-group="篮球" group-title="篮球",珀斯野猫 vs 凯恩斯太攀蛇·聚合源
 http://192.168.5.35:44635/play/b75442e677104d31bd0bddbbb8c787929a0a79a4
-#EXTINF:-1 tvg-id="珀斯野猫 vs 凯恩斯太攀蛇" tvg-chno="1113" tvg-name="珀斯野猫 vs 凯恩斯太攀蛇" tvg-group="篮球" group-title="篮球",珀斯野猫 vs 凯恩斯太攀蛇·聚合源
+#EXTINF:-1 tvg-id="珀斯野猫 vs 凯恩斯太攀蛇" tvg-chno="1114" tvg-name="珀斯野猫 vs 凯恩斯太攀蛇" tvg-group="篮球" group-title="篮球",珀斯野猫 vs 凯恩斯太攀蛇·聚合源
 http://192.168.5.35:44635/play/71c4c5b8f46bccf7b1785bf0ed8e896928f72738
-#EXTINF:-1 tvg-id="福井吹风 vs 冈山三环" tvg-chno="1114" tvg-name="福井吹风 vs 冈山三环" tvg-group="篮球" group-title="篮球",福井吹风 vs 冈山三环·聚合源
+#EXTINF:-1 tvg-id="福井吹风 vs 冈山三环" tvg-chno="1115" tvg-name="福井吹风 vs 冈山三环" tvg-group="篮球" group-title="篮球",福井吹风 vs 冈山三环·聚合源
 http://192.168.5.35:44635/play/62c436efbe453cdd9eb762b2737ad37c88ee208d
-#EXTINF:-1 tvg-id="福井吹风 vs 冈山三环" tvg-chno="1114" tvg-name="福井吹风 vs 冈山三环" tvg-group="篮球" group-title="篮球",福井吹风 vs 冈山三环·聚合源
+#EXTINF:-1 tvg-id="福井吹风 vs 冈山三环" tvg-chno="1115" tvg-name="福井吹风 vs 冈山三环" tvg-group="篮球" group-title="篮球",福井吹风 vs 冈山三环·聚合源
 http://192.168.5.35:44635/play/4a8ddc5d671a5cc64575085ac784c5d995037e5b
-#EXTINF:-1 tvg-id="秋田北部喜悦 vs 信州勇士" tvg-chno="1115" tvg-name="秋田北部喜悦 vs 信州勇士" tvg-group="篮球" group-title="篮球",秋田北部喜悦 vs 信州勇士·聚合源
+#EXTINF:-1 tvg-id="秋田北部喜悦 vs 信州勇士" tvg-chno="1116" tvg-name="秋田北部喜悦 vs 信州勇士" tvg-group="篮球" group-title="篮球",秋田北部喜悦 vs 信州勇士·聚合源
 http://192.168.5.35:44635/play/bca3dbeabe77562255ed37f991323a47f2c3d780
-#EXTINF:-1 tvg-id="秋田北部喜悦 vs 信州勇士" tvg-chno="1115" tvg-name="秋田北部喜悦 vs 信州勇士" tvg-group="篮球" group-title="篮球",秋田北部喜悦 vs 信州勇士·聚合源
+#EXTINF:-1 tvg-id="秋田北部喜悦 vs 信州勇士" tvg-chno="1116" tvg-name="秋田北部喜悦 vs 信州勇士" tvg-group="篮球" group-title="篮球",秋田北部喜悦 vs 信州勇士·聚合源
 http://192.168.5.35:44635/play/d4e95759fcea13b287d115db099676d4a505ffc4
-#EXTINF:-1 tvg-id="立川骰子 vs 香川五箭" tvg-chno="1116" tvg-name="立川骰子 vs 香川五箭" tvg-group="篮球" group-title="篮球",立川骰子 vs 香川五箭·聚合源
+#EXTINF:-1 tvg-id="立川骰子 vs 香川五箭" tvg-chno="1117" tvg-name="立川骰子 vs 香川五箭" tvg-group="篮球" group-title="篮球",立川骰子 vs 香川五箭·聚合源
 http://192.168.5.35:44635/play/295c676776a797b3c37d852fcc0381782ac007ae
-#EXTINF:-1 tvg-id="立川骰子 vs 香川五箭" tvg-chno="1116" tvg-name="立川骰子 vs 香川五箭" tvg-group="篮球" group-title="篮球",立川骰子 vs 香川五箭·聚合源
+#EXTINF:-1 tvg-id="立川骰子 vs 香川五箭" tvg-chno="1117" tvg-name="立川骰子 vs 香川五箭" tvg-group="篮球" group-title="篮球",立川骰子 vs 香川五箭·聚合源
 http://192.168.5.35:44635/play/5b7fa1785c96456d8eec8dd34c7122f9c25e43f4
-#EXTINF:-1 tvg-id="青森热力 vs 山形飞龙" tvg-chno="1117" tvg-name="青森热力 vs 山形飞龙" tvg-group="篮球" group-title="篮球",青森热力 vs 山形飞龙·聚合源
+#EXTINF:-1 tvg-id="青森热力 vs 山形飞龙" tvg-chno="1118" tvg-name="青森热力 vs 山形飞龙" tvg-group="篮球" group-title="篮球",青森热力 vs 山形飞龙·聚合源
 http://192.168.5.35:44635/play/c852d9c6a1fced7a1d39c8f0556c5bd9ea49e9ff
-#EXTINF:-1 tvg-id="青森热力 vs 山形飞龙" tvg-chno="1117" tvg-name="青森热力 vs 山形飞龙" tvg-group="篮球" group-title="篮球",青森热力 vs 山形飞龙·聚合源
+#EXTINF:-1 tvg-id="青森热力 vs 山形飞龙" tvg-chno="1118" tvg-name="青森热力 vs 山形飞龙" tvg-group="篮球" group-title="篮球",青森热力 vs 山形飞龙·聚合源
 http://192.168.5.35:44635/play/c50e54cf523d9af93cb10fb48fb12f55b4f2ba1a
-#EXTINF:-1 tvg-id="静冈顶点 vs 岩手大公牛" tvg-chno="1118" tvg-name="静冈顶点 vs 岩手大公牛" tvg-group="篮球" group-title="篮球",静冈顶点 vs 岩手大公牛·聚合源
+#EXTINF:-1 tvg-id="静冈顶点 vs 岩手大公牛" tvg-chno="1119" tvg-name="静冈顶点 vs 岩手大公牛" tvg-group="篮球" group-title="篮球",静冈顶点 vs 岩手大公牛·聚合源
 http://192.168.5.35:44635/play/fc17ee58157a326cda9677ef5681654aa72cf2ed
-#EXTINF:-1 tvg-id="静冈顶点 vs 岩手大公牛" tvg-chno="1118" tvg-name="静冈顶点 vs 岩手大公牛" tvg-group="篮球" group-title="篮球",静冈顶点 vs 岩手大公牛·聚合源
+#EXTINF:-1 tvg-id="静冈顶点 vs 岩手大公牛" tvg-chno="1119" tvg-name="静冈顶点 vs 岩手大公牛" tvg-group="篮球" group-title="篮球",静冈顶点 vs 岩手大公牛·聚合源
 http://192.168.5.35:44635/play/b3877144c2d4ac3127563b07b1650a077a7f3a47
-#EXTINF:-1 tvg-id="深圳二零二八 vs 上海海港B队" tvg-chno="1201" tvg-name="深圳二零二八 vs 上海海港B队" tvg-group="足球" group-title="足球",深圳二零二八 vs 上海海港B队·咪咕直播·720P
-http://192.168.5.35:35456/jrs/%E6%B7%B1%E5%9C%B3%E4%BA%8C%E9%9B%B6%E4%BA%8C%E5%85%AB%20vs%20%E4%B8%8A%E6%B5%B7%E6%B5%B7%E6%B8%AFB%E9%98%9F%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
-#EXTINF:-1 tvg-id="FC首尔 vs 蔚山HD" tvg-chno="1202" tvg-name="FC首尔 vs 蔚山HD" tvg-group="足球" group-title="足球",FC首尔 vs 蔚山HD·聚合源
+#EXTINF:-1 tvg-id="FC首尔 vs 蔚山HD" tvg-chno="1201" tvg-name="FC首尔 vs 蔚山HD" tvg-group="足球" group-title="足球",FC首尔 vs 蔚山HD·聚合源
 http://192.168.5.35:44635/play/310e6ec9c7c7466f1b489617a9ecbed588c0cd2d
-#EXTINF:-1 tvg-id="FC首尔 vs 蔚山HD" tvg-chno="1202" tvg-name="FC首尔 vs 蔚山HD" tvg-group="足球" group-title="足球",FC首尔 vs 蔚山HD·聚合源
+#EXTINF:-1 tvg-id="FC首尔 vs 蔚山HD" tvg-chno="1201" tvg-name="FC首尔 vs 蔚山HD" tvg-group="足球" group-title="足球",FC首尔 vs 蔚山HD·聚合源
 http://192.168.5.35:44635/play/adf7c3307483ab2e8407ea073b52a0fe16d1b5e0
-#EXTINF:-1 tvg-id="SC相模原 vs 鹿儿岛联" tvg-chno="1203" tvg-name="SC相模原 vs 鹿儿岛联" tvg-group="足球" group-title="足球",SC相模原 vs 鹿儿岛联·聚合源
+#EXTINF:-1 tvg-id="SC相模原 vs 鹿儿岛联" tvg-chno="1202" tvg-name="SC相模原 vs 鹿儿岛联" tvg-group="足球" group-title="足球",SC相模原 vs 鹿儿岛联·聚合源
 http://192.168.5.35:44635/play/e965b641fb6fe3e5d0f3909fb844eb7418e8cb90
-#EXTINF:-1 tvg-id="SC相模原 vs 鹿儿岛联" tvg-chno="1203" tvg-name="SC相模原 vs 鹿儿岛联" tvg-group="足球" group-title="足球",SC相模原 vs 鹿儿岛联·聚合源
+#EXTINF:-1 tvg-id="SC相模原 vs 鹿儿岛联" tvg-chno="1202" tvg-name="SC相模原 vs 鹿儿岛联" tvg-group="足球" group-title="足球",SC相模原 vs 鹿儿岛联·聚合源
 http://192.168.5.35:44635/play/8e32516478df994bccbe65ea35c47f8a6ce36b96
+#EXTINF:-1 tvg-id="SKA哈巴罗夫斯克 vs 伊万诺沃" tvg-chno="1203" tvg-name="SKA哈巴罗夫斯克 vs 伊万诺沃" tvg-group="足球" group-title="足球",SKA哈巴罗夫斯克 vs 伊万诺沃·聚合源
+http://192.168.5.35:44635/play/033c845eec089152fcce4951a2d1655b00e08c25
+#EXTINF:-1 tvg-id="SKA哈巴罗夫斯克 vs 伊万诺沃" tvg-chno="1203" tvg-name="SKA哈巴罗夫斯克 vs 伊万诺沃" tvg-group="足球" group-title="足球",SKA哈巴罗夫斯克 vs 伊万诺沃·聚合源
+http://192.168.5.35:44635/play/d542f2c773d40e7d0402f4a176513b194beaabd6
 #EXTINF:-1 tvg-id="仙台七夕 vs 甲府风林" tvg-chno="1204" tvg-name="仙台七夕 vs 甲府风林" tvg-group="足球" group-title="足球",仙台七夕 vs 甲府风林·聚合源
 http://192.168.5.35:44635/play/3ac27144f2f9b2e710bfa3ad7eb18c134de9b162
 #EXTINF:-1 tvg-id="仙台七夕 vs 甲府风林" tvg-chno="1204" tvg-name="仙台七夕 vs 甲府风林" tvg-group="足球" group-title="足球",仙台七夕 vs 甲府风林·聚合源
 http://192.168.5.35:44635/play/267990a2b7c067362ffd253f37df5632a457e1c8
-#EXTINF:-1 tvg-id="大田市民 vs 仁川联" tvg-chno="1205" tvg-name="大田市民 vs 仁川联" tvg-group="足球" group-title="足球",大田市民 vs 仁川联·聚合源
+#EXTINF:-1 tvg-id="内湖公马 vs 曼迪奥拉" tvg-chno="1205" tvg-name="内湖公马 vs 曼迪奥拉" tvg-group="足球" group-title="足球",内湖公马 vs 曼迪奥拉·聚合源
+http://192.168.5.35:44635/play/860230751f495511873874e2fcd950367eb3461a
+#EXTINF:-1 tvg-id="内湖公马 vs 曼迪奥拉" tvg-chno="1205" tvg-name="内湖公马 vs 曼迪奥拉" tvg-group="足球" group-title="足球",内湖公马 vs 曼迪奥拉·聚合源
+http://192.168.5.35:44635/play/c1b28debc600f800dc9c5d187ac2b5321e8c5e1e
+#EXTINF:-1 tvg-id="叶尼塞 vs 索契" tvg-chno="1206" tvg-name="叶尼塞 vs 索契" tvg-group="足球" group-title="足球",叶尼塞 vs 索契·聚合源
+http://192.168.5.35:44635/play/c898244f9f14b56565e7d89a38feb6c335fe5f5c
+#EXTINF:-1 tvg-id="叶尼塞 vs 索契" tvg-chno="1206" tvg-name="叶尼塞 vs 索契" tvg-group="足球" group-title="足球",叶尼塞 vs 索契·聚合源
+http://192.168.5.35:44635/play/b0dbe04130813987e0780b726ff36bf9f2c1c5f4
+#EXTINF:-1 tvg-id="大田市民 vs 仁川联" tvg-chno="1207" tvg-name="大田市民 vs 仁川联" tvg-group="足球" group-title="足球",大田市民 vs 仁川联·聚合源
 http://192.168.5.35:44635/play/c2f6bfc4d4210799512ffc0e2f402525b2bee246
-#EXTINF:-1 tvg-id="大田市民 vs 仁川联" tvg-chno="1205" tvg-name="大田市民 vs 仁川联" tvg-group="足球" group-title="足球",大田市民 vs 仁川联·聚合源
+#EXTINF:-1 tvg-id="大田市民 vs 仁川联" tvg-chno="1207" tvg-name="大田市民 vs 仁川联" tvg-group="足球" group-title="足球",大田市民 vs 仁川联·聚合源
 http://192.168.5.35:44635/play/925f1baaac7a7d2fa64bfb20ec9e602ec1b2ed1a
-#EXTINF:-1 tvg-id="大阪钢巴 vs 大阪樱花" tvg-chno="1206" tvg-name="大阪钢巴 vs 大阪樱花" tvg-group="足球1080" group-title="足球1080",大阪钢巴 vs 大阪樱花·1080P原声
+#EXTINF:-1 tvg-id="大阪钢巴 vs 大阪樱花" tvg-chno="1208" tvg-name="大阪钢巴 vs 大阪樱花" tvg-group="足球1080" group-title="足球1080",大阪钢巴 vs 大阪樱花·1080P原声
 http://192.168.5.35:35456/jrs/%E5%A4%A7%E9%98%AA%E9%92%A2%E5%B7%B4%20vs%20%E5%A4%A7%E9%98%AA%E6%A8%B1%E8%8A%B1%C2%B71080P%E5%8E%9F%E5%A3%B0
-#EXTINF:-1 tvg-id="大阪钢巴 vs 大阪樱花" tvg-chno="1206" tvg-name="大阪钢巴 vs 大阪樱花" tvg-group="足球1080" group-title="足球1080",大阪钢巴 vs 大阪樱花·1080P原声
+#EXTINF:-1 tvg-id="大阪钢巴 vs 大阪樱花" tvg-chno="1208" tvg-name="大阪钢巴 vs 大阪樱花" tvg-group="足球1080" group-title="足球1080",大阪钢巴 vs 大阪樱花·1080P原声
 http://192.168.5.35:44635/play/eedd8d2f968dec3f2c68b54e2948f135475769ec
-#EXTINF:-1 tvg-id="大阪钢巴 vs 大阪樱花" tvg-chno="1206" tvg-name="大阪钢巴 vs 大阪樱花" tvg-group="足球1080" group-title="足球1080",大阪钢巴 vs 大阪樱花·1080P原声
+#EXTINF:-1 tvg-id="大阪钢巴 vs 大阪樱花" tvg-chno="1208" tvg-name="大阪钢巴 vs 大阪樱花" tvg-group="足球1080" group-title="足球1080",大阪钢巴 vs 大阪樱花·1080P原声
 http://192.168.5.35:44635/play/b7d99e5c469e055de711d23228119820f23f1522
-#EXTINF:-1 tvg-id="天安城 vs 釜山偶像" tvg-chno="1207" tvg-name="天安城 vs 釜山偶像" tvg-group="足球" group-title="足球",天安城 vs 釜山偶像·聚合源
+#EXTINF:-1 tvg-id="天安城 vs 釜山偶像" tvg-chno="1209" tvg-name="天安城 vs 釜山偶像" tvg-group="足球" group-title="足球",天安城 vs 釜山偶像·聚合源
 http://192.168.5.35:44635/play/c35dd098349ebf986214faf4ee3a8d837ff6a771
-#EXTINF:-1 tvg-id="天安城 vs 釜山偶像" tvg-chno="1207" tvg-name="天安城 vs 釜山偶像" tvg-group="足球" group-title="足球",天安城 vs 釜山偶像·聚合源
+#EXTINF:-1 tvg-id="天安城 vs 釜山偶像" tvg-chno="1209" tvg-name="天安城 vs 釜山偶像" tvg-group="足球" group-title="足球",天安城 vs 釜山偶像·聚合源
 http://192.168.5.35:44635/play/a954c9498323238109f9fb3e1ba4dba6b7122be7
-#EXTINF:-1 tvg-id="杭州临平吴越 vs 大连可为" tvg-chno="1208" tvg-name="杭州临平吴越 vs 大连可为" tvg-group="足球" group-title="足球",杭州临平吴越 vs 大连可为·咪咕直播·720P
+#EXTINF:-1 tvg-id="杭州临平吴越 vs 大连可为" tvg-chno="1210" tvg-name="杭州临平吴越 vs 大连可为" tvg-group="足球" group-title="足球",杭州临平吴越 vs 大连可为·咪咕直播·720P
 http://192.168.5.35:35456/jrs/%E6%9D%AD%E5%B7%9E%E4%B8%B4%E5%B9%B3%E5%90%B4%E8%B6%8A%20vs%20%E5%A4%A7%E8%BF%9E%E5%8F%AF%E4%B8%BA%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
-#EXTINF:-1 tvg-id="杭州临平吴越 vs 大连可为" tvg-chno="1208" tvg-name="杭州临平吴越 vs 大连可为" tvg-group="足球" group-title="足球",杭州临平吴越 vs 大连可为·咪咕直播·720P
+#EXTINF:-1 tvg-id="杭州临平吴越 vs 大连可为" tvg-chno="1210" tvg-name="杭州临平吴越 vs 大连可为" tvg-group="足球" group-title="足球",杭州临平吴越 vs 大连可为·咪咕直播·720P
 http://192.168.5.35:44635/play/d55b7f40299a6d74b4d07c81f63073c47596cce9
-#EXTINF:-1 tvg-id="杭州临平吴越 vs 大连可为" tvg-chno="1208" tvg-name="杭州临平吴越 vs 大连可为" tvg-group="足球" group-title="足球",杭州临平吴越 vs 大连可为·咪咕直播·720P
+#EXTINF:-1 tvg-id="杭州临平吴越 vs 大连可为" tvg-chno="1210" tvg-name="杭州临平吴越 vs 大连可为" tvg-group="足球" group-title="足球",杭州临平吴越 vs 大连可为·咪咕直播·720P
 http://192.168.5.35:44635/play/102097e396acc8830e3fd6c90c8b7c086fe00137
-#EXTINF:-1 tvg-id="枥木市FC vs RB大宫松鼠" tvg-chno="1209" tvg-name="枥木市FC vs RB大宫松鼠" tvg-group="足球" group-title="足球",枥木市FC vs RB大宫松鼠·聚合源
+#EXTINF:-1 tvg-id="枥木市FC vs RB大宫松鼠" tvg-chno="1211" tvg-name="枥木市FC vs RB大宫松鼠" tvg-group="足球" group-title="足球",枥木市FC vs RB大宫松鼠·聚合源
 http://192.168.5.35:44635/play/aab349a3bfee768054ea26a975ff7ea156394050
-#EXTINF:-1 tvg-id="枥木市FC vs RB大宫松鼠" tvg-chno="1209" tvg-name="枥木市FC vs RB大宫松鼠" tvg-group="足球" group-title="足球",枥木市FC vs RB大宫松鼠·聚合源
+#EXTINF:-1 tvg-id="枥木市FC vs RB大宫松鼠" tvg-chno="1211" tvg-name="枥木市FC vs RB大宫松鼠" tvg-group="足球" group-title="足球",枥木市FC vs RB大宫松鼠·聚合源
 http://192.168.5.35:44635/play/8da1f1852a2816ab6b02749b6e3c2918066ab209
-#EXTINF:-1 tvg-id="水原三星 vs 龙仁FC" tvg-chno="1210" tvg-name="水原三星 vs 龙仁FC" tvg-group="足球" group-title="足球",水原三星 vs 龙仁FC·聚合源
+#EXTINF:-1 tvg-id="水原三星 vs 龙仁FC" tvg-chno="1212" tvg-name="水原三星 vs 龙仁FC" tvg-group="足球" group-title="足球",水原三星 vs 龙仁FC·聚合源
 http://192.168.5.35:44635/play/b93e313c03d60dc5d3750e77fb50de31a614ca0c
-#EXTINF:-1 tvg-id="水原三星 vs 龙仁FC" tvg-chno="1210" tvg-name="水原三星 vs 龙仁FC" tvg-group="足球" group-title="足球",水原三星 vs 龙仁FC·聚合源
+#EXTINF:-1 tvg-id="水原三星 vs 龙仁FC" tvg-chno="1212" tvg-name="水原三星 vs 龙仁FC" tvg-group="足球" group-title="足球",水原三星 vs 龙仁FC·聚合源
 http://192.168.5.35:44635/play/7f652e9daf9cda8b8473fa9a76f39c7ab0fa8712
-#EXTINF:-1 tvg-id="江西庐山 vs 山西崇德荣海" tvg-chno="1211" tvg-name="江西庐山 vs 山西崇德荣海" tvg-group="足球" group-title="足球",江西庐山 vs 山西崇德荣海·聚合源
+#EXTINF:-1 tvg-id="江西庐山 vs 山西崇德荣海" tvg-chno="1213" tvg-name="江西庐山 vs 山西崇德荣海" tvg-group="足球" group-title="足球",江西庐山 vs 山西崇德荣海·聚合源
 http://192.168.5.35:44635/play/c0542fb76ac97ec6da04de7415780c6cafbc4b1c
-#EXTINF:-1 tvg-id="江西庐山 vs 山西崇德荣海" tvg-chno="1211" tvg-name="江西庐山 vs 山西崇德荣海" tvg-group="足球" group-title="足球",江西庐山 vs 山西崇德荣海·聚合源
+#EXTINF:-1 tvg-id="江西庐山 vs 山西崇德荣海" tvg-chno="1213" tvg-name="江西庐山 vs 山西崇德荣海" tvg-group="足球" group-title="足球",江西庐山 vs 山西崇德荣海·聚合源
 http://192.168.5.35:44635/play/5f1567baffd6cafef239ffa64c79566eac4e1123
-#EXTINF:-1 tvg-id="町田泽维亚 vs 广岛三箭" tvg-chno="1212" tvg-name="町田泽维亚 vs 广岛三箭" tvg-group="足球1080" group-title="足球1080",町田泽维亚 vs 广岛三箭·1080P原声
+#EXTINF:-1 tvg-id="深圳二零二八 vs 上海海港B队" tvg-chno="1214" tvg-name="深圳二零二八 vs 上海海港B队" tvg-group="足球" group-title="足球",深圳二零二八 vs 上海海港B队·咪咕直播·720P
+http://192.168.5.35:35456/jrs/%E6%B7%B1%E5%9C%B3%E4%BA%8C%E9%9B%B6%E4%BA%8C%E5%85%AB%20vs%20%E4%B8%8A%E6%B5%B7%E6%B5%B7%E6%B8%AFB%E9%98%9F%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
+#EXTINF:-1 tvg-id="深圳二零二八 vs 上海海港B队" tvg-chno="1214" tvg-name="深圳二零二八 vs 上海海港B队" tvg-group="足球" group-title="足球",深圳二零二八 vs 上海海港B队·咪咕直播·720P
+http://192.168.5.35:44635/play/1885092f9fe165a2bfbe366e6c7fcb5c4ce5a327
+#EXTINF:-1 tvg-id="深圳二零二八 vs 上海海港B队" tvg-chno="1214" tvg-name="深圳二零二八 vs 上海海港B队" tvg-group="足球" group-title="足球",深圳二零二八 vs 上海海港B队·咪咕直播·720P
+http://192.168.5.35:44635/play/b190dab45215e3a0578f680fe88538e7bfdb52f2
+#EXTINF:-1 tvg-id="町田泽维亚 vs 广岛三箭" tvg-chno="1215" tvg-name="町田泽维亚 vs 广岛三箭" tvg-group="足球1080" group-title="足球1080",町田泽维亚 vs 广岛三箭·1080P原声
 http://192.168.5.35:35456/jrs/%E7%94%BA%E7%94%B0%E6%B3%BD%E7%BB%B4%E4%BA%9A%20vs%20%E5%B9%BF%E5%B2%9B%E4%B8%89%E7%AE%AD%C2%B71080P%E5%8E%9F%E5%A3%B0
-#EXTINF:-1 tvg-id="町田泽维亚 vs 广岛三箭" tvg-chno="1212" tvg-name="町田泽维亚 vs 广岛三箭" tvg-group="足球1080" group-title="足球1080",町田泽维亚 vs 广岛三箭·1080P原声
+#EXTINF:-1 tvg-id="町田泽维亚 vs 广岛三箭" tvg-chno="1215" tvg-name="町田泽维亚 vs 广岛三箭" tvg-group="足球1080" group-title="足球1080",町田泽维亚 vs 广岛三箭·1080P原声
 http://192.168.5.35:44635/play/bdf13994199c7ca0dec9f59893dfc4c301deea96
-#EXTINF:-1 tvg-id="町田泽维亚 vs 广岛三箭" tvg-chno="1212" tvg-name="町田泽维亚 vs 广岛三箭" tvg-group="足球1080" group-title="足球1080",町田泽维亚 vs 广岛三箭·1080P原声
+#EXTINF:-1 tvg-id="町田泽维亚 vs 广岛三箭" tvg-chno="1215" tvg-name="町田泽维亚 vs 广岛三箭" tvg-group="足球1080" group-title="足球1080",町田泽维亚 vs 广岛三箭·1080P原声
 http://192.168.5.35:44635/play/ec8b63dea1a055e8154dfe53f4efb739564e914e
-#EXTINF:-1 tvg-id="磐田喜悦 vs 湘南丽海" tvg-chno="1213" tvg-name="磐田喜悦 vs 湘南丽海" tvg-group="足球" group-title="足球",磐田喜悦 vs 湘南丽海·聚合源
+#EXTINF:-1 tvg-id="磐田喜悦 vs 湘南丽海" tvg-chno="1216" tvg-name="磐田喜悦 vs 湘南丽海" tvg-group="足球" group-title="足球",磐田喜悦 vs 湘南丽海·聚合源
 http://192.168.5.35:44635/play/fe1d700d89d209bcbf56d0139e0e74e0bd63bde0
-#EXTINF:-1 tvg-id="磐田喜悦 vs 湘南丽海" tvg-chno="1213" tvg-name="磐田喜悦 vs 湘南丽海" tvg-group="足球" group-title="足球",磐田喜悦 vs 湘南丽海·聚合源
+#EXTINF:-1 tvg-id="磐田喜悦 vs 湘南丽海" tvg-chno="1216" tvg-name="磐田喜悦 vs 湘南丽海" tvg-group="足球" group-title="足球",磐田喜悦 vs 湘南丽海·聚合源
 http://192.168.5.35:44635/play/23be8f300d7fd3d6e9fd12ad7f95a5f36f456285
-#EXTINF:-1 tvg-id="神户胜利船 vs 浦和红钻" tvg-chno="1214" tvg-name="神户胜利船 vs 浦和红钻" tvg-group="足球" group-title="足球",神户胜利船 vs 浦和红钻·聚合源
+#EXTINF:-1 tvg-id="神户胜利船 vs 浦和红钻" tvg-chno="1217" tvg-name="神户胜利船 vs 浦和红钻" tvg-group="足球" group-title="足球",神户胜利船 vs 浦和红钻·聚合源
 http://192.168.5.35:44635/play/a3d5744d59bd912b1f6f7242abdee8c86be10cb8
-#EXTINF:-1 tvg-id="神户胜利船 vs 浦和红钻" tvg-chno="1214" tvg-name="神户胜利船 vs 浦和红钻" tvg-group="足球" group-title="足球",神户胜利船 vs 浦和红钻·聚合源
+#EXTINF:-1 tvg-id="神户胜利船 vs 浦和红钻" tvg-chno="1217" tvg-name="神户胜利船 vs 浦和红钻" tvg-group="足球" group-title="足球",神户胜利船 vs 浦和红钻·聚合源
 http://192.168.5.35:44635/play/d3f9d2e4778d4152c6514c1e500a5f59e5210ef2
-#EXTINF:-1 tvg-id="长野帕塞罗 vs 赞岐釜玉海" tvg-chno="1215" tvg-name="长野帕塞罗 vs 赞岐釜玉海" tvg-group="足球" group-title="足球",长野帕塞罗 vs 赞岐釜玉海·聚合源
+#EXTINF:-1 tvg-id="贝尔格莱德游击队U15 vs 桑坦德竞技U15" tvg-chno="1218" tvg-name="贝尔格莱德游击队U15 vs 桑坦德竞技U15" tvg-group="足球" group-title="足球",贝尔格莱德游击队U15 vs 桑坦德竞技U15·聚合源
+http://192.168.5.35:44635/play/821ffefa4deb7f8f0fc039b17279199b4aa17981
+#EXTINF:-1 tvg-id="贝尔格莱德游击队U15 vs 桑坦德竞技U15" tvg-chno="1218" tvg-name="贝尔格莱德游击队U15 vs 桑坦德竞技U15" tvg-group="足球" group-title="足球",贝尔格莱德游击队U15 vs 桑坦德竞技U15·聚合源
+http://192.168.5.35:44635/play/756b7a07f55ef00446a08da140d094106fff0372
+#EXTINF:-1 tvg-id="贵州贵阳竞技 vs 山东泰山B队" tvg-chno="1219" tvg-name="贵州贵阳竞技 vs 山东泰山B队" tvg-group="足球" group-title="足球",贵州贵阳竞技 vs 山东泰山B队·聚合源
+http://192.168.5.35:44635/play/d6e6176d9bd9e665462baea9e20fcf301781de46
+#EXTINF:-1 tvg-id="贵州贵阳竞技 vs 山东泰山B队" tvg-chno="1219" tvg-name="贵州贵阳竞技 vs 山东泰山B队" tvg-group="足球" group-title="足球",贵州贵阳竞技 vs 山东泰山B队·聚合源
+http://192.168.5.35:44635/play/2c4afc7cd0acdf22b903a90b9f872e18ca9cfaa5
+#EXTINF:-1 tvg-id="长野帕塞罗 vs 赞岐釜玉海" tvg-chno="1220" tvg-name="长野帕塞罗 vs 赞岐釜玉海" tvg-group="足球" group-title="足球",长野帕塞罗 vs 赞岐釜玉海·聚合源
 http://192.168.5.35:44635/play/52cb96a7dc79f9b128a094a82b86c1d89a294549
-#EXTINF:-1 tvg-id="长野帕塞罗 vs 赞岐釜玉海" tvg-chno="1215" tvg-name="长野帕塞罗 vs 赞岐釜玉海" tvg-group="足球" group-title="足球",长野帕塞罗 vs 赞岐釜玉海·聚合源
+#EXTINF:-1 tvg-id="长野帕塞罗 vs 赞岐釜玉海" tvg-chno="1220" tvg-name="长野帕塞罗 vs 赞岐釜玉海" tvg-group="足球" group-title="足球",长野帕塞罗 vs 赞岐釜玉海·聚合源
 http://192.168.5.35:44635/play/31c1521cbb20f319f05fc5d8fe57b844bf0cc7c0
-#EXTINF:-1 tvg-id="阿德莱德联 vs 墨尔本胜利" tvg-chno="1216" tvg-name="阿德莱德联 vs 墨尔本胜利" tvg-group="足球1080" group-title="足球1080",阿德莱德联 vs 墨尔本胜利·1080P原声
+#EXTINF:-1 tvg-id="阿德莱德联 vs 墨尔本胜利" tvg-chno="1221" tvg-name="阿德莱德联 vs 墨尔本胜利" tvg-group="足球1080" group-title="足球1080",阿德莱德联 vs 墨尔本胜利·1080P原声
 http://192.168.5.35:35456/jrs/%E9%98%BF%E5%BE%B7%E8%8E%B1%E5%BE%B7%E8%81%94%20vs%20%E5%A2%A8%E5%B0%94%E6%9C%AC%E8%83%9C%E5%88%A9%C2%B71080P%E5%8E%9F%E5%A3%B0
-#EXTINF:-1 tvg-id="阿德莱德联 vs 墨尔本胜利" tvg-chno="1216" tvg-name="阿德莱德联 vs 墨尔本胜利" tvg-group="足球1080" group-title="足球1080",阿德莱德联 vs 墨尔本胜利·1080P原声
+#EXTINF:-1 tvg-id="阿德莱德联 vs 墨尔本胜利" tvg-chno="1221" tvg-name="阿德莱德联 vs 墨尔本胜利" tvg-group="足球1080" group-title="足球1080",阿德莱德联 vs 墨尔本胜利·1080P原声
 http://192.168.5.35:44635/play/ffda58841de2d6c2409fab4b99f29ef8b947dcd0
-#EXTINF:-1 tvg-id="阿德莱德联 vs 墨尔本胜利" tvg-chno="1216" tvg-name="阿德莱德联 vs 墨尔本胜利" tvg-group="足球1080" group-title="足球1080",阿德莱德联 vs 墨尔本胜利·1080P原声
+#EXTINF:-1 tvg-id="阿德莱德联 vs 墨尔本胜利" tvg-chno="1221" tvg-name="阿德莱德联 vs 墨尔本胜利" tvg-group="足球1080" group-title="足球1080",阿德莱德联 vs 墨尔本胜利·1080P原声
 http://192.168.5.35:44635/play/ac45ca33f760ef6d536b70b4e4596fae5c271942
-#EXTINF:-1 tvg-id="鸟取飞翔 vs 枥木SC" tvg-chno="1217" tvg-name="鸟取飞翔 vs 枥木SC" tvg-group="足球" group-title="足球",鸟取飞翔 vs 枥木SC·聚合源
+#EXTINF:-1 tvg-id="驹腾 vs 领峰" tvg-chno="1222" tvg-name="驹腾 vs 领峰" tvg-group="足球" group-title="足球",驹腾 vs 领峰·聚合源
+http://192.168.5.35:44635/play/04874028f7e303e32cf1a518fb59fdd6fefaf9eb
+#EXTINF:-1 tvg-id="鸟取飞翔 vs 枥木SC" tvg-chno="1223" tvg-name="鸟取飞翔 vs 枥木SC" tvg-group="足球" group-title="足球",鸟取飞翔 vs 枥木SC·聚合源
 http://192.168.5.35:44635/play/92402d62353be408858ba3911a38843e4891ba9c
-#EXTINF:-1 tvg-id="鸟取飞翔 vs 枥木SC" tvg-chno="1217" tvg-name="鸟取飞翔 vs 枥木SC" tvg-group="足球" group-title="足球",鸟取飞翔 vs 枥木SC·聚合源
+#EXTINF:-1 tvg-id="鸟取飞翔 vs 枥木SC" tvg-chno="1223" tvg-name="鸟取飞翔 vs 枥木SC" tvg-group="足球" group-title="足球",鸟取飞翔 vs 枥木SC·聚合源
 http://192.168.5.35:44635/play/989daa348217dd4d9c998bbd8bc6cd6d54cd18d9
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
@@ -159,15 +191,13 @@ http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1303" tvg-name="ESPN" tvg-group="综合体育" group-title="综合体育",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1304" tvg-name="Tennis Channel" tvg-group="综合体育" group-title="综合体育",Tennis Channel
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1305" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1304" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1306" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1305" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1307" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1308" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1307" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
