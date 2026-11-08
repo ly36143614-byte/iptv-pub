@@ -6,7 +6,6 @@
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="勇士 vs 魔术"><display-name>勇士 vs 魔术</display-name></channel>
   <channel id="太阳 vs 火箭"><display-name>太阳 vs 火箭</display-name></channel>
-  <channel id="步行者 vs 掘金"><display-name>步行者 vs 掘金</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
   <channel id="老鹰 vs 篮网"><display-name>老鹰 vs 篮网</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
@@ -98,10 +97,6 @@
   </programme>
   <programme start="20261108100000 +0800" stop="20261108124012 +0800" channel="太阳 vs 火箭">
     <title>Houston Rockets at Phoenix Suns（NBA）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261108060000 +0800" stop="20261108084012 +0800" channel="步行者 vs 掘金">
-    <title>Denver Nuggets at Indiana Pacers 已结束（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261109070000 +0800" stop="20261109094012 +0800" channel="活塞">
