@@ -183,11 +183,9 @@ http://192.168.5.35:35456/jrs/%E9%98%BF%E5%BE%B7%E8%8E%B1%E5%BE%B7%E8%81%94%20vs
 http://192.168.5.35:44635/play/ffda58841de2d6c2409fab4b99f29ef8b947dcd0
 #EXTINF:-1 tvg-id="阿德莱德联 vs 墨尔本胜利" tvg-chno="1222" tvg-name="阿德莱德联 vs 墨尔本胜利" tvg-group="足球1080" group-title="足球1080",阿德莱德联 vs 墨尔本胜利·1080P原声
 http://192.168.5.35:44635/play/ac45ca33f760ef6d536b70b4e4596fae5c271942
-#EXTINF:-1 tvg-id="驹腾 vs 领峰" tvg-chno="1223" tvg-name="驹腾 vs 领峰" tvg-group="足球" group-title="足球",驹腾 vs 领峰·聚合源
-http://192.168.5.35:44635/play/04874028f7e303e32cf1a518fb59fdd6fefaf9eb
-#EXTINF:-1 tvg-id="鸟取飞翔 vs 枥木SC" tvg-chno="1224" tvg-name="鸟取飞翔 vs 枥木SC" tvg-group="足球" group-title="足球",鸟取飞翔 vs 枥木SC·聚合源
+#EXTINF:-1 tvg-id="鸟取飞翔 vs 枥木SC" tvg-chno="1223" tvg-name="鸟取飞翔 vs 枥木SC" tvg-group="足球" group-title="足球",鸟取飞翔 vs 枥木SC·聚合源
 http://192.168.5.35:44635/play/92402d62353be408858ba3911a38843e4891ba9c
-#EXTINF:-1 tvg-id="鸟取飞翔 vs 枥木SC" tvg-chno="1224" tvg-name="鸟取飞翔 vs 枥木SC" tvg-group="足球" group-title="足球",鸟取飞翔 vs 枥木SC·聚合源
+#EXTINF:-1 tvg-id="鸟取飞翔 vs 枥木SC" tvg-chno="1223" tvg-name="鸟取飞翔 vs 枥木SC" tvg-group="足球" group-title="足球",鸟取飞翔 vs 枥木SC·聚合源
 http://192.168.5.35:44635/play/989daa348217dd4d9c998bbd8bc6cd6d54cd18d9
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
@@ -215,13 +213,11 @@ http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="F1·Formula" tvg-chno="1355" tvg-name="F1·Formula" tvg-group="体育综合" group-title="体育综合",F1·Formula
 https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
-#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1356" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
-https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1357" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1356" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1358" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1357" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1359" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1358" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="Amaru Gaming vs Z10" tvg-chno="1401" tvg-name="Amaru Gaming vs Z10" tvg-group="DOTA2" group-title="DOTA2",Amaru Gaming vs Z10·聚合源
 http://192.168.5.35:44635/play/17fe859e5b499fd61c78ee19c3969a82e49f7287
