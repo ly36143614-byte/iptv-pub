@@ -40,11 +40,7 @@ http://192.168.5.35:35456/jrs/%E5%8B%87%E5%A3%AB%20vs%20%E9%AD%94%E6%9C%AF%C2%B7
 #EXTINF:-1 tvg-id="勇士 vs 魔术" tvg-chno="1107" tvg-name="勇士 vs 魔术" tvg-group="篮球" group-title="篮球",勇士 vs 魔术·腾讯直播1·720P
 http://192.168.5.35:35456/jrs/%E5%8B%87%E5%A3%AB%20vs%20%E9%AD%94%E6%9C%AF%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
 #EXTINF:-1 tvg-id="勇士 vs 魔术" tvg-chno="1107" tvg-name="勇士 vs 魔术" tvg-group="篮球" group-title="篮球",勇士 vs 魔术·腾讯直播1·720P
-http://192.168.5.35:44635/play/fc9e716aad033a4be4ed55826f9c06ae928d72eb
-#EXTINF:-1 tvg-id="勇士 vs 魔术" tvg-chno="1107" tvg-name="勇士 vs 魔术" tvg-group="篮球" group-title="篮球",勇士 vs 魔术·腾讯直播1·720P
-http://192.168.5.35:44635/play/075c25806ed1a37cc53bba81168881f56b4dfeb9
-#EXTINF:-1 tvg-id="勇士 vs 魔术" tvg-chno="1107" tvg-name="勇士 vs 魔术" tvg-group="篮球" group-title="篮球",勇士 vs 魔术·腾讯直播1·720P
-http://192.168.5.35:44635/play/93d91a31015dfd8878874e95908e71ffdd1082d6
+http://192.168.5.35:44635/play/8a22e0ee08b0b870ba431b68bf5f5599bbff620a
 #EXTINF:-1 tvg-id="南方黄眼企鹅女篮 vs 大陆普瓦凯女篮" tvg-chno="1108" tvg-name="南方黄眼企鹅女篮 vs 大陆普瓦凯女篮" tvg-group="篮球" group-title="篮球",南方黄眼企鹅女篮 vs 大陆普瓦凯女篮·聚合源
 http://192.168.5.35:44635/play/09d682e67eac422edc0a135ad1e55b577a6bebb8
 #EXTINF:-1 tvg-id="南方黄眼企鹅女篮 vs 大陆普瓦凯女篮" tvg-chno="1108" tvg-name="南方黄眼企鹅女篮 vs 大陆普瓦凯女篮" tvg-group="篮球" group-title="篮球",南方黄眼企鹅女篮 vs 大陆普瓦凯女篮·聚合源
@@ -111,19 +107,23 @@ http://192.168.5.35:44635/play/72ccafc3300c2711df33fdc31e1c68524d658f15
 http://192.168.5.35:35456/jrs/%E9%9B%B7%E9%9C%86%20vs%20%E5%A5%87%E6%89%8D%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
 #EXTINF:-1 tvg-id="雷霆 vs 奇才" tvg-chno="1121" tvg-name="雷霆 vs 奇才" tvg-group="篮球" group-title="篮球",雷霆 vs 奇才·咪咕直播·720P
 http://192.168.5.35:44635/play/786271d61b0e2c543d003062ee5dfbac46157326
-#EXTINF:-1 tvg-id="首尔SK骑士 vs 原州东浦新世代" tvg-chno="1122" tvg-name="首尔SK骑士 vs 原州东浦新世代" tvg-group="篮球" group-title="篮球",首尔SK骑士 vs 原州东浦新世代·聚合源
+#EXTINF:-1 tvg-id="静冈顶点 vs 岩手大公牛" tvg-chno="1122" tvg-name="静冈顶点 vs 岩手大公牛" tvg-group="篮球" group-title="篮球",静冈顶点 vs 岩手大公牛·聚合源
+http://192.168.5.35:44635/play/fc17ee58157a326cda9677ef5681654aa72cf2ed
+#EXTINF:-1 tvg-id="静冈顶点 vs 岩手大公牛" tvg-chno="1122" tvg-name="静冈顶点 vs 岩手大公牛" tvg-group="篮球" group-title="篮球",静冈顶点 vs 岩手大公牛·聚合源
+http://192.168.5.35:44635/play/b3877144c2d4ac3127563b07b1650a077a7f3a47
+#EXTINF:-1 tvg-id="首尔SK骑士 vs 原州东浦新世代" tvg-chno="1123" tvg-name="首尔SK骑士 vs 原州东浦新世代" tvg-group="篮球" group-title="篮球",首尔SK骑士 vs 原州东浦新世代·聚合源
 http://192.168.5.35:44635/play/ec1a33d6afb4d3db95610d0b6ec1de060b1d2b9d
-#EXTINF:-1 tvg-id="香颂魔术女篮 vs 日立美洲狮女篮" tvg-chno="1123" tvg-name="香颂魔术女篮 vs 日立美洲狮女篮" tvg-group="篮球" group-title="篮球",香颂魔术女篮 vs 日立美洲狮女篮·聚合源
+#EXTINF:-1 tvg-id="香颂魔术女篮 vs 日立美洲狮女篮" tvg-chno="1124" tvg-name="香颂魔术女篮 vs 日立美洲狮女篮" tvg-group="篮球" group-title="篮球",香颂魔术女篮 vs 日立美洲狮女篮·聚合源
 http://192.168.5.35:44635/play/0bdfbb8a1854fad109bffb051f2b35922962f80a
-#EXTINF:-1 tvg-id="香颂魔术女篮 vs 日立美洲狮女篮" tvg-chno="1123" tvg-name="香颂魔术女篮 vs 日立美洲狮女篮" tvg-group="篮球" group-title="篮球",香颂魔术女篮 vs 日立美洲狮女篮·聚合源
+#EXTINF:-1 tvg-id="香颂魔术女篮 vs 日立美洲狮女篮" tvg-chno="1124" tvg-name="香颂魔术女篮 vs 日立美洲狮女篮" tvg-group="篮球" group-title="篮球",香颂魔术女篮 vs 日立美洲狮女篮·聚合源
 http://192.168.5.35:44635/play/6e08c29bc9cf2691ccaf4cf6edc7c99f2b753c04
-#EXTINF:-1 tvg-id="骑士 vs 尼克斯" tvg-chno="1124" tvg-name="骑士 vs 尼克斯" tvg-group="篮球" group-title="篮球",骑士 vs 尼克斯·咪咕直播·720P
+#EXTINF:-1 tvg-id="骑士 vs 尼克斯" tvg-chno="1125" tvg-name="骑士 vs 尼克斯" tvg-group="篮球" group-title="篮球",骑士 vs 尼克斯·咪咕直播·720P
 http://192.168.5.35:35456/jrs/%E9%AA%91%E5%A3%AB%20vs%20%E5%B0%BC%E5%85%8B%E6%96%AF%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
-#EXTINF:-1 tvg-id="骑士 vs 尼克斯" tvg-chno="1124" tvg-name="骑士 vs 尼克斯" tvg-group="篮球" group-title="篮球",骑士 vs 尼克斯·咪咕直播·720P
+#EXTINF:-1 tvg-id="骑士 vs 尼克斯" tvg-chno="1125" tvg-name="骑士 vs 尼克斯" tvg-group="篮球" group-title="篮球",骑士 vs 尼克斯·咪咕直播·720P
 http://192.168.5.35:44635/play/d20682ee4c12f1538b0571af9703b3c1e1597231
-#EXTINF:-1 tvg-id="鹿儿岛列布尼斯 vs 熊本火山" tvg-chno="1125" tvg-name="鹿儿岛列布尼斯 vs 熊本火山" tvg-group="篮球" group-title="篮球",鹿儿岛列布尼斯 vs 熊本火山·聚合源
+#EXTINF:-1 tvg-id="鹿儿岛列布尼斯 vs 熊本火山" tvg-chno="1126" tvg-name="鹿儿岛列布尼斯 vs 熊本火山" tvg-group="篮球" group-title="篮球",鹿儿岛列布尼斯 vs 熊本火山·聚合源
 http://192.168.5.35:44635/play/cc9d0d16bc7f7aaa6d0cdc1e0b189e7444bbeb84
-#EXTINF:-1 tvg-id="鹿儿岛列布尼斯 vs 熊本火山" tvg-chno="1125" tvg-name="鹿儿岛列布尼斯 vs 熊本火山" tvg-group="篮球" group-title="篮球",鹿儿岛列布尼斯 vs 熊本火山·聚合源
+#EXTINF:-1 tvg-id="鹿儿岛列布尼斯 vs 熊本火山" tvg-chno="1126" tvg-name="鹿儿岛列布尼斯 vs 熊本火山" tvg-group="篮球" group-title="篮球",鹿儿岛列布尼斯 vs 熊本火山·聚合源
 http://192.168.5.35:44635/play/ab63380e5c255fad206b45521b2be2e27256b19c
 #EXTINF:-1 tvg-id="J-利斯FC vs 沼津青蓝" tvg-chno="1201" tvg-name="J-利斯FC vs 沼津青蓝" tvg-group="足球" group-title="足球",J-利斯FC vs 沼津青蓝·聚合源
 http://192.168.5.35:44635/play/661e85c9b79124091723e8b1c4a08e11ab1ab4e2
@@ -203,13 +203,15 @@ http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1303" tvg-name="ESPN" tvg-group="综合体育" group-title="综合体育",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1304" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1304" tvg-name="Tennis Channel" tvg-group="综合体育" group-title="综合体育",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1305" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1305" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1306" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1307" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1307" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1308" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
@@ -219,12 +221,12 @@ http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NBC" tvg-chno="1354" tvg-name="NBC" tvg-group="体育综合" group-title="体育综合",NBC
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
-#EXTINF:-1 tvg-id="F1·Formula" tvg-chno="1355" tvg-name="F1·Formula" tvg-group="体育综合" group-title="体育综合",F1·Formula
-https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
-#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1356" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
+#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1355" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1357" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1356" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1357" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1358" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="Amaru Gaming vs Z10" tvg-chno="1401" tvg-name="Amaru Gaming vs Z10" tvg-group="DOTA2" group-title="DOTA2",Amaru Gaming vs Z10·聚合源
