@@ -19,7 +19,9 @@ http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1102" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="老鹰 vs 篮网" tvg-chno="1103" tvg-name="老鹰 vs 篮网" tvg-group="篮球" group-title="篮球",老鹰 vs 篮网·咪咕直播·720P
+#EXTINF:-1 tvg-id="老鹰 vs 篮网" tvg-chno="1103" tvg-name="老鹰 vs 篮网" tvg-group="篮球" group-title="篮球",老鹰 vs 篮网·腾讯直播1·720P
+http://192.168.5.35:35456/jrs/%E8%80%81%E9%B9%B0%20vs%20%E7%AF%AE%E7%BD%91%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD1%C2%B7720P
+#EXTINF:-1 tvg-id="老鹰 vs 篮网" tvg-chno="1103" tvg-name="老鹰 vs 篮网" tvg-group="篮球" group-title="篮球",老鹰 vs 篮网·腾讯直播1·720P
 http://192.168.5.35:35456/jrs/%E8%80%81%E9%B9%B0%20vs%20%E7%AF%AE%E7%BD%91%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
 #EXTINF:-1 tvg-id="丹佛大学女篮 vs 韦伯州立大学女篮" tvg-chno="1104" tvg-name="丹佛大学女篮 vs 韦伯州立大学女篮" tvg-group="篮球" group-title="篮球",丹佛大学女篮 vs 韦伯州立大学女篮·聚合源
 http://192.168.5.35:44635/play/1a29a5db4f0bd4a77120e93fe68504ba4fa137e3
@@ -52,13 +54,11 @@ http://192.168.5.35:44635/play/aed5489dd8f3b21669ccb1c8a50b3eecf09b65f7
 #EXTINF:-1 tvg-id="步行者 vs 掘金" tvg-chno="1111" tvg-name="步行者 vs 掘金" tvg-group="篮球" group-title="篮球",步行者 vs 掘金·腾讯直播1·720P
 http://192.168.5.35:35456/jrs/%E6%AD%A5%E8%A1%8C%E8%80%85%20vs%20%E6%8E%98%E9%87%91%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD1%C2%B7720P
 #EXTINF:-1 tvg-id="步行者 vs 掘金" tvg-chno="1111" tvg-name="步行者 vs 掘金" tvg-group="篮球" group-title="篮球",步行者 vs 掘金·腾讯直播1·720P
+http://192.168.5.35:35456/jrs/%E6%AD%A5%E8%A1%8C%E8%80%85%20vs%20%E6%8E%98%E9%87%91%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD3%C2%B7720P
+#EXTINF:-1 tvg-id="步行者 vs 掘金" tvg-chno="1111" tvg-name="步行者 vs 掘金" tvg-group="篮球" group-title="篮球",步行者 vs 掘金·腾讯直播1·720P
 http://192.168.5.35:35456/jrs/%E6%AD%A5%E8%A1%8C%E8%80%85%20vs%20%E6%8E%98%E9%87%91%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
 #EXTINF:-1 tvg-id="步行者 vs 掘金" tvg-chno="1111" tvg-name="步行者 vs 掘金" tvg-group="篮球" group-title="篮球",步行者 vs 掘金·腾讯直播1·720P
-http://192.168.5.35:44635/play/10abb982daa8851f020bc4cf1e8be4e6db3fb53f
-#EXTINF:-1 tvg-id="步行者 vs 掘金" tvg-chno="1111" tvg-name="步行者 vs 掘金" tvg-group="篮球" group-title="篮球",步行者 vs 掘金·腾讯直播1·720P
-http://192.168.5.35:44635/play/cc10d8fd58bfe3899266440549ed10e3c77d5d82
-#EXTINF:-1 tvg-id="步行者 vs 掘金" tvg-chno="1111" tvg-name="步行者 vs 掘金" tvg-group="篮球" group-title="篮球",步行者 vs 掘金·腾讯直播1·720P
-http://192.168.5.35:44635/play/32b60acd8eebcfdc8a2924d15609c7bee7c65383
+http://192.168.5.35:44635/play/2b01283294372302f8f3792b9ac639f5d028412a
 #EXTINF:-1 tvg-id="达顿大学 vs 北伊利诺大学" tvg-chno="1112" tvg-name="达顿大学 vs 北伊利诺大学" tvg-group="篮球" group-title="篮球",达顿大学 vs 北伊利诺大学·聚合源
 http://192.168.5.35:44635/play/9bb315d4ba6c0fccd9792a9e2ff2448e1d0d68da
 #EXTINF:-1 tvg-id="达顿大学 vs 北伊利诺大学" tvg-chno="1112" tvg-name="达顿大学 vs 北伊利诺大学" tvg-group="篮球" group-title="篮球",达顿大学 vs 北伊利诺大学·聚合源
@@ -115,11 +115,13 @@ http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1303" tvg-name="ESPN" tvg-group="综合体育" group-title="综合体育",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1304" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1304" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
+https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1305" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1305" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1306" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1307" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
@@ -135,6 +137,8 @@ https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1357" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1358" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="Amaru Gaming vs Z10" tvg-chno="1401" tvg-name="Amaru Gaming vs Z10" tvg-group="DOTA2" group-title="DOTA2",Amaru Gaming vs Z10·聚合源
 http://192.168.5.35:44635/play/17fe859e5b499fd61c78ee19c3969a82e49f7287
 #EXTINF:-1 tvg-id="Amaru Gaming vs Z10" tvg-chno="1401" tvg-name="Amaru Gaming vs Z10" tvg-group="DOTA2" group-title="DOTA2",Amaru Gaming vs Z10·聚合源
