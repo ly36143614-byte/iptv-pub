@@ -19,7 +19,9 @@ http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1102" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="森林狼 vs 爵士" tvg-chno="1103" tvg-name="森林狼 vs 爵士" tvg-group="篮球" group-title="篮球",森林狼 vs 爵士·咪咕直播·720P
+#EXTINF:-1 tvg-id="森林狼 vs 爵士" tvg-chno="1103" tvg-name="森林狼 vs 爵士" tvg-group="篮球" group-title="篮球",森林狼 vs 爵士·腾讯直播1·720P
+http://192.168.5.35:35456/jrs/%E6%A3%AE%E6%9E%97%E7%8B%BC%20vs%20%E7%88%B5%E5%A3%AB%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD1%C2%B7720P
+#EXTINF:-1 tvg-id="森林狼 vs 爵士" tvg-chno="1103" tvg-name="森林狼 vs 爵士" tvg-group="篮球" group-title="篮球",森林狼 vs 爵士·腾讯直播1·720P
 http://192.168.5.35:35456/jrs/%E6%A3%AE%E6%9E%97%E7%8B%BC%20vs%20%E7%88%B5%E5%A3%AB%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
 #EXTINF:-1 tvg-id="公牛 vs 76人" tvg-chno="1104" tvg-name="公牛 vs 76人" tvg-group="篮球" group-title="篮球",公牛 vs 76人·咪咕直播·720P
 http://192.168.5.35:35456/jrs/%E5%85%AC%E7%89%9B%20vs%2076%E4%BA%BA%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
@@ -61,39 +63,37 @@ http://192.168.5.35:44635/play/515f8488933bd1ac16fa92eb3c77e236cd505fe9
 http://192.168.5.35:44635/play/742eda86c93be32ceeb522b03e5c06569a88ea69
 #EXTINF:-1 tvg-id="夏洛特独立 vs 麦迪逊前锋足球俱乐部" tvg-chno="1203" tvg-name="夏洛特独立 vs 麦迪逊前锋足球俱乐部" tvg-group="足球" group-title="足球",夏洛特独立 vs 麦迪逊前锋足球俱乐部·聚合源
 http://192.168.5.35:44635/play/3a1db77f16ae2c475f200c657d8a34b27910602c
-#EXTINF:-1 tvg-id="安提瓜GFC vs 马拉卡特高" tvg-chno="1204" tvg-name="安提瓜GFC vs 马拉卡特高" tvg-group="足球" group-title="足球",安提瓜GFC vs 马拉卡特高·聚合源
-http://192.168.5.35:44635/play/280a36b173ef851046ad14568b947410d6243078
-#EXTINF:-1 tvg-id="布鲁明 vs 东方石油" tvg-chno="1205" tvg-name="布鲁明 vs 东方石油" tvg-group="足球" group-title="足球",布鲁明 vs 东方石油·聚合源
+#EXTINF:-1 tvg-id="布鲁明 vs 东方石油" tvg-chno="1204" tvg-name="布鲁明 vs 东方石油" tvg-group="足球" group-title="足球",布鲁明 vs 东方石油·聚合源
 http://192.168.5.35:44635/play/54ad824cfffd85cc7347759ad882d6e20a322e06
-#EXTINF:-1 tvg-id="布鲁明 vs 东方石油" tvg-chno="1205" tvg-name="布鲁明 vs 东方石油" tvg-group="足球" group-title="足球",布鲁明 vs 东方石油·聚合源
+#EXTINF:-1 tvg-id="布鲁明 vs 东方石油" tvg-chno="1204" tvg-name="布鲁明 vs 东方石油" tvg-group="足球" group-title="足球",布鲁明 vs 东方石油·聚合源
 http://192.168.5.35:44635/play/e1bfc31ad09f2b40536c30e5cb4bc032cc342018
-#EXTINF:-1 tvg-id="康塞普西翁大学 vs 奥伊金斯" tvg-chno="1206" tvg-name="康塞普西翁大学 vs 奥伊金斯" tvg-group="足球" group-title="足球",康塞普西翁大学 vs 奥伊金斯·聚合源
+#EXTINF:-1 tvg-id="康塞普西翁大学 vs 奥伊金斯" tvg-chno="1205" tvg-name="康塞普西翁大学 vs 奥伊金斯" tvg-group="足球" group-title="足球",康塞普西翁大学 vs 奥伊金斯·聚合源
 http://192.168.5.35:44635/play/770cf1ee13dcc2f5366083dd9987a9eef5ad3154
-#EXTINF:-1 tvg-id="康塞普西翁大学 vs 奥伊金斯" tvg-chno="1206" tvg-name="康塞普西翁大学 vs 奥伊金斯" tvg-group="足球" group-title="足球",康塞普西翁大学 vs 奥伊金斯·聚合源
+#EXTINF:-1 tvg-id="康塞普西翁大学 vs 奥伊金斯" tvg-chno="1205" tvg-name="康塞普西翁大学 vs 奥伊金斯" tvg-group="足球" group-title="足球",康塞普西翁大学 vs 奥伊金斯·聚合源
 http://192.168.5.35:44635/play/f54a10013ce86956bdf00247998dc4ffe33fd5cd
-#EXTINF:-1 tvg-id="戈亚斯 vs 庞特普雷塔" tvg-chno="1207" tvg-name="戈亚斯 vs 庞特普雷塔" tvg-group="足球" group-title="足球",戈亚斯 vs 庞特普雷塔·聚合源
+#EXTINF:-1 tvg-id="戈亚斯 vs 庞特普雷塔" tvg-chno="1206" tvg-name="戈亚斯 vs 庞特普雷塔" tvg-group="足球" group-title="足球",戈亚斯 vs 庞特普雷塔·聚合源
 http://192.168.5.35:44635/play/0d0829ffd9875926ec99eabbdd8e824cf02723d7
-#EXTINF:-1 tvg-id="戈亚斯 vs 庞特普雷塔" tvg-chno="1207" tvg-name="戈亚斯 vs 庞特普雷塔" tvg-group="足球" group-title="足球",戈亚斯 vs 庞特普雷塔·聚合源
+#EXTINF:-1 tvg-id="戈亚斯 vs 庞特普雷塔" tvg-chno="1206" tvg-name="戈亚斯 vs 庞特普雷塔" tvg-group="足球" group-title="足球",戈亚斯 vs 庞特普雷塔·聚合源
 http://192.168.5.35:44635/play/02243a329980b742abad524b41378c8f7d123c2b
-#EXTINF:-1 tvg-id="托利马体育 vs 百万富翁" tvg-chno="1208" tvg-name="托利马体育 vs 百万富翁" tvg-group="足球1080" group-title="足球1080",托利马体育 vs 百万富翁·1080P原声
+#EXTINF:-1 tvg-id="托利马体育 vs 百万富翁" tvg-chno="1207" tvg-name="托利马体育 vs 百万富翁" tvg-group="足球1080" group-title="足球1080",托利马体育 vs 百万富翁·1080P原声
 http://192.168.5.35:35456/jrs/%E6%89%98%E5%88%A9%E9%A9%AC%E4%BD%93%E8%82%B2%20vs%20%E7%99%BE%E4%B8%87%E5%AF%8C%E7%BF%81%C2%B71080P%E5%8E%9F%E5%A3%B0
-#EXTINF:-1 tvg-id="托利马体育 vs 百万富翁" tvg-chno="1208" tvg-name="托利马体育 vs 百万富翁" tvg-group="足球1080" group-title="足球1080",托利马体育 vs 百万富翁·1080P原声
+#EXTINF:-1 tvg-id="托利马体育 vs 百万富翁" tvg-chno="1207" tvg-name="托利马体育 vs 百万富翁" tvg-group="足球1080" group-title="足球1080",托利马体育 vs 百万富翁·1080P原声
 http://192.168.5.35:44635/play/bb7648b3a5ae0a89760dded263372f7afbb15c87
-#EXTINF:-1 tvg-id="托利马体育 vs 百万富翁" tvg-chno="1208" tvg-name="托利马体育 vs 百万富翁" tvg-group="足球1080" group-title="足球1080",托利马体育 vs 百万富翁·1080P原声
+#EXTINF:-1 tvg-id="托利马体育 vs 百万富翁" tvg-chno="1207" tvg-name="托利马体育 vs 百万富翁" tvg-group="足球1080" group-title="足球1080",托利马体育 vs 百万富翁·1080P原声
 http://192.168.5.35:44635/play/56bd740bba81866a55d37f28b121f0e099dcbeaa
-#EXTINF:-1 tvg-id="查塔努加 vs 洛杉矶FCII队" tvg-chno="1209" tvg-name="查塔努加 vs 洛杉矶FCII队" tvg-group="足球" group-title="足球",查塔努加 vs 洛杉矶FCII队·聚合源
+#EXTINF:-1 tvg-id="查塔努加 vs 洛杉矶FCII队" tvg-chno="1208" tvg-name="查塔努加 vs 洛杉矶FCII队" tvg-group="足球" group-title="足球",查塔努加 vs 洛杉矶FCII队·聚合源
 http://192.168.5.35:44635/play/e6f61d3174f48cc7d0e4f0d69aa8c77fb05fd928
-#EXTINF:-1 tvg-id="查塔努加 vs 洛杉矶FCII队" tvg-chno="1209" tvg-name="查塔努加 vs 洛杉矶FCII队" tvg-group="足球" group-title="足球",查塔努加 vs 洛杉矶FCII队·聚合源
+#EXTINF:-1 tvg-id="查塔努加 vs 洛杉矶FCII队" tvg-chno="1208" tvg-name="查塔努加 vs 洛杉矶FCII队" tvg-group="足球" group-title="足球",查塔努加 vs 洛杉矶FCII队·聚合源
 http://192.168.5.35:44635/play/353cde203bac4dfbc195b9d2e18e0a566cbc1958
-#EXTINF:-1 tvg-id="特立尼登斯 vs 艾美利亚诺体育" tvg-chno="1210" tvg-name="特立尼登斯 vs 艾美利亚诺体育" tvg-group="足球" group-title="足球",特立尼登斯 vs 艾美利亚诺体育·聚合源
+#EXTINF:-1 tvg-id="特立尼登斯 vs 艾美利亚诺体育" tvg-chno="1209" tvg-name="特立尼登斯 vs 艾美利亚诺体育" tvg-group="足球" group-title="足球",特立尼登斯 vs 艾美利亚诺体育·聚合源
 http://192.168.5.35:44635/play/6680078da9d5084b96b35aefc7e2cc8ac2590a42
-#EXTINF:-1 tvg-id="特立尼登斯 vs 艾美利亚诺体育" tvg-chno="1210" tvg-name="特立尼登斯 vs 艾美利亚诺体育" tvg-group="足球" group-title="足球",特立尼登斯 vs 艾美利亚诺体育·聚合源
+#EXTINF:-1 tvg-id="特立尼登斯 vs 艾美利亚诺体育" tvg-chno="1209" tvg-name="特立尼登斯 vs 艾美利亚诺体育" tvg-group="足球" group-title="足球",特立尼登斯 vs 艾美利亚诺体育·聚合源
 http://192.168.5.35:44635/play/5627452c65277d6797d2f901afc05e0012fbf5fd
-#EXTINF:-1 tvg-id="科尔多瓦中央 vs 拉努斯" tvg-chno="1211" tvg-name="科尔多瓦中央 vs 拉努斯" tvg-group="足球1080" group-title="足球1080",科尔多瓦中央 vs 拉努斯·1080P原声
+#EXTINF:-1 tvg-id="科尔多瓦中央 vs 拉努斯" tvg-chno="1210" tvg-name="科尔多瓦中央 vs 拉努斯" tvg-group="足球1080" group-title="足球1080",科尔多瓦中央 vs 拉努斯·1080P原声
 http://192.168.5.35:35456/jrs/%E7%A7%91%E5%B0%94%E5%A4%9A%E7%93%A6%E4%B8%AD%E5%A4%AE%20vs%20%E6%8B%89%E5%8A%AA%E6%96%AF%C2%B71080P%E5%8E%9F%E5%A3%B0
-#EXTINF:-1 tvg-id="科尔多瓦中央 vs 拉努斯" tvg-chno="1211" tvg-name="科尔多瓦中央 vs 拉努斯" tvg-group="足球1080" group-title="足球1080",科尔多瓦中央 vs 拉努斯·1080P原声
+#EXTINF:-1 tvg-id="科尔多瓦中央 vs 拉努斯" tvg-chno="1210" tvg-name="科尔多瓦中央 vs 拉努斯" tvg-group="足球1080" group-title="足球1080",科尔多瓦中央 vs 拉努斯·1080P原声
 http://192.168.5.35:44635/play/eb5b654bd2939030a431dd5715ab59011bd2592d
-#EXTINF:-1 tvg-id="科尔多瓦中央 vs 拉努斯" tvg-chno="1211" tvg-name="科尔多瓦中央 vs 拉努斯" tvg-group="足球1080" group-title="足球1080",科尔多瓦中央 vs 拉努斯·1080P原声
+#EXTINF:-1 tvg-id="科尔多瓦中央 vs 拉努斯" tvg-chno="1210" tvg-name="科尔多瓦中央 vs 拉努斯" tvg-group="足球1080" group-title="足球1080",科尔多瓦中央 vs 拉努斯·1080P原声
 http://192.168.5.35:44635/play/c95d5a340d6f9dd7670361be7900a15252be5235
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
@@ -101,13 +101,15 @@ http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1303" tvg-name="ESPN" tvg-group="综合体育" group-title="综合体育",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1304" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1304" tvg-name="Tennis Channel" tvg-group="综合体育" group-title="综合体育",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1305" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1305" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1306" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1307" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1307" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1308" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
