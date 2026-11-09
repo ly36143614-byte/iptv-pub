@@ -19,12 +19,12 @@ http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1102" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="SOM布洛涅 vs 勒努瓦" tvg-chno="1103" tvg-name="SOM布洛涅 vs 勒努瓦" tvg-group="篮球" group-title="篮球",SOM布洛涅 vs 勒努瓦·聚合源
-http://192.168.5.35:44635/play/366a6c5b8c69ac9cc74fb667fa5543ec8acabf01
-#EXTINF:-1 tvg-id="TFT斯科普里 vs 库马诺沃" tvg-chno="1104" tvg-name="TFT斯科普里 vs 库马诺沃" tvg-group="篮球" group-title="篮球",TFT斯科普里 vs 库马诺沃·聚合源
+#EXTINF:-1 tvg-id="TFT斯科普里 vs 库马诺沃" tvg-chno="1103" tvg-name="TFT斯科普里 vs 库马诺沃" tvg-group="篮球" group-title="篮球",TFT斯科普里 vs 库马诺沃·聚合源
 http://192.168.5.35:44635/play/d1b180c910da824c57641957c7b08f30b6d6d2dc
-#EXTINF:-1 tvg-id="伊蒂哈德巴林 vs 萨马海伊" tvg-chno="1105" tvg-name="伊蒂哈德巴林 vs 萨马海伊" tvg-group="篮球" group-title="篮球",伊蒂哈德巴林 vs 萨马海伊·聚合源
+#EXTINF:-1 tvg-id="伊蒂哈德巴林 vs 萨马海伊" tvg-chno="1104" tvg-name="伊蒂哈德巴林 vs 萨马海伊" tvg-group="篮球" group-title="篮球",伊蒂哈德巴林 vs 萨马海伊·聚合源
 http://192.168.5.35:44635/play/3bc6c875e737060727da3eac2b3f1919e158a245
+#EXTINF:-1 tvg-id="克鲁日纳波卡大学 vs 奥拉迪亚B队" tvg-chno="1105" tvg-name="克鲁日纳波卡大学 vs 奥拉迪亚B队" tvg-group="篮球" group-title="篮球",克鲁日纳波卡大学 vs 奥拉迪亚B队·聚合源
+http://192.168.5.35:44635/play/02001fdf02cfb4cd94bd5fb3045b8aab3f8b1867
 #EXTINF:-1 tvg-id="兹拉蒂博尔 vs 斯洛加" tvg-chno="1106" tvg-name="兹拉蒂博尔 vs 斯洛加" tvg-group="篮球" group-title="篮球",兹拉蒂博尔 vs 斯洛加·聚合源
 http://192.168.5.35:44635/play/4b86165b2018ec315963fab6c2be868b8b8c0772
 #EXTINF:-1 tvg-id="卡塔尔SC vs 阿尔赖扬" tvg-chno="1107" tvg-name="卡塔尔SC vs 阿尔赖扬" tvg-group="篮球" group-title="篮球",卡塔尔SC vs 阿尔赖扬·聚合源
@@ -79,15 +79,13 @@ http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1303" tvg-name="ESPN" tvg-group="综合体育" group-title="综合体育",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1304" tvg-name="Tennis Channel" tvg-group="综合体育" group-title="综合体育",Tennis Channel
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1305" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1304" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1306" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1305" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1307" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1308" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1307" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
@@ -103,9 +101,7 @@ https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1357" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1358" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1359" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1358" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="AB vs cyxariki" tvg-chno="1401" tvg-name="AB vs cyxariki" tvg-group="DOTA2" group-title="DOTA2",AB vs cyxariki·聚合源
 http://192.168.5.35:44635/play/826f04615a6b4f118c854ff50eb4f74f94944935
