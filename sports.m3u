@@ -19,9 +19,13 @@ http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1102" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="森林狼 vs 爵士" tvg-chno="1103" tvg-name="森林狼 vs 爵士" tvg-group="篮球" group-title="篮球",森林狼 vs 爵士·腾讯直播1·720P
+#EXTINF:-1 tvg-id="森林狼 vs 爵士" tvg-chno="1103" tvg-name="森林狼 vs 爵士" tvg-group="篮球1080" group-title="篮球1080",森林狼 vs 爵士·1080P原声
+http://192.168.5.35:35456/jrs/%E6%A3%AE%E6%9E%97%E7%8B%BC%20vs%20%E7%88%B5%E5%A3%AB%C2%B71080P%E5%8E%9F%E5%A3%B0
+#EXTINF:-1 tvg-id="森林狼 vs 爵士" tvg-chno="1103" tvg-name="森林狼 vs 爵士" tvg-group="篮球1080" group-title="篮球1080",森林狼 vs 爵士·1080P原声
 http://192.168.5.35:35456/jrs/%E6%A3%AE%E6%9E%97%E7%8B%BC%20vs%20%E7%88%B5%E5%A3%AB%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD1%C2%B7720P
-#EXTINF:-1 tvg-id="森林狼 vs 爵士" tvg-chno="1103" tvg-name="森林狼 vs 爵士" tvg-group="篮球" group-title="篮球",森林狼 vs 爵士·腾讯直播1·720P
+#EXTINF:-1 tvg-id="森林狼 vs 爵士" tvg-chno="1103" tvg-name="森林狼 vs 爵士" tvg-group="篮球1080" group-title="篮球1080",森林狼 vs 爵士·1080P原声
+http://192.168.5.35:35456/jrs/%E6%A3%AE%E6%9E%97%E7%8B%BC%20vs%20%E7%88%B5%E5%A3%AB%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD3%C2%B7720P
+#EXTINF:-1 tvg-id="森林狼 vs 爵士" tvg-chno="1103" tvg-name="森林狼 vs 爵士" tvg-group="篮球1080" group-title="篮球1080",森林狼 vs 爵士·1080P原声
 http://192.168.5.35:35456/jrs/%E6%A3%AE%E6%9E%97%E7%8B%BC%20vs%20%E7%88%B5%E5%A3%AB%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
 #EXTINF:-1 tvg-id="公牛 vs 76人" tvg-chno="1104" tvg-name="公牛 vs 76人" tvg-group="篮球" group-title="篮球",公牛 vs 76人·咪咕直播·720P
 http://192.168.5.35:35456/jrs/%E5%85%AC%E7%89%9B%20vs%2076%E4%BA%BA%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
@@ -55,9 +59,11 @@ http://192.168.5.35:44635/play/5b2a387b6923a43b0b5525560a23d8029d3af523
 http://192.168.5.35:44635/play/bbe026f7326b75f29bb3eb6860e6e3331354cfe6
 #EXTINF:-1 tvg-id="活塞 vs 湖人" tvg-chno="1108" tvg-name="活塞 vs 湖人" tvg-group="篮球1080" group-title="篮球1080",活塞 vs 湖人·纬来1080
 http://192.168.5.35:44635/play/34dda08018fda3dea8850c6af53efcfb0cbf33e2
-#EXTINF:-1 tvg-id="克雷塔罗 vs 普埃布拉" tvg-chno="1201" tvg-name="克雷塔罗 vs 普埃布拉" tvg-group="足球" group-title="足球",克雷塔罗 vs 普埃布拉·聚合源
+#EXTINF:-1 tvg-id="克雷塔罗 vs 普埃布拉" tvg-chno="1201" tvg-name="克雷塔罗 vs 普埃布拉" tvg-group="足球1080" group-title="足球1080",克雷塔罗 vs 普埃布拉·1080P原声
+http://192.168.5.35:35456/jrs/%E5%85%8B%E9%9B%B7%E5%A1%94%E7%BD%97%20vs%20%E6%99%AE%E5%9F%83%E5%B8%83%E6%8B%89%C2%B71080P%E5%8E%9F%E5%A3%B0
+#EXTINF:-1 tvg-id="克雷塔罗 vs 普埃布拉" tvg-chno="1201" tvg-name="克雷塔罗 vs 普埃布拉" tvg-group="足球1080" group-title="足球1080",克雷塔罗 vs 普埃布拉·1080P原声
 http://192.168.5.35:44635/play/35a461647f167d5eb912836378eb4c0452a88e49
-#EXTINF:-1 tvg-id="克雷塔罗 vs 普埃布拉" tvg-chno="1201" tvg-name="克雷塔罗 vs 普埃布拉" tvg-group="足球" group-title="足球",克雷塔罗 vs 普埃布拉·聚合源
+#EXTINF:-1 tvg-id="克雷塔罗 vs 普埃布拉" tvg-chno="1201" tvg-name="克雷塔罗 vs 普埃布拉" tvg-group="足球1080" group-title="足球1080",克雷塔罗 vs 普埃布拉·1080P原声
 http://192.168.5.35:44635/play/62731e95830a761774db4a75875050d8221d2cd9
 #EXTINF:-1 tvg-id="加西拉索 vs 卡哈马卡商业联" tvg-chno="1202" tvg-name="加西拉索 vs 卡哈马卡商业联" tvg-group="足球" group-title="足球",加西拉索 vs 卡哈马卡商业联·聚合源
 http://192.168.5.35:44635/play/d38cad63fe5c3c55d9a4ba35e0da1765a0b4cc9b
@@ -109,13 +115,15 @@ http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1303" tvg-name="ESPN" tvg-group="综合体育" group-title="综合体育",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1304" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1304" tvg-name="Tennis Channel" tvg-group="综合体育" group-title="综合体育",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1305" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1305" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1306" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1307" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1307" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1308" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
