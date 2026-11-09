@@ -7,7 +7,6 @@
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="国王 vs 热火"><display-name>国王 vs 热火</display-name></channel>
   <channel id="快船 vs 鹈鹕"><display-name>快船 vs 鹈鹕</display-name></channel>
-  <channel id="森林狼 vs 爵士"><display-name>森林狼 vs 爵士</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
   <channel id="独行侠 vs 篮网"><display-name>独行侠 vs 篮网</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
@@ -85,7 +84,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261109092000 +0800" stop="20261109123948 +0800" channel="NBC">
-    <title>Tampa Bay Buccaneers at Chicago Bears（NFL）</title>
+    <title>Tampa Bay Buccaneers at Chicago Bears 已结束（NFL）</title>
     <category>体育</category>
   </programme>
   <programme start="20261111090000 +0800" stop="20261111114012 +0800" channel="NBC">
@@ -106,10 +105,6 @@
   </programme>
   <programme start="20261109100000 +0800" stop="20261109124012 +0800" channel="快船 vs 鹈鹕">
     <title>New Orleans Pelicans at LA Clippers 已结束（NBA）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261109080000 +0800" stop="20261109104012 +0800" channel="森林狼 vs 爵士">
-    <title>Utah Jazz at Minnesota Timberwolves 已结束（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261110080000 +0800" stop="20261110104012 +0800" channel="活塞">
