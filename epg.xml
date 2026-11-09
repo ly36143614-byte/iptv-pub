@@ -122,7 +122,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261109083000 +0800" stop="20261109111012 +0800" channel="独行侠 vs 篮网">
-    <title>Brooklyn Nets at Dallas Mavericks（NBA）</title>
+    <title>Brooklyn Nets at Dallas Mavericks 已结束（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261109100000 +0800" stop="20261109163000 +0800" channel="赛程预告">
@@ -217,8 +217,12 @@
     <title>阿拉维斯：CD阿纳塔苏纳 vs 阿拉维斯；Dota2：Rott vs MenaW（EPC Season 3）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261111030000 +0800" stop="20261111040000 +0800" channel="赛程预告">
-    <title>Dota2：CHero vs PR（1w Essence III Play-In）</title>
+  <programme start="20261111030000 +0800" stop="20261111033000 +0800" channel="赛程预告">
+    <title>英锦标赛：伯顿 vs 诺茨郡；Dota2：CHero vs PR（1w Essence III Play-In）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261111033000 +0800" stop="20261111040000 +0800" channel="赛程预告">
+    <title>英锦标赛：布罗姆利 vs 米尔顿</title>
     <category>体育</category>
   </programme>
   <programme start="20261111040000 +0800" stop="20261111083000 +0800" channel="赛程预告">
