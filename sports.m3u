@@ -89,13 +89,11 @@ http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1304" tvg-name="Tennis Channel" tvg-group="综合体育" group-title="综合体育",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1305" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
-https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1306" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1305" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1307" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1308" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1307" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
@@ -165,8 +163,6 @@ http://192.168.5.35:44635/play/1762fad605fb99ca1b97499f7222ce78ac4132f7
 http://192.168.5.35:44635/play/f8cd95b8db4c3120c53e891ca1bbe4ed73eff0e4
 #EXTINF:-1 tvg-id="YB vs PuckChamp" tvg-chno="1415" tvg-name="YB vs PuckChamp" tvg-group="DOTA2" group-title="DOTA2",YB vs PuckChamp·聚合源
 http://192.168.5.35:44635/play/6d3b9760f9893d23935d6d64b02bf502df77bfcf
-#EXTINF:-1 tvg-id="potn9ki-" tvg-chno="1416" tvg-name="potn9ki-" tvg-group="DOTA2" group-title="DOTA2",potn9ki-·聚合源
-http://192.168.5.35:44635/play/8f5faae2853ad56c4e2e46a44ba4ad2adf7c82d8
 #EXTINF:-1 tvg-id="11-09 雄鹿 vs 凯尔特人" tvg-chno="1501" tvg-name="11-09 雄鹿 vs 凯尔特人" tvg-group="NBA回放" group-title="NBA回放",11-09 雄鹿 vs 凯尔特人
 http://192.168.5.35:8098/f/2026-11-09%20%E9%9B%84%E9%B9%BF%20vs%20%E5%87%AF%E5%B0%94%E7%89%B9%E4%BA%BA.mkv
 #EXTINF:-1 tvg-id="11-09 阿布拉韦弗斯 vs 圣胡安骑士" tvg-chno="1502" tvg-name="11-09 阿布拉韦弗斯 vs 圣胡安骑士" tvg-group="NBA回放" group-title="NBA回放",11-09 阿布拉韦弗斯 vs 圣胡安骑士
