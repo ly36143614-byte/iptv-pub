@@ -19,26 +19,32 @@ http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1102" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="森林狼 vs 爵士" tvg-chno="1103" tvg-name="森林狼 vs 爵士" tvg-group="篮球1080" group-title="篮球1080",森林狼 vs 爵士·1080P原声
-http://192.168.5.35:35456/jrs/%E6%A3%AE%E6%9E%97%E7%8B%BC%20vs%20%E7%88%B5%E5%A3%AB%C2%B71080P%E5%8E%9F%E5%A3%B0
-#EXTINF:-1 tvg-id="森林狼 vs 爵士" tvg-chno="1103" tvg-name="森林狼 vs 爵士" tvg-group="篮球1080" group-title="篮球1080",森林狼 vs 爵士·1080P原声
-http://192.168.5.35:35456/jrs/%E6%A3%AE%E6%9E%97%E7%8B%BC%20vs%20%E7%88%B5%E5%A3%AB%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD1%C2%B7720P
-#EXTINF:-1 tvg-id="森林狼 vs 爵士" tvg-chno="1103" tvg-name="森林狼 vs 爵士" tvg-group="篮球1080" group-title="篮球1080",森林狼 vs 爵士·1080P原声
-http://192.168.5.35:35456/jrs/%E6%A3%AE%E6%9E%97%E7%8B%BC%20vs%20%E7%88%B5%E5%A3%AB%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD3%C2%B7720P
-#EXTINF:-1 tvg-id="森林狼 vs 爵士" tvg-chno="1103" tvg-name="森林狼 vs 爵士" tvg-group="篮球1080" group-title="篮球1080",森林狼 vs 爵士·1080P原声
-http://192.168.5.35:35456/jrs/%E6%A3%AE%E6%9E%97%E7%8B%BC%20vs%20%E7%88%B5%E5%A3%AB%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
-#EXTINF:-1 tvg-id="公牛 vs 76人" tvg-chno="1104" tvg-name="公牛 vs 76人" tvg-group="篮球" group-title="篮球",公牛 vs 76人·咪咕直播·720P
+#EXTINF:-1 tvg-id="公牛 vs 76人" tvg-chno="1103" tvg-name="公牛 vs 76人" tvg-group="篮球" group-title="篮球",公牛 vs 76人·咪咕直播·720P
 http://192.168.5.35:35456/jrs/%E5%85%AC%E7%89%9B%20vs%2076%E4%BA%BA%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
-#EXTINF:-1 tvg-id="公牛 vs 76人" tvg-chno="1104" tvg-name="公牛 vs 76人" tvg-group="篮球" group-title="篮球",公牛 vs 76人·咪咕直播·720P
+#EXTINF:-1 tvg-id="公牛 vs 76人" tvg-chno="1103" tvg-name="公牛 vs 76人" tvg-group="篮球" group-title="篮球",公牛 vs 76人·咪咕直播·720P
 http://192.168.5.35:44635/play/6f3bad73d2b3294edd35261901cb767cc3dffd41
-#EXTINF:-1 tvg-id="圣洛伦索 vs 圣马丁" tvg-chno="1105" tvg-name="圣洛伦索 vs 圣马丁" tvg-group="篮球" group-title="篮球",圣洛伦索 vs 圣马丁·聚合源
+#EXTINF:-1 tvg-id="圣洛伦索 vs 圣马丁" tvg-chno="1104" tvg-name="圣洛伦索 vs 圣马丁" tvg-group="篮球" group-title="篮球",圣洛伦索 vs 圣马丁·聚合源
 http://192.168.5.35:44635/play/10ad8dab5323b3c0c75652df5e2a55c85afe45e3
-#EXTINF:-1 tvg-id="圣洛伦索 vs 圣马丁" tvg-chno="1105" tvg-name="圣洛伦索 vs 圣马丁" tvg-group="篮球" group-title="篮球",圣洛伦索 vs 圣马丁·聚合源
+#EXTINF:-1 tvg-id="圣洛伦索 vs 圣马丁" tvg-chno="1104" tvg-name="圣洛伦索 vs 圣马丁" tvg-group="篮球" group-title="篮球",圣洛伦索 vs 圣马丁·聚合源
 http://192.168.5.35:44635/play/d50b6767ac32e38f698bb9c160d9b86ea85c1f14
-#EXTINF:-1 tvg-id="奇维尔科伊竞技 vs 科连特斯赛艇" tvg-chno="1106" tvg-name="奇维尔科伊竞技 vs 科连特斯赛艇" tvg-group="篮球" group-title="篮球",奇维尔科伊竞技 vs 科连特斯赛艇·聚合源
+#EXTINF:-1 tvg-id="奇维尔科伊竞技 vs 科连特斯赛艇" tvg-chno="1105" tvg-name="奇维尔科伊竞技 vs 科连特斯赛艇" tvg-group="篮球" group-title="篮球",奇维尔科伊竞技 vs 科连特斯赛艇·聚合源
 http://192.168.5.35:44635/play/202fb537a1e95ecea8bf6a35718ed2e024f1e001
-#EXTINF:-1 tvg-id="奇维尔科伊竞技 vs 科连特斯赛艇" tvg-chno="1106" tvg-name="奇维尔科伊竞技 vs 科连特斯赛艇" tvg-group="篮球" group-title="篮球",奇维尔科伊竞技 vs 科连特斯赛艇·聚合源
+#EXTINF:-1 tvg-id="奇维尔科伊竞技 vs 科连特斯赛艇" tvg-chno="1105" tvg-name="奇维尔科伊竞技 vs 科连特斯赛艇" tvg-group="篮球" group-title="篮球",奇维尔科伊竞技 vs 科连特斯赛艇·聚合源
 http://192.168.5.35:44635/play/b9499d887ee9839d859a5d60c80ff0c023fcbbd8
+#EXTINF:-1 tvg-id="森林狼 vs 爵士" tvg-chno="1106" tvg-name="森林狼 vs 爵士" tvg-group="篮球1080" group-title="篮球1080",森林狼 vs 爵士·1080P原声
+http://192.168.5.35:35456/jrs/%E6%A3%AE%E6%9E%97%E7%8B%BC%20vs%20%E7%88%B5%E5%A3%AB%C2%B71080P%E5%8E%9F%E5%A3%B0
+#EXTINF:-1 tvg-id="森林狼 vs 爵士" tvg-chno="1106" tvg-name="森林狼 vs 爵士" tvg-group="篮球1080" group-title="篮球1080",森林狼 vs 爵士·1080P原声
+http://192.168.5.35:35456/jrs/%E6%A3%AE%E6%9E%97%E7%8B%BC%20vs%20%E7%88%B5%E5%A3%AB%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD1%C2%B7720P
+#EXTINF:-1 tvg-id="森林狼 vs 爵士" tvg-chno="1106" tvg-name="森林狼 vs 爵士" tvg-group="篮球1080" group-title="篮球1080",森林狼 vs 爵士·1080P原声
+http://192.168.5.35:35456/jrs/%E6%A3%AE%E6%9E%97%E7%8B%BC%20vs%20%E7%88%B5%E5%A3%AB%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD3%C2%B7720P
+#EXTINF:-1 tvg-id="森林狼 vs 爵士" tvg-chno="1106" tvg-name="森林狼 vs 爵士" tvg-group="篮球1080" group-title="篮球1080",森林狼 vs 爵士·1080P原声
+http://192.168.5.35:35456/jrs/%E6%A3%AE%E6%9E%97%E7%8B%BC%20vs%20%E7%88%B5%E5%A3%AB%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
+#EXTINF:-1 tvg-id="森林狼 vs 爵士" tvg-chno="1106" tvg-name="森林狼 vs 爵士" tvg-group="篮球1080" group-title="篮球1080",森林狼 vs 爵士·1080P原声
+http://192.168.5.35:44635/play/3985f3ac08dbb87465ca8d8abde1c0d00b533413
+#EXTINF:-1 tvg-id="森林狼 vs 爵士" tvg-chno="1106" tvg-name="森林狼 vs 爵士" tvg-group="篮球1080" group-title="篮球1080",森林狼 vs 爵士·1080P原声
+http://192.168.5.35:44635/play/abb8adad758379641c80ed557d807d2370cced9a
+#EXTINF:-1 tvg-id="森林狼 vs 爵士" tvg-chno="1106" tvg-name="森林狼 vs 爵士" tvg-group="篮球1080" group-title="篮球1080",森林狼 vs 爵士·1080P原声
+http://192.168.5.35:44635/play/4f7beadf229b2f75c3bdae09828a4993d410fa94
 #EXTINF:-1 tvg-id="洛斯利昂 vs 巴拉斯港" tvg-chno="1107" tvg-name="洛斯利昂 vs 巴拉斯港" tvg-group="篮球" group-title="篮球",洛斯利昂 vs 巴拉斯港·聚合源
 http://192.168.5.35:44635/play/8065090fd195972caf7e7d2e95ea743e0d384408
 #EXTINF:-1 tvg-id="洛斯利昂 vs 巴拉斯港" tvg-chno="1107" tvg-name="洛斯利昂 vs 巴拉斯港" tvg-group="篮球" group-title="篮球",洛斯利昂 vs 巴拉斯港·聚合源
@@ -109,21 +115,21 @@ http://192.168.5.35:35456/jrs/%E7%A7%91%E5%B0%94%E5%A4%9A%E7%93%A6%E4%B8%AD%E5%A
 http://192.168.5.35:44635/play/eb5b654bd2939030a431dd5715ab59011bd2592d
 #EXTINF:-1 tvg-id="科尔多瓦中央 vs 拉努斯" tvg-chno="1211" tvg-name="科尔多瓦中央 vs 拉努斯" tvg-group="足球1080" group-title="足球1080",科尔多瓦中央 vs 拉努斯·1080P原声
 http://192.168.5.35:44635/play/c95d5a340d6f9dd7670361be7900a15252be5235
+#EXTINF:-1 tvg-id="陶里诺斯 vs 波多黎各冲浪SC" tvg-chno="1212" tvg-name="陶里诺斯 vs 波多黎各冲浪SC" tvg-group="足球" group-title="足球",陶里诺斯 vs 波多黎各冲浪SC·聚合源
+http://192.168.5.35:44635/play/b2b7aec212a0a6cf28a37ffe7ccc4904577bb2a2
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NFL·NBC" tvg-chno="1302" tvg-name="NFL·NBC" tvg-group="综合体育" group-title="综合体育",NFL·NBC
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1303" tvg-name="ESPN" tvg-group="综合体育" group-title="综合体育",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1304" tvg-name="Tennis Channel" tvg-group="综合体育" group-title="综合体育",Tennis Channel
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1305" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1304" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1306" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1305" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1307" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1308" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1307" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
@@ -139,9 +145,7 @@ https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1357" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1358" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1359" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1358" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="AB vs cyxariki" tvg-chno="1401" tvg-name="AB vs cyxariki" tvg-group="DOTA2" group-title="DOTA2",AB vs cyxariki·聚合源
 http://192.168.5.35:44635/play/6b93a21f4daa9a28127ab2766b2ccab32eedb17b
