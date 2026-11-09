@@ -120,10 +120,6 @@
     <title>Brooklyn Nets at Dallas Mavericks 已结束（NBA）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261109100000 +0800" stop="20261109163000 +0800" channel="赛程预告">
-    <title>NBA：快船 vs 鹈鹕；国王 vs 热火</title>
-    <category>体育</category>
-  </programme>
   <programme start="20261109163000 +0800" stop="20261109180000 +0800" channel="赛程预告">
     <title>足球：中国香港 vs 中国五人制女足</title>
     <category>体育</category>
@@ -236,8 +232,12 @@
     <title>NBA：太阳 vs 快船；爵士 vs 热火</title>
     <category>体育</category>
   </programme>
-  <programme start="20261111110000 +0800" stop="20261111130000 +0800" channel="赛程预告">
+  <programme start="20261111110000 +0800" stop="20261111120000 +0800" channel="赛程预告">
     <title>NBA：国王 vs 魔术</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261111120000 +0800" stop="20261111140000 +0800" channel="赛程预告">
+    <title>NBA：开拓者 vs 雷霆</title>
     <category>体育</category>
   </programme>
   <programme start="20261109090000 +0800" stop="20261109114012 +0800" channel="雄鹿 vs 凯尔特人">
