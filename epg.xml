@@ -252,8 +252,12 @@
     <title>足球：江苏常晋 vs 武汉联镇</title>
     <category>体育</category>
   </programme>
-  <programme start="20261111193500 +0800" stop="20261111213500 +0800" channel="赛程预告">
+  <programme start="20261111193500 +0800" stop="20261111210000 +0800" channel="赛程预告">
     <title>足球：中国U19男足 vs 越南U19</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261111210000 +0800" stop="20261111230000 +0800" channel="赛程预告">
+    <title>Dota2：ICxI vs Xipto（Asgard Championship S2）；Frogs vs CHero（1w Essence III Play-In）；HULI vs PC（DreamLeague D2 S5）</title>
     <category>体育</category>
   </programme>
 </tv>
