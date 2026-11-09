@@ -6,6 +6,7 @@
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="公牛 vs 76人"><display-name>公牛 vs 76人</display-name></channel>
+  <channel id="森林狼 vs 爵士"><display-name>森林狼 vs 爵士</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
   <channel id="活塞 vs 湖人"><display-name>活塞 vs 湖人</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
@@ -99,6 +100,10 @@
   </programme>
   <programme start="20261109043000 +0800" stop="20261109071012 +0800" channel="公牛 vs 76人">
     <title>Philadelphia 76ers at Chicago Bulls 已结束（NBA）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261109080000 +0800" stop="20261109104012 +0800" channel="森林狼 vs 爵士">
+    <title>Utah Jazz at Minnesota Timberwolves（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261109070000 +0800" stop="20261109094012 +0800" channel="活塞">
