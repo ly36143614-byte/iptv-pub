@@ -108,8 +108,12 @@
     <title>足球：马尔代夫 vs 中国五人制男足</title>
     <category>体育</category>
   </programme>
-  <programme start="20261109210000 +0800" stop="20261109230000 +0800" channel="赛程预告">
-    <title>Dota2：Lynx vs potn9k（Asgard Championship S2）；Angry vs cyxariki（1w Essence III Play-In）；Frogs vs PTime（DreamLeague D2 S5）；Xipto vs Synapse（DreamLeague D2 S5）；Nemiga vs ZENITH（DreamLeague D2 S5）</title>
+  <programme start="20261109210000 +0800" stop="20261109211500 +0800" channel="赛程预告">
+    <title>Dota2：Lynx vs potn9k（Asgard Championship S2）；Angry vs cyxariki（1w Essence III Play-In）；Xipto vs Synapse（DreamLeague D2 S5）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261109211500 +0800" stop="20261109230000 +0800" channel="赛程预告">
+    <title>Dota2：Frogs vs PTime（DreamLeague D2 S5）；Nemiga vs ZENITH（DreamLeague D2 S5）</title>
     <category>体育</category>
   </programme>
   <programme start="20261109230000 +0800" stop="20261110000000 +0800" channel="赛程预告">
