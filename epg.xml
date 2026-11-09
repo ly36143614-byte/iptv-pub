@@ -8,7 +8,6 @@
   <channel id="国王 vs 热火"><display-name>国王 vs 热火</display-name></channel>
   <channel id="快船 vs 鹈鹕"><display-name>快船 vs 鹈鹕</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
-  <channel id="独行侠 vs 篮网"><display-name>独行侠 vs 篮网</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <channel id="雄鹿 vs 凯尔特人"><display-name>雄鹿 vs 凯尔特人</display-name></channel>
   <programme start="20261109020000 +0800" stop="20261109051948 +0800" channel="CBS">
@@ -109,10 +108,6 @@
   </programme>
   <programme start="20261110080000 +0800" stop="20261110104012 +0800" channel="活塞">
     <title>NBA：活塞 vs 奇才</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261109083000 +0800" stop="20261109111012 +0800" channel="独行侠 vs 篮网">
-    <title>Brooklyn Nets at Dallas Mavericks 已结束（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261109163000 +0800" stop="20261109180000 +0800" channel="赛程预告">
