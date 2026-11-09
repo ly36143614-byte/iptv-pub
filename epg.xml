@@ -6,6 +6,7 @@
   <channel id="Lynx vs potn9ki-"><display-name>Lynx vs potn9ki-</display-name></channel>
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
+  <channel id="Nemiga vs Zenith"><display-name>Nemiga vs Zenith</display-name></channel>
   <channel id="PR vs Nemiga"><display-name>PR vs Nemiga</display-name></channel>
   <channel id="TSpirit.A vs Z10"><display-name>TSpirit.A vs Z10</display-name></channel>
   <channel id="Xipto vs Synapse"><display-name>Xipto vs Synapse</display-name></channel>
@@ -101,6 +102,10 @@
   </programme>
   <programme start="20261116092000 +0800" stop="20261116123948 +0800" channel="NBC">
     <title>Pittsburgh Steelers at Cincinnati Bengals（NFL）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261109211500 +0800" stop="20261109234500 +0800" channel="Nemiga vs Zenith">
+    <title>Nemiga vs ZENITH（DreamLeague D2 S5 - November 9）</title>
     <category>体育</category>
   </programme>
   <programme start="20261109180000 +0800" stop="20261109203000 +0800" channel="PR vs Nemiga">
