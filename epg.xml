@@ -7,7 +7,6 @@
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="勇士 vs 鹈鹕"><display-name>勇士 vs 鹈鹕</display-name></channel>
-  <channel id="太阳 vs 马刺"><display-name>太阳 vs 马刺</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <programme start="20261110025436 +0800" stop="20261110032901 +0800" channel="Amaru Gaming vs PuckChamp">
     <title>PuckChamp vs Amaru Gaming（DreamLeague Division 2 Series 5）</title>
@@ -75,10 +74,6 @@
   </programme>
   <programme start="20261110110000 +0800" stop="20261110134012 +0800" channel="勇士 vs 鹈鹕">
     <title>New Orleans Pelicans at Golden State Warriors 已结束（NBA）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261110100000 +0800" stop="20261110124012 +0800" channel="太阳 vs 马刺">
-    <title>San Antonio Spurs at Phoenix Suns 已结束（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261110180000 +0800" stop="20261110190000 +0800" channel="赛程预告">
