@@ -29,14 +29,12 @@ http://192.168.5.35:35456/jrs/%E9%BB%84%E8%9C%82%20vs%20%E9%AA%91%E5%A3%AB%C2%B7
 http://192.168.5.35:35456/jrs/%E6%B4%BB%E5%A1%9E%20vs%20%E5%A5%87%E6%89%8D%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
 #EXTINF:-1 tvg-id="CSJL骑士 vs UPHSD阿尔塔斯" tvg-chno="1106" tvg-name="CSJL骑士 vs UPHSD阿尔塔斯" tvg-group="篮球" group-title="篮球",CSJL骑士 vs UPHSD阿尔塔斯·聚合源
 http://192.168.5.35:44635/play/6d87fad10a186a279e5344aa6a534397503b7f49
-#EXTINF:-1 tvg-id="东华盛顿大学 vs 俄勒冈州立大学" tvg-chno="1107" tvg-name="东华盛顿大学 vs 俄勒冈州立大学" tvg-group="篮球" group-title="篮球",东华盛顿大学 vs 俄勒冈州立大学·聚合源
+#EXTINF:-1 tvg-id="GO雅加达U21 vs 雅加达汉图亚U21" tvg-chno="1107" tvg-name="GO雅加达U21 vs 雅加达汉图亚U21" tvg-group="篮球" group-title="篮球",GO雅加达U21 vs 雅加达汉图亚U21·聚合源
+http://192.168.5.35:44635/play/3bb275c104e43f5600c44c3e313c2c424cc659b3
+#EXTINF:-1 tvg-id="东华盛顿大学 vs 俄勒冈州立大学" tvg-chno="1108" tvg-name="东华盛顿大学 vs 俄勒冈州立大学" tvg-group="篮球" group-title="篮球",东华盛顿大学 vs 俄勒冈州立大学·聚合源
 http://192.168.5.35:44635/play/4b7a056a24e03f13e472a4b7bb047284f02ef777
-#EXTINF:-1 tvg-id="东华盛顿大学 vs 俄勒冈州立大学" tvg-chno="1107" tvg-name="东华盛顿大学 vs 俄勒冈州立大学" tvg-group="篮球" group-title="篮球",东华盛顿大学 vs 俄勒冈州立大学·聚合源
+#EXTINF:-1 tvg-id="东华盛顿大学 vs 俄勒冈州立大学" tvg-chno="1108" tvg-name="东华盛顿大学 vs 俄勒冈州立大学" tvg-group="篮球" group-title="篮球",东华盛顿大学 vs 俄勒冈州立大学·聚合源
 http://192.168.5.35:44635/play/b867601060787c59909322a7d0e76b7fe451dd8f
-#EXTINF:-1 tvg-id="加利福尼亚大学圣巴巴拉分校女篮 vs 西雅图女篮" tvg-chno="1108" tvg-name="加利福尼亚大学圣巴巴拉分校女篮 vs 西雅图女篮" tvg-group="篮球" group-title="篮球",加利福尼亚大学圣巴巴拉分校女篮 vs 西雅图女篮·聚合源
-http://192.168.5.35:44635/play/342e42eeaec5434ecb1bc4f84dedb720832a564f
-#EXTINF:-1 tvg-id="加利福尼亚大学圣巴巴拉分校女篮 vs 西雅图女篮" tvg-chno="1108" tvg-name="加利福尼亚大学圣巴巴拉分校女篮 vs 西雅图女篮" tvg-group="篮球" group-title="篮球",加利福尼亚大学圣巴巴拉分校女篮 vs 西雅图女篮·聚合源
-http://192.168.5.35:44635/play/96f76f61d808284b563645179eaeda3870687e40
 #EXTINF:-1 tvg-id="勇士 vs 鹈鹕" tvg-chno="1109" tvg-name="勇士 vs 鹈鹕" tvg-group="篮球1080" group-title="篮球1080",勇士 vs 鹈鹕·纬来1080
 http://192.168.5.35:35456/jrs/%E5%8B%87%E5%A3%AB%20vs%20%E9%B9%88%E9%B9%95%C2%B7%E7%BA%AC%E6%9D%A51080
 #EXTINF:-1 tvg-id="勇士 vs 鹈鹕" tvg-chno="1109" tvg-name="勇士 vs 鹈鹕" tvg-group="篮球1080" group-title="篮球1080",勇士 vs 鹈鹕·纬来1080
@@ -105,20 +103,16 @@ http://192.168.5.35:35456/jrs/%E7%81%AB%E7%AE%AD%20vs%20%E6%8E%98%E9%87%91%C2%B7
 http://192.168.5.35:35456/jrs/%E7%81%AB%E7%AE%AD%20vs%20%E6%8E%98%E9%87%91%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
 #EXTINF:-1 tvg-id="火箭 vs 掘金" tvg-chno="1121" tvg-name="火箭 vs 掘金" tvg-group="篮球" group-title="篮球",火箭 vs 掘金·腾讯直播1·720P
 http://192.168.5.35:44635/play/6c0f7ea39d6741d707a934477535b70d09daf3e1
-#EXTINF:-1 tvg-id="独行侠 vs 步行者" tvg-chno="1122" tvg-name="独行侠 vs 步行者" tvg-group="篮球" group-title="篮球",独行侠 vs 步行者·腾讯直播1·720P
-http://192.168.5.35:35456/jrs/%E7%8B%AC%E8%A1%8C%E4%BE%A0%20vs%20%E6%AD%A5%E8%A1%8C%E8%80%85%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD1%C2%B7720P
-#EXTINF:-1 tvg-id="独行侠 vs 步行者" tvg-chno="1122" tvg-name="独行侠 vs 步行者" tvg-group="篮球" group-title="篮球",独行侠 vs 步行者·腾讯直播1·720P
+#EXTINF:-1 tvg-id="独行侠 vs 步行者" tvg-chno="1122" tvg-name="独行侠 vs 步行者" tvg-group="篮球" group-title="篮球",独行侠 vs 步行者·咪咕直播·720P
 http://192.168.5.35:35456/jrs/%E7%8B%AC%E8%A1%8C%E4%BE%A0%20vs%20%E6%AD%A5%E8%A1%8C%E8%80%85%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
-#EXTINF:-1 tvg-id="独行侠 vs 步行者" tvg-chno="1122" tvg-name="独行侠 vs 步行者" tvg-group="篮球" group-title="篮球",独行侠 vs 步行者·腾讯直播1·720P
+#EXTINF:-1 tvg-id="独行侠 vs 步行者" tvg-chno="1122" tvg-name="独行侠 vs 步行者" tvg-group="篮球" group-title="篮球",独行侠 vs 步行者·咪咕直播·720P
 http://192.168.5.35:44635/play/8ee5828c11847282b04ff7491be227e8205250d6
 #EXTINF:-1 tvg-id="猛龙 vs 灰熊" tvg-chno="1123" tvg-name="猛龙 vs 灰熊" tvg-group="篮球" group-title="篮球",猛龙 vs 灰熊·咪咕直播·720P
 http://192.168.5.35:35456/jrs/%E7%8C%9B%E9%BE%99%20vs%20%E7%81%B0%E7%86%8A%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
 #EXTINF:-1 tvg-id="猛龙 vs 灰熊" tvg-chno="1123" tvg-name="猛龙 vs 灰熊" tvg-group="篮球" group-title="篮球",猛龙 vs 灰熊·咪咕直播·720P
 http://192.168.5.35:44635/play/c49799c68ddc8d0afbdf2142aa48c31bcc8cb468
-#EXTINF:-1 tvg-id="长滩州立女篮 vs 圣塔克拉拉女篮" tvg-chno="1124" tvg-name="长滩州立女篮 vs 圣塔克拉拉女篮" tvg-group="篮球" group-title="篮球",长滩州立女篮 vs 圣塔克拉拉女篮·聚合源
-http://192.168.5.35:44635/play/846d98a9f97b18edeeac96b122dc6de9cd3955a1
-#EXTINF:-1 tvg-id="长滩州立女篮 vs 圣塔克拉拉女篮" tvg-chno="1124" tvg-name="长滩州立女篮 vs 圣塔克拉拉女篮" tvg-group="篮球" group-title="篮球",长滩州立女篮 vs 圣塔克拉拉女篮·聚合源
-http://192.168.5.35:44635/play/c78a32732c2d6e1ab51d268dea2f9e2d5b2915f5
+#EXTINF:-1 tvg-id="蔚山现代太阳神 vs 高阳索诺天枪" tvg-chno="1124" tvg-name="蔚山现代太阳神 vs 高阳索诺天枪" tvg-group="篮球" group-title="篮球",蔚山现代太阳神 vs 高阳索诺天枪·聚合源
+http://192.168.5.35:44635/play/0d46e7b306bd787a9f8c421d1fddaa6767e8e954
 #EXTINF:-1 tvg-id="中国室内女足 vs 伊朗室内女足" tvg-chno="1201" tvg-name="中国室内女足 vs 伊朗室内女足" tvg-group="足球" group-title="足球",中国室内女足 vs 伊朗室内女足·聚合源
 http://192.168.5.35:44635/play/2c51f5ffdc51d69f5c6af50d819023b8a9e36dd1
 #EXTINF:-1 tvg-id="中央骏马 vs 猎人FC" tvg-chno="1202" tvg-name="中央骏马 vs 猎人FC" tvg-group="足球" group-title="足球",中央骏马 vs 猎人FC·聚合源
@@ -169,15 +163,13 @@ http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1303" tvg-name="ESPN" tvg-group="综合体育" group-title="综合体育",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1304" tvg-name="Tennis Channel" tvg-group="综合体育" group-title="综合体育",Tennis Channel
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1305" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1304" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1306" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1305" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1307" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1308" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1307" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
@@ -247,29 +239,31 @@ http://192.168.5.35:44635/play/cf4c70452037975f0ee0150ba210a29beaabc670
 http://192.168.5.35:44635/play/b6a3378f3a76deb182dab25b247ad71cb2319559
 #EXTINF:-1 tvg-id="11-10 黄蜂 vs 骑士" tvg-chno="1501" tvg-name="11-10 黄蜂 vs 骑士" tvg-group="NBA回放" group-title="NBA回放",11-10 黄蜂 vs 骑士
 http://192.168.5.35:8098/f/2026-11-10%20%E9%BB%84%E8%9C%82%20vs%20%E9%AA%91%E5%A3%AB.mkv
-#EXTINF:-1 tvg-id="11-10 活塞 vs 奇才" tvg-chno="1502" tvg-name="11-10 活塞 vs 奇才" tvg-group="NBA回放" group-title="NBA回放",11-10 活塞 vs 奇才
+#EXTINF:-1 tvg-id="11-10 独行侠 vs 步行者" tvg-chno="1502" tvg-name="11-10 独行侠 vs 步行者" tvg-group="NBA回放" group-title="NBA回放",11-10 独行侠 vs 步行者
+http://192.168.5.35:8098/f/2026-11-10%20%E7%8B%AC%E8%A1%8C%E4%BE%A0%20vs%20%E6%AD%A5%E8%A1%8C%E8%80%85.mkv
+#EXTINF:-1 tvg-id="11-10 活塞 vs 奇才" tvg-chno="1503" tvg-name="11-10 活塞 vs 奇才" tvg-group="NBA回放" group-title="NBA回放",11-10 活塞 vs 奇才
 http://192.168.5.35:8098/f/2026-11-10%20%E6%B4%BB%E5%A1%9E%20vs%20%E5%A5%87%E6%89%8D.mkv
-#EXTINF:-1 tvg-id="11-09 雄鹿 vs 凯尔特人" tvg-chno="1503" tvg-name="11-09 雄鹿 vs 凯尔特人" tvg-group="NBA回放" group-title="NBA回放",11-09 雄鹿 vs 凯尔特人
+#EXTINF:-1 tvg-id="11-09 雄鹿 vs 凯尔特人" tvg-chno="1504" tvg-name="11-09 雄鹿 vs 凯尔特人" tvg-group="NBA回放" group-title="NBA回放",11-09 雄鹿 vs 凯尔特人
 http://192.168.5.35:8098/f/2026-11-09%20%E9%9B%84%E9%B9%BF%20vs%20%E5%87%AF%E5%B0%94%E7%89%B9%E4%BA%BA.mkv
-#EXTINF:-1 tvg-id="11-09 阿布拉韦弗斯 vs 圣胡安骑士" tvg-chno="1504" tvg-name="11-09 阿布拉韦弗斯 vs 圣胡安骑士" tvg-group="NBA回放" group-title="NBA回放",11-09 阿布拉韦弗斯 vs 圣胡安骑士
+#EXTINF:-1 tvg-id="11-09 阿布拉韦弗斯 vs 圣胡安骑士" tvg-chno="1505" tvg-name="11-09 阿布拉韦弗斯 vs 圣胡安骑士" tvg-group="NBA回放" group-title="NBA回放",11-09 阿布拉韦弗斯 vs 圣胡安骑士
 http://192.168.5.35:8098/f/2026-11-09%20%E9%98%BF%E5%B8%83%E6%8B%89%E9%9F%A6%E5%BC%97%E6%96%AF%20vs%20%E5%9C%A3%E8%83%A1%E5%AE%89%E9%AA%91%E5%A3%AB.mkv
-#EXTINF:-1 tvg-id="11-09 独行侠 vs 篮网" tvg-chno="1505" tvg-name="11-09 独行侠 vs 篮网" tvg-group="NBA回放" group-title="NBA回放",11-09 独行侠 vs 篮网
+#EXTINF:-1 tvg-id="11-09 独行侠 vs 篮网" tvg-chno="1506" tvg-name="11-09 独行侠 vs 篮网" tvg-group="NBA回放" group-title="NBA回放",11-09 独行侠 vs 篮网
 http://192.168.5.35:8098/f/2026-11-09%20%E7%8B%AC%E8%A1%8C%E4%BE%A0%20vs%20%E7%AF%AE%E7%BD%91.mkv
-#EXTINF:-1 tvg-id="11-09 澳门黑骑士 vs 多伦多运输" tvg-chno="1506" tvg-name="11-09 澳门黑骑士 vs 多伦多运输" tvg-group="NBA回放" group-title="NBA回放",11-09 澳门黑骑士 vs 多伦多运输
+#EXTINF:-1 tvg-id="11-09 澳门黑骑士 vs 多伦多运输" tvg-chno="1507" tvg-name="11-09 澳门黑骑士 vs 多伦多运输" tvg-group="NBA回放" group-title="NBA回放",11-09 澳门黑骑士 vs 多伦多运输
 http://192.168.5.35:8098/f/2026-11-09%20%E6%BE%B3%E9%97%A8%E9%BB%91%E9%AA%91%E5%A3%AB%20vs%20%E5%A4%9A%E4%BC%A6%E5%A4%9A%E8%BF%90%E8%BE%93.mkv
-#EXTINF:-1 tvg-id="11-09 活塞 vs 湖人" tvg-chno="1507" tvg-name="11-09 活塞 vs 湖人" tvg-group="NBA回放" group-title="NBA回放",11-09 活塞 vs 湖人
+#EXTINF:-1 tvg-id="11-09 活塞 vs 湖人" tvg-chno="1508" tvg-name="11-09 活塞 vs 湖人" tvg-group="NBA回放" group-title="NBA回放",11-09 活塞 vs 湖人
 http://192.168.5.35:8098/f/2026-11-09%20%E6%B4%BB%E5%A1%9E%20vs%20%E6%B9%96%E4%BA%BA.mkv
-#EXTINF:-1 tvg-id="11-09 森林狼 vs 爵士" tvg-chno="1508" tvg-name="11-09 森林狼 vs 爵士" tvg-group="NBA回放" group-title="NBA回放",11-09 森林狼 vs 爵士
+#EXTINF:-1 tvg-id="11-09 森林狼 vs 爵士" tvg-chno="1509" tvg-name="11-09 森林狼 vs 爵士" tvg-group="NBA回放" group-title="NBA回放",11-09 森林狼 vs 爵士
 http://192.168.5.35:8098/f/2026-11-09%20%E6%A3%AE%E6%9E%97%E7%8B%BC%20vs%20%E7%88%B5%E5%A3%AB.mkv
-#EXTINF:-1 tvg-id="11-09 快船 vs 鹈鹕" tvg-chno="1509" tvg-name="11-09 快船 vs 鹈鹕" tvg-group="NBA回放" group-title="NBA回放",11-09 快船 vs 鹈鹕
+#EXTINF:-1 tvg-id="11-09 快船 vs 鹈鹕" tvg-chno="1510" tvg-name="11-09 快船 vs 鹈鹕" tvg-group="NBA回放" group-title="NBA回放",11-09 快船 vs 鹈鹕
 http://192.168.5.35:8098/f/2026-11-09%20%E5%BF%AB%E8%88%B9%20vs%20%E9%B9%88%E9%B9%95.mkv
-#EXTINF:-1 tvg-id="11-09 川崎雷霆勇者 vs 千叶阿尔提里" tvg-chno="1510" tvg-name="11-09 川崎雷霆勇者 vs 千叶阿尔提里" tvg-group="NBA回放" group-title="NBA回放",11-09 川崎雷霆勇者 vs 千叶阿尔提里
+#EXTINF:-1 tvg-id="11-09 川崎雷霆勇者 vs 千叶阿尔提里" tvg-chno="1511" tvg-name="11-09 川崎雷霆勇者 vs 千叶阿尔提里" tvg-group="NBA回放" group-title="NBA回放",11-09 川崎雷霆勇者 vs 千叶阿尔提里
 http://192.168.5.35:8098/f/2026-11-09%20%E5%B7%9D%E5%B4%8E%E9%9B%B7%E9%9C%86%E5%8B%87%E8%80%85%20vs%20%E5%8D%83%E5%8F%B6%E9%98%BF%E5%B0%94%E6%8F%90%E9%87%8C.mkv
-#EXTINF:-1 tvg-id="11-09 岛根魔术 vs 富山松鸡" tvg-chno="1511" tvg-name="11-09 岛根魔术 vs 富山松鸡" tvg-group="NBA回放" group-title="NBA回放",11-09 岛根魔术 vs 富山松鸡
+#EXTINF:-1 tvg-id="11-09 岛根魔术 vs 富山松鸡" tvg-chno="1512" tvg-name="11-09 岛根魔术 vs 富山松鸡" tvg-group="NBA回放" group-title="NBA回放",11-09 岛根魔术 vs 富山松鸡
 http://192.168.5.35:8098/f/2026-11-09%20%E5%B2%9B%E6%A0%B9%E9%AD%94%E6%9C%AF%20vs%20%E5%AF%8C%E5%B1%B1%E6%9D%BE%E9%B8%A1.mkv
-#EXTINF:-1 tvg-id="11-09 国王 vs 热火" tvg-chno="1512" tvg-name="11-09 国王 vs 热火" tvg-group="NBA回放" group-title="NBA回放",11-09 国王 vs 热火
+#EXTINF:-1 tvg-id="11-09 国王 vs 热火" tvg-chno="1513" tvg-name="11-09 国王 vs 热火" tvg-group="NBA回放" group-title="NBA回放",11-09 国王 vs 热火
 http://192.168.5.35:8098/f/2026-11-09%20%E5%9B%BD%E7%8E%8B%20vs%20%E7%83%AD%E7%81%AB.mkv
-#EXTINF:-1 tvg-id="11-09 公牛 vs 76人" tvg-chno="1513" tvg-name="11-09 公牛 vs 76人" tvg-group="NBA回放" group-title="NBA回放",11-09 公牛 vs 76人
+#EXTINF:-1 tvg-id="11-09 公牛 vs 76人" tvg-chno="1514" tvg-name="11-09 公牛 vs 76人" tvg-group="NBA回放" group-title="NBA回放",11-09 公牛 vs 76人
 http://192.168.5.35:8098/f/2026-11-09%20%E5%85%AC%E7%89%9B%20vs%2076%E4%BA%BA.mkv
-#EXTINF:-1 tvg-id="11-05 活塞 vs 76人" tvg-chno="1514" tvg-name="11-05 活塞 vs 76人" tvg-group="NBA回放" group-title="NBA回放",11-05 活塞 vs 76人
+#EXTINF:-1 tvg-id="11-05 活塞 vs 76人" tvg-chno="1515" tvg-name="11-05 活塞 vs 76人" tvg-group="NBA回放" group-title="NBA回放",11-05 活塞 vs 76人
 http://192.168.5.35:8098/f/2026-11-05%20%E6%B4%BB%E5%A1%9E%20vs%2076%E4%BA%BA.mkv
