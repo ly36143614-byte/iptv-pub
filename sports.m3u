@@ -74,7 +74,9 @@ http://192.168.5.35:44635/play/e882ea860dbf4b267c2971cc5d727a875df226d1
 #EXTINF:-1 tvg-id="阿尔艾利多哈 vs 阿尔赖扬" tvg-chno="1119" tvg-name="阿尔艾利多哈 vs 阿尔赖扬" tvg-group="篮球" group-title="篮球",阿尔艾利多哈 vs 阿尔赖扬·聚合源
 http://192.168.5.35:44635/play/827aa22fbea9938fe3033f9e62ac991eeceedcc9
 #EXTINF:-1 tvg-id="马钢城冶金 vs 布良斯克杰斯纳" tvg-chno="1120" tvg-name="马钢城冶金 vs 布良斯克杰斯纳" tvg-group="篮球" group-title="篮球",马钢城冶金 vs 布良斯克杰斯纳·聚合源
-http://192.168.5.35:44635/play/bbc2f6d3e73614fa891eccef0899c6c7a1bcea82
+http://192.168.5.35:44635/play/9768a215d742780033b559431467d133ff93660c
+#EXTINF:-1 tvg-id="马钢城冶金 vs 布良斯克杰斯纳" tvg-chno="1120" tvg-name="马钢城冶金 vs 布良斯克杰斯纳" tvg-group="篮球" group-title="篮球",马钢城冶金 vs 布良斯克杰斯纳·聚合源
+http://192.168.5.35:44635/play/4a1b24c304473f671f8525c38b40b9dcd6d9e8e2
 #EXTINF:-1 tvg-id="中国室内女足 vs 伊朗室内女足" tvg-chno="1201" tvg-name="中国室内女足 vs 伊朗室内女足" tvg-group="足球" group-title="足球",中国室内女足 vs 伊朗室内女足·聚合源
 http://192.168.5.35:44635/play/e96415332956596c3777a6e8fbab75396b379a87
 #EXTINF:-1 tvg-id="中国室内女足 vs 伊朗室内女足" tvg-chno="1201" tvg-name="中国室内女足 vs 伊朗室内女足" tvg-group="足球" group-title="足球",中国室内女足 vs 伊朗室内女足·聚合源
@@ -93,29 +95,25 @@ http://192.168.5.35:44635/play/e6a60199e37036ba025b56b0830940d24f1e4379
 http://192.168.5.35:44635/play/c248b7b3e60964229661511d37734637db55df39
 #EXTINF:-1 tvg-id="拉丁斯帕U20 vs 平海伦斯U20" tvg-chno="1208" tvg-name="拉丁斯帕U20 vs 平海伦斯U20" tvg-group="足球" group-title="足球",拉丁斯帕U20 vs 平海伦斯U20·聚合源
 http://192.168.5.35:44635/play/a0b3c5eefccd8ab073d463608099bf960497ee61
-#EXTINF:-1 tvg-id="班加罗尔梦幻联 vs 帕里克玛" tvg-chno="1209" tvg-name="班加罗尔梦幻联 vs 帕里克玛" tvg-group="足球" group-title="足球",班加罗尔梦幻联 vs 帕里克玛·聚合源
-http://192.168.5.35:44635/play/7c00839bc4a06ce62fd8f6c24e61781bc4fc7acf
-#EXTINF:-1 tvg-id="班加罗尔梦幻联 vs 帕里克玛" tvg-chno="1209" tvg-name="班加罗尔梦幻联 vs 帕里克玛" tvg-group="足球" group-title="足球",班加罗尔梦幻联 vs 帕里克玛·聚合源
-http://192.168.5.35:44635/play/63224f4acd44b5009f464cadd7b9bedf5d73d738
-#EXTINF:-1 tvg-id="班加罗尔联合会 vs 皇家班加罗尔" tvg-chno="1210" tvg-name="班加罗尔联合会 vs 皇家班加罗尔" tvg-group="足球" group-title="足球",班加罗尔联合会 vs 皇家班加罗尔·聚合源
+#EXTINF:-1 tvg-id="班加罗尔联合会 vs 皇家班加罗尔" tvg-chno="1209" tvg-name="班加罗尔联合会 vs 皇家班加罗尔" tvg-group="足球" group-title="足球",班加罗尔联合会 vs 皇家班加罗尔·聚合源
 http://192.168.5.35:44635/play/8f33dfdfaa85aaecee426d34a9f9957ac9202b7b
-#EXTINF:-1 tvg-id="班加罗尔联合会 vs 皇家班加罗尔" tvg-chno="1210" tvg-name="班加罗尔联合会 vs 皇家班加罗尔" tvg-group="足球" group-title="足球",班加罗尔联合会 vs 皇家班加罗尔·聚合源
+#EXTINF:-1 tvg-id="班加罗尔联合会 vs 皇家班加罗尔" tvg-chno="1209" tvg-name="班加罗尔联合会 vs 皇家班加罗尔" tvg-group="足球" group-title="足球",班加罗尔联合会 vs 皇家班加罗尔·聚合源
 http://192.168.5.35:44635/play/a65d72549bd8f48462b374890bdedee6af8d45e0
-#EXTINF:-1 tvg-id="瑞模贝雷U20 vs 哥梅里卡西亚ECU20" tvg-chno="1211" tvg-name="瑞模贝雷U20 vs 哥梅里卡西亚ECU20" tvg-group="足球" group-title="足球",瑞模贝雷U20 vs 哥梅里卡西亚ECU20·聚合源
+#EXTINF:-1 tvg-id="瑞模贝雷U20 vs 哥梅里卡西亚ECU20" tvg-chno="1210" tvg-name="瑞模贝雷U20 vs 哥梅里卡西亚ECU20" tvg-group="足球" group-title="足球",瑞模贝雷U20 vs 哥梅里卡西亚ECU20·聚合源
 http://192.168.5.35:44635/play/ab7965951e2579de0fdb3be856f726f285425c2d
-#EXTINF:-1 tvg-id="触控电子U20 vs 吉打U20" tvg-chno="1212" tvg-name="触控电子U20 vs 吉打U20" tvg-group="足球" group-title="足球",触控电子U20 vs 吉打U20·聚合源
+#EXTINF:-1 tvg-id="触控电子U20 vs 吉打U20" tvg-chno="1211" tvg-name="触控电子U20 vs 吉打U20" tvg-group="足球" group-title="足球",触控电子U20 vs 吉打U20·聚合源
 http://192.168.5.35:44635/play/767798fb9a323b5afa894352e336114068647a45
-#EXTINF:-1 tvg-id="越南U23 vs 泰国U23" tvg-chno="1213" tvg-name="越南U23 vs 泰国U23" tvg-group="足球" group-title="足球",越南U23 vs 泰国U23·聚合源
+#EXTINF:-1 tvg-id="越南U23 vs 泰国U23" tvg-chno="1212" tvg-name="越南U23 vs 泰国U23" tvg-group="足球" group-title="足球",越南U23 vs 泰国U23·聚合源
 http://192.168.5.35:44635/play/fd9dec556b2a4398744659006ca3cf7a8c771264
-#EXTINF:-1 tvg-id="辛达卡拉U23 vs 杜连斯U23" tvg-chno="1214" tvg-name="辛达卡拉U23 vs 杜连斯U23" tvg-group="足球" group-title="足球",辛达卡拉U23 vs 杜连斯U23·聚合源
+#EXTINF:-1 tvg-id="辛达卡拉U23 vs 杜连斯U23" tvg-chno="1213" tvg-name="辛达卡拉U23 vs 杜连斯U23" tvg-group="足球" group-title="足球",辛达卡拉U23 vs 杜连斯U23·聚合源
 http://192.168.5.35:44635/play/961fb3d12deb95ac53c10cbc25de4397f45c914a
-#EXTINF:-1 tvg-id="辛达卡拉U23 vs 杜连斯U23" tvg-chno="1214" tvg-name="辛达卡拉U23 vs 杜连斯U23" tvg-group="足球" group-title="足球",辛达卡拉U23 vs 杜连斯U23·聚合源
+#EXTINF:-1 tvg-id="辛达卡拉U23 vs 杜连斯U23" tvg-chno="1213" tvg-name="辛达卡拉U23 vs 杜连斯U23" tvg-group="足球" group-title="足球",辛达卡拉U23 vs 杜连斯U23·聚合源
 http://192.168.5.35:44635/play/6540e07c77ab83e193db064b653d480ecf401d40
-#EXTINF:-1 tvg-id="邵阳队 vs 湘潭队" tvg-chno="1215" tvg-name="邵阳队 vs 湘潭队" tvg-group="足球" group-title="足球",邵阳队 vs 湘潭队·聚合源
+#EXTINF:-1 tvg-id="邵阳队 vs 湘潭队" tvg-chno="1214" tvg-name="邵阳队 vs 湘潭队" tvg-group="足球" group-title="足球",邵阳队 vs 湘潭队·聚合源
 http://192.168.5.35:44635/play/821263f9dbf7040f62a31fbcad6716a7ff613f09
-#EXTINF:-1 tvg-id="阿尔及利亚U17 vs 摩洛哥U17" tvg-chno="1216" tvg-name="阿尔及利亚U17 vs 摩洛哥U17" tvg-group="足球" group-title="足球",阿尔及利亚U17 vs 摩洛哥U17·聚合源
+#EXTINF:-1 tvg-id="阿尔及利亚U17 vs 摩洛哥U17" tvg-chno="1215" tvg-name="阿尔及利亚U17 vs 摩洛哥U17" tvg-group="足球" group-title="足球",阿尔及利亚U17 vs 摩洛哥U17·聚合源
 http://192.168.5.35:44635/play/834352d7f9124a3cde2ee3d240795a42a1f9832e
-#EXTINF:-1 tvg-id="马泽姆贝 vs 博斯高" tvg-chno="1217" tvg-name="马泽姆贝 vs 博斯高" tvg-group="足球" group-title="足球",马泽姆贝 vs 博斯高·聚合源
+#EXTINF:-1 tvg-id="马泽姆贝 vs 博斯高" tvg-chno="1216" tvg-name="马泽姆贝 vs 博斯高" tvg-group="足球" group-title="足球",马泽姆贝 vs 博斯高·聚合源
 http://192.168.5.35:44635/play/5593aff35255842015bf2c96f76aaaa3ce4ee03a
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
@@ -152,7 +150,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannel
 #EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1359" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="车里雅宾斯克奥林匹克 vs 库尔斯克罗斯人" tvg-chno="1360" tvg-name="车里雅宾斯克奥林匹克 vs 库尔斯克罗斯人" tvg-group="体育综合" group-title="体育综合",车里雅宾斯克奥林匹克 vs 库尔斯克罗斯人·聚合源
-http://192.168.5.35:44635/play/778d045a23c3e526ee50f5da7dbd95ee441f6dec
+http://192.168.5.35:44635/play/594822ebf5046994ce3ba182f734a903097248b9
+#EXTINF:-1 tvg-id="车里雅宾斯克奥林匹克 vs 库尔斯克罗斯人" tvg-chno="1360" tvg-name="车里雅宾斯克奥林匹克 vs 库尔斯克罗斯人" tvg-group="体育综合" group-title="体育综合",车里雅宾斯克奥林匹克 vs 库尔斯克罗斯人·聚合源
+http://192.168.5.35:44635/play/7998d31f866d7e5d80f1df2d2d446dcc26a66703
 #EXTINF:-1 tvg-id="Amaru Gaming vs PuckChamp" tvg-chno="1401" tvg-name="Amaru Gaming vs PuckChamp" tvg-group="DOTA2" group-title="DOTA2",Amaru Gaming vs PuckChamp·聚合源
 http://192.168.5.35:44635/play/02de861abadef2ef1db5da3bfc2083e7c028162e
 #EXTINF:-1 tvg-id="Amaru Gaming vs PuckChamp" tvg-chno="1401" tvg-name="Amaru Gaming vs PuckChamp" tvg-group="DOTA2" group-title="DOTA2",Amaru Gaming vs PuckChamp·聚合源
