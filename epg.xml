@@ -6,6 +6,7 @@
   <channel id="InterActive vs CH"><display-name>InterActive vs CH</display-name></channel>
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
+  <channel id="勇士 vs 鹈鹕"><display-name>勇士 vs 鹈鹕</display-name></channel>
   <channel id="太阳 vs 马刺"><display-name>太阳 vs 马刺</display-name></channel>
   <channel id="活塞 vs 奇才"><display-name>活塞 vs 奇才</display-name></channel>
   <channel id="火箭 vs 掘金"><display-name>火箭 vs 掘金</display-name></channel>
@@ -78,6 +79,10 @@
     <title>Pittsburgh Steelers at Cincinnati Bengals（NFL）</title>
     <category>体育</category>
   </programme>
+  <programme start="20261110110000 +0800" stop="20261110134012 +0800" channel="勇士 vs 鹈鹕">
+    <title>New Orleans Pelicans at Golden State Warriors（NBA）</title>
+    <category>体育</category>
+  </programme>
   <programme start="20261110100000 +0800" stop="20261110124012 +0800" channel="太阳 vs 马刺">
     <title>San Antonio Spurs at Phoenix Suns（NBA）</title>
     <category>体育</category>
@@ -95,7 +100,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261110083000 +0800" stop="20261110111012 +0800" channel="猛龙 vs 灰熊">
-    <title>Memphis Grizzlies at Toronto Raptors（NBA）</title>
+    <title>Memphis Grizzlies at Toronto Raptors 已结束（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261110080000 +0800" stop="20261110104012 +0800" channel="老鹰 vs 湖人">
