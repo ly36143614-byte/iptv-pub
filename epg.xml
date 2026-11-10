@@ -7,9 +7,7 @@
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="Xipto vs potn9ki-"><display-name>Xipto vs potn9ki-</display-name></channel>
-  <channel id="YB vs InterActive"><display-name>YB vs InterActive</display-name></channel>
   <channel id="Yes vs Team Legion"><display-name>Yes vs Team Legion</display-name></channel>
-  <channel id="Zenith vs Synapse"><display-name>Zenith vs Synapse</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <programme start="20261116020000 +0800" stop="20261116051948 +0800" channel="CBS">
     <title>Kansas City Chiefs at Atlanta Falcons（NFL）</title>
@@ -79,16 +77,8 @@
     <title>Xipto vs potn9k（DreamLeague D2 S5 - November 10）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261110010808 +0800" stop="20261110013852 +0800" channel="YB vs InterActive">
-    <title>CyberHero vs InterActive Philippines（DreamLeague Division 2 Series 5）</title>
-    <category>体育</category>
-  </programme>
   <programme start="20261110180000 +0800" stop="20261110203000 +0800" channel="Yes vs Team Legion">
     <title>YeS vs LEGION（1w Essence III Play-In - November 10）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261110200458 +0800" stop="20261110204048 +0800" channel="Zenith vs Synapse">
-    <title>Team Synapse vs ZENITH（DreamLeague Division 2 Series 5）</title>
     <category>体育</category>
   </programme>
   <programme start="20261110200000 +0800" stop="20261110201000 +0800" channel="赛程预告">
@@ -107,11 +97,11 @@
     <title>Dota2：CHero vs PC（DreamLeague D2 S5）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261110212000 +0800" stop="20261110213000 +0800" channel="赛程预告">
+  <programme start="20261110212000 +0800" stop="20261110214000 +0800" channel="赛程预告">
     <title>Dota2：Xipto vs PTime（1w Essence III Play-In）；YkBros vs IAP（DreamLeague D2 S5）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261110213000 +0800" stop="20261110230000 +0800" channel="赛程预告">
+  <programme start="20261110214000 +0800" stop="20261110230000 +0800" channel="赛程预告">
     <title>Dota2：Z10 vs ICxI（DreamLeague D2 S5）</title>
     <category>体育</category>
   </programme>
