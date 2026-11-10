@@ -8,6 +8,7 @@
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
   <channel id="活塞 vs 奇才"><display-name>活塞 vs 奇才</display-name></channel>
+  <channel id="火箭 vs 掘金"><display-name>火箭 vs 掘金</display-name></channel>
   <channel id="独行侠 vs 步行者"><display-name>独行侠 vs 步行者</display-name></channel>
   <channel id="猛龙 vs 灰熊"><display-name>猛龙 vs 灰熊</display-name></channel>
   <channel id="老鹰 vs 湖人"><display-name>老鹰 vs 湖人</display-name></channel>
@@ -83,6 +84,10 @@
   </programme>
   <programme start="20261110080000 +0800" stop="20261110104012 +0800" channel="活塞 vs 奇才">
     <title>Washington Wizards at Detroit Pistons（NBA）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261110093000 +0800" stop="20261110121012 +0800" channel="火箭 vs 掘金">
+    <title>Denver Nuggets at Houston Rockets（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261110090000 +0800" stop="20261110114012 +0800" channel="独行侠 vs 步行者">
