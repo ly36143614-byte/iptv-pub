@@ -19,24 +19,30 @@ http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1102" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="太阳 vs 马刺" tvg-chno="1103" tvg-name="太阳 vs 马刺" tvg-group="篮球" group-title="篮球",太阳 vs 马刺·腾讯直播1·720P
-http://192.168.5.35:35456/jrs/%E5%A4%AA%E9%98%B3%20vs%20%E9%A9%AC%E5%88%BA%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD1%C2%B7720P
-#EXTINF:-1 tvg-id="太阳 vs 马刺" tvg-chno="1103" tvg-name="太阳 vs 马刺" tvg-group="篮球" group-title="篮球",太阳 vs 马刺·腾讯直播1·720P
-http://192.168.5.35:35456/jrs/%E5%A4%AA%E9%98%B3%20vs%20%E9%A9%AC%E5%88%BA%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD2%C2%B7720P
-#EXTINF:-1 tvg-id="太阳 vs 马刺" tvg-chno="1103" tvg-name="太阳 vs 马刺" tvg-group="篮球" group-title="篮球",太阳 vs 马刺·腾讯直播1·720P
-http://192.168.5.35:35456/jrs/%E5%A4%AA%E9%98%B3%20vs%20%E9%A9%AC%E5%88%BA%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
-#EXTINF:-1 tvg-id="俄克拉荷马大学 vs 北阿拉巴马" tvg-chno="1104" tvg-name="俄克拉荷马大学 vs 北阿拉巴马" tvg-group="篮球" group-title="篮球",俄克拉荷马大学 vs 北阿拉巴马·聚合源
+#EXTINF:-1 tvg-id="俄克拉荷马大学 vs 北阿拉巴马" tvg-chno="1103" tvg-name="俄克拉荷马大学 vs 北阿拉巴马" tvg-group="篮球" group-title="篮球",俄克拉荷马大学 vs 北阿拉巴马·聚合源
 http://192.168.5.35:44635/play/eb24c822c24bf5d0892fc948f4013336b240257e
-#EXTINF:-1 tvg-id="俄克拉荷马大学 vs 北阿拉巴马" tvg-chno="1104" tvg-name="俄克拉荷马大学 vs 北阿拉巴马" tvg-group="篮球" group-title="篮球",俄克拉荷马大学 vs 北阿拉巴马·聚合源
+#EXTINF:-1 tvg-id="俄克拉荷马大学 vs 北阿拉巴马" tvg-chno="1103" tvg-name="俄克拉荷马大学 vs 北阿拉巴马" tvg-group="篮球" group-title="篮球",俄克拉荷马大学 vs 北阿拉巴马·聚合源
 http://192.168.5.35:44635/play/2fb00302bfea1a8827ccf0c7fd93262b13b52010
-#EXTINF:-1 tvg-id="密苏里大学 vs 艾德华兹维尔大学" tvg-chno="1105" tvg-name="密苏里大学 vs 艾德华兹维尔大学" tvg-group="篮球" group-title="篮球",密苏里大学 vs 艾德华兹维尔大学·聚合源
+#EXTINF:-1 tvg-id="太阳 vs 马刺" tvg-chno="1104" tvg-name="太阳 vs 马刺" tvg-group="篮球" group-title="篮球",太阳 vs 马刺·腾讯直播1·720P
+http://192.168.5.35:35456/jrs/%E5%A4%AA%E9%98%B3%20vs%20%E9%A9%AC%E5%88%BA%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD1%C2%B7720P
+#EXTINF:-1 tvg-id="太阳 vs 马刺" tvg-chno="1104" tvg-name="太阳 vs 马刺" tvg-group="篮球" group-title="篮球",太阳 vs 马刺·腾讯直播1·720P
+http://192.168.5.35:35456/jrs/%E5%A4%AA%E9%98%B3%20vs%20%E9%A9%AC%E5%88%BA%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD2%C2%B7720P
+#EXTINF:-1 tvg-id="太阳 vs 马刺" tvg-chno="1104" tvg-name="太阳 vs 马刺" tvg-group="篮球" group-title="篮球",太阳 vs 马刺·腾讯直播1·720P
+http://192.168.5.35:35456/jrs/%E5%A4%AA%E9%98%B3%20vs%20%E9%A9%AC%E5%88%BA%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
+#EXTINF:-1 tvg-id="太阳 vs 马刺" tvg-chno="1104" tvg-name="太阳 vs 马刺" tvg-group="篮球" group-title="篮球",太阳 vs 马刺·腾讯直播1·720P
+http://192.168.5.35:44635/play/048d92969dc7c3f01dfbc6b63c6dfc12a6924247
+#EXTINF:-1 tvg-id="太阳 vs 马刺" tvg-chno="1104" tvg-name="太阳 vs 马刺" tvg-group="篮球" group-title="篮球",太阳 vs 马刺·腾讯直播1·720P
+http://192.168.5.35:44635/play/f4905eb807b04c1faa6ca6612d8f5ab2fdfcb5d8
+#EXTINF:-1 tvg-id="太阳 vs 马刺" tvg-chno="1104" tvg-name="太阳 vs 马刺" tvg-group="篮球" group-title="篮球",太阳 vs 马刺·腾讯直播1·720P
+http://192.168.5.35:44635/play/24b040986d77205394f7867f293212d854ef1fd7
+#EXTINF:-1 tvg-id="奥本大学 vs 阿帕拉契亚州立大学" tvg-chno="1105" tvg-name="奥本大学 vs 阿帕拉契亚州立大学" tvg-group="篮球" group-title="篮球",奥本大学 vs 阿帕拉契亚州立大学·聚合源
+http://192.168.5.35:44635/play/9b0d91c75e2e51537ddad4a4668c606c26adb77e
+#EXTINF:-1 tvg-id="奥本大学 vs 阿帕拉契亚州立大学" tvg-chno="1105" tvg-name="奥本大学 vs 阿帕拉契亚州立大学" tvg-group="篮球" group-title="篮球",奥本大学 vs 阿帕拉契亚州立大学·聚合源
+http://192.168.5.35:44635/play/d344a9154e34e4971c5a22deb5454329b5f882fe
+#EXTINF:-1 tvg-id="密苏里大学 vs 艾德华兹维尔大学" tvg-chno="1106" tvg-name="密苏里大学 vs 艾德华兹维尔大学" tvg-group="篮球" group-title="篮球",密苏里大学 vs 艾德华兹维尔大学·聚合源
 http://192.168.5.35:44635/play/fb9ffc4dd8167c79bb3b7081cd8acd8750b76081
-#EXTINF:-1 tvg-id="密苏里大学 vs 艾德华兹维尔大学" tvg-chno="1105" tvg-name="密苏里大学 vs 艾德华兹维尔大学" tvg-group="篮球" group-title="篮球",密苏里大学 vs 艾德华兹维尔大学·聚合源
+#EXTINF:-1 tvg-id="密苏里大学 vs 艾德华兹维尔大学" tvg-chno="1106" tvg-name="密苏里大学 vs 艾德华兹维尔大学" tvg-group="篮球" group-title="篮球",密苏里大学 vs 艾德华兹维尔大学·聚合源
 http://192.168.5.35:44635/play/0677578789d1a381597ca555c1d80e18169a3bd4
-#EXTINF:-1 tvg-id="密西西比州立大学 vs 杰克逊州立大学" tvg-chno="1106" tvg-name="密西西比州立大学 vs 杰克逊州立大学" tvg-group="篮球" group-title="篮球",密西西比州立大学 vs 杰克逊州立大学·聚合源
-http://192.168.5.35:44635/play/ad93f5a68f09d92a23b5c41460400cf8bd857935
-#EXTINF:-1 tvg-id="密西西比州立大学 vs 杰克逊州立大学" tvg-chno="1106" tvg-name="密西西比州立大学 vs 杰克逊州立大学" tvg-group="篮球" group-title="篮球",密西西比州立大学 vs 杰克逊州立大学·聚合源
-http://192.168.5.35:44635/play/c6084d38442d418da26a427cc05126c0c02c34cb
 #EXTINF:-1 tvg-id="得州农工大学 vs 路易斯安那门罗大学" tvg-chno="1107" tvg-name="得州农工大学 vs 路易斯安那门罗大学" tvg-group="篮球" group-title="篮球",得州农工大学 vs 路易斯安那门罗大学·聚合源
 http://192.168.5.35:44635/play/4f85a2dad379330485c14a0d13c754740238e19d
 #EXTINF:-1 tvg-id="得州农工大学 vs 路易斯安那门罗大学" tvg-chno="1107" tvg-name="得州农工大学 vs 路易斯安那门罗大学" tvg-group="篮球" group-title="篮球",得州农工大学 vs 路易斯安那门罗大学·聚合源
@@ -181,13 +187,15 @@ http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1303" tvg-name="ESPN" tvg-group="综合体育" group-title="综合体育",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1304" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1304" tvg-name="Tennis Channel" tvg-group="综合体育" group-title="综合体育",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1305" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1305" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1306" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1307" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1307" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1308" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
@@ -203,7 +211,9 @@ https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1357" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1358" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1358" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1359" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="Amaru Gaming vs PuckChamp" tvg-chno="1401" tvg-name="Amaru Gaming vs PuckChamp" tvg-group="DOTA2" group-title="DOTA2",Amaru Gaming vs PuckChamp·聚合源
 http://192.168.5.35:44635/play/02de861abadef2ef1db5da3bfc2083e7c028162e
