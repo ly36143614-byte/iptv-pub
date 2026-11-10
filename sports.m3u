@@ -31,16 +31,16 @@ http://192.168.5.35:44635/play/be7bd5a788dbd94e60f8ba915485f9358ff3bbcc
 http://192.168.5.35:44635/play/2834de3c0f6a164e5b6312b8e73a22be64b703b4
 #EXTINF:-1 tvg-id="亚夫涅 vs 奥特夫达罗姆BC" tvg-chno="1106" tvg-name="亚夫涅 vs 奥特夫达罗姆BC" tvg-group="篮球" group-title="篮球",亚夫涅 vs 奥特夫达罗姆BC·聚合源
 http://192.168.5.35:44635/play/1b0b6e313f61a41c7f6d6937269aa65006bb4c02
-#EXTINF:-1 tvg-id="伊萨城 vs 阿尔艾利麦纳麦" tvg-chno="1107" tvg-name="伊萨城 vs 阿尔艾利麦纳麦" tvg-group="篮球" group-title="篮球",伊萨城 vs 阿尔艾利麦纳麦·聚合源
-http://192.168.5.35:44635/play/91f40f9ec93b7b0ff66f2997d9578562aa785b71
-#EXTINF:-1 tvg-id="千叶喷射机 vs 大阪七福神" tvg-chno="1108" tvg-name="千叶喷射机 vs 大阪七福神" tvg-group="篮球" group-title="篮球",千叶喷射机 vs 大阪七福神·聚合源
+#EXTINF:-1 tvg-id="千叶喷射机 vs 大阪七福神" tvg-chno="1107" tvg-name="千叶喷射机 vs 大阪七福神" tvg-group="篮球" group-title="篮球",千叶喷射机 vs 大阪七福神·聚合源
 http://192.168.5.35:44635/play/ed6f08fac7f07fa4bf46d21034f2d217b59d373e
-#EXTINF:-1 tvg-id="千叶喷射机 vs 大阪七福神" tvg-chno="1108" tvg-name="千叶喷射机 vs 大阪七福神" tvg-group="篮球" group-title="篮球",千叶喷射机 vs 大阪七福神·聚合源
+#EXTINF:-1 tvg-id="千叶喷射机 vs 大阪七福神" tvg-chno="1107" tvg-name="千叶喷射机 vs 大阪七福神" tvg-group="篮球" group-title="篮球",千叶喷射机 vs 大阪七福神·聚合源
 http://192.168.5.35:44635/play/352be294a230de2a8df87587713386986ded1d8a
-#EXTINF:-1 tvg-id="圣贝达红狮 vs CSB开拓者" tvg-chno="1109" tvg-name="圣贝达红狮 vs CSB开拓者" tvg-group="篮球" group-title="篮球",圣贝达红狮 vs CSB开拓者·聚合源
+#EXTINF:-1 tvg-id="圣贝达红狮 vs CSB开拓者" tvg-chno="1108" tvg-name="圣贝达红狮 vs CSB开拓者" tvg-group="篮球" group-title="篮球",圣贝达红狮 vs CSB开拓者·聚合源
 http://192.168.5.35:44635/play/193f4504f0fa8be1359fd0e93163952b4a3a5d58
-#EXTINF:-1 tvg-id="圣贝达红狮 vs CSB开拓者" tvg-chno="1109" tvg-name="圣贝达红狮 vs CSB开拓者" tvg-group="篮球" group-title="篮球",圣贝达红狮 vs CSB开拓者·聚合源
+#EXTINF:-1 tvg-id="圣贝达红狮 vs CSB开拓者" tvg-chno="1108" tvg-name="圣贝达红狮 vs CSB开拓者" tvg-group="篮球" group-title="篮球",圣贝达红狮 vs CSB开拓者·聚合源
 http://192.168.5.35:44635/play/772d7753aa5351e3b8fcf22a237556b09940b546
+#EXTINF:-1 tvg-id="埃斯普瓦尔 vs NB斯塔韦利" tvg-chno="1109" tvg-name="埃斯普瓦尔 vs NB斯塔韦利" tvg-group="篮球" group-title="篮球",埃斯普瓦尔 vs NB斯塔韦利·聚合源
+http://192.168.5.35:44635/play/1888ed9125c46fbccf279ccce1692804972a787c
 #EXTINF:-1 tvg-id="基尼巴国王 vs 生力啤" tvg-chno="1110" tvg-name="基尼巴国王 vs 生力啤" tvg-group="篮球" group-title="篮球",基尼巴国王 vs 生力啤·聚合源
 http://192.168.5.35:44635/play/ad8dcc55fcbd109f87c44db24b8bc3e0025031ad
 #EXTINF:-1 tvg-id="多伦多运输 vs 广州龙狮B队" tvg-chno="1111" tvg-name="多伦多运输 vs 广州龙狮B队" tvg-group="篮球" group-title="篮球",多伦多运输 vs 广州龙狮B队·聚合源
@@ -137,17 +137,15 @@ http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NBC" tvg-chno="1354" tvg-name="NBC" tvg-group="体育综合" group-title="体育综合",NBC
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
-#EXTINF:-1 tvg-id="F1·Formula" tvg-chno="1355" tvg-name="F1·Formula" tvg-group="体育综合" group-title="体育综合",F1·Formula
-https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
-#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1356" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
+#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1355" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1357" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1356" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1358" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1357" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1359" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1358" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="车里雅宾斯克奥林匹克 vs 库尔斯克罗斯人" tvg-chno="1360" tvg-name="车里雅宾斯克奥林匹克 vs 库尔斯克罗斯人" tvg-group="体育综合" group-title="体育综合",车里雅宾斯克奥林匹克 vs 库尔斯克罗斯人·聚合源
+#EXTINF:-1 tvg-id="车里雅宾斯克奥林匹克 vs 库尔斯克罗斯人" tvg-chno="1359" tvg-name="车里雅宾斯克奥林匹克 vs 库尔斯克罗斯人" tvg-group="体育综合" group-title="体育综合",车里雅宾斯克奥林匹克 vs 库尔斯克罗斯人·聚合源
 http://192.168.5.35:44635/play/778d045a23c3e526ee50f5da7dbd95ee441f6dec
 #EXTINF:-1 tvg-id="Amaru Gaming vs PuckChamp" tvg-chno="1401" tvg-name="Amaru Gaming vs PuckChamp" tvg-group="DOTA2" group-title="DOTA2",Amaru Gaming vs PuckChamp·聚合源
 http://192.168.5.35:44635/play/02de861abadef2ef1db5da3bfc2083e7c028162e
