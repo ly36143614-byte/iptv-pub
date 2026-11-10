@@ -10,6 +10,7 @@
   <channel id="Xipto vs potn9ki-"><display-name>Xipto vs potn9ki-</display-name></channel>
   <channel id="YB vs InterActive"><display-name>YB vs InterActive</display-name></channel>
   <channel id="Yes vs Team Legion"><display-name>Yes vs Team Legion</display-name></channel>
+  <channel id="Z10 vs Nemiga"><display-name>Z10 vs Nemiga</display-name></channel>
   <channel id="Zenith vs Synapse"><display-name>Zenith vs Synapse</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <programme start="20261116020000 +0800" stop="20261116051948 +0800" channel="CBS">
@@ -90,6 +91,10 @@
   </programme>
   <programme start="20261110180000 +0800" stop="20261110203000 +0800" channel="Yes vs Team Legion">
     <title>YeS vs LEGION（1w Essence III Play-In - November 10）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261110210000 +0800" stop="20261110233000 +0800" channel="Z10 vs Nemiga">
+    <title>Z10 vs Nemiga（Asgard Championship S2 - November 10）</title>
     <category>体育</category>
   </programme>
   <programme start="20261110180000 +0800" stop="20261110203000 +0800" channel="Zenith vs Synapse">
