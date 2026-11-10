@@ -7,7 +7,10 @@
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
+  <channel id="活塞 vs 奇才"><display-name>活塞 vs 奇才</display-name></channel>
+  <channel id="老鹰 vs 湖人"><display-name>老鹰 vs 湖人</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
+  <channel id="黄蜂 vs 骑士"><display-name>黄蜂 vs 骑士</display-name></channel>
   <programme start="20261110025436 +0800" stop="20261110032901 +0800" channel="Amaru Gaming vs PuckChamp">
     <title>PuckChamp vs Amaru Gaming（DreamLeague Division 2 Series 5）</title>
     <category>体育</category>
@@ -74,6 +77,14 @@
   </programme>
   <programme start="20261110080000 +0800" stop="20261110104012 +0800" channel="活塞">
     <title>NBA：活塞 vs 奇才</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261110080000 +0800" stop="20261110104012 +0800" channel="活塞 vs 奇才">
+    <title>Washington Wizards at Detroit Pistons（NBA）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261110080000 +0800" stop="20261110104012 +0800" channel="老鹰 vs 湖人">
+    <title>Los Angeles Lakers at Atlanta Hawks（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261110080000 +0800" stop="20261110083000 +0800" channel="赛程预告">
@@ -198,6 +209,10 @@
   </programme>
   <programme start="20261112030000 +0800" stop="20261112050000 +0800" channel="赛程预告">
     <title>英锦标赛：谢周三 vs 阿克宁顿；英锦标赛：巴恩斯利 vs 奥德汉姆；Dota2：TTS vs CHero（Asgard Championship S2）；Dota2：PTime vs YeS（1w Essence III Play-In）；Dota2：Frogs vs Nemiga（DreamLeague D2 S5）；Dota2：potn9k vs PR（DreamLeague D2 S5）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261110080000 +0800" stop="20261110104012 +0800" channel="黄蜂 vs 骑士">
+    <title>Cleveland Cavaliers at Charlotte Hornets（NBA）</title>
     <category>体育</category>
   </programme>
 </tv>
