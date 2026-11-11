@@ -5,6 +5,7 @@
   <channel id="ESPN"><display-name>ESPN</display-name></channel>
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
+  <channel id="活塞"><display-name>活塞</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <programme start="20261116020000 +0800" stop="20261116051948 +0800" channel="CBS">
     <title>Kansas City Chiefs at Atlanta Falcons（NFL）</title>
@@ -60,6 +61,10 @@
   </programme>
   <programme start="20261116092000 +0800" stop="20261116123948 +0800" channel="NBC">
     <title>Pittsburgh Steelers at Cincinnati Bengals（NFL）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261113080000 +0800" stop="20261113104012 +0800" channel="活塞">
+    <title>NBA：奇才 vs 活塞</title>
     <category>体育</category>
   </programme>
   <programme start="20261111083000 +0800" stop="20261111090000 +0800" channel="赛程预告">
@@ -182,8 +187,12 @@
     <title>非洲杯：科特迪瓦 vs 冈比亚；非洲杯：塞内加尔 vs 苏丹；非洲杯：喀麦隆 vs 纳米比亚；非洲杯：贝宁 vs 中非；Dota2：Xipto vs Nemiga（Asgard Championship S2）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261113034500 +0800" stop="20261113054500 +0800" channel="赛程预告">
+  <programme start="20261113034500 +0800" stop="20261113080000 +0800" channel="赛程预告">
     <title>足球：黑山 vs 拉脱维亚；足球：圣马力诺 vs 白俄罗斯；英格兰：英格兰 vs 克罗地亚；阿尔巴尼亚：阿尔巴尼亚 vs 芬兰；西班牙：捷克 vs 西班牙；法国：意大利 vs 法国</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261113080000 +0800" stop="20261113100000 +0800" channel="赛程预告">
+    <title>巴拿马：库拉索 vs 巴拿马；NBA：76人 vs 猛龙；NBA：奇才 vs 活塞</title>
     <category>体育</category>
   </programme>
 </tv>
