@@ -38,13 +38,7 @@ http://192.168.5.35:35456/jrs/76%E4%BA%BA%20vs%20%E5%87%AF%E5%B0%94%E7%89%B9%E4%
 #EXTINF:-1 tvg-id="76人 vs 凯尔特人" tvg-chno="1104" tvg-name="76人 vs 凯尔特人" tvg-group="篮球1080" group-title="篮球1080",76人 vs 凯尔特人·腾讯直播3·1080P
 http://192.168.5.35:35456/jrs/76%E4%BA%BA%20vs%20%E5%87%AF%E5%B0%94%E7%89%B9%E4%BA%BA%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
 #EXTINF:-1 tvg-id="76人 vs 凯尔特人" tvg-chno="1104" tvg-name="76人 vs 凯尔特人" tvg-group="篮球1080" group-title="篮球1080",76人 vs 凯尔特人·腾讯直播3·1080P
-http://192.168.5.35:44635/play/f66901527e3304eb798a6d375a5a66f6684d8bc9
-#EXTINF:-1 tvg-id="76人 vs 凯尔特人" tvg-chno="1104" tvg-name="76人 vs 凯尔特人" tvg-group="篮球1080" group-title="篮球1080",76人 vs 凯尔特人·腾讯直播3·1080P
-http://192.168.5.35:44635/play/ba74589a18383eef1d159b056c6bf3670c4801bb
-#EXTINF:-1 tvg-id="76人 vs 凯尔特人" tvg-chno="1104" tvg-name="76人 vs 凯尔特人" tvg-group="篮球1080" group-title="篮球1080",76人 vs 凯尔特人·腾讯直播3·1080P
-http://192.168.5.35:44635/play/565d84197b5f97fe1ea6589ec395593df84d0e3a
-#EXTINF:-1 tvg-id="76人 vs 凯尔特人" tvg-chno="1104" tvg-name="76人 vs 凯尔特人" tvg-group="篮球1080" group-title="篮球1080",76人 vs 凯尔特人·腾讯直播3·1080P
-http://192.168.5.35:44635/play/4fba48776391889de428fd6f627cbb36ed977a53
+http://192.168.5.35:44635/play/81ab5ec174824f8e44d0c4d9676d510107c854d9
 #EXTINF:-1 tvg-id="堪萨斯州立大学 vs 克雷顿大学" tvg-chno="1105" tvg-name="堪萨斯州立大学 vs 克雷顿大学" tvg-group="篮球" group-title="篮球",堪萨斯州立大学 vs 克雷顿大学·聚合源
 http://192.168.5.35:44635/play/b72918b2dcda134943056a960ae7e8f0b6eaa81f
 #EXTINF:-1 tvg-id="堪萨斯州立大学 vs 克雷顿大学" tvg-chno="1105" tvg-name="堪萨斯州立大学 vs 克雷顿大学" tvg-group="篮球" group-title="篮球",堪萨斯州立大学 vs 克雷顿大学·聚合源
@@ -117,14 +111,12 @@ http://192.168.5.35:44635/play/57804dffb2e22281e148b291600b292aaf6ab0f8
 http://192.168.5.35:44635/play/58de790d341d1138d7eda32da52a1a4951263ed8
 #EXTINF:-1 tvg-id="巴基斯坦U17 vs 伊朗U17" tvg-chno="1212" tvg-name="巴基斯坦U17 vs 伊朗U17" tvg-group="足球" group-title="足球",巴基斯坦U17 vs 伊朗U17·聚合源
 http://192.168.5.35:44635/play/b9f8b82c9e0605a825b5d9e5702d291acce50498
-#EXTINF:-1 tvg-id="杜兹塞 vs 高库克士邦" tvg-chno="1213" tvg-name="杜兹塞 vs 高库克士邦" tvg-group="足球" group-title="足球",杜兹塞 vs 高库克士邦·聚合源
+#EXTINF:-1 tvg-id="帕萨士邦 vs 布尔瓦尔体育" tvg-chno="1213" tvg-name="帕萨士邦 vs 布尔瓦尔体育" tvg-group="足球" group-title="足球",帕萨士邦 vs 布尔瓦尔体育·聚合源
+http://192.168.5.35:44635/play/5bf2f0b295f3e0e6ee502594b2a2b849cc149f7d
+#EXTINF:-1 tvg-id="杜兹塞 vs 高库克士邦" tvg-chno="1214" tvg-name="杜兹塞 vs 高库克士邦" tvg-group="足球" group-title="足球",杜兹塞 vs 高库克士邦·聚合源
 http://192.168.5.35:44635/play/a0c9fcf99ad52a6f11e77f051d6f5c2eccd0abfa
-#EXTINF:-1 tvg-id="柬埔寨U17 vs 阿富汗U17" tvg-chno="1214" tvg-name="柬埔寨U17 vs 阿富汗U17" tvg-group="足球" group-title="足球",柬埔寨U17 vs 阿富汗U17·聚合源
+#EXTINF:-1 tvg-id="柬埔寨U17 vs 阿富汗U17" tvg-chno="1215" tvg-name="柬埔寨U17 vs 阿富汗U17" tvg-group="足球" group-title="足球",柬埔寨U17 vs 阿富汗U17·聚合源
 http://192.168.5.35:44635/play/43a78123bc1a55e0862526d303229af9d8b5ff1f
-#EXTINF:-1 tvg-id="梅塔帕 vs 普拉滕斯" tvg-chno="1215" tvg-name="梅塔帕 vs 普拉滕斯" tvg-group="足球" group-title="足球",梅塔帕 vs 普拉滕斯·聚合源
-http://192.168.5.35:44635/play/ad734f37dc44ac458847082568d8f28e9e7db59b
-#EXTINF:-1 tvg-id="梅塔帕 vs 普拉滕斯" tvg-chno="1215" tvg-name="梅塔帕 vs 普拉滕斯" tvg-group="足球" group-title="足球",梅塔帕 vs 普拉滕斯·聚合源
-http://192.168.5.35:44635/play/7ae2eb21d67280b643da25f65997e87d7d07251c
 #EXTINF:-1 tvg-id="科达古 vs 星联队" tvg-chno="1216" tvg-name="科达古 vs 星联队" tvg-group="足球" group-title="足球",科达古 vs 星联队·聚合源
 http://192.168.5.35:44635/play/52b452abeaa056cc3d471795026d3fd9c69bd4a2
 #EXTINF:-1 tvg-id="罗勇U21 vs 泰港U21" tvg-chno="1217" tvg-name="罗勇U21 vs 泰港U21" tvg-group="足球" group-title="足球",罗勇U21 vs 泰港U21·聚合源
@@ -165,13 +157,11 @@ http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="F1·Formula" tvg-chno="1355" tvg-name="F1·Formula" tvg-group="体育综合" group-title="体育综合",F1·Formula
 https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
-#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1356" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
-https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1357" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1356" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1358" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1357" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1359" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1358" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="CH" tvg-chno="1401" tvg-name="CH" tvg-group="DOTA2" group-title="DOTA2",CH·聚合源
 http://192.168.5.35:44635/play/245b420eaaea4603affa08cac183140e0b9b1d88
