@@ -18,9 +18,13 @@ http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1101" tvg-name="NBA TV" tvg-group="篮球" group-title="篮球",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="保加利亚女篮 vs 克罗地亚女篮" tvg-chno="1102" tvg-name="保加利亚女篮 vs 克罗地亚女篮" tvg-group="篮球" group-title="篮球",保加利亚女篮 vs 克罗地亚女篮·聚合源
-http://192.168.5.35:44635/play/74d7413120f074ca279c63a6415dd6d668d8bbb0
+http://192.168.5.35:44635/play/dc5467aa10524b712ba6b3345663510e6ee6a97d
+#EXTINF:-1 tvg-id="保加利亚女篮 vs 克罗地亚女篮" tvg-chno="1102" tvg-name="保加利亚女篮 vs 克罗地亚女篮" tvg-group="篮球" group-title="篮球",保加利亚女篮 vs 克罗地亚女篮·聚合源
+http://192.168.5.35:44635/play/9b405fab465c42b7cef852cf5ee2a4fea069e952
 #EXTINF:-1 tvg-id="台州 vs 余姚" tvg-chno="1103" tvg-name="台州 vs 余姚" tvg-group="篮球" group-title="篮球",台州 vs 余姚·聚合源
-http://192.168.5.35:44635/play/bc6fc3227bbd48fd29af1db0ddf485b4664c5e0f
+http://192.168.5.35:44635/play/d6bcc6e408f1cda5436914eb159178d6059abaa2
+#EXTINF:-1 tvg-id="台州 vs 余姚" tvg-chno="1103" tvg-name="台州 vs 余姚" tvg-group="篮球" group-title="篮球",台州 vs 余姚·聚合源
+http://192.168.5.35:44635/play/8e6175f75d8b9590e039285b2c44376b58b6ee4c
 #EXTINF:-1 tvg-id="土耳其女篮 vs 黑山女篮" tvg-chno="1104" tvg-name="土耳其女篮 vs 黑山女篮" tvg-group="篮球" group-title="篮球",土耳其女篮 vs 黑山女篮·聚合源
 http://192.168.5.35:44635/play/57073d0a6fcde08805f45f44c2f56f387337ebe6
 #EXTINF:-1 tvg-id="巴统RSU vs 特里尔" tvg-chno="1105" tvg-name="巴统RSU vs 特里尔" tvg-group="篮球" group-title="篮球",巴统RSU vs 特里尔·聚合源
@@ -35,31 +39,25 @@ http://192.168.5.35:44635/play/a7a40d35a3a92c1e22904328f8bd01d3c1bba8db
 http://192.168.5.35:44635/play/2540ccf31709bac88abd453cdfe2eb58c64bcddc
 #EXTINF:-1 tvg-id="戈梅尔 vs 格罗德诺GrSU" tvg-chno="1108" tvg-name="戈梅尔 vs 格罗德诺GrSU" tvg-group="篮球" group-title="篮球",戈梅尔 vs 格罗德诺GrSU·聚合源
 http://192.168.5.35:44635/play/90862e6b345e74d50bfec9532c87165913fc99b8
-#EXTINF:-1 tvg-id="新韩银行大鸟女篮 vs 龙仁三星女篮" tvg-chno="1109" tvg-name="新韩银行大鸟女篮 vs 龙仁三星女篮" tvg-group="篮球" group-title="篮球",新韩银行大鸟女篮 vs 龙仁三星女篮·聚合源
-http://192.168.5.35:44635/play/a50218b47e467cc35f3896504c9cef8927ef73e8
-#EXTINF:-1 tvg-id="新韩银行大鸟女篮 vs 龙仁三星女篮" tvg-chno="1109" tvg-name="新韩银行大鸟女篮 vs 龙仁三星女篮" tvg-group="篮球" group-title="篮球",新韩银行大鸟女篮 vs 龙仁三星女篮·聚合源
-http://192.168.5.35:44635/play/a1459606e11bac83e763b34795ea7ed84922a582
-#EXTINF:-1 tvg-id="明斯克 vs 努伯" tvg-chno="1110" tvg-name="明斯克 vs 努伯" tvg-group="篮球" group-title="篮球",明斯克 vs 努伯·聚合源
+#EXTINF:-1 tvg-id="明斯克 vs 努伯" tvg-chno="1109" tvg-name="明斯克 vs 努伯" tvg-group="篮球" group-title="篮球",明斯克 vs 努伯·聚合源
 http://192.168.5.35:44635/play/8d3628332b0b05cadeded70206c5ebae76a4c5b9
-#EXTINF:-1 tvg-id="杭州 vs 安吉" tvg-chno="1111" tvg-name="杭州 vs 安吉" tvg-group="篮球" group-title="篮球",杭州 vs 安吉·聚合源
-http://192.168.5.35:44635/play/0e2a4c83af9acf5d40c507fb253d38ba4e1eb3da
-#EXTINF:-1 tvg-id="比南拉古纳 vs 奎松胡斯克尔" tvg-chno="1112" tvg-name="比南拉古纳 vs 奎松胡斯克尔" tvg-group="篮球" group-title="篮球",比南拉古纳 vs 奎松胡斯克尔·聚合源
-http://192.168.5.35:44635/play/ae3dfab837f92dc7063f0bb4961da7ffcd2f2dda
-#EXTINF:-1 tvg-id="比南拉古纳 vs 奎松胡斯克尔" tvg-chno="1112" tvg-name="比南拉古纳 vs 奎松胡斯克尔" tvg-group="篮球" group-title="篮球",比南拉古纳 vs 奎松胡斯克尔·聚合源
-http://192.168.5.35:44635/play/7b73f602b36721d4b849fe42ac121082b2e11650
-#EXTINF:-1 tvg-id="波黑女篮 vs 塞浦路斯女篮" tvg-chno="1113" tvg-name="波黑女篮 vs 塞浦路斯女篮" tvg-group="篮球" group-title="篮球",波黑女篮 vs 塞浦路斯女篮·聚合源
+#EXTINF:-1 tvg-id="杭州 vs 安吉" tvg-chno="1110" tvg-name="杭州 vs 安吉" tvg-group="篮球" group-title="篮球",杭州 vs 安吉·聚合源
+http://192.168.5.35:44635/play/c7ecf10eb8108aa45769cead42d8ce7a36afb922
+#EXTINF:-1 tvg-id="杭州 vs 安吉" tvg-chno="1110" tvg-name="杭州 vs 安吉" tvg-group="篮球" group-title="篮球",杭州 vs 安吉·聚合源
+http://192.168.5.35:44635/play/9cae353f3f6380e58dffab92a2088b4490939971
+#EXTINF:-1 tvg-id="波黑女篮 vs 塞浦路斯女篮" tvg-chno="1111" tvg-name="波黑女篮 vs 塞浦路斯女篮" tvg-group="篮球" group-title="篮球",波黑女篮 vs 塞浦路斯女篮·聚合源
 http://192.168.5.35:44635/play/75364548c2ab4624289686c64b97323e1c28b7f7
-#EXTINF:-1 tvg-id="申丘尔KK vs 伊利里亚" tvg-chno="1114" tvg-name="申丘尔KK vs 伊利里亚" tvg-group="篮球" group-title="篮球",申丘尔KK vs 伊利里亚·聚合源
+#EXTINF:-1 tvg-id="申丘尔KK vs 伊利里亚" tvg-chno="1112" tvg-name="申丘尔KK vs 伊利里亚" tvg-group="篮球" group-title="篮球",申丘尔KK vs 伊利里亚·聚合源
 http://192.168.5.35:44635/play/afdb199da380310bedcaf3b763ecec48a861700d
-#EXTINF:-1 tvg-id="纳迪姆苏伊德学院 vs 贝鲁特体育" tvg-chno="1115" tvg-name="纳迪姆苏伊德学院 vs 贝鲁特体育" tvg-group="篮球" group-title="篮球",纳迪姆苏伊德学院 vs 贝鲁特体育·聚合源
+#EXTINF:-1 tvg-id="纳迪姆苏伊德学院 vs 贝鲁特体育" tvg-chno="1113" tvg-name="纳迪姆苏伊德学院 vs 贝鲁特体育" tvg-group="篮球" group-title="篮球",纳迪姆苏伊德学院 vs 贝鲁特体育·聚合源
 http://192.168.5.35:44635/play/4e7b8fdf06db546ab4b1bb9576a9d5ea1dc51845
-#EXTINF:-1 tvg-id="罗马尼亚女篮 vs 北马其顿女篮" tvg-chno="1116" tvg-name="罗马尼亚女篮 vs 北马其顿女篮" tvg-group="篮球" group-title="篮球",罗马尼亚女篮 vs 北马其顿女篮·聚合源
+#EXTINF:-1 tvg-id="罗马尼亚女篮 vs 北马其顿女篮" tvg-chno="1114" tvg-name="罗马尼亚女篮 vs 北马其顿女篮" tvg-group="篮球" group-title="篮球",罗马尼亚女篮 vs 北马其顿女篮·聚合源
 http://192.168.5.35:44635/play/8cbff27aa0fa85960cd798da1a440ac348c08758
-#EXTINF:-1 tvg-id="莫斯科中央陆军 vs 海参崴迪纳摩" tvg-chno="1117" tvg-name="莫斯科中央陆军 vs 海参崴迪纳摩" tvg-group="篮球" group-title="篮球",莫斯科中央陆军 vs 海参崴迪纳摩·聚合源
+#EXTINF:-1 tvg-id="莫斯科中央陆军 vs 海参崴迪纳摩" tvg-chno="1115" tvg-name="莫斯科中央陆军 vs 海参崴迪纳摩" tvg-group="篮球" group-title="篮球",莫斯科中央陆军 vs 海参崴迪纳摩·聚合源
 http://192.168.5.35:44635/play/86d00eb9928e27cbeb8f3abc8f065a86ebde28c9
-#EXTINF:-1 tvg-id="阿斯塔纳 vs 阿特劳飞豹B队" tvg-chno="1118" tvg-name="阿斯塔纳 vs 阿特劳飞豹B队" tvg-group="篮球" group-title="篮球",阿斯塔纳 vs 阿特劳飞豹B队·聚合源
+#EXTINF:-1 tvg-id="阿斯塔纳 vs 阿特劳飞豹B队" tvg-chno="1116" tvg-name="阿斯塔纳 vs 阿特劳飞豹B队" tvg-group="篮球" group-title="篮球",阿斯塔纳 vs 阿特劳飞豹B队·聚合源
 http://192.168.5.35:44635/play/22965ac3d77086654f65e08c43a9ed3d33cea2c5
-#EXTINF:-1 tvg-id="非洲人 vs 科洛特里" tvg-chno="1119" tvg-name="非洲人 vs 科洛特里" tvg-group="篮球" group-title="篮球",非洲人 vs 科洛特里·聚合源
+#EXTINF:-1 tvg-id="非洲人 vs 科洛特里" tvg-chno="1117" tvg-name="非洲人 vs 科洛特里" tvg-group="篮球" group-title="篮球",非洲人 vs 科洛特里·聚合源
 http://192.168.5.35:44635/play/ebc6ec1259420c6ce2a85ef9d5008cf95f4e0c7f
 #EXTINF:-1 tvg-id="中国U19 vs 越南U19" tvg-chno="1201" tvg-name="中国U19 vs 越南U19" tvg-group="足球1080" group-title="足球1080",中国U19 vs 越南U19·1080P原声
 http://192.168.5.35:35456/jrs/%E4%B8%AD%E5%9B%BDU19%20vs%20%E8%B6%8A%E5%8D%97U19%C2%B71080P%E5%8E%9F%E5%A3%B0
@@ -70,7 +68,9 @@ http://192.168.5.35:44635/play/7562d20b30d62a7a9790cac8addd869dc72fc701
 #EXTINF:-1 tvg-id="中国U19 vs 越南U19" tvg-chno="1201" tvg-name="中国U19 vs 越南U19" tvg-group="足球1080" group-title="足球1080",中国U19 vs 越南U19·1080P原声
 http://192.168.5.35:44635/play/2dae37dadf0f978fdc3f87dce8849825b7a49667
 #EXTINF:-1 tvg-id="奥尔沙 vs 鲍里索夫巴特" tvg-chno="1202" tvg-name="奥尔沙 vs 鲍里索夫巴特" tvg-group="足球" group-title="足球",奥尔沙 vs 鲍里索夫巴特·聚合源
-http://192.168.5.35:44635/play/74eaa69e4b3ec3375a6116b080b38dcc45120a05
+http://192.168.5.35:44635/play/e06e3b69b6ad43117001aead11974d369b7f4961
+#EXTINF:-1 tvg-id="奥尔沙 vs 鲍里索夫巴特" tvg-chno="1202" tvg-name="奥尔沙 vs 鲍里索夫巴特" tvg-group="足球" group-title="足球",奥尔沙 vs 鲍里索夫巴特·聚合源
+http://192.168.5.35:44635/play/0ca5d24200dda950a903185e16190a90dcd3333c
 #EXTINF:-1 tvg-id="拉巴特皇家武装女足 vs 莱基女足" tvg-chno="1203" tvg-name="拉巴特皇家武装女足 vs 莱基女足" tvg-group="足球" group-title="足球",拉巴特皇家武装女足 vs 莱基女足·聚合源
 http://192.168.5.35:44635/play/78370df67fb419eeaaad231bce19c7180f2be221
 #EXTINF:-1 tvg-id="拉巴特皇家武装女足 vs 莱基女足" tvg-chno="1203" tvg-name="拉巴特皇家武装女足 vs 莱基女足" tvg-group="足球" group-title="足球",拉巴特皇家武装女足 vs 莱基女足·聚合源
@@ -81,13 +81,15 @@ http://192.168.5.35:35456/jrs/%E8%B6%8A%E5%8D%97%20vs%20%E4%B8%AD%E5%9B%BD%E5%8F
 http://192.168.5.35:44635/play/8df6ecc74875aca46eb3ab2979f20c07bb2eb659
 #EXTINF:-1 tvg-id="越南 vs 中国台北" tvg-chno="1204" tvg-name="越南 vs 中国台北" tvg-group="足球1080" group-title="足球1080",越南 vs 中国台北·1080P原声
 http://192.168.5.35:44635/play/a164cf5a31c6583c1df10a2810887203d91fd6a8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1301" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1301" tvg-name="Tennis Channel" tvg-group="综合体育" group-title="综合体育",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1302" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1302" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1303" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1303" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1304" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1304" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1305" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
@@ -97,7 +99,9 @@ https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1354" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1355" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1355" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1356" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="CH" tvg-chno="1401" tvg-name="CH" tvg-group="DOTA2" group-title="DOTA2",CH·聚合源
 http://192.168.5.35:44635/play/245b420eaaea4603affa08cac183140e0b9b1d88
