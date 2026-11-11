@@ -2,12 +2,10 @@
 <tv generator-info-name="wb-epg">
   <channel id="CBS"><display-name>CBS</display-name></channel>
   <channel id="ESPN"><display-name>ESPN</display-name></channel>
-  <channel id="Frogl vs CH"><display-name>Frogl vs CH</display-name></channel>
-  <channel id="InterActive vs Amaru Gaming"><display-name>InterActive vs Amaru Gaming</display-name></channel>
+  <channel id="Frogl vs Nemiga"><display-name>Frogl vs Nemiga</display-name></channel>
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="Xipto vs Frogl"><display-name>Xipto vs Frogl</display-name></channel>
-  <channel id="Xipto vs Team Legion"><display-name>Xipto vs Team Legion</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <programme start="20261116020000 +0800" stop="20261116051948 +0800" channel="CBS">
@@ -42,12 +40,8 @@
     <title>Los Angeles Chargers at Baltimore Ravens（NFL）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261113180000 +0800" stop="20261113203000 +0800" channel="Frogl vs CH">
-    <title>GL vs CHero（1w Essence III - Group B）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261112001449 +0800" stop="20261112013041 +0800" channel="InterActive vs Amaru Gaming">
-    <title>Amaru Gaming vs InterActive Philippines（DreamLeague Division 2 Series 5）</title>
+  <programme start="20261112045942 +0800" stop="20261112054712 +0800" channel="Frogl vs Nemiga">
+    <title>Froglings vs Nemiga Gaming（DreamLeague Division 2 Series 5）</title>
     <category>体育</category>
   </programme>
   <programme start="20261113090000 +0800" stop="20261113114012 +0800" channel="NBA TV">
@@ -64,10 +58,6 @@
   </programme>
   <programme start="20261112024223 +0800" stop="20261112031724 +0800" channel="Xipto vs Frogl">
     <title>Xipto vs Froglings（DreamLeague Division 2 Series 5）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261111194958 +0800" stop="20261111202748 +0800" channel="Xipto vs Team Legion">
-    <title>LEGION vs Xipto（1win Essence III）</title>
     <category>体育</category>
   </programme>
   <programme start="20261113080000 +0800" stop="20261113104012 +0800" channel="活塞">
