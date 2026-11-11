@@ -139,11 +139,9 @@ http://192.168.5.35:44635/play/917711b85cb70eded189e739199bd470df2f17b9
 http://192.168.5.35:44635/play/073902030a8296f4cc249c14df93f3158effe09f
 #EXTINF:-1 tvg-id="浙江俱乐部U20 vs 上海申花U20" tvg-chno="1210" tvg-name="浙江俱乐部U20 vs 上海申花U20" tvg-group="足球" group-title="足球",浙江俱乐部U20 vs 上海申花U20·聚合源
 http://192.168.5.35:44635/play/249a021b6ab53b0e33cc73b545f2ebdcee3a6dbd
-#EXTINF:-1 tvg-id="浦和红钻 vs 大阪樱花" tvg-chno="1211" tvg-name="浦和红钻 vs 大阪樱花" tvg-group="足球1080" group-title="足球1080",浦和红钻 vs 大阪樱花·1080P原声
-http://192.168.5.35:35456/jrs/%E6%B5%A6%E5%92%8C%E7%BA%A2%E9%92%BB%20vs%20%E5%A4%A7%E9%98%AA%E6%A8%B1%E8%8A%B1%C2%B71080P%E5%8E%9F%E5%A3%B0
-#EXTINF:-1 tvg-id="浦和红钻 vs 大阪樱花" tvg-chno="1211" tvg-name="浦和红钻 vs 大阪樱花" tvg-group="足球1080" group-title="足球1080",浦和红钻 vs 大阪樱花·1080P原声
+#EXTINF:-1 tvg-id="浦和红钻 vs 大阪樱花" tvg-chno="1211" tvg-name="浦和红钻 vs 大阪樱花" tvg-group="足球" group-title="足球",浦和红钻 vs 大阪樱花·聚合源
 http://192.168.5.35:44635/play/3b3d6e558945bc35b1856355560083fdfb84c04b
-#EXTINF:-1 tvg-id="浦和红钻 vs 大阪樱花" tvg-chno="1211" tvg-name="浦和红钻 vs 大阪樱花" tvg-group="足球1080" group-title="足球1080",浦和红钻 vs 大阪樱花·1080P原声
+#EXTINF:-1 tvg-id="浦和红钻 vs 大阪樱花" tvg-chno="1211" tvg-name="浦和红钻 vs 大阪樱花" tvg-group="足球" group-title="足球",浦和红钻 vs 大阪樱花·聚合源
 http://192.168.5.35:44635/play/f1a95ef1dd401738bb8ee9eac7c800d5c282a6d8
 #EXTINF:-1 tvg-id="神户胜利船 vs 町田泽维亚" tvg-chno="1212" tvg-name="神户胜利船 vs 町田泽维亚" tvg-group="足球" group-title="足球",神户胜利船 vs 町田泽维亚·聚合源
 http://192.168.5.35:44635/play/9ca3cdaff11b07a95955a3b8abc94ff41948e9ee
@@ -155,13 +153,21 @@ http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1303" tvg-name="ESPN" tvg-group="综合体育" group-title="综合体育",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1304" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1304" tvg-name="Tennis Channel" tvg-group="综合体育" group-title="综合体育",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1305" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1305" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1306" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="中国U19 vs 越南U19" tvg-chno="1307" tvg-name="中国U19 vs 越南U19" tvg-group="综合体育1080" group-title="综合体育1080",中国U19 vs 越南U19·1080P原声
+http://192.168.5.35:35456/jrs/%E4%B8%AD%E5%9B%BDU19%20vs%20%E8%B6%8A%E5%8D%97U19%C2%B71080P%E5%8E%9F%E5%A3%B0
+#EXTINF:-1 tvg-id="中国U19 vs 越南U19" tvg-chno="1308" tvg-name="中国U19 vs 越南U19" tvg-group="综合体育" group-title="综合体育",中国U19 vs 越南U19·咪咕直播·720P
+http://192.168.5.35:35456/jrs/%E4%B8%AD%E5%9B%BDU19%20vs%20%E8%B6%8A%E5%8D%97U19%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
+#EXTINF:-1 tvg-id="越南 vs 中国台北" tvg-chno="1309" tvg-name="越南 vs 中国台北" tvg-group="综合体育1080" group-title="综合体育1080",越南 vs 中国台北·1080P原声
+http://192.168.5.35:35456/jrs/%E8%B6%8A%E5%8D%97%20vs%20%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%C2%B71080P%E5%8E%9F%E5%A3%B0
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1310" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1307" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1311" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
