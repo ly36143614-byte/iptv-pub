@@ -21,91 +21,95 @@ http://23.237.104.106:8080/USA_NBA/index.m3u8
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="76人 vs 凯尔特人" tvg-chno="1103" tvg-name="76人 vs 凯尔特人" tvg-group="篮球1080" group-title="篮球1080",76人 vs 凯尔特人·纬来1080
 http://192.168.5.35:35456/jrs/76%E4%BA%BA%20vs%20%E5%87%AF%E5%B0%94%E7%89%B9%E4%BA%BA%C2%B7%E7%BA%AC%E6%9D%A51080
-#EXTINF:-1 tvg-id="76人 vs 凯尔特人" tvg-chno="1103" tvg-name="76人 vs 凯尔特人" tvg-group="篮球1080" group-title="篮球1080",76人 vs 凯尔特人·纬来1080
-http://192.168.5.35:44635/play/81ab5ec174824f8e44d0c4d9676d510107c854d9
 #EXTINF:-1 tvg-id="UST咆哮虎 vs 东方大学红勇士" tvg-chno="1104" tvg-name="UST咆哮虎 vs 东方大学红勇士" tvg-group="篮球" group-title="篮球",UST咆哮虎 vs 东方大学红勇士·聚合源
 http://192.168.5.35:44635/play/f194ae55f804f6088ea308f9657119d5f26f98d2
-#EXTINF:-1 tvg-id="南加州大学女篮 vs 查尔斯顿女篮" tvg-chno="1105" tvg-name="南加州大学女篮 vs 查尔斯顿女篮" tvg-group="篮球" group-title="篮球",南加州大学女篮 vs 查尔斯顿女篮·聚合源
+#EXTINF:-1 tvg-id="东南墨尔本凤凰 vs 伊拉瓦拉老鹰" tvg-chno="1105" tvg-name="东南墨尔本凤凰 vs 伊拉瓦拉老鹰" tvg-group="篮球" group-title="篮球",东南墨尔本凤凰 vs 伊拉瓦拉老鹰·聚合源
+http://192.168.5.35:44635/play/73f2c4617d9eea0d2b3af639c8b03c3827bd9497
+#EXTINF:-1 tvg-id="东南墨尔本凤凰 vs 伊拉瓦拉老鹰" tvg-chno="1105" tvg-name="东南墨尔本凤凰 vs 伊拉瓦拉老鹰" tvg-group="篮球" group-title="篮球",东南墨尔本凤凰 vs 伊拉瓦拉老鹰·聚合源
+http://192.168.5.35:44635/play/ea722a94c8ac4d60d6787f40f7d63ed3584c54c1
+#EXTINF:-1 tvg-id="南加州大学女篮 vs 查尔斯顿女篮" tvg-chno="1106" tvg-name="南加州大学女篮 vs 查尔斯顿女篮" tvg-group="篮球" group-title="篮球",南加州大学女篮 vs 查尔斯顿女篮·聚合源
 http://192.168.5.35:44635/play/dadfbe8e0952c2be683850623ea31d34d0b9c30c
-#EXTINF:-1 tvg-id="南加州大学女篮 vs 查尔斯顿女篮" tvg-chno="1105" tvg-name="南加州大学女篮 vs 查尔斯顿女篮" tvg-group="篮球" group-title="篮球",南加州大学女篮 vs 查尔斯顿女篮·聚合源
+#EXTINF:-1 tvg-id="南加州大学女篮 vs 查尔斯顿女篮" tvg-chno="1106" tvg-name="南加州大学女篮 vs 查尔斯顿女篮" tvg-group="篮球" group-title="篮球",南加州大学女篮 vs 查尔斯顿女篮·聚合源
 http://192.168.5.35:44635/play/e1ce98c86279281daf06eed127d7941c4e466726
-#EXTINF:-1 tvg-id="国王 vs 魔术" tvg-chno="1106" tvg-name="国王 vs 魔术" tvg-group="篮球1080" group-title="篮球1080",国王 vs 魔术·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="国王 vs 魔术" tvg-chno="1107" tvg-name="国王 vs 魔术" tvg-group="篮球1080" group-title="篮球1080",国王 vs 魔术·腾讯直播3·1080P
 http://192.168.5.35:35456/jrs/%E5%9B%BD%E7%8E%8B%20vs%20%E9%AD%94%E6%9C%AF%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD3%C2%B71080P
-#EXTINF:-1 tvg-id="国王 vs 魔术" tvg-chno="1106" tvg-name="国王 vs 魔术" tvg-group="篮球1080" group-title="篮球1080",国王 vs 魔术·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="国王 vs 魔术" tvg-chno="1107" tvg-name="国王 vs 魔术" tvg-group="篮球1080" group-title="篮球1080",国王 vs 魔术·腾讯直播3·1080P
 http://192.168.5.35:35456/jrs/%E5%9B%BD%E7%8E%8B%20vs%20%E9%AD%94%E6%9C%AF%C2%B71080P%E5%8E%9F%E5%A3%B0
-#EXTINF:-1 tvg-id="国王 vs 魔术" tvg-chno="1106" tvg-name="国王 vs 魔术" tvg-group="篮球1080" group-title="篮球1080",国王 vs 魔术·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="国王 vs 魔术" tvg-chno="1107" tvg-name="国王 vs 魔术" tvg-group="篮球1080" group-title="篮球1080",国王 vs 魔术·腾讯直播3·1080P
 http://192.168.5.35:35456/jrs/%E5%9B%BD%E7%8E%8B%20vs%20%E9%AD%94%E6%9C%AF%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD1%C2%B7720P
-#EXTINF:-1 tvg-id="国王 vs 魔术" tvg-chno="1106" tvg-name="国王 vs 魔术" tvg-group="篮球1080" group-title="篮球1080",国王 vs 魔术·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="国王 vs 魔术" tvg-chno="1107" tvg-name="国王 vs 魔术" tvg-group="篮球1080" group-title="篮球1080",国王 vs 魔术·腾讯直播3·1080P
 http://192.168.5.35:35456/jrs/%E5%9B%BD%E7%8E%8B%20vs%20%E9%AD%94%E6%9C%AF%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
-#EXTINF:-1 tvg-id="国王 vs 魔术" tvg-chno="1106" tvg-name="国王 vs 魔术" tvg-group="篮球1080" group-title="篮球1080",国王 vs 魔术·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="国王 vs 魔术" tvg-chno="1107" tvg-name="国王 vs 魔术" tvg-group="篮球1080" group-title="篮球1080",国王 vs 魔术·腾讯直播3·1080P
 http://192.168.5.35:44635/play/425aa741042b946dccea54b4b92ca724209e3637
-#EXTINF:-1 tvg-id="国王 vs 魔术" tvg-chno="1106" tvg-name="国王 vs 魔术" tvg-group="篮球1080" group-title="篮球1080",国王 vs 魔术·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="国王 vs 魔术" tvg-chno="1107" tvg-name="国王 vs 魔术" tvg-group="篮球1080" group-title="篮球1080",国王 vs 魔术·腾讯直播3·1080P
 http://192.168.5.35:44635/play/197908f4254c287486c08c693ddb6d80720aeec0
-#EXTINF:-1 tvg-id="国王 vs 魔术" tvg-chno="1106" tvg-name="国王 vs 魔术" tvg-group="篮球1080" group-title="篮球1080",国王 vs 魔术·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="国王 vs 魔术" tvg-chno="1107" tvg-name="国王 vs 魔术" tvg-group="篮球1080" group-title="篮球1080",国王 vs 魔术·腾讯直播3·1080P
 http://192.168.5.35:44635/play/cfba0f0e966514eaef1a73b5fddad80ce0736009
-#EXTINF:-1 tvg-id="国王 vs 魔术" tvg-chno="1106" tvg-name="国王 vs 魔术" tvg-group="篮球1080" group-title="篮球1080",国王 vs 魔术·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="国王 vs 魔术" tvg-chno="1107" tvg-name="国王 vs 魔术" tvg-group="篮球1080" group-title="篮球1080",国王 vs 魔术·腾讯直播3·1080P
 http://192.168.5.35:44635/play/cd3dc451e4dd9403dfd2eb652153169b7ae3677a
-#EXTINF:-1 tvg-id="堪萨斯大学 vs 肯塔基大学" tvg-chno="1107" tvg-name="堪萨斯大学 vs 肯塔基大学" tvg-group="篮球" group-title="篮球",堪萨斯大学 vs 肯塔基大学·聚合源
+#EXTINF:-1 tvg-id="堪萨斯大学 vs 肯塔基大学" tvg-chno="1108" tvg-name="堪萨斯大学 vs 肯塔基大学" tvg-group="篮球" group-title="篮球",堪萨斯大学 vs 肯塔基大学·聚合源
 http://192.168.5.35:44635/play/d70d5bcedc1386303f12fda1e5c5393655f827c3
-#EXTINF:-1 tvg-id="堪萨斯大学 vs 肯塔基大学" tvg-chno="1107" tvg-name="堪萨斯大学 vs 肯塔基大学" tvg-group="篮球" group-title="篮球",堪萨斯大学 vs 肯塔基大学·聚合源
+#EXTINF:-1 tvg-id="堪萨斯大学 vs 肯塔基大学" tvg-chno="1108" tvg-name="堪萨斯大学 vs 肯塔基大学" tvg-group="篮球" group-title="篮球",堪萨斯大学 vs 肯塔基大学·聚合源
 http://192.168.5.35:44635/play/ce101f28b9e1235a86f76880288e20b8be92085d
-#EXTINF:-1 tvg-id="堪萨斯州立大学 vs 克雷顿大学" tvg-chno="1108" tvg-name="堪萨斯州立大学 vs 克雷顿大学" tvg-group="篮球" group-title="篮球",堪萨斯州立大学 vs 克雷顿大学·聚合源
+#EXTINF:-1 tvg-id="堪萨斯州立大学 vs 克雷顿大学" tvg-chno="1109" tvg-name="堪萨斯州立大学 vs 克雷顿大学" tvg-group="篮球" group-title="篮球",堪萨斯州立大学 vs 克雷顿大学·聚合源
 http://192.168.5.35:44635/play/b72918b2dcda134943056a960ae7e8f0b6eaa81f
-#EXTINF:-1 tvg-id="堪萨斯州立大学 vs 克雷顿大学" tvg-chno="1108" tvg-name="堪萨斯州立大学 vs 克雷顿大学" tvg-group="篮球" group-title="篮球",堪萨斯州立大学 vs 克雷顿大学·聚合源
+#EXTINF:-1 tvg-id="堪萨斯州立大学 vs 克雷顿大学" tvg-chno="1109" tvg-name="堪萨斯州立大学 vs 克雷顿大学" tvg-group="篮球" group-title="篮球",堪萨斯州立大学 vs 克雷顿大学·聚合源
 http://192.168.5.35:44635/play/75ee21764b041f16fd9e95cf1ec058a50fcaecee
-#EXTINF:-1 tvg-id="太阳 vs 快船" tvg-chno="1109" tvg-name="太阳 vs 快船" tvg-group="篮球1080" group-title="篮球1080",太阳 vs 快船·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="太阳 vs 快船" tvg-chno="1110" tvg-name="太阳 vs 快船" tvg-group="篮球1080" group-title="篮球1080",太阳 vs 快船·腾讯直播3·1080P
 http://192.168.5.35:35456/jrs/%E5%A4%AA%E9%98%B3%20vs%20%E5%BF%AB%E8%88%B9%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD3%C2%B71080P
-#EXTINF:-1 tvg-id="太阳 vs 快船" tvg-chno="1109" tvg-name="太阳 vs 快船" tvg-group="篮球1080" group-title="篮球1080",太阳 vs 快船·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="太阳 vs 快船" tvg-chno="1110" tvg-name="太阳 vs 快船" tvg-group="篮球1080" group-title="篮球1080",太阳 vs 快船·腾讯直播3·1080P
 http://192.168.5.35:35456/jrs/%E5%A4%AA%E9%98%B3%20vs%20%E5%BF%AB%E8%88%B9%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD1%C2%B7720P
-#EXTINF:-1 tvg-id="太阳 vs 快船" tvg-chno="1109" tvg-name="太阳 vs 快船" tvg-group="篮球1080" group-title="篮球1080",太阳 vs 快船·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="太阳 vs 快船" tvg-chno="1110" tvg-name="太阳 vs 快船" tvg-group="篮球1080" group-title="篮球1080",太阳 vs 快船·腾讯直播3·1080P
 http://192.168.5.35:35456/jrs/%E5%A4%AA%E9%98%B3%20vs%20%E5%BF%AB%E8%88%B9%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
-#EXTINF:-1 tvg-id="太阳 vs 快船" tvg-chno="1109" tvg-name="太阳 vs 快船" tvg-group="篮球1080" group-title="篮球1080",太阳 vs 快船·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="太阳 vs 快船" tvg-chno="1110" tvg-name="太阳 vs 快船" tvg-group="篮球1080" group-title="篮球1080",太阳 vs 快船·腾讯直播3·1080P
 http://192.168.5.35:44635/play/27c73a2351694c396b6912e8e840b132ed976f60
-#EXTINF:-1 tvg-id="太阳 vs 快船" tvg-chno="1109" tvg-name="太阳 vs 快船" tvg-group="篮球1080" group-title="篮球1080",太阳 vs 快船·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="太阳 vs 快船" tvg-chno="1110" tvg-name="太阳 vs 快船" tvg-group="篮球1080" group-title="篮球1080",太阳 vs 快船·腾讯直播3·1080P
 http://192.168.5.35:44635/play/12e77a8b93f99f2d0b8d583b0ebf15c14d208657
-#EXTINF:-1 tvg-id="太阳 vs 快船" tvg-chno="1109" tvg-name="太阳 vs 快船" tvg-group="篮球1080" group-title="篮球1080",太阳 vs 快船·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="太阳 vs 快船" tvg-chno="1110" tvg-name="太阳 vs 快船" tvg-group="篮球1080" group-title="篮球1080",太阳 vs 快船·腾讯直播3·1080P
 http://192.168.5.35:44635/play/309072e3a0780f766ecef56573de160e2a11627d
-#EXTINF:-1 tvg-id="太阳 vs 快船" tvg-chno="1109" tvg-name="太阳 vs 快船" tvg-group="篮球1080" group-title="篮球1080",太阳 vs 快船·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="太阳 vs 快船" tvg-chno="1110" tvg-name="太阳 vs 快船" tvg-group="篮球1080" group-title="篮球1080",太阳 vs 快船·腾讯直播3·1080P
 http://192.168.5.35:44635/play/34318a3716e5155f31a95fc3dcc6e058b6288efb
-#EXTINF:-1 tvg-id="广州龙狮B队 vs 万塔黑龙" tvg-chno="1110" tvg-name="广州龙狮B队 vs 万塔黑龙" tvg-group="篮球" group-title="篮球",广州龙狮B队 vs 万塔黑龙·聚合源
+#EXTINF:-1 tvg-id="广州龙狮B队 vs 万塔黑龙" tvg-chno="1111" tvg-name="广州龙狮B队 vs 万塔黑龙" tvg-group="篮球" group-title="篮球",广州龙狮B队 vs 万塔黑龙·聚合源
 http://192.168.5.35:44635/play/8b47132f13dd071279370cb5e6bf7c5fdfa59d7c
-#EXTINF:-1 tvg-id="开拓者 vs 雷霆" tvg-chno="1111" tvg-name="开拓者 vs 雷霆" tvg-group="篮球1080" group-title="篮球1080",开拓者 vs 雷霆·纬来1080
+#EXTINF:-1 tvg-id="开拓者 vs 雷霆" tvg-chno="1112" tvg-name="开拓者 vs 雷霆" tvg-group="篮球1080" group-title="篮球1080",开拓者 vs 雷霆·纬来1080
 http://192.168.5.35:35456/jrs/%E5%BC%80%E6%8B%93%E8%80%85%20vs%20%E9%9B%B7%E9%9C%86%C2%B7%E7%BA%AC%E6%9D%A51080
-#EXTINF:-1 tvg-id="开拓者 vs 雷霆" tvg-chno="1111" tvg-name="开拓者 vs 雷霆" tvg-group="篮球1080" group-title="篮球1080",开拓者 vs 雷霆·纬来1080
+#EXTINF:-1 tvg-id="开拓者 vs 雷霆" tvg-chno="1112" tvg-name="开拓者 vs 雷霆" tvg-group="篮球1080" group-title="篮球1080",开拓者 vs 雷霆·纬来1080
 http://192.168.5.35:35456/jrs/%E5%BC%80%E6%8B%93%E8%80%85%20vs%20%E9%9B%B7%E9%9C%86%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD1%C2%B7720P
-#EXTINF:-1 tvg-id="开拓者 vs 雷霆" tvg-chno="1111" tvg-name="开拓者 vs 雷霆" tvg-group="篮球1080" group-title="篮球1080",开拓者 vs 雷霆·纬来1080
+#EXTINF:-1 tvg-id="开拓者 vs 雷霆" tvg-chno="1112" tvg-name="开拓者 vs 雷霆" tvg-group="篮球1080" group-title="篮球1080",开拓者 vs 雷霆·纬来1080
 http://192.168.5.35:35456/jrs/%E5%BC%80%E6%8B%93%E8%80%85%20vs%20%E9%9B%B7%E9%9C%86%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
-#EXTINF:-1 tvg-id="开拓者 vs 雷霆" tvg-chno="1111" tvg-name="开拓者 vs 雷霆" tvg-group="篮球1080" group-title="篮球1080",开拓者 vs 雷霆·纬来1080
+#EXTINF:-1 tvg-id="开拓者 vs 雷霆" tvg-chno="1112" tvg-name="开拓者 vs 雷霆" tvg-group="篮球1080" group-title="篮球1080",开拓者 vs 雷霆·纬来1080
 http://192.168.5.35:44635/play/50fd865632ea787116bb1beb53dadbb6a90ccecd
-#EXTINF:-1 tvg-id="开拓者 vs 雷霆" tvg-chno="1111" tvg-name="开拓者 vs 雷霆" tvg-group="篮球1080" group-title="篮球1080",开拓者 vs 雷霆·纬来1080
+#EXTINF:-1 tvg-id="开拓者 vs 雷霆" tvg-chno="1112" tvg-name="开拓者 vs 雷霆" tvg-group="篮球1080" group-title="篮球1080",开拓者 vs 雷霆·纬来1080
 http://192.168.5.35:44635/play/2017af58b036185dcbe50bf490afacf93d1898f6
-#EXTINF:-1 tvg-id="开拓者 vs 雷霆" tvg-chno="1111" tvg-name="开拓者 vs 雷霆" tvg-group="篮球1080" group-title="篮球1080",开拓者 vs 雷霆·纬来1080
+#EXTINF:-1 tvg-id="开拓者 vs 雷霆" tvg-chno="1112" tvg-name="开拓者 vs 雷霆" tvg-group="篮球1080" group-title="篮球1080",开拓者 vs 雷霆·纬来1080
 http://192.168.5.35:44635/play/b4fda421f813c89ad5a72bc12d1707ecf9d30768
-#EXTINF:-1 tvg-id="开拓者 vs 雷霆" tvg-chno="1111" tvg-name="开拓者 vs 雷霆" tvg-group="篮球1080" group-title="篮球1080",开拓者 vs 雷霆·纬来1080
+#EXTINF:-1 tvg-id="开拓者 vs 雷霆" tvg-chno="1112" tvg-name="开拓者 vs 雷霆" tvg-group="篮球1080" group-title="篮球1080",开拓者 vs 雷霆·纬来1080
 http://192.168.5.35:44635/play/e764088e5110df0705b0af2638fda84efe7e7503
-#EXTINF:-1 tvg-id="旧金山大学 vs 蒙大拿大学" tvg-chno="1112" tvg-name="旧金山大学 vs 蒙大拿大学" tvg-group="篮球" group-title="篮球",旧金山大学 vs 蒙大拿大学·聚合源
+#EXTINF:-1 tvg-id="旧金山大学 vs 蒙大拿大学" tvg-chno="1113" tvg-name="旧金山大学 vs 蒙大拿大学" tvg-group="篮球" group-title="篮球",旧金山大学 vs 蒙大拿大学·聚合源
 http://192.168.5.35:44635/play/3505024d8b6ceb829dd1721ff146ee6f194fb71b
-#EXTINF:-1 tvg-id="旧金山大学 vs 蒙大拿大学" tvg-chno="1112" tvg-name="旧金山大学 vs 蒙大拿大学" tvg-group="篮球" group-title="篮球",旧金山大学 vs 蒙大拿大学·聚合源
+#EXTINF:-1 tvg-id="旧金山大学 vs 蒙大拿大学" tvg-chno="1113" tvg-name="旧金山大学 vs 蒙大拿大学" tvg-group="篮球" group-title="篮球",旧金山大学 vs 蒙大拿大学·聚合源
 http://192.168.5.35:44635/play/6fb239b30412079f44b0d32ccffabc3b4bf6ecd4
-#EXTINF:-1 tvg-id="爵士 vs 热火" tvg-chno="1113" tvg-name="爵士 vs 热火" tvg-group="篮球1080" group-title="篮球1080",爵士 vs 热火·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="永恒篮球会U21 vs MVP篮球U21" tvg-chno="1114" tvg-name="永恒篮球会U21 vs MVP篮球U21" tvg-group="篮球" group-title="篮球",永恒篮球会U21 vs MVP篮球U21·聚合源
+http://192.168.5.35:44635/play/046d7e83903b01a5f60be900008927e895101c46
+#EXTINF:-1 tvg-id="爵士 vs 热火" tvg-chno="1115" tvg-name="爵士 vs 热火" tvg-group="篮球1080" group-title="篮球1080",爵士 vs 热火·腾讯直播3·1080P
 http://192.168.5.35:35456/jrs/%E7%88%B5%E5%A3%AB%20vs%20%E7%83%AD%E7%81%AB%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD3%C2%B71080P
-#EXTINF:-1 tvg-id="爵士 vs 热火" tvg-chno="1113" tvg-name="爵士 vs 热火" tvg-group="篮球1080" group-title="篮球1080",爵士 vs 热火·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="爵士 vs 热火" tvg-chno="1115" tvg-name="爵士 vs 热火" tvg-group="篮球1080" group-title="篮球1080",爵士 vs 热火·腾讯直播3·1080P
 http://192.168.5.35:35456/jrs/%E7%88%B5%E5%A3%AB%20vs%20%E7%83%AD%E7%81%AB%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD1%C2%B7720P
-#EXTINF:-1 tvg-id="爵士 vs 热火" tvg-chno="1113" tvg-name="爵士 vs 热火" tvg-group="篮球1080" group-title="篮球1080",爵士 vs 热火·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="爵士 vs 热火" tvg-chno="1115" tvg-name="爵士 vs 热火" tvg-group="篮球1080" group-title="篮球1080",爵士 vs 热火·腾讯直播3·1080P
 http://192.168.5.35:35456/jrs/%E7%88%B5%E5%A3%AB%20vs%20%E7%83%AD%E7%81%AB%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
-#EXTINF:-1 tvg-id="爵士 vs 热火" tvg-chno="1113" tvg-name="爵士 vs 热火" tvg-group="篮球1080" group-title="篮球1080",爵士 vs 热火·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="爵士 vs 热火" tvg-chno="1115" tvg-name="爵士 vs 热火" tvg-group="篮球1080" group-title="篮球1080",爵士 vs 热火·腾讯直播3·1080P
 http://192.168.5.35:44635/play/99752573ef3374e3c4aa9d7bbde8341d43464cd3
-#EXTINF:-1 tvg-id="爵士 vs 热火" tvg-chno="1113" tvg-name="爵士 vs 热火" tvg-group="篮球1080" group-title="篮球1080",爵士 vs 热火·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="爵士 vs 热火" tvg-chno="1115" tvg-name="爵士 vs 热火" tvg-group="篮球1080" group-title="篮球1080",爵士 vs 热火·腾讯直播3·1080P
 http://192.168.5.35:44635/play/f0155fb6c81d8e298a5f7cb4d0412f59489ae4c7
-#EXTINF:-1 tvg-id="爵士 vs 热火" tvg-chno="1113" tvg-name="爵士 vs 热火" tvg-group="篮球1080" group-title="篮球1080",爵士 vs 热火·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="爵士 vs 热火" tvg-chno="1115" tvg-name="爵士 vs 热火" tvg-group="篮球1080" group-title="篮球1080",爵士 vs 热火·腾讯直播3·1080P
 http://192.168.5.35:44635/play/b4451a85f71bddedb049163efdaed823ccad4fb2
-#EXTINF:-1 tvg-id="爵士 vs 热火" tvg-chno="1113" tvg-name="爵士 vs 热火" tvg-group="篮球1080" group-title="篮球1080",爵士 vs 热火·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="爵士 vs 热火" tvg-chno="1115" tvg-name="爵士 vs 热火" tvg-group="篮球1080" group-title="篮球1080",爵士 vs 热火·腾讯直播3·1080P
 http://192.168.5.35:44635/play/9722b51eee614c40bc155efefc09fd806215a253
-#EXTINF:-1 tvg-id="科切拉谷湖人 vs 圣迭戈快船" tvg-chno="1114" tvg-name="科切拉谷湖人 vs 圣迭戈快船" tvg-group="篮球" group-title="篮球",科切拉谷湖人 vs 圣迭戈快船·聚合源
+#EXTINF:-1 tvg-id="科切拉谷湖人 vs 圣迭戈快船" tvg-chno="1116" tvg-name="科切拉谷湖人 vs 圣迭戈快船" tvg-group="篮球" group-title="篮球",科切拉谷湖人 vs 圣迭戈快船·聚合源
 http://192.168.5.35:44635/play/f4014ff291c5dcc76d207671ab1952d15f296b31
-#EXTINF:-1 tvg-id="科切拉谷湖人 vs 圣迭戈快船" tvg-chno="1114" tvg-name="科切拉谷湖人 vs 圣迭戈快船" tvg-group="篮球" group-title="篮球",科切拉谷湖人 vs 圣迭戈快船·聚合源
+#EXTINF:-1 tvg-id="科切拉谷湖人 vs 圣迭戈快船" tvg-chno="1116" tvg-name="科切拉谷湖人 vs 圣迭戈快船" tvg-group="篮球" group-title="篮球",科切拉谷湖人 vs 圣迭戈快船·聚合源
 http://192.168.5.35:44635/play/9e8e2d9230bb9837ccc30c0bbe071a386bb7bc95
-#EXTINF:-1 tvg-id="高丽大学 vs 成均馆大学" tvg-chno="1115" tvg-name="高丽大学 vs 成均馆大学" tvg-group="篮球" group-title="篮球",高丽大学 vs 成均馆大学·聚合源
+#EXTINF:-1 tvg-id="高丽大学 vs 成均馆大学" tvg-chno="1117" tvg-name="高丽大学 vs 成均馆大学" tvg-group="篮球" group-title="篮球",高丽大学 vs 成均馆大学·聚合源
 http://192.168.5.35:44635/play/de9f4ef2022ec2be143f4847b97b46b1e6d16e4c
 #EXTINF:-1 tvg-id="乌汶东方FC vs 皮查亚邦迪特大学" tvg-chno="1201" tvg-name="乌汶东方FC vs 皮查亚邦迪特大学" tvg-group="足球" group-title="足球",乌汶东方FC vs 皮查亚邦迪特大学·聚合源
 http://192.168.5.35:44635/play/d0ab470859edc797481657a81f97a48f82753f33
