@@ -111,10 +111,6 @@ http://192.168.5.35:44635/play/7aca0691e003be1ef28bea02408ae42b6a28aaf1
 http://192.168.5.35:44635/play/ea18f4351f57fef22bfdf89120c310409083ad2e
 #EXTINF:-1 tvg-id="达顿大学 vs 锡耶纳学院" tvg-chno="1123" tvg-name="达顿大学 vs 锡耶纳学院" tvg-group="篮球" group-title="篮球",达顿大学 vs 锡耶纳学院·聚合源
 http://192.168.5.35:44635/play/04367fa69aee0b20b60c93576b00fe26b9d7dc26
-#EXTINF:-1 tvg-id="阿根廷胡宁竞技 vs 科连特斯赛艇" tvg-chno="1124" tvg-name="阿根廷胡宁竞技 vs 科连特斯赛艇" tvg-group="篮球" group-title="篮球",阿根廷胡宁竞技 vs 科连特斯赛艇·聚合源
-http://192.168.5.35:44635/play/a43a0dcdcc476958224d16604463506ebd67e546
-#EXTINF:-1 tvg-id="阿根廷胡宁竞技 vs 科连特斯赛艇" tvg-chno="1124" tvg-name="阿根廷胡宁竞技 vs 科连特斯赛艇" tvg-group="篮球" group-title="篮球",阿根廷胡宁竞技 vs 科连特斯赛艇·聚合源
-http://192.168.5.35:44635/play/25f19213808f6324700b0e3af603ce7b3fec4d0f
 #EXTINF:-1 tvg-id="乌隆联 vs 乌冬班占联" tvg-chno="1201" tvg-name="乌隆联 vs 乌冬班占联" tvg-group="足球" group-title="足球",乌隆联 vs 乌冬班占联·聚合源
 http://192.168.5.35:44635/play/649748a129b0a514edd11312bd9739034d0b8c4e
 #EXTINF:-1 tvg-id="云斯卡尔达斯 vs 国民竞技" tvg-chno="1202" tvg-name="云斯卡尔达斯 vs 国民竞技" tvg-group="足球" group-title="足球",云斯卡尔达斯 vs 国民竞技·聚合源
@@ -191,37 +187,39 @@ http://192.168.5.35:44635/play/c8dd7e0206be2d57e77dfd884457939349ee0251
 http://192.168.5.35:44635/play/7fc797b9366dc5e9dfc143166024805f51f87208
 #EXTINF:-1 tvg-id="CH vs PR" tvg-chno="1402" tvg-name="CH vs PR" tvg-group="DOTA2" group-title="DOTA2",CH vs PR·聚合源
 http://192.168.5.35:44635/play/3a56287f39225fb61a44bd05154fe6c6c6d56a55
-#EXTINF:-1 tvg-id="Frogl vs PR" tvg-chno="1403" tvg-name="Frogl vs PR" tvg-group="DOTA2" group-title="DOTA2",Frogl vs PR·聚合源
+#EXTINF:-1 tvg-id="Frogl vs CH" tvg-chno="1403" tvg-name="Frogl vs CH" tvg-group="DOTA2" group-title="DOTA2",Frogl vs CH·聚合源
+http://192.168.5.35:44635/play/53ab399750a7ba857ad6086a379402218400f41c
+#EXTINF:-1 tvg-id="Frogl vs PR" tvg-chno="1404" tvg-name="Frogl vs PR" tvg-group="DOTA2" group-title="DOTA2",Frogl vs PR·聚合源
 http://192.168.5.35:44635/play/b48595d402164a257297b563b581ca69d5e83214
-#EXTINF:-1 tvg-id="Frogl vs PR" tvg-chno="1403" tvg-name="Frogl vs PR" tvg-group="DOTA2" group-title="DOTA2",Frogl vs PR·聚合源
+#EXTINF:-1 tvg-id="Frogl vs PR" tvg-chno="1404" tvg-name="Frogl vs PR" tvg-group="DOTA2" group-title="DOTA2",Frogl vs PR·聚合源
 http://192.168.5.35:44635/play/8f1ea14f94f7889ef6a03c33e8af82181cbbc354
-#EXTINF:-1 tvg-id="InterActive vs Z10" tvg-chno="1404" tvg-name="InterActive vs Z10" tvg-group="DOTA2" group-title="DOTA2",InterActive vs Z10·聚合源
+#EXTINF:-1 tvg-id="InterActive vs Z10" tvg-chno="1405" tvg-name="InterActive vs Z10" tvg-group="DOTA2" group-title="DOTA2",InterActive vs Z10·聚合源
 http://192.168.5.35:44635/play/045eeb1d375b665aff97e047195813a1fd5c6fd2
-#EXTINF:-1 tvg-id="InterActive vs Z10" tvg-chno="1404" tvg-name="InterActive vs Z10" tvg-group="DOTA2" group-title="DOTA2",InterActive vs Z10·聚合源
+#EXTINF:-1 tvg-id="InterActive vs Z10" tvg-chno="1405" tvg-name="InterActive vs Z10" tvg-group="DOTA2" group-title="DOTA2",InterActive vs Z10·聚合源
 http://192.168.5.35:44635/play/13bfe94e952e8d9b244f03d7e95653b6f14a5bf3
-#EXTINF:-1 tvg-id="L1ga Team vs YB" tvg-chno="1405" tvg-name="L1ga Team vs YB" tvg-group="DOTA2" group-title="DOTA2",L1ga Team vs YB·聚合源
+#EXTINF:-1 tvg-id="L1ga Team vs YB" tvg-chno="1406" tvg-name="L1ga Team vs YB" tvg-group="DOTA2" group-title="DOTA2",L1ga Team vs YB·聚合源
 http://192.168.5.35:44635/play/7438f5eff456be20e551660e836829c57c9682be
-#EXTINF:-1 tvg-id="L1ga Team vs YB" tvg-chno="1405" tvg-name="L1ga Team vs YB" tvg-group="DOTA2" group-title="DOTA2",L1ga Team vs YB·聚合源
+#EXTINF:-1 tvg-id="L1ga Team vs YB" tvg-chno="1406" tvg-name="L1ga Team vs YB" tvg-group="DOTA2" group-title="DOTA2",L1ga Team vs YB·聚合源
 http://192.168.5.35:44635/play/a1cfd03c5d194ce57e63e2c9fe9eaf2c8d8d98cb
-#EXTINF:-1 tvg-id="LVLUP Academy vs MENA Warriors" tvg-chno="1406" tvg-name="LVLUP Academy vs MENA Warriors" tvg-group="DOTA2" group-title="DOTA2",LVLUP Academy vs MENA Warriors·聚合源
+#EXTINF:-1 tvg-id="LVLUP Academy vs MENA Warriors" tvg-chno="1407" tvg-name="LVLUP Academy vs MENA Warriors" tvg-group="DOTA2" group-title="DOTA2",LVLUP Academy vs MENA Warriors·聚合源
 http://192.168.5.35:44635/play/4b8a83fc22d3a9a8db331605f94e668f69e31d2e
-#EXTINF:-1 tvg-id="PuckChamp vs TSpirit.A" tvg-chno="1407" tvg-name="PuckChamp vs TSpirit.A" tvg-group="DOTA2" group-title="DOTA2",PuckChamp vs TSpirit.A·聚合源
+#EXTINF:-1 tvg-id="PuckChamp vs TSpirit.A" tvg-chno="1408" tvg-name="PuckChamp vs TSpirit.A" tvg-group="DOTA2" group-title="DOTA2",PuckChamp vs TSpirit.A·聚合源
 http://192.168.5.35:44635/play/89c2b3baab56e787e4fe82ee9e210e522b2d1c8f
-#EXTINF:-1 tvg-id="Rottweilas vs MENA Warriors" tvg-chno="1408" tvg-name="Rottweilas vs MENA Warriors" tvg-group="DOTA2" group-title="DOTA2",Rottweilas vs MENA Warriors·聚合源
+#EXTINF:-1 tvg-id="Rottweilas vs MENA Warriors" tvg-chno="1409" tvg-name="Rottweilas vs MENA Warriors" tvg-group="DOTA2" group-title="DOTA2",Rottweilas vs MENA Warriors·聚合源
 http://192.168.5.35:44635/play/8ba44655bf669019141db9dc36c7ba7db86381b6
-#EXTINF:-1 tvg-id="Rottweilas vs MENA Warriors" tvg-chno="1408" tvg-name="Rottweilas vs MENA Warriors" tvg-group="DOTA2" group-title="DOTA2",Rottweilas vs MENA Warriors·聚合源
+#EXTINF:-1 tvg-id="Rottweilas vs MENA Warriors" tvg-chno="1409" tvg-name="Rottweilas vs MENA Warriors" tvg-group="DOTA2" group-title="DOTA2",Rottweilas vs MENA Warriors·聚合源
 http://192.168.5.35:44635/play/982c5d578919c93da80cc6a199b6867f1e0fd4d7
-#EXTINF:-1 tvg-id="Synapse" tvg-chno="1409" tvg-name="Synapse" tvg-group="DOTA2" group-title="DOTA2",Synapse·聚合源
+#EXTINF:-1 tvg-id="Synapse" tvg-chno="1410" tvg-name="Synapse" tvg-group="DOTA2" group-title="DOTA2",Synapse·聚合源
 http://192.168.5.35:44635/play/853d58e24993224225fe9b56b8057dd7d300b0cc
-#EXTINF:-1 tvg-id="Synapse" tvg-chno="1409" tvg-name="Synapse" tvg-group="DOTA2" group-title="DOTA2",Synapse·聚合源
+#EXTINF:-1 tvg-id="Synapse" tvg-chno="1410" tvg-name="Synapse" tvg-group="DOTA2" group-title="DOTA2",Synapse·聚合源
 http://192.168.5.35:44635/play/478053fa1912a9515040da8672a217777ed964dd
-#EXTINF:-1 tvg-id="TEAM ILTW vs TBD" tvg-chno="1410" tvg-name="TEAM ILTW vs TBD" tvg-group="DOTA2" group-title="DOTA2",TEAM ILTW vs TBD·聚合源
+#EXTINF:-1 tvg-id="TEAM ILTW vs TBD" tvg-chno="1411" tvg-name="TEAM ILTW vs TBD" tvg-group="DOTA2" group-title="DOTA2",TEAM ILTW vs TBD·聚合源
 http://192.168.5.35:44635/play/c50c5b1057afe8199be6cb7d8d0fab03623c4874
-#EXTINF:-1 tvg-id="TEAM ILTW vs TBD" tvg-chno="1410" tvg-name="TEAM ILTW vs TBD" tvg-group="DOTA2" group-title="DOTA2",TEAM ILTW vs TBD·聚合源
+#EXTINF:-1 tvg-id="TEAM ILTW vs TBD" tvg-chno="1411" tvg-name="TEAM ILTW vs TBD" tvg-group="DOTA2" group-title="DOTA2",TEAM ILTW vs TBD·聚合源
 http://192.168.5.35:44635/play/250a63dc064ac274b43a0b2fbc54e55aac39ef8d
-#EXTINF:-1 tvg-id="Z10 vs Nemiga" tvg-chno="1411" tvg-name="Z10 vs Nemiga" tvg-group="DOTA2" group-title="DOTA2",Z10 vs Nemiga·聚合源
+#EXTINF:-1 tvg-id="Z10 vs Nemiga" tvg-chno="1412" tvg-name="Z10 vs Nemiga" tvg-group="DOTA2" group-title="DOTA2",Z10 vs Nemiga·聚合源
 http://192.168.5.35:44635/play/97ae978eae6db8abefc7e78688731330ffcafc53
-#EXTINF:-1 tvg-id="Z10 vs Nemiga" tvg-chno="1411" tvg-name="Z10 vs Nemiga" tvg-group="DOTA2" group-title="DOTA2",Z10 vs Nemiga·聚合源
+#EXTINF:-1 tvg-id="Z10 vs Nemiga" tvg-chno="1412" tvg-name="Z10 vs Nemiga" tvg-group="DOTA2" group-title="DOTA2",Z10 vs Nemiga·聚合源
 http://192.168.5.35:44635/play/fb6f481cd6242916ae2d6a747c49251cc19dbd92
 #EXTINF:-1 tvg-id="11-10 黄蜂 vs 骑士" tvg-chno="1501" tvg-name="11-10 黄蜂 vs 骑士" tvg-group="NBA回放" group-title="NBA回放",11-10 黄蜂 vs 骑士
 http://192.168.5.35:8098/f/2026-11-10%20%E9%BB%84%E8%9C%82%20vs%20%E9%AA%91%E5%A3%AB.mkv
