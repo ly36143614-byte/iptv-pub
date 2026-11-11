@@ -34,9 +34,9 @@ http://192.168.5.35:44635/play/a9002ffeefe4c5e328fd5de2b643f9ad364a669a
 #EXTINF:-1 tvg-id="巴统RSU vs 特里尔" tvg-chno="1108" tvg-name="巴统RSU vs 特里尔" tvg-group="篮球" group-title="篮球",巴统RSU vs 特里尔·聚合源
 http://192.168.5.35:44635/play/065aeeeacc89106b5386f4b080a76b28f87823ba
 #EXTINF:-1 tvg-id="巴赫斯塞希尔科勒吉 vs 特彻哈萨斯" tvg-chno="1109" tvg-name="巴赫斯塞希尔科勒吉 vs 特彻哈萨斯" tvg-group="篮球" group-title="篮球",巴赫斯塞希尔科勒吉 vs 特彻哈萨斯·聚合源
-http://192.168.5.35:44635/play/3cd2a00bd59e27fd167253c07aa9b886cef2cb95
-#EXTINF:-1 tvg-id="巴赫斯塞希尔科勒吉 vs 特彻哈萨斯" tvg-chno="1109" tvg-name="巴赫斯塞希尔科勒吉 vs 特彻哈萨斯" tvg-group="篮球" group-title="篮球",巴赫斯塞希尔科勒吉 vs 特彻哈萨斯·聚合源
 http://192.168.5.35:44635/play/5e1c60d692c0d0ea6a0bdef7632f07cc9dc1dcfe
+#EXTINF:-1 tvg-id="巴赫斯塞希尔科勒吉 vs 特彻哈萨斯" tvg-chno="1109" tvg-name="巴赫斯塞希尔科勒吉 vs 特彻哈萨斯" tvg-group="篮球" group-title="篮球",巴赫斯塞希尔科勒吉 vs 特彻哈萨斯·聚合源
+http://192.168.5.35:44635/play/3cd2a00bd59e27fd167253c07aa9b886cef2cb95
 #EXTINF:-1 tvg-id="彼尔姆帕尔马 vs 喀山尤尼克斯" tvg-chno="1110" tvg-name="彼尔姆帕尔马 vs 喀山尤尼克斯" tvg-group="篮球" group-title="篮球",彼尔姆帕尔马 vs 喀山尤尼克斯·聚合源
 http://192.168.5.35:44635/play/a7a40d35a3a92c1e22904328f8bd01d3c1bba8db
 #EXTINF:-1 tvg-id="彼尔姆帕尔马 vs 喀山尤尼克斯" tvg-chno="1110" tvg-name="彼尔姆帕尔马 vs 喀山尤尼克斯" tvg-group="篮球" group-title="篮球",彼尔姆帕尔马 vs 喀山尤尼克斯·聚合源
@@ -59,32 +59,20 @@ http://192.168.5.35:44635/play/8cbff27aa0fa85960cd798da1a440ac348c08758
 http://192.168.5.35:44635/play/86d00eb9928e27cbeb8f3abc8f065a86ebde28c9
 #EXTINF:-1 tvg-id="阿斯塔纳 vs 阿特劳飞豹B队" tvg-chno="1119" tvg-name="阿斯塔纳 vs 阿特劳飞豹B队" tvg-group="篮球" group-title="篮球",阿斯塔纳 vs 阿特劳飞豹B队·聚合源
 http://192.168.5.35:44635/play/22965ac3d77086654f65e08c43a9ed3d33cea2c5
-#EXTINF:-1 tvg-id="非洲人 vs 科洛特里" tvg-chno="1120" tvg-name="非洲人 vs 科洛特里" tvg-group="篮球" group-title="篮球",非洲人 vs 科洛特里·聚合源
-http://192.168.5.35:44635/play/ebc6ec1259420c6ce2a85ef9d5008cf95f4e0c7f
 #EXTINF:-1 tvg-id="中国U19 vs 越南U19" tvg-chno="1201" tvg-name="中国U19 vs 越南U19" tvg-group="足球" group-title="足球",中国U19 vs 越南U19·咪咕直播·720P
 http://192.168.5.35:35456/jrs/%E4%B8%AD%E5%9B%BDU19%20vs%20%E8%B6%8A%E5%8D%97U19%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
 #EXTINF:-1 tvg-id="北马里亚纳群岛U17 vs 吉尔吉斯斯坦U17" tvg-chno="1202" tvg-name="北马里亚纳群岛U17 vs 吉尔吉斯斯坦U17" tvg-group="足球" group-title="足球",北马里亚纳群岛U17 vs 吉尔吉斯斯坦U17·聚合源
 http://192.168.5.35:44635/play/9e7a3a3053944b8938da740a75082dc11c0fb14a
 #EXTINF:-1 tvg-id="北马里亚纳群岛U17 vs 吉尔吉斯斯坦U17" tvg-chno="1202" tvg-name="北马里亚纳群岛U17 vs 吉尔吉斯斯坦U17" tvg-group="足球" group-title="足球",北马里亚纳群岛U17 vs 吉尔吉斯斯坦U17·聚合源
 http://192.168.5.35:44635/play/3ff26771c8f5d38e0c31a6a0a5276bce10200174
-#EXTINF:-1 tvg-id="奥尔沙 vs 鲍里索夫巴特" tvg-chno="1203" tvg-name="奥尔沙 vs 鲍里索夫巴特" tvg-group="足球" group-title="足球",奥尔沙 vs 鲍里索夫巴特·聚合源
-http://192.168.5.35:44635/play/e06e3b69b6ad43117001aead11974d369b7f4961
-#EXTINF:-1 tvg-id="奥尔沙 vs 鲍里索夫巴特" tvg-chno="1203" tvg-name="奥尔沙 vs 鲍里索夫巴特" tvg-group="足球" group-title="足球",奥尔沙 vs 鲍里索夫巴特·聚合源
-http://192.168.5.35:44635/play/0ca5d24200dda950a903185e16190a90dcd3333c
-#EXTINF:-1 tvg-id="拉巴特皇家武装女足 vs 莱基女足" tvg-chno="1204" tvg-name="拉巴特皇家武装女足 vs 莱基女足" tvg-group="足球" group-title="足球",拉巴特皇家武装女足 vs 莱基女足·聚合源
+#EXTINF:-1 tvg-id="拉巴特皇家武装女足 vs 莱基女足" tvg-chno="1203" tvg-name="拉巴特皇家武装女足 vs 莱基女足" tvg-group="足球" group-title="足球",拉巴特皇家武装女足 vs 莱基女足·聚合源
 http://192.168.5.35:44635/play/78370df67fb419eeaaad231bce19c7180f2be221
-#EXTINF:-1 tvg-id="拉巴特皇家武装女足 vs 莱基女足" tvg-chno="1204" tvg-name="拉巴特皇家武装女足 vs 莱基女足" tvg-group="足球" group-title="足球",拉巴特皇家武装女足 vs 莱基女足·聚合源
+#EXTINF:-1 tvg-id="拉巴特皇家武装女足 vs 莱基女足" tvg-chno="1203" tvg-name="拉巴特皇家武装女足 vs 莱基女足" tvg-group="足球" group-title="足球",拉巴特皇家武装女足 vs 莱基女足·聚合源
 http://192.168.5.35:44635/play/e31408676bbc37125e933c6c8f77bd1af3c2c10e
-#EXTINF:-1 tvg-id="斯里兰卡U17 vs 约旦U17" tvg-chno="1205" tvg-name="斯里兰卡U17 vs 约旦U17" tvg-group="足球" group-title="足球",斯里兰卡U17 vs 约旦U17·聚合源
+#EXTINF:-1 tvg-id="斯里兰卡U17 vs 约旦U17" tvg-chno="1204" tvg-name="斯里兰卡U17 vs 约旦U17" tvg-group="足球" group-title="足球",斯里兰卡U17 vs 约旦U17·聚合源
 http://192.168.5.35:44635/play/57de03b0c245ce5f27b2f18db3a63cf130ff84c0
-#EXTINF:-1 tvg-id="斯里兰卡U17 vs 约旦U17" tvg-chno="1205" tvg-name="斯里兰卡U17 vs 约旦U17" tvg-group="足球" group-title="足球",斯里兰卡U17 vs 约旦U17·聚合源
+#EXTINF:-1 tvg-id="斯里兰卡U17 vs 约旦U17" tvg-chno="1204" tvg-name="斯里兰卡U17 vs 约旦U17" tvg-group="足球" group-title="足球",斯里兰卡U17 vs 约旦U17·聚合源
 http://192.168.5.35:44635/play/38611d5af23c37ab03a19bf836f021116134895b
-#EXTINF:-1 tvg-id="越南 vs 中国台北" tvg-chno="1206" tvg-name="越南 vs 中国台北" tvg-group="足球1080" group-title="足球1080",越南 vs 中国台北·1080P原声
-http://192.168.5.35:35456/jrs/%E8%B6%8A%E5%8D%97%20vs%20%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%C2%B71080P%E5%8E%9F%E5%A3%B0
-#EXTINF:-1 tvg-id="越南 vs 中国台北" tvg-chno="1206" tvg-name="越南 vs 中国台北" tvg-group="足球1080" group-title="足球1080",越南 vs 中国台北·1080P原声
-http://192.168.5.35:44635/play/8df6ecc74875aca46eb3ab2979f20c07bb2eb659
-#EXTINF:-1 tvg-id="越南 vs 中国台北" tvg-chno="1206" tvg-name="越南 vs 中国台北" tvg-group="足球1080" group-title="足球1080",越南 vs 中国台北·1080P原声
-http://192.168.5.35:44635/play/a164cf5a31c6583c1df10a2810887203d91fd6a8
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NFL·NBC" tvg-chno="1302" tvg-name="NFL·NBC" tvg-group="综合体育" group-title="综合体育",NFL·NBC
