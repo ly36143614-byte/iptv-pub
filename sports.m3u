@@ -53,14 +53,14 @@ http://192.168.5.35:44635/play/197908f4254c287486c08c693ddb6d80720aeec0
 http://192.168.5.35:44635/play/cfba0f0e966514eaef1a73b5fddad80ce0736009
 #EXTINF:-1 tvg-id="国王 vs 魔术" tvg-chno="1109" tvg-name="国王 vs 魔术" tvg-group="篮球1080" group-title="篮球1080",国王 vs 魔术·腾讯直播3·1080P
 http://192.168.5.35:44635/play/cd3dc451e4dd9403dfd2eb652153169b7ae3677a
-#EXTINF:-1 tvg-id="堪萨斯大学 vs 肯塔基大学" tvg-chno="1110" tvg-name="堪萨斯大学 vs 肯塔基大学" tvg-group="篮球" group-title="篮球",堪萨斯大学 vs 肯塔基大学·聚合源
-http://192.168.5.35:44635/play/d70d5bcedc1386303f12fda1e5c5393655f827c3
-#EXTINF:-1 tvg-id="堪萨斯大学 vs 肯塔基大学" tvg-chno="1110" tvg-name="堪萨斯大学 vs 肯塔基大学" tvg-group="篮球" group-title="篮球",堪萨斯大学 vs 肯塔基大学·聚合源
-http://192.168.5.35:44635/play/ce101f28b9e1235a86f76880288e20b8be92085d
-#EXTINF:-1 tvg-id="太阳 vs 快船" tvg-chno="1111" tvg-name="太阳 vs 快船" tvg-group="篮球" group-title="篮球",太阳 vs 快船·咪咕直播·720P
+#EXTINF:-1 tvg-id="太阳 vs 快船" tvg-chno="1110" tvg-name="太阳 vs 快船" tvg-group="篮球" group-title="篮球",太阳 vs 快船·咪咕直播·720P
 http://192.168.5.35:35456/jrs/%E5%A4%AA%E9%98%B3%20vs%20%E5%BF%AB%E8%88%B9%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
-#EXTINF:-1 tvg-id="太阳 vs 快船" tvg-chno="1111" tvg-name="太阳 vs 快船" tvg-group="篮球" group-title="篮球",太阳 vs 快船·咪咕直播·720P
+#EXTINF:-1 tvg-id="太阳 vs 快船" tvg-chno="1110" tvg-name="太阳 vs 快船" tvg-group="篮球" group-title="篮球",太阳 vs 快船·咪咕直播·720P
 http://192.168.5.35:44635/play/3bb7e622d2a15bbdbc8f72b0e1146fc30cb6c099
+#EXTINF:-1 tvg-id="宇都宫皇者 vs 京都创荣" tvg-chno="1111" tvg-name="宇都宫皇者 vs 京都创荣" tvg-group="篮球" group-title="篮球",宇都宫皇者 vs 京都创荣·聚合源
+http://192.168.5.35:44635/play/e1f1a09d7cdba7857fcf3927c8e241ca22e69904
+#EXTINF:-1 tvg-id="宇都宫皇者 vs 京都创荣" tvg-chno="1111" tvg-name="宇都宫皇者 vs 京都创荣" tvg-group="篮球" group-title="篮球",宇都宫皇者 vs 京都创荣·聚合源
+http://192.168.5.35:44635/play/654c1be05c27009d158745effa2e0b811e032af8
 #EXTINF:-1 tvg-id="宾内卡梭罗U21 vs 德瓦联U21" tvg-chno="1112" tvg-name="宾内卡梭罗U21 vs 德瓦联U21" tvg-group="篮球" group-title="篮球",宾内卡梭罗U21 vs 德瓦联U21·聚合源
 http://192.168.5.35:44635/play/3f83de7ae783f847f698c74d02ba8f0acb48093c
 #EXTINF:-1 tvg-id="川崎雷霆勇者 vs 岛根魔术" tvg-chno="1113" tvg-name="川崎雷霆勇者 vs 岛根魔术" tvg-group="篮球" group-title="篮球",川崎雷霆勇者 vs 岛根魔术·聚合源
@@ -97,9 +97,7 @@ http://192.168.5.35:44635/play/0dba42c83c2c85d65273abb4aef5a153b11d220a
 http://192.168.5.35:44635/play/08c64bd9ccc6df774406e534ac48d1871719bd34
 #EXTINF:-1 tvg-id="永恒篮球会U21 vs MVP篮球U21" tvg-chno="1119" tvg-name="永恒篮球会U21 vs MVP篮球U21" tvg-group="篮球" group-title="篮球",永恒篮球会U21 vs MVP篮球U21·聚合源
 http://192.168.5.35:44635/play/046d7e83903b01a5f60be900008927e895101c46
-#EXTINF:-1 tvg-id="爵士 vs 热火" tvg-chno="1120" tvg-name="爵士 vs 热火" tvg-group="篮球" group-title="篮球",爵士 vs 热火·腾讯直播1·720P
-http://192.168.5.35:35456/jrs/%E7%88%B5%E5%A3%AB%20vs%20%E7%83%AD%E7%81%AB%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD1%C2%B7720P
-#EXTINF:-1 tvg-id="爵士 vs 热火" tvg-chno="1120" tvg-name="爵士 vs 热火" tvg-group="篮球" group-title="篮球",爵士 vs 热火·腾讯直播1·720P
+#EXTINF:-1 tvg-id="爵士 vs 热火" tvg-chno="1120" tvg-name="爵士 vs 热火" tvg-group="篮球" group-title="篮球",爵士 vs 热火·聚合源
 http://192.168.5.35:44635/play/eea6795e7ae5a4cd1897bfb370e8c23ed9fa70dd
 #EXTINF:-1 tvg-id="秋田北部喜悦 vs 茨城机器人" tvg-chno="1121" tvg-name="秋田北部喜悦 vs 茨城机器人" tvg-group="篮球" group-title="篮球",秋田北部喜悦 vs 茨城机器人·聚合源
 http://192.168.5.35:44635/play/1f514830bb46475b03859edde7a125b948dbf230
@@ -163,13 +161,15 @@ http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1303" tvg-name="ESPN" tvg-group="综合体育" group-title="综合体育",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1304" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1304" tvg-name="Tennis Channel" tvg-group="综合体育" group-title="综合体育",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1305" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1305" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1306" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1307" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://192.151.150.154/live/cctv5p.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1307" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1308" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
@@ -181,13 +181,11 @@ http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="F1·Formula" tvg-chno="1355" tvg-name="F1·Formula" tvg-group="体育综合" group-title="体育综合",F1·Formula
 https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
-#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1356" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
-https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1357" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1356" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1358" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1357" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1359" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1358" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="CH" tvg-chno="1401" tvg-name="CH" tvg-group="DOTA2" group-title="DOTA2",CH·聚合源
 http://192.168.5.35:44635/play/245b420eaaea4603affa08cac183140e0b9b1d88
