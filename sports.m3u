@@ -56,7 +56,9 @@ http://192.168.5.35:44635/play/0720ca9b04dfe2d8ef3192b49d5a01252ae6ed9e
 #EXTINF:-1 tvg-id="广岛蜻蜓 vs 仙台89人" tvg-chno="1113" tvg-name="广岛蜻蜓 vs 仙台89人" tvg-group="篮球" group-title="篮球",广岛蜻蜓 vs 仙台89人·聚合源
 http://192.168.5.35:44635/play/40297ee42f501e42cde247064f642c7851c526ba
 #EXTINF:-1 tvg-id="广州龙狮B队 vs 万塔黑龙" tvg-chno="1114" tvg-name="广州龙狮B队 vs 万塔黑龙" tvg-group="篮球" group-title="篮球",广州龙狮B队 vs 万塔黑龙·聚合源
-http://192.168.5.35:44635/play/75d456a56e7e2cc0464de5df06ee8e116f3be17f
+http://192.168.5.35:44635/play/2a3e4ead848987cf3cc1606fd33dbd2b867a0274
+#EXTINF:-1 tvg-id="广州龙狮B队 vs 万塔黑龙" tvg-chno="1114" tvg-name="广州龙狮B队 vs 万塔黑龙" tvg-group="篮球" group-title="篮球",广州龙狮B队 vs 万塔黑龙·聚合源
+http://192.168.5.35:44635/play/7e0ac7311860bfd5ec83e0d5c7b06c5850712f66
 #EXTINF:-1 tvg-id="开拓者 vs 雷霆" tvg-chno="1115" tvg-name="开拓者 vs 雷霆" tvg-group="篮球1080" group-title="篮球1080",开拓者 vs 雷霆·纬来1080
 http://192.168.5.35:35456/jrs/%E5%BC%80%E6%8B%93%E8%80%85%20vs%20%E9%9B%B7%E9%9C%86%C2%B7%E7%BA%AC%E6%9D%A51080
 #EXTINF:-1 tvg-id="开拓者 vs 雷霆" tvg-chno="1115" tvg-name="开拓者 vs 雷霆" tvg-group="篮球1080" group-title="篮球1080",开拓者 vs 雷霆·纬来1080
@@ -83,6 +85,10 @@ http://192.168.5.35:44635/play/68bda25250c87fc015d613237c8184255b3b51a8
 http://192.168.5.35:44635/play/32473727b6b08661855cceeb096662d275cf32a4
 #EXTINF:-1 tvg-id="阿塞拜疆女篮 vs 瑞士女篮" tvg-chno="1121" tvg-name="阿塞拜疆女篮 vs 瑞士女篮" tvg-group="篮球" group-title="篮球",阿塞拜疆女篮 vs 瑞士女篮·聚合源
 http://192.168.5.35:44635/play/29de6241dfccd59f18c30434ea7680bbaaaa2ae1
+#EXTINF:-1 tvg-id="高丽大学 vs 成均馆大学" tvg-chno="1122" tvg-name="高丽大学 vs 成均馆大学" tvg-group="篮球" group-title="篮球",高丽大学 vs 成均馆大学·聚合源
+http://192.168.5.35:44635/play/bf1f60845540ed29061fbaa8ccdab79c48614d58
+#EXTINF:-1 tvg-id="高丽大学 vs 成均馆大学" tvg-chno="1122" tvg-name="高丽大学 vs 成均馆大学" tvg-group="篮球" group-title="篮球",高丽大学 vs 成均馆大学·聚合源
+http://192.168.5.35:44635/play/d329d7aae83623cb523a28b1ee119e68e4b5121d
 #EXTINF:-1 tvg-id="乌汶东方FC vs 皮查亚邦迪特大学" tvg-chno="1201" tvg-name="乌汶东方FC vs 皮查亚邦迪特大学" tvg-group="足球" group-title="足球",乌汶东方FC vs 皮查亚邦迪特大学·聚合源
 http://192.168.5.35:44635/play/d0ab470859edc797481657a81f97a48f82753f33
 #EXTINF:-1 tvg-id="乌隆联 vs 乌冬班占联" tvg-chno="1202" tvg-name="乌隆联 vs 乌冬班占联" tvg-group="足球" group-title="足球",乌隆联 vs 乌冬班占联·聚合源
@@ -103,14 +109,14 @@ http://192.168.5.35:44635/play/5de181632265d59b878914cbb35408a94f726959
 http://192.168.5.35:44635/play/12494841a04db2eefbde03884ac2372b5d19edda
 #EXTINF:-1 tvg-id="印度 vs 马尔代夫" tvg-chno="1209" tvg-name="印度 vs 马尔代夫" tvg-group="足球" group-title="足球",印度 vs 马尔代夫·聚合源
 http://192.168.5.35:44635/play/57804dffb2e22281e148b291600b292aaf6ab0f8
-#EXTINF:-1 tvg-id="塞拉萨普FCC vs 萨哈克扬" tvg-chno="1210" tvg-name="塞拉萨普FCC vs 萨哈克扬" tvg-group="足球" group-title="足球",塞拉萨普FCC vs 萨哈克扬·聚合源
-http://192.168.5.35:44635/play/58de790d341d1138d7eda32da52a1a4951263ed8
-#EXTINF:-1 tvg-id="巴基斯坦U17 vs 伊朗U17" tvg-chno="1211" tvg-name="巴基斯坦U17 vs 伊朗U17" tvg-group="足球" group-title="足球",巴基斯坦U17 vs 伊朗U17·聚合源
+#EXTINF:-1 tvg-id="巴基斯坦U17 vs 伊朗U17" tvg-chno="1210" tvg-name="巴基斯坦U17 vs 伊朗U17" tvg-group="足球" group-title="足球",巴基斯坦U17 vs 伊朗U17·聚合源
 http://192.168.5.35:44635/play/b5de9ea8b95376c3679422ca52f9b1481f89cef8
-#EXTINF:-1 tvg-id="巴基斯坦U17 vs 伊朗U17" tvg-chno="1211" tvg-name="巴基斯坦U17 vs 伊朗U17" tvg-group="足球" group-title="足球",巴基斯坦U17 vs 伊朗U17·聚合源
+#EXTINF:-1 tvg-id="巴基斯坦U17 vs 伊朗U17" tvg-chno="1210" tvg-name="巴基斯坦U17 vs 伊朗U17" tvg-group="足球" group-title="足球",巴基斯坦U17 vs 伊朗U17·聚合源
 http://192.168.5.35:44635/play/3e3d476ef1058729505789996aa803ccd132f602
-#EXTINF:-1 tvg-id="帕萨士邦 vs 布尔瓦尔体育" tvg-chno="1212" tvg-name="帕萨士邦 vs 布尔瓦尔体育" tvg-group="足球" group-title="足球",帕萨士邦 vs 布尔瓦尔体育·聚合源
+#EXTINF:-1 tvg-id="帕萨士邦 vs 布尔瓦尔体育" tvg-chno="1211" tvg-name="帕萨士邦 vs 布尔瓦尔体育" tvg-group="足球" group-title="足球",帕萨士邦 vs 布尔瓦尔体育·聚合源
 http://192.168.5.35:44635/play/5bf2f0b295f3e0e6ee502594b2a2b849cc149f7d
+#EXTINF:-1 tvg-id="托卡特 vs 贝科兹伊沙克利" tvg-chno="1212" tvg-name="托卡特 vs 贝科兹伊沙克利" tvg-group="足球" group-title="足球",托卡特 vs 贝科兹伊沙克利·聚合源
+http://192.168.5.35:44635/play/c36aa749fa53008526e6c68c10796a02ae1c6dc7
 #EXTINF:-1 tvg-id="杜兹塞 vs 高库克士邦" tvg-chno="1213" tvg-name="杜兹塞 vs 高库克士邦" tvg-group="足球" group-title="足球",杜兹塞 vs 高库克士邦·聚合源
 http://192.168.5.35:44635/play/a0c9fcf99ad52a6f11e77f051d6f5c2eccd0abfa
 #EXTINF:-1 tvg-id="柬埔寨U17 vs 阿富汗U17" tvg-chno="1214" tvg-name="柬埔寨U17 vs 阿富汗U17" tvg-group="足球" group-title="足球",柬埔寨U17 vs 阿富汗U17·聚合源
@@ -143,15 +149,13 @@ http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1303" tvg-name="ESPN" tvg-group="综合体育" group-title="综合体育",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1304" tvg-name="Tennis Channel" tvg-group="综合体育" group-title="综合体育",Tennis Channel
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1305" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1304" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1306" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1305" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1307" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://192.151.150.154/live/cctv5p.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1308" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1307" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
