@@ -1,45 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="wb-epg">
-  <channel id="CBS"><display-name>CBS</display-name></channel>
-  <channel id="ESPN"><display-name>ESPN</display-name></channel>
   <channel id="Lens vs TEAM ILTW"><display-name>Lens vs TEAM ILTW</display-name></channel>
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
-  <channel id="NBC"><display-name>NBC</display-name></channel>
-  <channel id="Xipto vs Team Legion"><display-name>Xipto vs Team Legion</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
-  <programme start="20261116020000 +0800" stop="20261116051948 +0800" channel="CBS">
-    <title>Kansas City Chiefs at Atlanta Falcons（NFL）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261116020000 +0800" stop="20261116051948 +0800" channel="CBS">
-    <title>Miami Dolphins at Indianapolis Colts（NFL）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261116020000 +0800" stop="20261116051948 +0800" channel="CBS">
-    <title>Buffalo Bills at New York Jets（NFL）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261116050500 +0800" stop="20261116082448 +0800" channel="CBS">
-    <title>Seattle Seahawks at Las Vegas Raiders（NFL）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261116050500 +0800" stop="20261116082448 +0800" channel="CBS">
-    <title>Los Angeles Rams at Arizona Cardinals（NFL）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261112080000 +0800" stop="20261112104012 +0800" channel="ESPN">
-    <title>Cleveland Cavaliers at New York Knicks（NBA）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261112103000 +0800" stop="20261112131012 +0800" channel="ESPN">
-    <title>Golden State Warriors at Houston Rockets（NBA）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261117091500 +0800" stop="20261117123448 +0800" channel="ESPN">
-    <title>Los Angeles Chargers at Baltimore Ravens（NFL）</title>
-    <category>体育</category>
-  </programme>
   <programme start="20261111201500 +0800" stop="20261111224500 +0800" channel="Lens vs TEAM ILTW">
     <title>LENS vs iLTW（FME S5 - Playoffs）</title>
     <category>体育</category>
@@ -52,22 +16,6 @@
     <title>Detroit Pistons at Miami Heat（NBA）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261111090000 +0800" stop="20261111114012 +0800" channel="NBC">
-    <title>Boston Celtics at Philadelphia 76ers 已结束（NBA）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261111120000 +0800" stop="20261111144012 +0800" channel="NBC">
-    <title>Oklahoma City Thunder at Portland Trail Blazers 已结束（NBA）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261116092000 +0800" stop="20261116123948 +0800" channel="NBC">
-    <title>Pittsburgh Steelers at Cincinnati Bengals（NFL）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261111194958 +0800" stop="20261111202748 +0800" channel="Xipto vs Team Legion">
-    <title>LEGION vs Xipto（1win Essence III）</title>
-    <category>体育</category>
-  </programme>
   <programme start="20261113080000 +0800" stop="20261113104012 +0800" channel="活塞">
     <title>NBA：奇才 vs 活塞</title>
     <category>体育</category>
@@ -76,11 +24,11 @@
     <title>Dota2：LENS vs iLTW（FME S5）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261111213000 +0800" stop="20261111215500 +0800" channel="赛程预告">
+  <programme start="20261111213000 +0800" stop="20261111215000 +0800" channel="赛程预告">
     <title>Dota2：ICxI vs Xipto（Asgard Championship S2）；Frogs vs CHero（1w Essence III Play-In）；HULI vs PC（DreamLeague D2 S5）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261111215500 +0800" stop="20261112000000 +0800" channel="赛程预告">
+  <programme start="20261111215000 +0800" stop="20261112000000 +0800" channel="赛程预告">
     <title>Dota2：IAP vs Amaru（DreamLeague D2 S5）</title>
     <category>体育</category>
   </programme>
