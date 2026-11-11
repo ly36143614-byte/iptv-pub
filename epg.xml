@@ -4,7 +4,6 @@
   <channel id="ESPN"><display-name>ESPN</display-name></channel>
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
-  <channel id="国王 vs 魔术"><display-name>国王 vs 魔术</display-name></channel>
   <channel id="开拓者 vs 雷霆"><display-name>开拓者 vs 雷霆</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
@@ -58,10 +57,6 @@
   </programme>
   <programme start="20261116092000 +0800" stop="20261116123948 +0800" channel="NBC">
     <title>Pittsburgh Steelers at Cincinnati Bengals（NFL）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261111110000 +0800" stop="20261111134012 +0800" channel="国王 vs 魔术">
-    <title>Orlando Magic at Sacramento Kings 已结束（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261111120000 +0800" stop="20261111144012 +0800" channel="开拓者 vs 雷霆">
