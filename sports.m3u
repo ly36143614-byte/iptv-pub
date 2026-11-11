@@ -60,8 +60,6 @@ http://192.168.5.35:44635/play/7e0ac7311860bfd5ec83e0d5c7b06c5850712f66
 #EXTINF:-1 tvg-id="开拓者 vs 雷霆" tvg-chno="1114" tvg-name="开拓者 vs 雷霆" tvg-group="篮球1080" group-title="篮球1080",开拓者 vs 雷霆·纬来1080
 http://192.168.5.35:35456/jrs/%E5%BC%80%E6%8B%93%E8%80%85%20vs%20%E9%9B%B7%E9%9C%86%C2%B7%E7%BA%AC%E6%9D%A51080
 #EXTINF:-1 tvg-id="开拓者 vs 雷霆" tvg-chno="1114" tvg-name="开拓者 vs 雷霆" tvg-group="篮球1080" group-title="篮球1080",开拓者 vs 雷霆·纬来1080
-http://192.168.5.35:35456/jrs/%E5%BC%80%E6%8B%93%E8%80%85%20vs%20%E9%9B%B7%E9%9C%86%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
-#EXTINF:-1 tvg-id="开拓者 vs 雷霆" tvg-chno="1114" tvg-name="开拓者 vs 雷霆" tvg-group="篮球1080" group-title="篮球1080",开拓者 vs 雷霆·纬来1080
 http://192.168.5.35:44635/play/abb25e4055f39450d390d54dca7df4443e5017cd
 #EXTINF:-1 tvg-id="新韩银行大鸟女篮 vs 龙仁三星女篮" tvg-chno="1115" tvg-name="新韩银行大鸟女篮 vs 龙仁三星女篮" tvg-group="篮球" group-title="篮球",新韩银行大鸟女篮 vs 龙仁三星女篮·聚合源
 http://192.168.5.35:44635/play/6a6076536d745f85bca0257a0deb25710e3f7aa2
@@ -161,9 +159,7 @@ https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1357" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1358" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1359" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1358" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="CH" tvg-chno="1401" tvg-name="CH" tvg-group="DOTA2" group-title="DOTA2",CH·聚合源
 http://192.168.5.35:44635/play/245b420eaaea4603affa08cac183140e0b9b1d88
