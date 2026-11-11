@@ -31,8 +31,6 @@ http://192.168.5.35:44635/play/95c10cca6b60cf4a600787f6b0983cab19f85fc9
 http://192.168.5.35:44635/play/6144acc76aefee0fdddeaec49077599890aa56f8
 #EXTINF:-1 tvg-id="米纳斯 vs 乌法兹萨" tvg-chno="1106" tvg-name="米纳斯 vs 乌法兹萨" tvg-group="篮球" group-title="篮球",米纳斯 vs 乌法兹萨·聚合源
 http://192.168.5.35:44635/play/27a065e6f3a33fa8fc365a7ab42f160537e4f259
-#EXTINF:-1 tvg-id="雷多图 vs 雅典耀皮里亚波利斯" tvg-chno="1107" tvg-name="雷多图 vs 雅典耀皮里亚波利斯" tvg-group="篮球" group-title="篮球",雷多图 vs 雅典耀皮里亚波利斯·聚合源
-http://192.168.5.35:44635/play/f0927d7913ae9c07cb3e1b3f93dda1ced9e02cf0
 #EXTINF:-1 tvg-id="CD法斯 vs 国际FA" tvg-chno="1201" tvg-name="CD法斯 vs 国际FA" tvg-group="足球" group-title="足球",CD法斯 vs 国际FA·聚合源
 http://192.168.5.35:44635/play/ac8267903936fb50e4b4d7483b54795c5636985b
 #EXTINF:-1 tvg-id="DC电力女足 vs 布鲁克林城女足" tvg-chno="1202" tvg-name="DC电力女足 vs 布鲁克林城女足" tvg-group="足球" group-title="足球",DC电力女足 vs 布鲁克林城女足·聚合源
@@ -75,11 +73,13 @@ http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1303" tvg-name="ESPN" tvg-group="综合体育" group-title="综合体育",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1304" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1304" tvg-name="Tennis Channel" tvg-group="综合体育" group-title="综合体育",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1305" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1305" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1306" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1307" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
