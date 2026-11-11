@@ -117,8 +117,8 @@ http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1304" tvg-name="Tennis Channel" tvg-group="综合体育" group-title="综合体育",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1305" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
-https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1305" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="昌原LG猎隼 vs 首尔SK骑士" tvg-chno="1306" tvg-name="昌原LG猎隼 vs 首尔SK骑士" tvg-group="综合体育1080" group-title="综合体育1080",昌原LG猎隼 vs 首尔SK骑士·1080P原声
 http://192.168.5.35:35456/jrs/%E6%98%8C%E5%8E%9FLG%E7%8C%8E%E9%9A%BC%20vs%20%E9%A6%96%E5%B0%94SK%E9%AA%91%E5%A3%AB%C2%B71080P%E5%8E%9F%E5%A3%B0
 #EXTINF:-1 tvg-id="川崎前锋 vs 柏太阳神" tvg-chno="1307" tvg-name="川崎前锋 vs 柏太阳神" tvg-group="综合体育1080" group-title="综合体育1080",川崎前锋 vs 柏太阳神·1080P原声
@@ -153,8 +153,6 @@ https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1358" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1359" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
-https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="CH" tvg-chno="1401" tvg-name="CH" tvg-group="DOTA2" group-title="DOTA2",CH·聚合源
 http://192.168.5.35:44635/play/245b420eaaea4603affa08cac183140e0b9b1d88
 #EXTINF:-1 tvg-id="CH" tvg-chno="1401" tvg-name="CH" tvg-group="DOTA2" group-title="DOTA2",CH·聚合源
