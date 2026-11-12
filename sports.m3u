@@ -143,53 +143,49 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannel
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="1w Team vs Frogl" tvg-chno="1401" tvg-name="1w Team vs Frogl" tvg-group="DOTA2" group-title="DOTA2",1w Team vs Frogl·聚合源
 http://192.168.5.35:44635/play/c4c09f4906b0d7dc07497ed9476d596ebcac7154
-#EXTINF:-1 tvg-id="CH vs Z10" tvg-chno="1402" tvg-name="CH vs Z10" tvg-group="DOTA2" group-title="DOTA2",CH vs Z10·聚合源
-http://192.168.5.35:44635/play/bbdc479bbefa7e1aadfd1a720791cd0ebb9ea415
-#EXTINF:-1 tvg-id="CH vs Z10" tvg-chno="1402" tvg-name="CH vs Z10" tvg-group="DOTA2" group-title="DOTA2",CH vs Z10·聚合源
-http://192.168.5.35:44635/play/ee7750ab54a5486326d296f64b10fd70710fd06d
-#EXTINF:-1 tvg-id="COH vs Nemesis.A" tvg-chno="1403" tvg-name="COH vs Nemesis.A" tvg-group="DOTA2" group-title="DOTA2",COH vs Nemesis.A·聚合源
+#EXTINF:-1 tvg-id="COH vs Nemesis.A" tvg-chno="1402" tvg-name="COH vs Nemesis.A" tvg-group="DOTA2" group-title="DOTA2",COH vs Nemesis.A·聚合源
 http://192.168.5.35:44635/play/4f447728008b43e13c8000accc5f11ff91a2d3a3
-#EXTINF:-1 tvg-id="Cooman vs Lens" tvg-chno="1404" tvg-name="Cooman vs Lens" tvg-group="DOTA2" group-title="DOTA2",Cooman vs Lens·聚合源
+#EXTINF:-1 tvg-id="Cooman vs Lens" tvg-chno="1403" tvg-name="Cooman vs Lens" tvg-group="DOTA2" group-title="DOTA2",Cooman vs Lens·聚合源
 http://192.168.5.35:44635/play/b96c2461c3c3a978e7f95b9f2375aba7c71ba4c5
-#EXTINF:-1 tvg-id="Cooman vs Lens" tvg-chno="1404" tvg-name="Cooman vs Lens" tvg-group="DOTA2" group-title="DOTA2",Cooman vs Lens·聚合源
+#EXTINF:-1 tvg-id="Cooman vs Lens" tvg-chno="1403" tvg-name="Cooman vs Lens" tvg-group="DOTA2" group-title="DOTA2",Cooman vs Lens·聚合源
 http://192.168.5.35:44635/play/eaf28b55d2876ecde4afb21161ca838dd33a7168
-#EXTINF:-1 tvg-id="Frogl vs Nemiga" tvg-chno="1405" tvg-name="Frogl vs Nemiga" tvg-group="DOTA2" group-title="DOTA2",Frogl vs Nemiga·聚合源
+#EXTINF:-1 tvg-id="Frogl vs Nemiga" tvg-chno="1404" tvg-name="Frogl vs Nemiga" tvg-group="DOTA2" group-title="DOTA2",Frogl vs Nemiga·聚合源
 http://192.168.5.35:44635/play/acf9373b7776fe6c734b77cd6a28dc3700872027
-#EXTINF:-1 tvg-id="Frogl vs Nemiga" tvg-chno="1405" tvg-name="Frogl vs Nemiga" tvg-group="DOTA2" group-title="DOTA2",Frogl vs Nemiga·聚合源
+#EXTINF:-1 tvg-id="Frogl vs Nemiga" tvg-chno="1404" tvg-name="Frogl vs Nemiga" tvg-group="DOTA2" group-title="DOTA2",Frogl vs Nemiga·聚合源
 http://192.168.5.35:44635/play/d3606cf28174cd2d030e2251c23584ce5ed78afc
-#EXTINF:-1 tvg-id="L1ga Team" tvg-chno="1406" tvg-name="L1ga Team" tvg-group="DOTA2" group-title="DOTA2",L1ga Team·聚合源
+#EXTINF:-1 tvg-id="L1ga Team" tvg-chno="1405" tvg-name="L1ga Team" tvg-group="DOTA2" group-title="DOTA2",L1ga Team·聚合源
 http://192.168.5.35:44635/play/f4f542336bcb732327be677605de5fee281f8ffb
-#EXTINF:-1 tvg-id="Lynx vs Synapse" tvg-chno="1407" tvg-name="Lynx vs Synapse" tvg-group="DOTA2" group-title="DOTA2",Lynx vs Synapse·聚合源
+#EXTINF:-1 tvg-id="Lynx vs Synapse" tvg-chno="1406" tvg-name="Lynx vs Synapse" tvg-group="DOTA2" group-title="DOTA2",Lynx vs Synapse·聚合源
 http://192.168.5.35:44635/play/6559fcfa8dec7a293bdcb96afe0e5433f294756e
-#EXTINF:-1 tvg-id="Lynx vs Synapse" tvg-chno="1407" tvg-name="Lynx vs Synapse" tvg-group="DOTA2" group-title="DOTA2",Lynx vs Synapse·聚合源
+#EXTINF:-1 tvg-id="Lynx vs Synapse" tvg-chno="1406" tvg-name="Lynx vs Synapse" tvg-group="DOTA2" group-title="DOTA2",Lynx vs Synapse·聚合源
 http://192.168.5.35:44635/play/72988f4f6e8a87f44da0d0ad0a78d28bf7564363
-#EXTINF:-1 tvg-id="PR vs AB" tvg-chno="1408" tvg-name="PR vs AB" tvg-group="DOTA2" group-title="DOTA2",PR vs AB·聚合源
+#EXTINF:-1 tvg-id="PR vs AB" tvg-chno="1407" tvg-name="PR vs AB" tvg-group="DOTA2" group-title="DOTA2",PR vs AB·聚合源
 http://192.168.5.35:44635/play/a22e044eea36c5f0cabfa4271a3bc30395edb4c6
-#EXTINF:-1 tvg-id="PR vs AB" tvg-chno="1408" tvg-name="PR vs AB" tvg-group="DOTA2" group-title="DOTA2",PR vs AB·聚合源
+#EXTINF:-1 tvg-id="PR vs AB" tvg-chno="1407" tvg-name="PR vs AB" tvg-group="DOTA2" group-title="DOTA2",PR vs AB·聚合源
 http://192.168.5.35:44635/play/3e211b493918f6b46bf1e03b629777744ac26e92
-#EXTINF:-1 tvg-id="RJ vs PuckChamp" tvg-chno="1409" tvg-name="RJ vs PuckChamp" tvg-group="DOTA2" group-title="DOTA2",RJ vs PuckChamp·聚合源
+#EXTINF:-1 tvg-id="RJ vs PuckChamp" tvg-chno="1408" tvg-name="RJ vs PuckChamp" tvg-group="DOTA2" group-title="DOTA2",RJ vs PuckChamp·聚合源
 http://192.168.5.35:44635/play/77cedaf5d81b7d0294d201a167a71e6d2e935713
-#EXTINF:-1 tvg-id="TTS vs CH" tvg-chno="1410" tvg-name="TTS vs CH" tvg-group="DOTA2" group-title="DOTA2",TTS vs CH·聚合源
+#EXTINF:-1 tvg-id="TTS vs CH" tvg-chno="1409" tvg-name="TTS vs CH" tvg-group="DOTA2" group-title="DOTA2",TTS vs CH·聚合源
 http://192.168.5.35:44635/play/13707d3bbdf91f97b428c99dc0d61d62a189576b
-#EXTINF:-1 tvg-id="TTS vs CH" tvg-chno="1410" tvg-name="TTS vs CH" tvg-group="DOTA2" group-title="DOTA2",TTS vs CH·聚合源
+#EXTINF:-1 tvg-id="TTS vs CH" tvg-chno="1409" tvg-name="TTS vs CH" tvg-group="DOTA2" group-title="DOTA2",TTS vs CH·聚合源
 http://192.168.5.35:44635/play/48d352313c08ecb70d0635ac4b0e511c4c858c2d
-#EXTINF:-1 tvg-id="XctN vs CR" tvg-chno="1411" tvg-name="XctN vs CR" tvg-group="DOTA2" group-title="DOTA2",XctN vs CR·聚合源
+#EXTINF:-1 tvg-id="XctN vs CR" tvg-chno="1410" tvg-name="XctN vs CR" tvg-group="DOTA2" group-title="DOTA2",XctN vs CR·聚合源
 http://192.168.5.35:44635/play/008fedc89aca84f92b323c18c6b871d076454eb5
-#EXTINF:-1 tvg-id="Xipto vs Frogl" tvg-chno="1412" tvg-name="Xipto vs Frogl" tvg-group="DOTA2" group-title="DOTA2",Xipto vs Frogl·聚合源
+#EXTINF:-1 tvg-id="Xipto vs Frogl" tvg-chno="1411" tvg-name="Xipto vs Frogl" tvg-group="DOTA2" group-title="DOTA2",Xipto vs Frogl·聚合源
 http://192.168.5.35:44635/play/aa0bdc03693d236a8f42af1c77faf8027b085fa4
-#EXTINF:-1 tvg-id="Xipto vs Frogl" tvg-chno="1412" tvg-name="Xipto vs Frogl" tvg-group="DOTA2" group-title="DOTA2",Xipto vs Frogl·聚合源
+#EXTINF:-1 tvg-id="Xipto vs Frogl" tvg-chno="1411" tvg-name="Xipto vs Frogl" tvg-group="DOTA2" group-title="DOTA2",Xipto vs Frogl·聚合源
 http://192.168.5.35:44635/play/96c3e15c42be41e2f410f71d5ff42f10a0e9564f
-#EXTINF:-1 tvg-id="Yes" tvg-chno="1413" tvg-name="Yes" tvg-group="DOTA2" group-title="DOTA2",Yes·聚合源
+#EXTINF:-1 tvg-id="Yes" tvg-chno="1412" tvg-name="Yes" tvg-group="DOTA2" group-title="DOTA2",Yes·聚合源
 http://192.168.5.35:44635/play/541cefba2d0ccce8796d3c5a7163bcf0be5157f9
-#EXTINF:-1 tvg-id="Yes" tvg-chno="1413" tvg-name="Yes" tvg-group="DOTA2" group-title="DOTA2",Yes·聚合源
+#EXTINF:-1 tvg-id="Yes" tvg-chno="1412" tvg-name="Yes" tvg-group="DOTA2" group-title="DOTA2",Yes·聚合源
 http://192.168.5.35:44635/play/dbbf885faa12e6b2bf0adc9355c954cc608f116e
-#EXTINF:-1 tvg-id="Z10 vs AB" tvg-chno="1414" tvg-name="Z10 vs AB" tvg-group="DOTA2" group-title="DOTA2",Z10 vs AB·聚合源
+#EXTINF:-1 tvg-id="Z10 vs AB" tvg-chno="1413" tvg-name="Z10 vs AB" tvg-group="DOTA2" group-title="DOTA2",Z10 vs AB·聚合源
 http://192.168.5.35:44635/play/69b7b843bf4944a1e7167a6d188f9923c462045a
-#EXTINF:-1 tvg-id="Z10 vs AB" tvg-chno="1414" tvg-name="Z10 vs AB" tvg-group="DOTA2" group-title="DOTA2",Z10 vs AB·聚合源
+#EXTINF:-1 tvg-id="Z10 vs AB" tvg-chno="1413" tvg-name="Z10 vs AB" tvg-group="DOTA2" group-title="DOTA2",Z10 vs AB·聚合源
 http://192.168.5.35:44635/play/73eee39ec43dea033237f86a398736c3043f3415
-#EXTINF:-1 tvg-id="potn9ki- vs PR" tvg-chno="1415" tvg-name="potn9ki- vs PR" tvg-group="DOTA2" group-title="DOTA2",potn9ki- vs PR·聚合源
+#EXTINF:-1 tvg-id="potn9ki- vs PR" tvg-chno="1414" tvg-name="potn9ki- vs PR" tvg-group="DOTA2" group-title="DOTA2",potn9ki- vs PR·聚合源
 http://192.168.5.35:44635/play/6129d7aa0ac51ef97450ea826b32625ec185d008
-#EXTINF:-1 tvg-id="potn9ki- vs PR" tvg-chno="1415" tvg-name="potn9ki- vs PR" tvg-group="DOTA2" group-title="DOTA2",potn9ki- vs PR·聚合源
+#EXTINF:-1 tvg-id="potn9ki- vs PR" tvg-chno="1414" tvg-name="potn9ki- vs PR" tvg-group="DOTA2" group-title="DOTA2",potn9ki- vs PR·聚合源
 http://192.168.5.35:44635/play/e439fa87a3a7790fe1c5334c5fac2481d77bec14
 #EXTINF:-1 tvg-id="11-12 尼克斯 vs 骑士" tvg-chno="1501" tvg-name="11-12 尼克斯 vs 骑士" tvg-group="NBA回放" group-title="NBA回放",11-12 尼克斯 vs 骑士
 http://192.168.5.35:8098/f/2026-11-12%20%E5%B0%BC%E5%85%8B%E6%96%AF%20vs%20%E9%AA%91%E5%A3%AB.mkv
