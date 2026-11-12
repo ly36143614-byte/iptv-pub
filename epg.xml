@@ -7,6 +7,7 @@
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="XctN vs CR"><display-name>XctN vs CR</display-name></channel>
   <channel id="Xipto vs Frogl"><display-name>Xipto vs Frogl</display-name></channel>
+  <channel id="potn9ki- vs Synapse"><display-name>potn9ki- vs Synapse</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <programme start="20261116020000 +0800" stop="20261116051948 +0800" channel="CBS">
@@ -63,6 +64,14 @@
   </programme>
   <programme start="20261112024223 +0800" stop="20261112031724 +0800" channel="Xipto vs Frogl">
     <title>Xipto vs Froglings（DreamLeague Division 2 Series 5）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261112180000 +0800" stop="20261112203000 +0800" channel="potn9ki- vs Synapse">
+    <title>potn9k vs Synapse（Asgard Championship S2 - November 12）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261112230000 +0800" stop="20261113013000 +0800" channel="potn9ki- vs Synapse">
+    <title>potn9k vs Synapse（EPC Season 3 - Playoffs）</title>
     <category>体育</category>
   </programme>
   <programme start="20261113080000 +0800" stop="20261113104012 +0800" channel="活塞">
