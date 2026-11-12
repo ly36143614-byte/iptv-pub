@@ -2,10 +2,8 @@
 <tv generator-info-name="wb-epg">
   <channel id="CBS"><display-name>CBS</display-name></channel>
   <channel id="ESPN"><display-name>ESPN</display-name></channel>
-  <channel id="Frogl vs Nemiga"><display-name>Frogl vs Nemiga</display-name></channel>
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
-  <channel id="Xipto vs Frogl"><display-name>Xipto vs Frogl</display-name></channel>
   <channel id="公牛 vs 马刺"><display-name>公牛 vs 马刺</display-name></channel>
   <channel id="尼克斯 vs 骑士"><display-name>尼克斯 vs 骑士</display-name></channel>
   <channel id="开拓者 vs 雷霆"><display-name>开拓者 vs 雷霆</display-name></channel>
@@ -50,10 +48,6 @@
     <title>Los Angeles Chargers at Baltimore Ravens（NFL）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261112045942 +0800" stop="20261112054712 +0800" channel="Frogl vs Nemiga">
-    <title>Froglings vs Nemiga Gaming（DreamLeague Division 2 Series 5）</title>
-    <category>体育</category>
-  </programme>
   <programme start="20261113090000 +0800" stop="20261113114012 +0800" channel="NBA TV">
     <title>Dallas Mavericks at Minnesota Timberwolves（NBA）</title>
     <category>体育</category>
@@ -64,10 +58,6 @@
   </programme>
   <programme start="20261116092000 +0800" stop="20261116123948 +0800" channel="NBC">
     <title>Pittsburgh Steelers at Cincinnati Bengals（NFL）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261112024223 +0800" stop="20261112031724 +0800" channel="Xipto vs Frogl">
-    <title>Xipto vs Froglings（DreamLeague Division 2 Series 5）</title>
     <category>体育</category>
   </programme>
   <programme start="20261112090000 +0800" stop="20261112114012 +0800" channel="公牛 vs 马刺">
