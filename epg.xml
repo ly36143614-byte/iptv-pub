@@ -235,8 +235,12 @@
     <title>厄瓜多尔：厄瓜多尔 vs 哥斯达黎加；哥伦比亚：哥伦比亚 vs 智利；NBA：步行者 vs 尼克斯；NBA：魔术 vs 雄鹿</title>
     <category>体育</category>
   </programme>
-  <programme start="20261114090000 +0800" stop="20261114110000 +0800" channel="赛程预告">
+  <programme start="20261114090000 +0800" stop="20261114093000 +0800" channel="赛程预告">
     <title>秘鲁：秘鲁 vs 玻利维亚；NBA：热火 vs 骑士；NBA：公牛 vs 老鹰；NBA：鹈鹕 vs 灰熊</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261114093000 +0800" stop="20261114113000 +0800" channel="赛程预告">
+    <title>NBA：火箭 vs 爵士</title>
     <category>体育</category>
   </programme>
   <programme start="20261112090000 +0800" stop="20261112114012 +0800" channel="雄鹿 vs 湖人">
