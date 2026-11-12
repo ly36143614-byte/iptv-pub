@@ -38,13 +38,7 @@ http://192.168.5.35:35456/jh/%E5%85%AC%E7%89%9B%20vs%20%E9%A9%AC%E5%88%BA%C2%B7%
 #EXTINF:-1 tvg-id="公牛 vs 马刺" tvg-chno="1106" tvg-name="公牛 vs 马刺" tvg-group="篮球1080" group-title="篮球1080",公牛 vs 马刺·腾讯直播3·1080P
 http://192.168.5.35:35456/jh/%E5%85%AC%E7%89%9B%20vs%20%E9%A9%AC%E5%88%BA%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P.m3u8
 #EXTINF:-1 tvg-id="公牛 vs 马刺" tvg-chno="1106" tvg-name="公牛 vs 马刺" tvg-group="篮球1080" group-title="篮球1080",公牛 vs 马刺·腾讯直播3·1080P
-http://192.168.5.35:44635/play/d0c547a82b792b95a60d8ff43238a3e525274b4c
-#EXTINF:-1 tvg-id="公牛 vs 马刺" tvg-chno="1106" tvg-name="公牛 vs 马刺" tvg-group="篮球1080" group-title="篮球1080",公牛 vs 马刺·腾讯直播3·1080P
-http://192.168.5.35:44635/play/758167a17d88e930264af09efd5988088e5a55ee
-#EXTINF:-1 tvg-id="公牛 vs 马刺" tvg-chno="1106" tvg-name="公牛 vs 马刺" tvg-group="篮球1080" group-title="篮球1080",公牛 vs 马刺·腾讯直播3·1080P
-http://192.168.5.35:44635/play/f9fc6370cc3933b8431b3c8916957d007fe8c816
-#EXTINF:-1 tvg-id="公牛 vs 马刺" tvg-chno="1106" tvg-name="公牛 vs 马刺" tvg-group="篮球1080" group-title="篮球1080",公牛 vs 马刺·腾讯直播3·1080P
-http://192.168.5.35:44635/play/081596a48d8a7de58d683b699549b2dff31769f3
+http://192.168.5.35:44635/play/34c8579c8b895d3184b40ac1a4674ec6a8a41155
 #EXTINF:-1 tvg-id="内布拉斯加大学 vs 林登伍德" tvg-chno="1107" tvg-name="内布拉斯加大学 vs 林登伍德" tvg-group="篮球" group-title="篮球",内布拉斯加大学 vs 林登伍德·聚合源
 http://192.168.5.35:44635/play/33f8675784f367aecc36d04da485e249ab646f25
 #EXTINF:-1 tvg-id="内布拉斯加大学 vs 林登伍德" tvg-chno="1107" tvg-name="内布拉斯加大学 vs 林登伍德" tvg-group="篮球" group-title="篮球",内布拉斯加大学 vs 林登伍德·聚合源
@@ -53,18 +47,18 @@ http://192.168.5.35:44635/play/bb730cb6801e597a85db96f44bc5db99e415419c
 http://192.168.5.35:44635/play/75621001653b2af79d649bdcc0d38bb4311e06d4
 #EXTINF:-1 tvg-id="加州大学圣塔巴巴拉分校 vs 内华达大学" tvg-chno="1108" tvg-name="加州大学圣塔巴巴拉分校 vs 内华达大学" tvg-group="篮球" group-title="篮球",加州大学圣塔巴巴拉分校 vs 内华达大学·聚合源
 http://192.168.5.35:44635/play/8461b460577ff6f7726aa2cf5f14453fc3810749
-#EXTINF:-1 tvg-id="加州州立大学长滩分校 vs 太平洋大学" tvg-chno="1109" tvg-name="加州州立大学长滩分校 vs 太平洋大学" tvg-group="篮球" group-title="篮球",加州州立大学长滩分校 vs 太平洋大学·聚合源
+#EXTINF:-1 tvg-id="加州大学尔湾分校 vs 林肯大学加州分校" tvg-chno="1109" tvg-name="加州大学尔湾分校 vs 林肯大学加州分校" tvg-group="篮球" group-title="篮球",加州大学尔湾分校 vs 林肯大学加州分校·聚合源
+http://192.168.5.35:44635/play/b26b208ff6a5f7b353a73e8a5950da9390d070ac
+#EXTINF:-1 tvg-id="加州大学尔湾分校 vs 林肯大学加州分校" tvg-chno="1109" tvg-name="加州大学尔湾分校 vs 林肯大学加州分校" tvg-group="篮球" group-title="篮球",加州大学尔湾分校 vs 林肯大学加州分校·聚合源
+http://192.168.5.35:44635/play/8d10e19326773f7b15c906f7abdda16344d6c72e
+#EXTINF:-1 tvg-id="加州州立大学长滩分校 vs 太平洋大学" tvg-chno="1110" tvg-name="加州州立大学长滩分校 vs 太平洋大学" tvg-group="篮球" group-title="篮球",加州州立大学长滩分校 vs 太平洋大学·聚合源
 http://192.168.5.35:44635/play/cf155312d93cb9a4101f2ba67ecd196b71a6eaff
-#EXTINF:-1 tvg-id="加州州立大学长滩分校 vs 太平洋大学" tvg-chno="1109" tvg-name="加州州立大学长滩分校 vs 太平洋大学" tvg-group="篮球" group-title="篮球",加州州立大学长滩分校 vs 太平洋大学·聚合源
+#EXTINF:-1 tvg-id="加州州立大学长滩分校 vs 太平洋大学" tvg-chno="1110" tvg-name="加州州立大学长滩分校 vs 太平洋大学" tvg-group="篮球" group-title="篮球",加州州立大学长滩分校 vs 太平洋大学·聚合源
 http://192.168.5.35:44635/play/9f27fa5f6fc22640efd65ea27401c981b9cb6a5f
-#EXTINF:-1 tvg-id="北得州大学 vs 圣塔克拉拉大学" tvg-chno="1110" tvg-name="北得州大学 vs 圣塔克拉拉大学" tvg-group="篮球" group-title="篮球",北得州大学 vs 圣塔克拉拉大学·聚合源
-http://192.168.5.35:44635/play/beb967ea31f3c1f5175ee70fe60eb00197cfb110
-#EXTINF:-1 tvg-id="北得州大学 vs 圣塔克拉拉大学" tvg-chno="1110" tvg-name="北得州大学 vs 圣塔克拉拉大学" tvg-group="篮球" group-title="篮球",北得州大学 vs 圣塔克拉拉大学·聚合源
-http://192.168.5.35:44635/play/c63e98e54f0457f8335638dd18bbccc9864e2862
-#EXTINF:-1 tvg-id="塔尔萨大学 vs 奥罗尔罗伯茨大学" tvg-chno="1111" tvg-name="塔尔萨大学 vs 奥罗尔罗伯茨大学" tvg-group="篮球" group-title="篮球",塔尔萨大学 vs 奥罗尔罗伯茨大学·聚合源
-http://192.168.5.35:44635/play/11c0fa7b1c7a35af7a95e1c5be9b48a837e07125
-#EXTINF:-1 tvg-id="塔尔萨大学 vs 奥罗尔罗伯茨大学" tvg-chno="1111" tvg-name="塔尔萨大学 vs 奥罗尔罗伯茨大学" tvg-group="篮球" group-title="篮球",塔尔萨大学 vs 奥罗尔罗伯茨大学·聚合源
-http://192.168.5.35:44635/play/ce662b65534ed1cd39217b1a3582fa784f50fe86
+#EXTINF:-1 tvg-id="加州浸信大学 vs 芝加哥州立大学" tvg-chno="1111" tvg-name="加州浸信大学 vs 芝加哥州立大学" tvg-group="篮球" group-title="篮球",加州浸信大学 vs 芝加哥州立大学·聚合源
+http://192.168.5.35:44635/play/6f2b9e45f16a3259a7868ead003eafe93b455635
+#EXTINF:-1 tvg-id="加州浸信大学 vs 芝加哥州立大学" tvg-chno="1111" tvg-name="加州浸信大学 vs 芝加哥州立大学" tvg-group="篮球" group-title="篮球",加州浸信大学 vs 芝加哥州立大学·聚合源
+http://192.168.5.35:44635/play/5a0d3ae49ab67a9e9b4972c559470189ad75f4fa
 #EXTINF:-1 tvg-id="火箭 vs 勇士" tvg-chno="1112" tvg-name="火箭 vs 勇士" tvg-group="篮球" group-title="篮球",火箭 vs 勇士·聚合源
 http://192.168.5.35:44635/play/c2c393e6043fcba94276982ebaccbcb34accebfa
 #EXTINF:-1 tvg-id="火箭 vs 勇士" tvg-chno="1112" tvg-name="火箭 vs 勇士" tvg-group="篮球" group-title="篮球",火箭 vs 勇士·聚合源
@@ -101,39 +95,43 @@ http://192.168.5.35:44635/play/cc4d84d0046d4cd2c3532fca73433dcb2315fae8
 http://192.168.5.35:44635/play/77d86f1a224c48c36595bd16479eda92e21ba03f
 #EXTINF:-1 tvg-id="爵士 vs 魔术" tvg-chno="1114" tvg-name="爵士 vs 魔术" tvg-group="篮球1080" group-title="篮球1080",爵士 vs 魔术·腾讯直播3·1080P
 http://192.168.5.35:44635/play/649e71c4b9fe39b413559f6ec5d2c2a465ba60dd
-#EXTINF:-1 tvg-id="阿比利基督大学 vs 史提夫奥斯汀州立大学" tvg-chno="1115" tvg-name="阿比利基督大学 vs 史提夫奥斯汀州立大学" tvg-group="篮球" group-title="篮球",阿比利基督大学 vs 史提夫奥斯汀州立大学·聚合源
+#EXTINF:-1 tvg-id="西雅图大学 vs 德州圣安东尼大学" tvg-chno="1115" tvg-name="西雅图大学 vs 德州圣安东尼大学" tvg-group="篮球" group-title="篮球",西雅图大学 vs 德州圣安东尼大学·聚合源
+http://192.168.5.35:44635/play/f88a5a60f5c62f5387765ee9a534688b97516e5d
+#EXTINF:-1 tvg-id="西雅图大学 vs 德州圣安东尼大学" tvg-chno="1115" tvg-name="西雅图大学 vs 德州圣安东尼大学" tvg-group="篮球" group-title="篮球",西雅图大学 vs 德州圣安东尼大学·聚合源
+http://192.168.5.35:44635/play/a4063ca0c6db4d63d4d9bfa79a2b18c9a8c7cb83
+#EXTINF:-1 tvg-id="阿比利基督大学 vs 史提夫奥斯汀州立大学" tvg-chno="1116" tvg-name="阿比利基督大学 vs 史提夫奥斯汀州立大学" tvg-group="篮球" group-title="篮球",阿比利基督大学 vs 史提夫奥斯汀州立大学·聚合源
 http://192.168.5.35:44635/play/9d572e8e0724476ebf1969f65558db4a05c12ef7
-#EXTINF:-1 tvg-id="阿比利基督大学 vs 史提夫奥斯汀州立大学" tvg-chno="1115" tvg-name="阿比利基督大学 vs 史提夫奥斯汀州立大学" tvg-group="篮球" group-title="篮球",阿比利基督大学 vs 史提夫奥斯汀州立大学·聚合源
+#EXTINF:-1 tvg-id="阿比利基督大学 vs 史提夫奥斯汀州立大学" tvg-chno="1116" tvg-name="阿比利基督大学 vs 史提夫奥斯汀州立大学" tvg-group="篮球" group-title="篮球",阿比利基督大学 vs 史提夫奥斯汀州立大学·聚合源
 http://192.168.5.35:44635/play/5b5c85c25e848c5688ab852afe4430f6720b8995
-#EXTINF:-1 tvg-id="雄鹿 vs 湖人" tvg-chno="1116" tvg-name="雄鹿 vs 湖人" tvg-group="篮球1080" group-title="篮球1080",雄鹿 vs 湖人·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="雄鹿 vs 湖人" tvg-chno="1117" tvg-name="雄鹿 vs 湖人" tvg-group="篮球1080" group-title="篮球1080",雄鹿 vs 湖人·腾讯直播3·1080P
 http://192.168.5.35:35456/jh/%E9%9B%84%E9%B9%BF%20vs%20%E6%B9%96%E4%BA%BA%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD3%C2%B71080P.m3u8
-#EXTINF:-1 tvg-id="雄鹿 vs 湖人" tvg-chno="1116" tvg-name="雄鹿 vs 湖人" tvg-group="篮球1080" group-title="篮球1080",雄鹿 vs 湖人·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="雄鹿 vs 湖人" tvg-chno="1117" tvg-name="雄鹿 vs 湖人" tvg-group="篮球1080" group-title="篮球1080",雄鹿 vs 湖人·腾讯直播3·1080P
 http://192.168.5.35:35456/jh/%E9%9B%84%E9%B9%BF%20vs%20%E6%B9%96%E4%BA%BA%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD1%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="雄鹿 vs 湖人" tvg-chno="1116" tvg-name="雄鹿 vs 湖人" tvg-group="篮球1080" group-title="篮球1080",雄鹿 vs 湖人·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="雄鹿 vs 湖人" tvg-chno="1117" tvg-name="雄鹿 vs 湖人" tvg-group="篮球1080" group-title="篮球1080",雄鹿 vs 湖人·腾讯直播3·1080P
 http://192.168.5.35:35456/jh/%E9%9B%84%E9%B9%BF%20vs%20%E6%B9%96%E4%BA%BA%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="雄鹿 vs 湖人" tvg-chno="1116" tvg-name="雄鹿 vs 湖人" tvg-group="篮球1080" group-title="篮球1080",雄鹿 vs 湖人·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="雄鹿 vs 湖人" tvg-chno="1117" tvg-name="雄鹿 vs 湖人" tvg-group="篮球1080" group-title="篮球1080",雄鹿 vs 湖人·腾讯直播3·1080P
 http://192.168.5.35:44635/play/becb4c81ea1b9a55df741d2729f31170c04467a2
-#EXTINF:-1 tvg-id="雄鹿 vs 湖人" tvg-chno="1116" tvg-name="雄鹿 vs 湖人" tvg-group="篮球1080" group-title="篮球1080",雄鹿 vs 湖人·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="雄鹿 vs 湖人" tvg-chno="1117" tvg-name="雄鹿 vs 湖人" tvg-group="篮球1080" group-title="篮球1080",雄鹿 vs 湖人·腾讯直播3·1080P
 http://192.168.5.35:44635/play/0ee046a1f3a9e98466b6be4282e53cc0f3f48218
-#EXTINF:-1 tvg-id="雄鹿 vs 湖人" tvg-chno="1116" tvg-name="雄鹿 vs 湖人" tvg-group="篮球1080" group-title="篮球1080",雄鹿 vs 湖人·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="雄鹿 vs 湖人" tvg-chno="1117" tvg-name="雄鹿 vs 湖人" tvg-group="篮球1080" group-title="篮球1080",雄鹿 vs 湖人·腾讯直播3·1080P
 http://192.168.5.35:44635/play/e7feacf82c8089d76df50493e5ee25d988b26cb3
-#EXTINF:-1 tvg-id="雄鹿 vs 湖人" tvg-chno="1116" tvg-name="雄鹿 vs 湖人" tvg-group="篮球1080" group-title="篮球1080",雄鹿 vs 湖人·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="雄鹿 vs 湖人" tvg-chno="1117" tvg-name="雄鹿 vs 湖人" tvg-group="篮球1080" group-title="篮球1080",雄鹿 vs 湖人·腾讯直播3·1080P
 http://192.168.5.35:44635/play/728bef1d6fb8106f992460b88878c9581ee84493
-#EXTINF:-1 tvg-id="鹈鹕 vs 篮网" tvg-chno="1117" tvg-name="鹈鹕 vs 篮网" tvg-group="篮球1080" group-title="篮球1080",鹈鹕 vs 篮网·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="鹈鹕 vs 篮网" tvg-chno="1118" tvg-name="鹈鹕 vs 篮网" tvg-group="篮球1080" group-title="篮球1080",鹈鹕 vs 篮网·腾讯直播3·1080P
 http://192.168.5.35:35456/jh/%E9%B9%88%E9%B9%95%20vs%20%E7%AF%AE%E7%BD%91%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD3%C2%B71080P.m3u8
-#EXTINF:-1 tvg-id="鹈鹕 vs 篮网" tvg-chno="1117" tvg-name="鹈鹕 vs 篮网" tvg-group="篮球1080" group-title="篮球1080",鹈鹕 vs 篮网·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="鹈鹕 vs 篮网" tvg-chno="1118" tvg-name="鹈鹕 vs 篮网" tvg-group="篮球1080" group-title="篮球1080",鹈鹕 vs 篮网·腾讯直播3·1080P
 http://192.168.5.35:35456/jh/%E9%B9%88%E9%B9%95%20vs%20%E7%AF%AE%E7%BD%91%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD1%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="鹈鹕 vs 篮网" tvg-chno="1117" tvg-name="鹈鹕 vs 篮网" tvg-group="篮球1080" group-title="篮球1080",鹈鹕 vs 篮网·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="鹈鹕 vs 篮网" tvg-chno="1118" tvg-name="鹈鹕 vs 篮网" tvg-group="篮球1080" group-title="篮球1080",鹈鹕 vs 篮网·腾讯直播3·1080P
 http://192.168.5.35:35456/jh/%E9%B9%88%E9%B9%95%20vs%20%E7%AF%AE%E7%BD%91%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD2%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="鹈鹕 vs 篮网" tvg-chno="1117" tvg-name="鹈鹕 vs 篮网" tvg-group="篮球1080" group-title="篮球1080",鹈鹕 vs 篮网·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="鹈鹕 vs 篮网" tvg-chno="1118" tvg-name="鹈鹕 vs 篮网" tvg-group="篮球1080" group-title="篮球1080",鹈鹕 vs 篮网·腾讯直播3·1080P
 http://192.168.5.35:35456/jh/%E9%B9%88%E9%B9%95%20vs%20%E7%AF%AE%E7%BD%91%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="鹈鹕 vs 篮网" tvg-chno="1117" tvg-name="鹈鹕 vs 篮网" tvg-group="篮球1080" group-title="篮球1080",鹈鹕 vs 篮网·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="鹈鹕 vs 篮网" tvg-chno="1118" tvg-name="鹈鹕 vs 篮网" tvg-group="篮球1080" group-title="篮球1080",鹈鹕 vs 篮网·腾讯直播3·1080P
 http://192.168.5.35:44635/play/3a6dfe839075c4bc4bc483262a8edaa6ec6cc634
-#EXTINF:-1 tvg-id="鹈鹕 vs 篮网" tvg-chno="1117" tvg-name="鹈鹕 vs 篮网" tvg-group="篮球1080" group-title="篮球1080",鹈鹕 vs 篮网·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="鹈鹕 vs 篮网" tvg-chno="1118" tvg-name="鹈鹕 vs 篮网" tvg-group="篮球1080" group-title="篮球1080",鹈鹕 vs 篮网·腾讯直播3·1080P
 http://192.168.5.35:44635/play/207c742c965640d6daed3ac1e9e65cf1d65b1248
-#EXTINF:-1 tvg-id="鹈鹕 vs 篮网" tvg-chno="1117" tvg-name="鹈鹕 vs 篮网" tvg-group="篮球1080" group-title="篮球1080",鹈鹕 vs 篮网·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="鹈鹕 vs 篮网" tvg-chno="1118" tvg-name="鹈鹕 vs 篮网" tvg-group="篮球1080" group-title="篮球1080",鹈鹕 vs 篮网·腾讯直播3·1080P
 http://192.168.5.35:44635/play/d71936d6a0185e93689675cb2cca4898422ee0a2
-#EXTINF:-1 tvg-id="鹈鹕 vs 篮网" tvg-chno="1117" tvg-name="鹈鹕 vs 篮网" tvg-group="篮球1080" group-title="篮球1080",鹈鹕 vs 篮网·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="鹈鹕 vs 篮网" tvg-chno="1118" tvg-name="鹈鹕 vs 篮网" tvg-group="篮球1080" group-title="篮球1080",鹈鹕 vs 篮网·腾讯直播3·1080P
 http://192.168.5.35:44635/play/52d83280b050e858b693a25601bdfa326a15261e
 #EXTINF:-1 tvg-id="UST猛虎 vs 绿色弓箭手联" tvg-chno="1201" tvg-name="UST猛虎 vs 绿色弓箭手联" tvg-group="足球" group-title="足球",UST猛虎 vs 绿色弓箭手联·聚合源
 http://192.168.5.35:44635/play/fb25257552a18caeadc335c83ec20c8583e580cc
@@ -145,16 +143,14 @@ http://192.168.5.35:44635/play/2349b103cd3d9a14cc2295eeb1e999ddbac05884
 http://192.168.5.35:44635/play/03fb45ddaf4220b5cf8eba1db4ce68a0619d5f47
 #EXTINF:-1 tvg-id="埃桑战士 vs 耶梭通府" tvg-chno="1205" tvg-name="埃桑战士 vs 耶梭通府" tvg-group="足球" group-title="足球",埃桑战士 vs 耶梭通府·聚合源
 http://192.168.5.35:44635/play/47fab42455250b6521452e0e083cef0b0abf6fc4
-#EXTINF:-1 tvg-id="墨西哥美洲女足 vs 托卢卡女足" tvg-chno="1206" tvg-name="墨西哥美洲女足 vs 托卢卡女足" tvg-group="足球" group-title="足球",墨西哥美洲女足 vs 托卢卡女足·聚合源
-http://192.168.5.35:44635/play/77212643dfdcc163673f9b225b9f9ae18aead700
-#EXTINF:-1 tvg-id="墨西哥美洲女足 vs 托卢卡女足" tvg-chno="1206" tvg-name="墨西哥美洲女足 vs 托卢卡女足" tvg-group="足球" group-title="足球",墨西哥美洲女足 vs 托卢卡女足·聚合源
-http://192.168.5.35:44635/play/ebf3425389c3786516acc73d3d013b9fc3fbba3e
-#EXTINF:-1 tvg-id="天津津门虎U20 vs 山东泰山U20" tvg-chno="1207" tvg-name="天津津门虎U20 vs 山东泰山U20" tvg-group="足球" group-title="足球",天津津门虎U20 vs 山东泰山U20·聚合源
+#EXTINF:-1 tvg-id="天津津门虎U20 vs 山东泰山U20" tvg-chno="1206" tvg-name="天津津门虎U20 vs 山东泰山U20" tvg-group="足球" group-title="足球",天津津门虎U20 vs 山东泰山U20·聚合源
 http://192.168.5.35:44635/play/9353cd8f958a73e55eedf48440fa060d89210a5e
-#EXTINF:-1 tvg-id="帕丘卡女足 vs 蒙特雷女足" tvg-chno="1208" tvg-name="帕丘卡女足 vs 蒙特雷女足" tvg-group="足球" group-title="足球",帕丘卡女足 vs 蒙特雷女足·聚合源
+#EXTINF:-1 tvg-id="帕丘卡女足 vs 蒙特雷女足" tvg-chno="1207" tvg-name="帕丘卡女足 vs 蒙特雷女足" tvg-group="足球" group-title="足球",帕丘卡女足 vs 蒙特雷女足·聚合源
 http://192.168.5.35:44635/play/cc288361bd1714b1aa532898dab4e6d2f99b31ed
-#EXTINF:-1 tvg-id="帕丘卡女足 vs 蒙特雷女足" tvg-chno="1208" tvg-name="帕丘卡女足 vs 蒙特雷女足" tvg-group="足球" group-title="足球",帕丘卡女足 vs 蒙特雷女足·聚合源
+#EXTINF:-1 tvg-id="帕丘卡女足 vs 蒙特雷女足" tvg-chno="1207" tvg-name="帕丘卡女足 vs 蒙特雷女足" tvg-group="足球" group-title="足球",帕丘卡女足 vs 蒙特雷女足·聚合源
 http://192.168.5.35:44635/play/4f9505fdc82258bc48a6089dc0e2519d458b1cb9
+#EXTINF:-1 tvg-id="曼谷联U21 vs 廊莫那浦府U21" tvg-chno="1208" tvg-name="曼谷联U21 vs 廊莫那浦府U21" tvg-group="足球" group-title="足球",曼谷联U21 vs 廊莫那浦府U21·聚合源
+http://192.168.5.35:44635/play/e3e4d8fda1b5d3c43c934d1282cbcd7561f542a9
 #EXTINF:-1 tvg-id="武汉三镇U20 vs 辽宁铁人U20" tvg-chno="1209" tvg-name="武汉三镇U20 vs 辽宁铁人U20" tvg-group="足球" group-title="足球",武汉三镇U20 vs 辽宁铁人U20·聚合源
 http://192.168.5.35:44635/play/57922e23531a6272f03fee6fa12b240e320bbf76
 #EXTINF:-1 tvg-id="沃莱塔迪查女足 vs 凯杜斯乔吉斯女足" tvg-chno="1210" tvg-name="沃莱塔迪查女足 vs 凯杜斯乔吉斯女足" tvg-group="足球" group-title="足球",沃莱塔迪查女足 vs 凯杜斯乔吉斯女足·聚合源
@@ -193,13 +189,15 @@ http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1303" tvg-name="ESPN" tvg-group="综合体育" group-title="综合体育",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1304" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1304" tvg-name="Tennis Channel" tvg-group="综合体育" group-title="综合体育",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1305" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1305" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1306" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1307" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1307" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1308" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
@@ -213,8 +211,8 @@ http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 #EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1356" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1357" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
-http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1357" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1358" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="1w Team vs Frogl" tvg-chno="1401" tvg-name="1w Team vs Frogl" tvg-group="DOTA2" group-title="DOTA2",1w Team vs Frogl·聚合源
