@@ -5,6 +5,7 @@
   <channel id="Frogl vs Nemiga"><display-name>Frogl vs Nemiga</display-name></channel>
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
+  <channel id="XctN vs CR"><display-name>XctN vs CR</display-name></channel>
   <channel id="Xipto vs Frogl"><display-name>Xipto vs Frogl</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
@@ -54,6 +55,10 @@
   </programme>
   <programme start="20261116092000 +0800" stop="20261116123948 +0800" channel="NBC">
     <title>Pittsburgh Steelers at Cincinnati Bengals（NFL）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261112150000 +0800" stop="20261112173000 +0800" channel="XctN vs CR">
+    <title>XctN vs CR（EPL World SEA S20 - November 12）</title>
     <category>体育</category>
   </programme>
   <programme start="20261112024223 +0800" stop="20261112031724 +0800" channel="Xipto vs Frogl">
