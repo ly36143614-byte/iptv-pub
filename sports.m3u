@@ -107,15 +107,13 @@ http://192.168.5.35:44635/play/35e08e0b5bdf2456ac2be96409ea4478eb03e1b2
 http://192.168.5.35:44635/play/c7d80046c59c886355b0438707857b91e7ded43f
 #EXTINF:-1 tvg-id="比勒菲尔德 vs 梅彭" tvg-chno="1211" tvg-name="比勒菲尔德 vs 梅彭" tvg-group="足球" group-title="足球",比勒菲尔德 vs 梅彭·聚合源
 http://192.168.5.35:44635/play/4d3e5861132848a17950bb2deb1c54ca5df379f6
-#EXTINF:-1 tvg-id="汉诺威96 vs 哈韦尔斯" tvg-chno="1212" tvg-name="汉诺威96 vs 哈韦尔斯" tvg-group="足球" group-title="足球",汉诺威96 vs 哈韦尔斯·聚合源
-http://192.168.5.35:44635/play/b69b94ee1d8ed3b91e72d618f2e6505340d0bcce
-#EXTINF:-1 tvg-id="维堡后备队 vs 瓦埃勒后备队" tvg-chno="1213" tvg-name="维堡后备队 vs 瓦埃勒后备队" tvg-group="足球" group-title="足球",维堡后备队 vs 瓦埃勒后备队·聚合源
+#EXTINF:-1 tvg-id="维堡后备队 vs 瓦埃勒后备队" tvg-chno="1212" tvg-name="维堡后备队 vs 瓦埃勒后备队" tvg-group="足球" group-title="足球",维堡后备队 vs 瓦埃勒后备队·聚合源
 http://192.168.5.35:44635/play/b444390148f3c2ea9a70e8886aa40a7634b66ec1
-#EXTINF:-1 tvg-id="达雅洛特 vs 普斯SC" tvg-chno="1214" tvg-name="达雅洛特 vs 普斯SC" tvg-group="足球" group-title="足球",达雅洛特 vs 普斯SC·聚合源
+#EXTINF:-1 tvg-id="达雅洛特 vs 普斯SC" tvg-chno="1213" tvg-name="达雅洛特 vs 普斯SC" tvg-group="足球" group-title="足球",达雅洛特 vs 普斯SC·聚合源
 http://192.168.5.35:44635/play/514acd8787a0a56f07ee94c688647eb3737e06d2
-#EXTINF:-1 tvg-id="霍尔比 vs 巴拉蒂耶" tvg-chno="1215" tvg-name="霍尔比 vs 巴拉蒂耶" tvg-group="足球" group-title="足球",霍尔比 vs 巴拉蒂耶·聚合源
+#EXTINF:-1 tvg-id="霍尔比 vs 巴拉蒂耶" tvg-chno="1214" tvg-name="霍尔比 vs 巴拉蒂耶" tvg-group="足球" group-title="足球",霍尔比 vs 巴拉蒂耶·聚合源
 http://192.168.5.35:44635/play/7783066a91dd360326619dc5fe1b60723a639e08
-#EXTINF:-1 tvg-id="马萨尔FC vs 特萨纳体育" tvg-chno="1216" tvg-name="马萨尔FC vs 特萨纳体育" tvg-group="足球" group-title="足球",马萨尔FC vs 特萨纳体育·聚合源
+#EXTINF:-1 tvg-id="马萨尔FC vs 特萨纳体育" tvg-chno="1215" tvg-name="马萨尔FC vs 特萨纳体育" tvg-group="足球" group-title="足球",马萨尔FC vs 特萨纳体育·聚合源
 http://192.168.5.35:44635/play/776e998f17645160a0ffa4105e5281e3e02d19dc
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
