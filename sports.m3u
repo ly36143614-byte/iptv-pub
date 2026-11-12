@@ -75,13 +75,11 @@ http://192.168.5.35:44635/play/d2f342f0dc1c4808414f96a15b37bd2fc66ae70c
 http://192.168.5.35:44635/play/c9ee5a8ba66c09bbb18c02b22913998dd1a6803c
 #EXTINF:-1 tvg-id="尼克斯 vs 骑士" tvg-chno="1110" tvg-name="尼克斯 vs 骑士" tvg-group="篮球1080" group-title="篮球1080",尼克斯 vs 骑士·腾讯直播3·1080P
 http://192.168.5.35:44635/play/9da9b46bfb11d61a979e906dd3534c318e7610c1
-#EXTINF:-1 tvg-id="步行者 vs 奇才" tvg-chno="1111" tvg-name="步行者 vs 奇才" tvg-group="篮球1080" group-title="篮球1080",步行者 vs 奇才·腾讯直播3·1080P
-http://192.168.5.35:35456/jh/%E6%AD%A5%E8%A1%8C%E8%80%85%20vs%20%E5%A5%87%E6%89%8D%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD3%C2%B71080P.m3u8
-#EXTINF:-1 tvg-id="步行者 vs 奇才" tvg-chno="1111" tvg-name="步行者 vs 奇才" tvg-group="篮球1080" group-title="篮球1080",步行者 vs 奇才·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="步行者 vs 奇才" tvg-chno="1111" tvg-name="步行者 vs 奇才" tvg-group="篮球" group-title="篮球",步行者 vs 奇才·腾讯直播1·720P
 http://192.168.5.35:35456/jh/%E6%AD%A5%E8%A1%8C%E8%80%85%20vs%20%E5%A5%87%E6%89%8D%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD1%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="步行者 vs 奇才" tvg-chno="1111" tvg-name="步行者 vs 奇才" tvg-group="篮球1080" group-title="篮球1080",步行者 vs 奇才·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="步行者 vs 奇才" tvg-chno="1111" tvg-name="步行者 vs 奇才" tvg-group="篮球" group-title="篮球",步行者 vs 奇才·腾讯直播1·720P
 http://192.168.5.35:35456/jh/%E6%AD%A5%E8%A1%8C%E8%80%85%20vs%20%E5%A5%87%E6%89%8D%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="步行者 vs 奇才" tvg-chno="1111" tvg-name="步行者 vs 奇才" tvg-group="篮球1080" group-title="篮球1080",步行者 vs 奇才·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="步行者 vs 奇才" tvg-chno="1111" tvg-name="步行者 vs 奇才" tvg-group="篮球" group-title="篮球",步行者 vs 奇才·腾讯直播1·720P
 http://192.168.5.35:44635/play/bf09abf9b2520897754f2ccc58a405a272e40239
 #EXTINF:-1 tvg-id="灰熊 vs 掘金" tvg-chno="1112" tvg-name="灰熊 vs 掘金" tvg-group="篮球1080" group-title="篮球1080",灰熊 vs 掘金·腾讯直播3·1080P
 http://192.168.5.35:35456/jh/%E7%81%B0%E7%86%8A%20vs%20%E6%8E%98%E9%87%91%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD3%C2%B71080P.m3u8
@@ -217,9 +215,7 @@ https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1357" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1358" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1359" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1358" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="1w Team vs Frogl" tvg-chno="1401" tvg-name="1w Team vs Frogl" tvg-group="DOTA2" group-title="DOTA2",1w Team vs Frogl·聚合源
 http://192.168.5.35:44635/play/c4c09f4906b0d7dc07497ed9476d596ebcac7154
