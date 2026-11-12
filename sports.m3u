@@ -51,15 +51,11 @@ http://192.168.5.35:44635/play/e061826b1d007e53c8d27342b91de5744b4d251e
 http://192.168.5.35:44635/play/33bccbc8665e2a210800a350cbcfdb05089354c1
 #EXTINF:-1 tvg-id="富山松鸡 vs 大阪七福神" tvg-chno="1112" tvg-name="富山松鸡 vs 大阪七福神" tvg-group="篮球" group-title="篮球",富山松鸡 vs 大阪七福神·聚合源
 http://192.168.5.35:44635/play/7b317e176d2a52c681874899d82192484e243ecd
-#EXTINF:-1 tvg-id="开拓者 vs 雷霆" tvg-chno="1113" tvg-name="开拓者 vs 雷霆" tvg-group="篮球1080" group-title="篮球1080",开拓者 vs 雷霆·腾讯直播3·1080P
-http://192.168.5.35:35456/jh/%E5%BC%80%E6%8B%93%E8%80%85%20vs%20%E9%9B%B7%E9%9C%86%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD3%C2%B71080P.m3u8
-#EXTINF:-1 tvg-id="开拓者 vs 雷霆" tvg-chno="1113" tvg-name="开拓者 vs 雷霆" tvg-group="篮球1080" group-title="篮球1080",开拓者 vs 雷霆·腾讯直播3·1080P
-http://192.168.5.35:35456/jh/%E5%BC%80%E6%8B%93%E8%80%85%20vs%20%E9%9B%B7%E9%9C%86%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="开拓者 vs 雷霆" tvg-chno="1113" tvg-name="开拓者 vs 雷霆" tvg-group="篮球1080" group-title="篮球1080",开拓者 vs 雷霆·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="开拓者 vs 雷霆" tvg-chno="1113" tvg-name="开拓者 vs 雷霆" tvg-group="篮球" group-title="篮球",开拓者 vs 雷霆·腾讯直播1·720P
 http://192.168.5.35:35456/jh/%E5%BC%80%E6%8B%93%E8%80%85%20vs%20%E9%9B%B7%E9%9C%86%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD1%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="开拓者 vs 雷霆" tvg-chno="1113" tvg-name="开拓者 vs 雷霆" tvg-group="篮球1080" group-title="篮球1080",开拓者 vs 雷霆·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="开拓者 vs 雷霆" tvg-chno="1113" tvg-name="开拓者 vs 雷霆" tvg-group="篮球" group-title="篮球",开拓者 vs 雷霆·腾讯直播1·720P
 http://192.168.5.35:35456/jh/%E5%BC%80%E6%8B%93%E8%80%85%20vs%20%E9%9B%B7%E9%9C%86%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="开拓者 vs 雷霆" tvg-chno="1113" tvg-name="开拓者 vs 雷霆" tvg-group="篮球1080" group-title="篮球1080",开拓者 vs 雷霆·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="开拓者 vs 雷霆" tvg-chno="1113" tvg-name="开拓者 vs 雷霆" tvg-group="篮球" group-title="篮球",开拓者 vs 雷霆·腾讯直播1·720P
 http://192.168.5.35:44635/play/fe70dc4e43c48d6ae241bbf0e94c12f4605f4206
 #EXTINF:-1 tvg-id="托博尔U23 vs 阿斯塔纳猛虎" tvg-chno="1114" tvg-name="托博尔U23 vs 阿斯塔纳猛虎" tvg-group="篮球" group-title="篮球",托博尔U23 vs 阿斯塔纳猛虎·聚合源
 http://192.168.5.35:44635/play/833e1d68442d3604f706a7b387c4c587e31e441d
@@ -135,10 +131,10 @@ http://192.168.5.35:44635/play/7ffdf1023724d22201089ce86d87672e98e32102
 http://192.168.5.35:44635/play/bc93c2ebd3ddba5d5278fbbf40c73ebb9da9c8eb
 #EXTINF:-1 tvg-id="莱卡特老虎 vs 阿德莱德城" tvg-chno="1218" tvg-name="莱卡特老虎 vs 阿德莱德城" tvg-group="足球" group-title="足球",莱卡特老虎 vs 阿德莱德城·聚合源
 http://192.168.5.35:44635/play/02c02b51bbea3b36836ed1dead8d438d98eeae89
-#EXTINF:-1 tvg-id="蒂瓦纳FC vs 孟买YMCA" tvg-chno="1219" tvg-name="蒂瓦纳FC vs 孟买YMCA" tvg-group="足球" group-title="足球",蒂瓦纳FC vs 孟买YMCA·聚合源
-http://192.168.5.35:44635/play/34282edc19477a9ee76684b7ee6e64907eab0e3b
-#EXTINF:-1 tvg-id="足球之星 vs 运动世代" tvg-chno="1220" tvg-name="足球之星 vs 运动世代" tvg-group="足球" group-title="足球",足球之星 vs 运动世代·聚合源
+#EXTINF:-1 tvg-id="足球之星 vs 运动世代" tvg-chno="1219" tvg-name="足球之星 vs 运动世代" tvg-group="足球" group-title="足球",足球之星 vs 运动世代·聚合源
 http://192.168.5.35:44635/play/34197c83a47d676edd67119ab9a9fdac57c137c4
+#EXTINF:-1 tvg-id="里斯SCU21 vs PFR学院U21" tvg-chno="1220" tvg-name="里斯SCU21 vs PFR学院U21" tvg-group="足球" group-title="足球",里斯SCU21 vs PFR学院U21·聚合源
+http://192.168.5.35:44635/play/6af6a1487813f052354c6c45e1651731f53ddad2
 #EXTINF:-1 tvg-id="阿诺索西斯 vs 艾治拿斯" tvg-chno="1221" tvg-name="阿诺索西斯 vs 艾治拿斯" tvg-group="足球" group-title="足球",阿诺索西斯 vs 艾治拿斯·聚合源
 http://192.168.5.35:44635/play/1a2c012fd3eb31528ec8e0f134799a5f1a316608
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
@@ -147,15 +143,13 @@ http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1303" tvg-name="ESPN" tvg-group="综合体育" group-title="综合体育",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1304" tvg-name="Tennis Channel" tvg-group="综合体育" group-title="综合体育",Tennis Channel
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1305" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1304" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1306" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1305" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1307" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1308" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1307" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
