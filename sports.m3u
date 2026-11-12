@@ -94,7 +94,7 @@ http://192.168.5.35:44635/play/cb826f4e2ab101b34dce406f4592c01a6b19a5d4
 #EXTINF:-1 tvg-id="RB莱比锡 vs 博莱斯拉夫" tvg-chno="1204" tvg-name="RB莱比锡 vs 博莱斯拉夫" tvg-group="足球" group-title="足球",RB莱比锡 vs 博莱斯拉夫·聚合源
 http://192.168.5.35:44635/play/cb5fdd31376313d16858c438a1561f023752c7b4
 #EXTINF:-1 tvg-id="乌兹别克斯坦U17 vs 厄瓜多尔U17" tvg-chno="1205" tvg-name="乌兹别克斯坦U17 vs 厄瓜多尔U17" tvg-group="足球" group-title="足球",乌兹别克斯坦U17 vs 厄瓜多尔U17·聚合源
-http://192.168.5.35:44635/play/35ab242fb6b070a3c13fc406b200715ac9d88bd3
+http://192.168.5.35:44635/play/81557a7d3d57652ec87bde2f0a34023f6d090aef
 #EXTINF:-1 tvg-id="华川KSPO女足 vs 庆州KHNP女足" tvg-chno="1206" tvg-name="华川KSPO女足 vs 庆州KHNP女足" tvg-group="足球" group-title="足球",华川KSPO女足 vs 庆州KHNP女足·聚合源
 http://192.168.5.35:44635/play/5e69061501d279d4f05a55427fb88574a8b04402
 #EXTINF:-1 tvg-id="华川KSPO女足 vs 庆州KHNP女足" tvg-chno="1206" tvg-name="华川KSPO女足 vs 庆州KHNP女足" tvg-group="足球" group-title="足球",华川KSPO女足 vs 庆州KHNP女足·聚合源
@@ -110,20 +110,22 @@ http://192.168.5.35:44635/play/bc93c2ebd3ddba5d5278fbbf40c73ebb9da9c8eb
 #EXTINF:-1 tvg-id="莱卡特老虎 vs 阿德莱德城" tvg-chno="1209" tvg-name="莱卡特老虎 vs 阿德莱德城" tvg-group="足球" group-title="足球",莱卡特老虎 vs 阿德莱德城·聚合源
 http://192.168.5.35:44635/play/02c02b51bbea3b36836ed1dead8d438d98eeae89
 #EXTINF:-1 tvg-id="阿卡达格 vs 金色世纪" tvg-chno="1210" tvg-name="阿卡达格 vs 金色世纪" tvg-group="足球" group-title="足球",阿卡达格 vs 金色世纪·聚合源
-http://192.168.5.35:44635/play/2e73e5018ab7e6500e353b32a2cd6617a96262c1
+http://192.168.5.35:44635/play/e9c6d3499d85da34af1fa796188b55e8d6f2c010
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NFL·NBC" tvg-chno="1302" tvg-name="NFL·NBC" tvg-group="综合体育" group-title="综合体育",NFL·NBC
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1303" tvg-name="ESPN" tvg-group="综合体育" group-title="综合体育",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1304" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1304" tvg-name="Tennis Channel" tvg-group="综合体育" group-title="综合体育",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1305" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1305" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1306" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1307" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1307" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1308" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
