@@ -22,9 +22,13 @@ http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="NB斯塔韦利 vs 纳巴亚篮球会" tvg-chno="1103" tvg-name="NB斯塔韦利 vs 纳巴亚篮球会" tvg-group="篮球" group-title="篮球",NB斯塔韦利 vs 纳巴亚篮球会·聚合源
 http://192.168.5.35:44635/play/ab3866644be8c846ea61622c242c2ef66a967b68
 #EXTINF:-1 tvg-id="伊泽夫斯克 vs 希姆基" tvg-chno="1104" tvg-name="伊泽夫斯克 vs 希姆基" tvg-group="篮球" group-title="篮球",伊泽夫斯克 vs 希姆基·聚合源
-http://192.168.5.35:44635/play/871213de52ff235214f41cb3a9a059dd4c7fbe72
+http://192.168.5.35:44635/play/0447bae752fe53e8593d5a0467130e6aed75dc28
+#EXTINF:-1 tvg-id="伊泽夫斯克 vs 希姆基" tvg-chno="1104" tvg-name="伊泽夫斯克 vs 希姆基" tvg-group="篮球" group-title="篮球",伊泽夫斯克 vs 希姆基·聚合源
+http://192.168.5.35:44635/play/ec41d0ea4ed329c87e32ffa46ddfbde87c454819
 #EXTINF:-1 tvg-id="占贾BC vs 埃森勒" tvg-chno="1105" tvg-name="占贾BC vs 埃森勒" tvg-group="篮球" group-title="篮球",占贾BC vs 埃森勒·聚合源
-http://192.168.5.35:44635/play/0448cb33fa55f1139fab3168949af2dd04bf4af0
+http://192.168.5.35:44635/play/98626ac487c1c05ab57519a07a2329648f76c1ef
+#EXTINF:-1 tvg-id="占贾BC vs 埃森勒" tvg-chno="1105" tvg-name="占贾BC vs 埃森勒" tvg-group="篮球" group-title="篮球",占贾BC vs 埃森勒·聚合源
+http://192.168.5.35:44635/play/cef7f50d6aa9051a1d21365363ec03590888b4f8
 #EXTINF:-1 tvg-id="坦波夫 vs 尤格拉" tvg-chno="1106" tvg-name="坦波夫 vs 尤格拉" tvg-group="篮球" group-title="篮球",坦波夫 vs 尤格拉·聚合源
 http://192.168.5.35:44635/play/5051173d3202d4db2695c5938e6cf6b4ad87ef9d
 #EXTINF:-1 tvg-id="基辅 vs 斯塔里卢茨克" tvg-chno="1107" tvg-name="基辅 vs 斯塔里卢茨克" tvg-group="篮球" group-title="篮球",基辅 vs 斯塔里卢茨克·聚合源
@@ -103,10 +107,10 @@ http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 #EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1356" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1357" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1357" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1358" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1358" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
-https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="1w Team vs Frogl" tvg-chno="1401" tvg-name="1w Team vs Frogl" tvg-group="DOTA2" group-title="DOTA2",1w Team vs Frogl·聚合源
 http://192.168.5.35:44635/play/c4c09f4906b0d7dc07497ed9476d596ebcac7154
 #EXTINF:-1 tvg-id="AB vs Z10" tvg-chno="1402" tvg-name="AB vs Z10" tvg-group="DOTA2" group-title="DOTA2",AB vs Z10·聚合源
@@ -127,13 +131,9 @@ http://192.168.5.35:44635/play/8cc95d656283d1aef361f220d9c4a48e643044f3
 http://192.168.5.35:44635/play/22429b2ae6d95f3711cbafdb910908e1323b89d4
 #EXTINF:-1 tvg-id="Synapse vs PR" tvg-chno="1409" tvg-name="Synapse vs PR" tvg-group="DOTA2" group-title="DOTA2",Synapse vs PR·聚合源
 http://192.168.5.35:44635/play/d5b71ea06a2c9ac2c5fb6b3c5796e64a2ed46443
-#EXTINF:-1 tvg-id="TTS vs CH" tvg-chno="1410" tvg-name="TTS vs CH" tvg-group="DOTA2" group-title="DOTA2",TTS vs CH·聚合源
-http://192.168.5.35:44635/play/13707d3bbdf91f97b428c99dc0d61d62a189576b
-#EXTINF:-1 tvg-id="TTS vs CH" tvg-chno="1410" tvg-name="TTS vs CH" tvg-group="DOTA2" group-title="DOTA2",TTS vs CH·聚合源
-http://192.168.5.35:44635/play/48d352313c08ecb70d0635ac4b0e511c4c858c2d
-#EXTINF:-1 tvg-id="Z10 vs AB" tvg-chno="1411" tvg-name="Z10 vs AB" tvg-group="DOTA2" group-title="DOTA2",Z10 vs AB·聚合源
+#EXTINF:-1 tvg-id="Z10 vs AB" tvg-chno="1410" tvg-name="Z10 vs AB" tvg-group="DOTA2" group-title="DOTA2",Z10 vs AB·聚合源
 http://192.168.5.35:44635/play/69b7b843bf4944a1e7167a6d188f9923c462045a
-#EXTINF:-1 tvg-id="Z10 vs AB" tvg-chno="1411" tvg-name="Z10 vs AB" tvg-group="DOTA2" group-title="DOTA2",Z10 vs AB·聚合源
+#EXTINF:-1 tvg-id="Z10 vs AB" tvg-chno="1410" tvg-name="Z10 vs AB" tvg-group="DOTA2" group-title="DOTA2",Z10 vs AB·聚合源
 http://192.168.5.35:44635/play/73eee39ec43dea033237f86a398736c3043f3415
 #EXTINF:-1 tvg-id="11-12 琉球黄金帝王 vs 东京太阳摇滚" tvg-chno="1501" tvg-name="11-12 琉球黄金帝王 vs 东京太阳摇滚" tvg-group="NBA回放" group-title="NBA回放",11-12 琉球黄金帝王 vs 东京太阳摇滚
 http://192.168.5.35:8098/f/2026-11-12%20%E7%90%89%E7%90%83%E9%BB%84%E9%87%91%E5%B8%9D%E7%8E%8B%20vs%20%E4%B8%9C%E4%BA%AC%E5%A4%AA%E9%98%B3%E6%91%87%E6%BB%9A.mkv
