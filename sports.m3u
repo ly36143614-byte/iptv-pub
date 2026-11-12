@@ -98,7 +98,9 @@ http://192.168.5.35:44635/play/47fab42455250b6521452e0e083cef0b0abf6fc4
 #EXTINF:-1 tvg-id="天津津门虎U20 vs 山东泰山U20" tvg-chno="1205" tvg-name="天津津门虎U20 vs 山东泰山U20" tvg-group="足球" group-title="足球",天津津门虎U20 vs 山东泰山U20·聚合源
 http://192.168.5.35:44635/play/9353cd8f958a73e55eedf48440fa060d89210a5e
 #EXTINF:-1 tvg-id="新西兰 vs 印度" tvg-chno="1206" tvg-name="新西兰 vs 印度" tvg-group="足球" group-title="足球",新西兰 vs 印度·聚合源
-http://192.168.5.35:44635/play/7d5ad02c75168dd465eab79ba545680754422310
+http://192.168.5.35:44635/play/13a6ed9b2fd119b484c7285df78d7082ede70d60
+#EXTINF:-1 tvg-id="新西兰 vs 印度" tvg-chno="1206" tvg-name="新西兰 vs 印度" tvg-group="足球" group-title="足球",新西兰 vs 印度·聚合源
+http://192.168.5.35:44635/play/716aed3ca9c3d38b92572c0858d2d9a3c6cf7190
 #EXTINF:-1 tvg-id="曼谷联U21 vs 廊莫那浦府U21" tvg-chno="1207" tvg-name="曼谷联U21 vs 廊莫那浦府U21" tvg-group="足球" group-title="足球",曼谷联U21 vs 廊莫那浦府U21·聚合源
 http://192.168.5.35:44635/play/e3e4d8fda1b5d3c43c934d1282cbcd7561f542a9
 #EXTINF:-1 tvg-id="武汉三镇U20 vs 辽宁铁人U20" tvg-chno="1208" tvg-name="武汉三镇U20 vs 辽宁铁人U20" tvg-group="足球" group-title="足球",武汉三镇U20 vs 辽宁铁人U20·聚合源
@@ -159,7 +161,9 @@ https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1357" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1358" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1358" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1359" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="1w Team vs Frogl" tvg-chno="1401" tvg-name="1w Team vs Frogl" tvg-group="DOTA2" group-title="DOTA2",1w Team vs Frogl·聚合源
 http://192.168.5.35:44635/play/c4c09f4906b0d7dc07497ed9476d596ebcac7154
