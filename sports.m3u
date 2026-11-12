@@ -105,13 +105,11 @@ http://192.168.5.35:44635/play/2dc7a61f1ab6fd22da0fffdc3126acc57cfd4c25
 http://192.168.5.35:44635/play/f88a5a60f5c62f5387765ee9a534688b97516e5d
 #EXTINF:-1 tvg-id="西雅图大学 vs 德州圣安东尼大学" tvg-chno="1119" tvg-name="西雅图大学 vs 德州圣安东尼大学" tvg-group="篮球" group-title="篮球",西雅图大学 vs 德州圣安东尼大学·聚合源
 http://192.168.5.35:44635/play/a4063ca0c6db4d63d4d9bfa79a2b18c9a8c7cb83
-#EXTINF:-1 tvg-id="雄鹿 vs 湖人" tvg-chno="1120" tvg-name="雄鹿 vs 湖人" tvg-group="篮球1080" group-title="篮球1080",雄鹿 vs 湖人·腾讯直播3·1080P
-http://192.168.5.35:35456/jh/%E9%9B%84%E9%B9%BF%20vs%20%E6%B9%96%E4%BA%BA%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD3%C2%B71080P.m3u8
-#EXTINF:-1 tvg-id="雄鹿 vs 湖人" tvg-chno="1120" tvg-name="雄鹿 vs 湖人" tvg-group="篮球1080" group-title="篮球1080",雄鹿 vs 湖人·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="雄鹿 vs 湖人" tvg-chno="1120" tvg-name="雄鹿 vs 湖人" tvg-group="篮球" group-title="篮球",雄鹿 vs 湖人·腾讯直播1·720P
 http://192.168.5.35:35456/jh/%E9%9B%84%E9%B9%BF%20vs%20%E6%B9%96%E4%BA%BA%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD1%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="雄鹿 vs 湖人" tvg-chno="1120" tvg-name="雄鹿 vs 湖人" tvg-group="篮球1080" group-title="篮球1080",雄鹿 vs 湖人·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="雄鹿 vs 湖人" tvg-chno="1120" tvg-name="雄鹿 vs 湖人" tvg-group="篮球" group-title="篮球",雄鹿 vs 湖人·腾讯直播1·720P
 http://192.168.5.35:35456/jh/%E9%9B%84%E9%B9%BF%20vs%20%E6%B9%96%E4%BA%BA%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="雄鹿 vs 湖人" tvg-chno="1120" tvg-name="雄鹿 vs 湖人" tvg-group="篮球1080" group-title="篮球1080",雄鹿 vs 湖人·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="雄鹿 vs 湖人" tvg-chno="1120" tvg-name="雄鹿 vs 湖人" tvg-group="篮球" group-title="篮球",雄鹿 vs 湖人·腾讯直播1·720P
 http://192.168.5.35:44635/play/a934d72aca975aa9401fa83bb0cfed2bf0e92599
 #EXTINF:-1 tvg-id="鹈鹕 vs 篮网" tvg-chno="1121" tvg-name="鹈鹕 vs 篮网" tvg-group="篮球" group-title="篮球",鹈鹕 vs 篮网·咪咕直播·720P
 http://192.168.5.35:35456/jh/%E9%B9%88%E9%B9%95%20vs%20%E7%AF%AE%E7%BD%91%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P.m3u8
