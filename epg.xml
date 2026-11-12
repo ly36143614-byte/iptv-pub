@@ -261,8 +261,12 @@
     <title>NBA：马刺 vs 勇士</title>
     <category>体育</category>
   </programme>
-  <programme start="20261114110000 +0800" stop="20261114130000 +0800" channel="赛程预告">
+  <programme start="20261114110000 +0800" stop="20261114113000 +0800" channel="赛程预告">
     <title>NBA：国王 vs 开拓者</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261114113000 +0800" stop="20261114133000 +0800" channel="赛程预告">
+    <title>NBA：快船 vs 雷霆</title>
     <category>体育</category>
   </programme>
   <programme start="20261112090000 +0800" stop="20261112114012 +0800" channel="雄鹿 vs 湖人">
