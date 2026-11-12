@@ -11,6 +11,7 @@
   <channel id="步行者 vs 奇才"><display-name>步行者 vs 奇才</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
   <channel id="灰熊 vs 掘金"><display-name>灰熊 vs 掘金</display-name></channel>
+  <channel id="爵士 vs 魔术"><display-name>爵士 vs 魔术</display-name></channel>
   <channel id="猛龙 vs 凯尔特人"><display-name>猛龙 vs 凯尔特人</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <channel id="雄鹿 vs 湖人"><display-name>雄鹿 vs 湖人</display-name></channel>
@@ -85,6 +86,10 @@
   </programme>
   <programme start="20261112090000 +0800" stop="20261112114012 +0800" channel="灰熊 vs 掘金">
     <title>Denver Nuggets at Memphis Grizzlies（NBA）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261112100000 +0800" stop="20261112124012 +0800" channel="爵士 vs 魔术">
+    <title>Orlando Magic at Utah Jazz（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261112080000 +0800" stop="20261112104012 +0800" channel="猛龙 vs 凯尔特人">
