@@ -81,11 +81,9 @@ http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1304" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1305" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
-http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1305" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1307" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1306" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
@@ -101,8 +99,6 @@ https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1357" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1358" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
-https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="1w Team vs Frogl" tvg-chno="1401" tvg-name="1w Team vs Frogl" tvg-group="DOTA2" group-title="DOTA2",1w Team vs Frogl·聚合源
 http://192.168.5.35:44635/play/c4c09f4906b0d7dc07497ed9476d596ebcac7154
 #EXTINF:-1 tvg-id="AB vs Z10" tvg-chno="1402" tvg-name="AB vs Z10" tvg-group="DOTA2" group-title="DOTA2",AB vs Z10·聚合源
@@ -121,14 +117,12 @@ http://192.168.5.35:44635/play/fe6c8265cf5b3be25fe244bb4cb6a92b13e05728
 http://192.168.5.35:44635/play/8cc95d656283d1aef361f220d9c4a48e643044f3
 #EXTINF:-1 tvg-id="OB vs Xipto" tvg-chno="1408" tvg-name="OB vs Xipto" tvg-group="DOTA2" group-title="DOTA2",OB vs Xipto·聚合源
 http://192.168.5.35:44635/play/22429b2ae6d95f3711cbafdb910908e1323b89d4
-#EXTINF:-1 tvg-id="TTS vs CH" tvg-chno="1409" tvg-name="TTS vs CH" tvg-group="DOTA2" group-title="DOTA2",TTS vs CH·聚合源
+#EXTINF:-1 tvg-id="Synapse vs PR" tvg-chno="1409" tvg-name="Synapse vs PR" tvg-group="DOTA2" group-title="DOTA2",Synapse vs PR·聚合源
+http://192.168.5.35:44635/play/d5b71ea06a2c9ac2c5fb6b3c5796e64a2ed46443
+#EXTINF:-1 tvg-id="TTS vs CH" tvg-chno="1410" tvg-name="TTS vs CH" tvg-group="DOTA2" group-title="DOTA2",TTS vs CH·聚合源
 http://192.168.5.35:44635/play/13707d3bbdf91f97b428c99dc0d61d62a189576b
-#EXTINF:-1 tvg-id="TTS vs CH" tvg-chno="1409" tvg-name="TTS vs CH" tvg-group="DOTA2" group-title="DOTA2",TTS vs CH·聚合源
+#EXTINF:-1 tvg-id="TTS vs CH" tvg-chno="1410" tvg-name="TTS vs CH" tvg-group="DOTA2" group-title="DOTA2",TTS vs CH·聚合源
 http://192.168.5.35:44635/play/48d352313c08ecb70d0635ac4b0e511c4c858c2d
-#EXTINF:-1 tvg-id="Yes" tvg-chno="1410" tvg-name="Yes" tvg-group="DOTA2" group-title="DOTA2",Yes·聚合源
-http://192.168.5.35:44635/play/541cefba2d0ccce8796d3c5a7163bcf0be5157f9
-#EXTINF:-1 tvg-id="Yes" tvg-chno="1410" tvg-name="Yes" tvg-group="DOTA2" group-title="DOTA2",Yes·聚合源
-http://192.168.5.35:44635/play/dbbf885faa12e6b2bf0adc9355c954cc608f116e
 #EXTINF:-1 tvg-id="Z10 vs AB" tvg-chno="1411" tvg-name="Z10 vs AB" tvg-group="DOTA2" group-title="DOTA2",Z10 vs AB·聚合源
 http://192.168.5.35:44635/play/69b7b843bf4944a1e7167a6d188f9923c462045a
 #EXTINF:-1 tvg-id="Z10 vs AB" tvg-chno="1411" tvg-name="Z10 vs AB" tvg-group="DOTA2" group-title="DOTA2",Z10 vs AB·聚合源
