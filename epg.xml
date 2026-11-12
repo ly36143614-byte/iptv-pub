@@ -7,7 +7,6 @@
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="Xipto vs Frogl"><display-name>Xipto vs Frogl</display-name></channel>
   <channel id="公牛 vs 马刺"><display-name>公牛 vs 马刺</display-name></channel>
-  <channel id="尼克斯 vs 骑士"><display-name>尼克斯 vs 骑士</display-name></channel>
   <channel id="开拓者 vs 雷霆"><display-name>开拓者 vs 雷霆</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
   <channel id="火箭 vs 勇士"><display-name>火箭 vs 勇士</display-name></channel>
@@ -70,10 +69,6 @@
   </programme>
   <programme start="20261112090000 +0800" stop="20261112114012 +0800" channel="公牛 vs 马刺">
     <title>San Antonio Spurs at Chicago Bulls 已结束（NBA）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261112080000 +0800" stop="20261112104012 +0800" channel="尼克斯 vs 骑士">
-    <title>Cleveland Cavaliers at New York Knicks 已结束（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261112110000 +0800" stop="20261112134012 +0800" channel="开拓者 vs 雷霆">
@@ -153,7 +148,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261113030000 +0800" stop="20261113034500 +0800" channel="赛程预告">
-    <title>非洲杯：科特迪瓦 vs 冈比亚；非洲杯：塞内加尔 vs 苏丹；Dota2：Xipto vs Nemiga（Asgard Championship S2）；Dota2：TSpirit vs 1w（1w Essence III）</title>
+    <title>非洲杯：塞内加尔 vs 苏丹；非洲杯：科特迪瓦 vs 冈比亚；Dota2：Xipto vs Nemiga（Asgard Championship S2）；Dota2：TSpirit vs 1w（1w Essence III）</title>
     <category>体育</category>
   </programme>
   <programme start="20261113034500 +0800" stop="20261113080000 +0800" channel="赛程预告">
@@ -217,7 +212,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261114034500 +0800" stop="20261114040000 +0800" channel="赛程预告">
-    <title>足球：安道尔 vs 直布罗陀；足球：卢森堡 vs 爱沙尼亚；足球：列支敦士登 vs 阿塞拜疆；冰岛：保加利亚 vs 冰岛；斯洛伐克：斯洛伐克 vs 法罗群岛；斯洛文尼亚：斯洛文尼亚 vs 瑞士；苏格兰：苏格兰 vs 北马其顿；德国：塞尔维亚 vs 德国；荷兰：荷兰 vs 希腊</title>
+    <title>荷兰：荷兰 vs 希腊；苏格兰：苏格兰 vs 北马其顿；斯洛文尼亚：斯洛文尼亚 vs 瑞士；斯洛伐克：斯洛伐克 vs 法罗群岛；德国：塞尔维亚 vs 德国；足球：列支敦士登 vs 阿塞拜疆；足球：卢森堡 vs 爱沙尼亚；足球：安道尔 vs 直布罗陀；冰岛：保加利亚 vs 冰岛</title>
     <category>体育</category>
   </programme>
   <programme start="20261114040000 +0800" stop="20261114070000 +0800" channel="赛程预告">
