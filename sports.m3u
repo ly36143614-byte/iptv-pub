@@ -81,36 +81,30 @@ http://192.168.5.35:44635/play/7586d9ffbb5b16f6cc6e96a24e7a386f42a7a86a
 http://192.168.5.35:44635/play/e9b37682dfa7832781e85847ae82083dfef0f47f
 #EXTINF:-1 tvg-id="阿斯塔纳 vs 阿特劳飞豹B队" tvg-chno="1120" tvg-name="阿斯塔纳 vs 阿特劳飞豹B队" tvg-group="篮球" group-title="篮球",阿斯塔纳 vs 阿特劳飞豹B队·聚合源
 http://192.168.5.35:44635/play/10b6c172c50700519f3a5d56de9e450926ec9a59
-#EXTINF:-1 tvg-id="塔斯马尼亚珍宝女篮 vs 南区飞人女篮" tvg-chno="1201" tvg-name="塔斯马尼亚珍宝女篮 vs 南区飞人女篮" tvg-group="足球1080" group-title="足球1080",塔斯马尼亚珍宝女篮 vs 南区飞人女篮·1080P原声
-http://192.168.5.35:35456/jh/%E5%A1%94%E6%96%AF%E9%A9%AC%E5%B0%BC%E4%BA%9A%E7%8F%8D%E5%AE%9D%E5%A5%B3%E7%AF%AE%20vs%20%E5%8D%97%E5%8C%BA%E9%A3%9E%E4%BA%BA%E5%A5%B3%E7%AF%AE%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="ASC艾瑟 vs 斯图拉德" tvg-chno="1202" tvg-name="ASC艾瑟 vs 斯图拉德" tvg-group="足球" group-title="足球",ASC艾瑟 vs 斯图拉德·聚合源
+#EXTINF:-1 tvg-id="ASC艾瑟 vs 斯图拉德" tvg-chno="1201" tvg-name="ASC艾瑟 vs 斯图拉德" tvg-group="足球" group-title="足球",ASC艾瑟 vs 斯图拉德·聚合源
 http://192.168.5.35:44635/play/737392bb9a7e9c64c45871bab35cc81719c0f20e
-#EXTINF:-1 tvg-id="ASC艾瑟 vs 斯图拉德" tvg-chno="1202" tvg-name="ASC艾瑟 vs 斯图拉德" tvg-group="足球" group-title="足球",ASC艾瑟 vs 斯图拉德·聚合源
+#EXTINF:-1 tvg-id="ASC艾瑟 vs 斯图拉德" tvg-chno="1201" tvg-name="ASC艾瑟 vs 斯图拉德" tvg-group="足球" group-title="足球",ASC艾瑟 vs 斯图拉德·聚合源
 http://192.168.5.35:44635/play/8bbbd43a729731c75d314d60a155394e9a8b80dd
+#EXTINF:-1 tvg-id="FC康斯坦丁女足 vs 塞提夫女足" tvg-chno="1202" tvg-name="FC康斯坦丁女足 vs 塞提夫女足" tvg-group="足球" group-title="足球",FC康斯坦丁女足 vs 塞提夫女足·聚合源
+http://192.168.5.35:44635/play/06fce1592a46fddf2800403047492dd519cff11e
 #EXTINF:-1 tvg-id="NIGD银行 vs 加莫陈茶" tvg-chno="1203" tvg-name="NIGD银行 vs 加莫陈茶" tvg-group="足球" group-title="足球",NIGD银行 vs 加莫陈茶·聚合源
 http://192.168.5.35:44635/play/b4fad90988f63fbf496f350a3c73a22a5352aa82
 #EXTINF:-1 tvg-id="RB莱比锡 vs 博莱斯拉夫" tvg-chno="1204" tvg-name="RB莱比锡 vs 博莱斯拉夫" tvg-group="足球" group-title="足球",RB莱比锡 vs 博莱斯拉夫·聚合源
 http://192.168.5.35:44635/play/cb826f4e2ab101b34dce406f4592c01a6b19a5d4
 #EXTINF:-1 tvg-id="RB莱比锡 vs 博莱斯拉夫" tvg-chno="1204" tvg-name="RB莱比锡 vs 博莱斯拉夫" tvg-group="足球" group-title="足球",RB莱比锡 vs 博莱斯拉夫·聚合源
 http://192.168.5.35:44635/play/cb5fdd31376313d16858c438a1561f023752c7b4
-#EXTINF:-1 tvg-id="乌兹别克斯坦U17 vs 厄瓜多尔U17" tvg-chno="1205" tvg-name="乌兹别克斯坦U17 vs 厄瓜多尔U17" tvg-group="足球" group-title="足球",乌兹别克斯坦U17 vs 厄瓜多尔U17·聚合源
-http://192.168.5.35:44635/play/81557a7d3d57652ec87bde2f0a34023f6d090aef
-#EXTINF:-1 tvg-id="华川KSPO女足 vs 庆州KHNP女足" tvg-chno="1206" tvg-name="华川KSPO女足 vs 庆州KHNP女足" tvg-group="足球" group-title="足球",华川KSPO女足 vs 庆州KHNP女足·聚合源
+#EXTINF:-1 tvg-id="华川KSPO女足 vs 庆州KHNP女足" tvg-chno="1205" tvg-name="华川KSPO女足 vs 庆州KHNP女足" tvg-group="足球" group-title="足球",华川KSPO女足 vs 庆州KHNP女足·聚合源
 http://192.168.5.35:44635/play/5e69061501d279d4f05a55427fb88574a8b04402
-#EXTINF:-1 tvg-id="华川KSPO女足 vs 庆州KHNP女足" tvg-chno="1206" tvg-name="华川KSPO女足 vs 庆州KHNP女足" tvg-group="足球" group-title="足球",华川KSPO女足 vs 庆州KHNP女足·聚合源
+#EXTINF:-1 tvg-id="华川KSPO女足 vs 庆州KHNP女足" tvg-chno="1205" tvg-name="华川KSPO女足 vs 庆州KHNP女足" tvg-group="足球" group-title="足球",华川KSPO女足 vs 庆州KHNP女足·聚合源
 http://192.168.5.35:44635/play/00b87833dba40de57dfa45c59fb6e22f672d7604
+#EXTINF:-1 tvg-id="尼法斯丝绸女足 vs 阿尔巴门奇女足" tvg-chno="1206" tvg-name="尼法斯丝绸女足 vs 阿尔巴门奇女足" tvg-group="足球" group-title="足球",尼法斯丝绸女足 vs 阿尔巴门奇女足·聚合源
+http://192.168.5.35:44635/play/cd6265cef532364c76326ebf566dd62eb7a9bbbf
 #EXTINF:-1 tvg-id="汉诺威96 vs 哈韦尔斯" tvg-chno="1207" tvg-name="汉诺威96 vs 哈韦尔斯" tvg-group="足球" group-title="足球",汉诺威96 vs 哈韦尔斯·聚合源
 http://192.168.5.35:44635/play/b69b94ee1d8ed3b91e72d618f2e6505340d0bcce
-#EXTINF:-1 tvg-id="班加罗尔B队 vs 反叛者SC" tvg-chno="1208" tvg-name="班加罗尔B队 vs 反叛者SC" tvg-group="足球" group-title="足球",班加罗尔B队 vs 反叛者SC·聚合源
-http://192.168.5.35:44635/play/9b607bba2bc529befb5520bf5e2b096099c96e80
-#EXTINF:-1 tvg-id="班加罗尔B队 vs 反叛者SC" tvg-chno="1208" tvg-name="班加罗尔B队 vs 反叛者SC" tvg-group="足球" group-title="足球",班加罗尔B队 vs 反叛者SC·聚合源
-http://192.168.5.35:44635/play/610139dd16b724d592a55634f2f8bc139d3a3268
-#EXTINF:-1 tvg-id="莱卡特老虎 vs 阿德莱德城" tvg-chno="1209" tvg-name="莱卡特老虎 vs 阿德莱德城" tvg-group="足球" group-title="足球",莱卡特老虎 vs 阿德莱德城·聚合源
+#EXTINF:-1 tvg-id="莱卡特老虎 vs 阿德莱德城" tvg-chno="1208" tvg-name="莱卡特老虎 vs 阿德莱德城" tvg-group="足球" group-title="足球",莱卡特老虎 vs 阿德莱德城·聚合源
 http://192.168.5.35:44635/play/bc93c2ebd3ddba5d5278fbbf40c73ebb9da9c8eb
-#EXTINF:-1 tvg-id="莱卡特老虎 vs 阿德莱德城" tvg-chno="1209" tvg-name="莱卡特老虎 vs 阿德莱德城" tvg-group="足球" group-title="足球",莱卡特老虎 vs 阿德莱德城·聚合源
+#EXTINF:-1 tvg-id="莱卡特老虎 vs 阿德莱德城" tvg-chno="1208" tvg-name="莱卡特老虎 vs 阿德莱德城" tvg-group="足球" group-title="足球",莱卡特老虎 vs 阿德莱德城·聚合源
 http://192.168.5.35:44635/play/02c02b51bbea3b36836ed1dead8d438d98eeae89
-#EXTINF:-1 tvg-id="阿卡达格 vs 金色世纪" tvg-chno="1210" tvg-name="阿卡达格 vs 金色世纪" tvg-group="足球" group-title="足球",阿卡达格 vs 金色世纪·聚合源
-http://192.168.5.35:44635/play/e9c6d3499d85da34af1fa796188b55e8d6f2c010
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NFL·NBC" tvg-chno="1302" tvg-name="NFL·NBC" tvg-group="综合体育" group-title="综合体育",NFL·NBC
