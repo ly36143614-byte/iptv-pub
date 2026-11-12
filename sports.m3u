@@ -42,9 +42,13 @@ http://192.168.5.35:35456/jrs/%E7%8C%9B%E9%BE%99%20vs%20%E5%87%AF%E5%B0%94%E7%89
 #EXTINF:-1 tvg-id="猛龙 vs 凯尔特人" tvg-chno="1105" tvg-name="猛龙 vs 凯尔特人" tvg-group="篮球1080" group-title="篮球1080",猛龙 vs 凯尔特人·腾讯直播3·1080P
 http://192.168.5.35:35456/jrs/%E7%8C%9B%E9%BE%99%20vs%20%E5%87%AF%E5%B0%94%E7%89%B9%E4%BA%BA%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P
 #EXTINF:-1 tvg-id="帕兰德森 vs 佩纳罗尔竞技" tvg-chno="1106" tvg-name="帕兰德森 vs 佩纳罗尔竞技" tvg-group="篮球" group-title="篮球",帕兰德森 vs 佩纳罗尔竞技·聚合源
-http://192.168.5.35:44635/play/b5985cdabf56a7704ffa106b7b79d5e520078e44
+http://192.168.5.35:44635/play/ad511997f005dcabe6e567f69754274b94dfcabf
+#EXTINF:-1 tvg-id="帕兰德森 vs 佩纳罗尔竞技" tvg-chno="1106" tvg-name="帕兰德森 vs 佩纳罗尔竞技" tvg-group="篮球" group-title="篮球",帕兰德森 vs 佩纳罗尔竞技·聚合源
+http://192.168.5.35:44635/play/eea411bf68cc202688ee113196b9260d0f8f2597
 #EXTINF:-1 tvg-id="拉努斯 vs 福尔摩莎" tvg-chno="1107" tvg-name="拉努斯 vs 福尔摩莎" tvg-group="篮球" group-title="篮球",拉努斯 vs 福尔摩莎·聚合源
-http://192.168.5.35:44635/play/87047eb6df61f72791127b70766de31a10b491ab
+http://192.168.5.35:44635/play/f6b441590993cb1b619d05b6aaa42d60b725f90e
+#EXTINF:-1 tvg-id="拉努斯 vs 福尔摩莎" tvg-chno="1107" tvg-name="拉努斯 vs 福尔摩莎" tvg-group="篮球" group-title="篮球",拉努斯 vs 福尔摩莎·聚合源
+http://192.168.5.35:44635/play/e9b5d5f824a165726d2217abb3bcd03186243f51
 #EXTINF:-1 tvg-id="海军官校 vs 宾夕法尼亚" tvg-chno="1108" tvg-name="海军官校 vs 宾夕法尼亚" tvg-group="篮球" group-title="篮球",海军官校 vs 宾夕法尼亚·聚合源
 http://192.168.5.35:44635/play/18d21b57ebbde3c3554b2f30f4d43e5e6bc4a506
 #EXTINF:-1 tvg-id="海军官校 vs 宾夕法尼亚" tvg-chno="1108" tvg-name="海军官校 vs 宾夕法尼亚" tvg-group="篮球" group-title="篮球",海军官校 vs 宾夕法尼亚·聚合源
@@ -77,8 +81,6 @@ http://192.168.5.35:44635/play/8a1fcd81e1d6e4fabbc59dfebd180f7c65f9a1e3
 http://192.168.5.35:44635/play/32b839c9e5a1efb1932cff246b6869fa1dbf7c6f
 #EXTINF:-1 tvg-id="蒂瓦纳FC vs 孟买YMCA" tvg-chno="1212" tvg-name="蒂瓦纳FC vs 孟买YMCA" tvg-group="足球" group-title="足球",蒂瓦纳FC vs 孟买YMCA·聚合源
 http://192.168.5.35:44635/play/34282edc19477a9ee76684b7ee6e64907eab0e3b
-#EXTINF:-1 tvg-id="阿特纳斯体育 vs 里奥夸尔托学生队" tvg-chno="1213" tvg-name="阿特纳斯体育 vs 里奥夸尔托学生队" tvg-group="足球" group-title="足球",阿特纳斯体育 vs 里奥夸尔托学生队·聚合源
-http://192.168.5.35:44635/play/f301a71ff255208b5006f9d8d840097ed41ba9fc
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NFL·NBC" tvg-chno="1302" tvg-name="NFL·NBC" tvg-group="综合体育" group-title="综合体育",NFL·NBC
@@ -105,9 +107,13 @@ http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="F1·Formula" tvg-chno="1355" tvg-name="F1·Formula" tvg-group="体育综合" group-title="体育综合",F1·Formula
 https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1356" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1356" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1357" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1358" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1357" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1359" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="1w Team vs TBD" tvg-chno="1401" tvg-name="1w Team vs TBD" tvg-group="DOTA2" group-title="DOTA2",1w Team vs TBD·聚合源
 http://192.168.5.35:44635/play/c4c09f4906b0d7dc07497ed9476d596ebcac7154
@@ -123,16 +129,16 @@ http://192.168.5.35:44635/play/eaf28b55d2876ecde4afb21161ca838dd33a7168
 http://192.168.5.35:44635/play/acf9373b7776fe6c734b77cd6a28dc3700872027
 #EXTINF:-1 tvg-id="Frogl vs Nemiga" tvg-chno="1404" tvg-name="Frogl vs Nemiga" tvg-group="DOTA2" group-title="DOTA2",Frogl vs Nemiga·聚合源
 http://192.168.5.35:44635/play/d3606cf28174cd2d030e2251c23584ce5ed78afc
-#EXTINF:-1 tvg-id="Lynx vs Synapse" tvg-chno="1405" tvg-name="Lynx vs Synapse" tvg-group="DOTA2" group-title="DOTA2",Lynx vs Synapse·聚合源
-http://192.168.5.35:44635/play/6559fcfa8dec7a293bdcb96afe0e5433f294756e
-#EXTINF:-1 tvg-id="Lynx vs Synapse" tvg-chno="1405" tvg-name="Lynx vs Synapse" tvg-group="DOTA2" group-title="DOTA2",Lynx vs Synapse·聚合源
-http://192.168.5.35:44635/play/72988f4f6e8a87f44da0d0ad0a78d28bf7564363
-#EXTINF:-1 tvg-id="PR vs AB" tvg-chno="1406" tvg-name="PR vs AB" tvg-group="DOTA2" group-title="DOTA2",PR vs AB·聚合源
-http://192.168.5.35:44635/play/a22e044eea36c5f0cabfa4271a3bc30395edb4c6
-#EXTINF:-1 tvg-id="PR vs AB" tvg-chno="1406" tvg-name="PR vs AB" tvg-group="DOTA2" group-title="DOTA2",PR vs AB·聚合源
-http://192.168.5.35:44635/play/3e211b493918f6b46bf1e03b629777744ac26e92
-#EXTINF:-1 tvg-id="TBD" tvg-chno="1407" tvg-name="TBD" tvg-group="DOTA2" group-title="DOTA2",TBD·聚合源
+#EXTINF:-1 tvg-id="L1ga Team" tvg-chno="1405" tvg-name="L1ga Team" tvg-group="DOTA2" group-title="DOTA2",L1ga Team·聚合源
 http://192.168.5.35:44635/play/f4f542336bcb732327be677605de5fee281f8ffb
+#EXTINF:-1 tvg-id="Lynx vs Synapse" tvg-chno="1406" tvg-name="Lynx vs Synapse" tvg-group="DOTA2" group-title="DOTA2",Lynx vs Synapse·聚合源
+http://192.168.5.35:44635/play/6559fcfa8dec7a293bdcb96afe0e5433f294756e
+#EXTINF:-1 tvg-id="Lynx vs Synapse" tvg-chno="1406" tvg-name="Lynx vs Synapse" tvg-group="DOTA2" group-title="DOTA2",Lynx vs Synapse·聚合源
+http://192.168.5.35:44635/play/72988f4f6e8a87f44da0d0ad0a78d28bf7564363
+#EXTINF:-1 tvg-id="PR vs AB" tvg-chno="1407" tvg-name="PR vs AB" tvg-group="DOTA2" group-title="DOTA2",PR vs AB·聚合源
+http://192.168.5.35:44635/play/a22e044eea36c5f0cabfa4271a3bc30395edb4c6
+#EXTINF:-1 tvg-id="PR vs AB" tvg-chno="1407" tvg-name="PR vs AB" tvg-group="DOTA2" group-title="DOTA2",PR vs AB·聚合源
+http://192.168.5.35:44635/play/3e211b493918f6b46bf1e03b629777744ac26e92
 #EXTINF:-1 tvg-id="TTS vs CH" tvg-chno="1408" tvg-name="TTS vs CH" tvg-group="DOTA2" group-title="DOTA2",TTS vs CH·聚合源
 http://192.168.5.35:44635/play/13707d3bbdf91f97b428c99dc0d61d62a189576b
 #EXTINF:-1 tvg-id="TTS vs CH" tvg-chno="1408" tvg-name="TTS vs CH" tvg-group="DOTA2" group-title="DOTA2",TTS vs CH·聚合源
