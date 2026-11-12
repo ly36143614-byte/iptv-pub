@@ -6,7 +6,10 @@
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="Xipto vs Frogl"><display-name>Xipto vs Frogl</display-name></channel>
+  <channel id="尼克斯 vs 骑士"><display-name>尼克斯 vs 骑士</display-name></channel>
+  <channel id="步行者 vs 奇才"><display-name>步行者 vs 奇才</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
+  <channel id="猛龙 vs 凯尔特人"><display-name>猛龙 vs 凯尔特人</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <programme start="20261116020000 +0800" stop="20261116051948 +0800" channel="CBS">
     <title>Kansas City Chiefs at Atlanta Falcons（NFL）</title>
@@ -60,8 +63,20 @@
     <title>Xipto vs Froglings（DreamLeague Division 2 Series 5）</title>
     <category>体育</category>
   </programme>
+  <programme start="20261112080000 +0800" stop="20261112104012 +0800" channel="尼克斯 vs 骑士">
+    <title>Cleveland Cavaliers at New York Knicks（NBA）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261112080000 +0800" stop="20261112104012 +0800" channel="步行者 vs 奇才">
+    <title>Washington Wizards at Indiana Pacers（NBA）</title>
+    <category>体育</category>
+  </programme>
   <programme start="20261113080000 +0800" stop="20261113104012 +0800" channel="活塞">
     <title>NBA：奇才 vs 活塞</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261112080000 +0800" stop="20261112104012 +0800" channel="猛龙 vs 凯尔特人">
+    <title>Boston Celtics at Toronto Raptors（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261112080000 +0800" stop="20261112090000 +0800" channel="赛程预告">
@@ -200,8 +215,12 @@
     <title>非洲杯：摩洛哥 vs 尼日尔；塞尔塔：叁蔓堤罗 vs 塞尔塔</title>
     <category>体育</category>
   </programme>
-  <programme start="20261114070000 +0800" stop="20261114090000 +0800" channel="赛程预告">
+  <programme start="20261114070000 +0800" stop="20261114080000 +0800" channel="赛程预告">
     <title>阿根廷：阿根廷 vs 乌拉圭</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261114080000 +0800" stop="20261114100000 +0800" channel="赛程预告">
+    <title>厄瓜多尔：厄瓜多尔 vs 哥斯达黎加；哥伦比亚：哥伦比亚 vs 智利；NBA：步行者 vs 尼克斯；NBA：魔术 vs 雄鹿</title>
     <category>体育</category>
   </programme>
 </tv>
