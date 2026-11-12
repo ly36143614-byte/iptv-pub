@@ -10,6 +10,7 @@
   <channel id="尼克斯 vs 骑士"><display-name>尼克斯 vs 骑士</display-name></channel>
   <channel id="步行者 vs 奇才"><display-name>步行者 vs 奇才</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
+  <channel id="火箭 vs 勇士"><display-name>火箭 vs 勇士</display-name></channel>
   <channel id="灰熊 vs 掘金"><display-name>灰熊 vs 掘金</display-name></channel>
   <channel id="爵士 vs 魔术"><display-name>爵士 vs 魔术</display-name></channel>
   <channel id="猛龙 vs 凯尔特人"><display-name>猛龙 vs 凯尔特人</display-name></channel>
@@ -84,6 +85,10 @@
     <title>NBA：奇才 vs 活塞</title>
     <category>体育</category>
   </programme>
+  <programme start="20261112103000 +0800" stop="20261112131012 +0800" channel="火箭 vs 勇士">
+    <title>Golden State Warriors at Houston Rockets（NBA）</title>
+    <category>体育</category>
+  </programme>
   <programme start="20261112090000 +0800" stop="20261112114012 +0800" channel="灰熊 vs 掘金">
     <title>Denver Nuggets at Memphis Grizzlies（NBA）</title>
     <category>体育</category>
@@ -94,10 +99,6 @@
   </programme>
   <programme start="20261112080000 +0800" stop="20261112104012 +0800" channel="猛龙 vs 凯尔特人">
     <title>Boston Celtics at Toronto Raptors 已结束（NBA）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261112090000 +0800" stop="20261112100000 +0800" channel="赛程预告">
-    <title>NBA：公牛 vs 马刺；灰熊 vs 掘金；雄鹿 vs 湖人；鹈鹕 vs 篮网</title>
     <category>体育</category>
   </programme>
   <programme start="20261112100000 +0800" stop="20261112103000 +0800" channel="赛程预告">
@@ -256,8 +257,12 @@
     <title>加拿大：危地马拉 vs 加拿大</title>
     <category>体育</category>
   </programme>
-  <programme start="20261114103000 +0800" stop="20261114123000 +0800" channel="赛程预告">
+  <programme start="20261114103000 +0800" stop="20261114110000 +0800" channel="赛程预告">
     <title>NBA：马刺 vs 勇士</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261114110000 +0800" stop="20261114130000 +0800" channel="赛程预告">
+    <title>NBA：国王 vs 开拓者</title>
     <category>体育</category>
   </programme>
   <programme start="20261112090000 +0800" stop="20261112114012 +0800" channel="雄鹿 vs 湖人">
