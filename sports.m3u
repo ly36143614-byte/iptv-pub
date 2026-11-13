@@ -65,8 +65,10 @@ http://192.168.5.35:44635/play/663a9679178b3114c909c8f57acd117a1f47276c
 http://192.168.5.35:44635/play/204cc1217a598e38c0523a155c28e8bde68b1f59
 #EXTINF:-1 tvg-id="巴斯 vs 托博尔U23" tvg-chno="1115" tvg-name="巴斯 vs 托博尔U23" tvg-group="篮球" group-title="篮球",巴斯 vs 托博尔U23·聚合源
 http://192.168.5.35:44635/play/f7fb1319d6e12abc33835bbf46d73f356477efcf
-#EXTINF:-1 tvg-id="拉马特哈萨隆 vs 米格代尔哈曼" tvg-chno="1116" tvg-name="拉马特哈萨隆 vs 米格代尔哈曼" tvg-group="篮球" group-title="篮球",拉马特哈萨隆 vs 米格代尔哈曼·聚合源
-http://192.168.5.35:44635/play/12c792e9918308cc32f919c7138dd7c7fbf84b75
+#EXTINF:-1 tvg-id="掠夺者U22 vs 巨人U22" tvg-chno="1116" tvg-name="掠夺者U22 vs 巨人U22" tvg-group="篮球" group-title="篮球",掠夺者U22 vs 巨人U22·聚合源
+http://192.168.5.35:44635/play/0ff6fc5d8ae7b0002f82d7540bbc1ce823a1424c
+#EXTINF:-1 tvg-id="掠夺者U22 vs 巨人U22" tvg-chno="1116" tvg-name="掠夺者U22 vs 巨人U22" tvg-group="篮球" group-title="篮球",掠夺者U22 vs 巨人U22·聚合源
+http://192.168.5.35:44635/play/406637fcbe9dbe2fb78d7a02eaf27c31803bfcfa
 #EXTINF:-1 tvg-id="新西兰破坏者 vs 布里斯班子弹" tvg-chno="1117" tvg-name="新西兰破坏者 vs 布里斯班子弹" tvg-group="篮球" group-title="篮球",新西兰破坏者 vs 布里斯班子弹·聚合源
 http://192.168.5.35:44635/play/1be4bdc06048eae0ba80e41753e932e6e26b144e
 #EXTINF:-1 tvg-id="新西兰破坏者 vs 布里斯班子弹" tvg-chno="1117" tvg-name="新西兰破坏者 vs 布里斯班子弹" tvg-group="篮球" group-title="篮球",新西兰破坏者 vs 布里斯班子弹·聚合源
@@ -149,15 +151,13 @@ http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1303" tvg-name="ESPN" tvg-group="综合体育" group-title="综合体育",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1304" tvg-name="Tennis Channel" tvg-group="综合体育" group-title="综合体育",Tennis Channel
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1305" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1304" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1306" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1305" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1307" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1308" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1307" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
