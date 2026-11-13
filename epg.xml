@@ -242,8 +242,12 @@
     <title>日联赛杯：町田泽维 vs 神户胜利</title>
     <category>体育</category>
   </programme>
-  <programme start="20261115140000 +0800" stop="20261115160000 +0800" channel="赛程预告">
+  <programme start="20261115140000 +0800" stop="20261115150000 +0800" channel="赛程预告">
     <title>日联赛杯：鹿岛鹿角 vs 横滨水手；大阪樱花 vs 浦和红钻</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261115150000 +0800" stop="20261115170000 +0800" channel="赛程预告">
+    <title>中甲：贵州贵阳竞技 vs 定南赣联；Dota2：Nem.A vs YG（EPL World SEA S20）</title>
     <category>体育</category>
   </programme>
 </tv>
