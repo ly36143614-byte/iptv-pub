@@ -61,6 +61,10 @@
     <title>NBA：奇才 vs 活塞</title>
     <category>体育</category>
   </programme>
+  <programme start="20261115090000 +0800" stop="20261115114012 +0800" channel="活塞">
+    <title>NBA：热火 vs 活塞</title>
+    <category>体育</category>
+  </programme>
   <programme start="20261113080000 +0800" stop="20261113083000 +0800" channel="赛程预告">
     <title>NBA：76人 vs 猛龙；奇才 vs 活塞</title>
     <category>体育</category>
@@ -249,8 +253,12 @@
     <title>NBA：鹈鹕 vs 掘金</title>
     <category>体育</category>
   </programme>
-  <programme start="20261115083000 +0800" stop="20261115103000 +0800" channel="赛程预告">
+  <programme start="20261115083000 +0800" stop="20261115090000 +0800" channel="赛程预告">
     <title>NBA：骑士 vs 独行侠</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261115090000 +0800" stop="20261115110000 +0800" channel="赛程预告">
+    <title>墨西哥：牙买加 vs 墨西哥；NBA：热火 vs 活塞；NBA：灰熊 vs 篮网；NBA：森林狼 vs 公牛</title>
     <category>体育</category>
   </programme>
 </tv>
