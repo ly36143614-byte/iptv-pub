@@ -89,8 +89,6 @@ http://192.168.5.35:44635/play/fd808754784549a4e689de7d3c23139120ef9927
 http://192.168.5.35:44635/play/1e34c347445fd462575b4cb30562e95ef4e6b6d8
 #EXTINF:-1 tvg-id="第比利斯国立大学 vs 卡夫卡西亚" tvg-chno="1121" tvg-name="第比利斯国立大学 vs 卡夫卡西亚" tvg-group="篮球" group-title="篮球",第比利斯国立大学 vs 卡夫卡西亚·聚合源
 http://192.168.5.35:44635/play/fff9171f15435c99b2de12cb05b60dc1ceaa9af5
-#EXTINF:-1 tvg-id="阿玛莎杭图U21 vs 宾内卡梭罗U21" tvg-chno="1122" tvg-name="阿玛莎杭图U21 vs 宾内卡梭罗U21" tvg-group="篮球" group-title="篮球",阿玛莎杭图U21 vs 宾内卡梭罗U21·聚合源
-http://192.168.5.35:44635/play/079fd452ceaa11ae76fef3cea3fd7cd9f8061b48
 #EXTINF:-1 tvg-id="JF库鲁布女足 vs 乌斯姆阿尔及尔女足" tvg-chno="1201" tvg-name="JF库鲁布女足 vs 乌斯姆阿尔及尔女足" tvg-group="足球" group-title="足球",JF库鲁布女足 vs 乌斯姆阿尔及尔女足·聚合源
 http://192.168.5.35:44635/play/e15eb4645743347eec45cb4239fb50ad0ee87bc2
 #EXTINF:-1 tvg-id="MC塞达U20 vs 提亚雷特U20" tvg-chno="1202" tvg-name="MC塞达U20 vs 提亚雷特U20" tvg-group="足球" group-title="足球",MC塞达U20 vs 提亚雷特U20·聚合源
@@ -135,11 +133,9 @@ http://192.168.5.35:44635/play/eaf15ab0789fa452d26f411d15ecbbe20316d508
 http://192.168.5.35:44635/play/d7214e6ccfc47baeb9230cec1f1f4d33d3e57859
 #EXTINF:-1 tvg-id="科达古 vs 特克尼克" tvg-chno="1216" tvg-name="科达古 vs 特克尼克" tvg-group="足球" group-title="足球",科达古 vs 特克尼克·聚合源
 http://192.168.5.35:44635/play/bf95cfca2efb191282258c62fb1b1f64a36e9d8a
-#EXTINF:-1 tvg-id="莱米库拉女足 vs 埃塞俄比亚体育学院女足" tvg-chno="1217" tvg-name="莱米库拉女足 vs 埃塞俄比亚体育学院女足" tvg-group="足球" group-title="足球",莱米库拉女足 vs 埃塞俄比亚体育学院女足·聚合源
-http://192.168.5.35:44635/play/b85657bb6f1ae1009ec4de3d7c3ce90848180f6f
-#EXTINF:-1 tvg-id="谢里夫体育联盟U20 vs 波利达U20" tvg-chno="1218" tvg-name="谢里夫体育联盟U20 vs 波利达U20" tvg-group="足球" group-title="足球",谢里夫体育联盟U20 vs 波利达U20·聚合源
+#EXTINF:-1 tvg-id="谢里夫体育联盟U20 vs 波利达U20" tvg-chno="1217" tvg-name="谢里夫体育联盟U20 vs 波利达U20" tvg-group="足球" group-title="足球",谢里夫体育联盟U20 vs 波利达U20·聚合源
 http://192.168.5.35:44635/play/bbc08ace50dd8a04c9a2c855083944e9dd7db2a7
-#EXTINF:-1 tvg-id="雅加达乌达拉 vs 北干巴鲁联" tvg-chno="1219" tvg-name="雅加达乌达拉 vs 北干巴鲁联" tvg-group="足球" group-title="足球",雅加达乌达拉 vs 北干巴鲁联·聚合源
+#EXTINF:-1 tvg-id="雅加达乌达拉 vs 北干巴鲁联" tvg-chno="1218" tvg-name="雅加达乌达拉 vs 北干巴鲁联" tvg-group="足球" group-title="足球",雅加达乌达拉 vs 北干巴鲁联·聚合源
 http://192.168.5.35:44635/play/8a07be9921c4387eb993d5a31bf1853a106ac779
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
