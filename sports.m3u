@@ -91,53 +91,51 @@ http://192.168.5.35:44635/play/fff9171f15435c99b2de12cb05b60dc1ceaa9af5
 http://192.168.5.35:44635/play/9158780a5fb83be7bf83c84cfa44267dad04ccc2
 #EXTINF:-1 tvg-id="阿玛莎杭图U21 vs 宾内卡梭罗U21" tvg-chno="1122" tvg-name="阿玛莎杭图U21 vs 宾内卡梭罗U21" tvg-group="篮球" group-title="篮球",阿玛莎杭图U21 vs 宾内卡梭罗U21·聚合源
 http://192.168.5.35:44635/play/752994aefaf161b2fceb7536972cd4e97f2f1354
-#EXTINF:-1 tvg-id="南方黄眼企鹅女篮 vs 陶兰加怀伊女篮" tvg-chno="1201" tvg-name="南方黄眼企鹅女篮 vs 陶兰加怀伊女篮" tvg-group="足球1080" group-title="足球1080",南方黄眼企鹅女篮 vs 陶兰加怀伊女篮·1080P原声
-http://192.168.5.35:35456/jh/%E5%8D%97%E6%96%B9%E9%BB%84%E7%9C%BC%E4%BC%81%E9%B9%85%E5%A5%B3%E7%AF%AE%20vs%20%E9%99%B6%E5%85%B0%E5%8A%A0%E6%80%80%E4%BC%8A%E5%A5%B3%E7%AF%AE%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="ES塞提夫U20 vs US超亚U20" tvg-chno="1202" tvg-name="ES塞提夫U20 vs US超亚U20" tvg-group="足球" group-title="足球",ES塞提夫U20 vs US超亚U20·聚合源
+#EXTINF:-1 tvg-id="ES塞提夫U20 vs US超亚U20" tvg-chno="1201" tvg-name="ES塞提夫U20 vs US超亚U20" tvg-group="足球" group-title="足球",ES塞提夫U20 vs US超亚U20·聚合源
 http://192.168.5.35:44635/play/e804bb506871194087ab1bd790c726249c205f5f
-#EXTINF:-1 tvg-id="JF库鲁布女足 vs 乌斯姆阿尔及尔女足" tvg-chno="1203" tvg-name="JF库鲁布女足 vs 乌斯姆阿尔及尔女足" tvg-group="足球" group-title="足球",JF库鲁布女足 vs 乌斯姆阿尔及尔女足·聚合源
+#EXTINF:-1 tvg-id="JF库鲁布女足 vs 乌斯姆阿尔及尔女足" tvg-chno="1202" tvg-name="JF库鲁布女足 vs 乌斯姆阿尔及尔女足" tvg-group="足球" group-title="足球",JF库鲁布女足 vs 乌斯姆阿尔及尔女足·聚合源
 http://192.168.5.35:44635/play/e15eb4645743347eec45cb4239fb50ad0ee87bc2
-#EXTINF:-1 tvg-id="MC塞达U20 vs 提亚雷特U20" tvg-chno="1204" tvg-name="MC塞达U20 vs 提亚雷特U20" tvg-group="足球" group-title="足球",MC塞达U20 vs 提亚雷特U20·聚合源
+#EXTINF:-1 tvg-id="MC塞达U20 vs 提亚雷特U20" tvg-chno="1203" tvg-name="MC塞达U20 vs 提亚雷特U20" tvg-group="足球" group-title="足球",MC塞达U20 vs 提亚雷特U20·聚合源
 http://192.168.5.35:44635/play/b5c2c9cea1447ac8d050336c38f8fe97f8fd3b49
-#EXTINF:-1 tvg-id="巴达维亚俱乐部 vs 佩西科塔斯" tvg-chno="1205" tvg-name="巴达维亚俱乐部 vs 佩西科塔斯" tvg-group="足球" group-title="足球",巴达维亚俱乐部 vs 佩西科塔斯·聚合源
+#EXTINF:-1 tvg-id="巴达维亚俱乐部 vs 佩西科塔斯" tvg-chno="1204" tvg-name="巴达维亚俱乐部 vs 佩西科塔斯" tvg-group="足球" group-title="足球",巴达维亚俱乐部 vs 佩西科塔斯·聚合源
 http://192.168.5.35:44635/play/731c2c7b42559410d0130ff22410911718e5eece
-#EXTINF:-1 tvg-id="帕庄内格洛 vs 波斯帕蒂" tvg-chno="1206" tvg-name="帕庄内格洛 vs 波斯帕蒂" tvg-group="足球" group-title="足球",帕庄内格洛 vs 波斯帕蒂·聚合源
+#EXTINF:-1 tvg-id="帕庄内格洛 vs 波斯帕蒂" tvg-chno="1205" tvg-name="帕庄内格洛 vs 波斯帕蒂" tvg-group="足球" group-title="足球",帕庄内格洛 vs 波斯帕蒂·聚合源
 http://192.168.5.35:44635/play/79944167b1d5cd365e3176757e9b1ef6a44a64f0
-#EXTINF:-1 tvg-id="帕里克玛 vs 哈尔FC" tvg-chno="1207" tvg-name="帕里克玛 vs 哈尔FC" tvg-group="足球" group-title="足球",帕里克玛 vs 哈尔FC·聚合源
+#EXTINF:-1 tvg-id="帕里克玛 vs 哈尔FC" tvg-chno="1206" tvg-name="帕里克玛 vs 哈尔FC" tvg-group="足球" group-title="足球",帕里克玛 vs 哈尔FC·聚合源
 http://192.168.5.35:44635/play/133ab32c9c26f28b35bcc3e828b495fdfbcbc9f0
-#EXTINF:-1 tvg-id="帕里克玛 vs 哈尔FC" tvg-chno="1207" tvg-name="帕里克玛 vs 哈尔FC" tvg-group="足球" group-title="足球",帕里克玛 vs 哈尔FC·聚合源
+#EXTINF:-1 tvg-id="帕里克玛 vs 哈尔FC" tvg-chno="1206" tvg-name="帕里克玛 vs 哈尔FC" tvg-group="足球" group-title="足球",帕里克玛 vs 哈尔FC·聚合源
 http://192.168.5.35:44635/play/64dc69a414356281a8d68d85cdf168c76f86485f
-#EXTINF:-1 tvg-id="德仁FC vs 中央骏马" tvg-chno="1208" tvg-name="德仁FC vs 中央骏马" tvg-group="足球1080" group-title="足球1080",德仁FC vs 中央骏马·1080P原声
+#EXTINF:-1 tvg-id="德仁FC vs 中央骏马" tvg-chno="1207" tvg-name="德仁FC vs 中央骏马" tvg-group="足球1080" group-title="足球1080",德仁FC vs 中央骏马·1080P原声
 http://192.168.5.35:35456/jh/%E5%BE%B7%E4%BB%81FC%20vs%20%E4%B8%AD%E5%A4%AE%E9%AA%8F%E9%A9%AC%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="德仁FC vs 中央骏马" tvg-chno="1208" tvg-name="德仁FC vs 中央骏马" tvg-group="足球1080" group-title="足球1080",德仁FC vs 中央骏马·1080P原声
+#EXTINF:-1 tvg-id="德仁FC vs 中央骏马" tvg-chno="1207" tvg-name="德仁FC vs 中央骏马" tvg-group="足球1080" group-title="足球1080",德仁FC vs 中央骏马·1080P原声
 http://192.168.5.35:44635/play/73d9b57aae008ab8d98be0c72742f8184e90b1ed
-#EXTINF:-1 tvg-id="德仁FC vs 中央骏马" tvg-chno="1208" tvg-name="德仁FC vs 中央骏马" tvg-group="足球1080" group-title="足球1080",德仁FC vs 中央骏马·1080P原声
+#EXTINF:-1 tvg-id="德仁FC vs 中央骏马" tvg-chno="1207" tvg-name="德仁FC vs 中央骏马" tvg-group="足球1080" group-title="足球1080",德仁FC vs 中央骏马·1080P原声
 http://192.168.5.35:44635/play/d571db09e8795a52a8f646cb1f49385bf7708dc1
-#EXTINF:-1 tvg-id="普雷斯顿莱恩 vs 昆士兰狮队" tvg-chno="1209" tvg-name="普雷斯顿莱恩 vs 昆士兰狮队" tvg-group="足球" group-title="足球",普雷斯顿莱恩 vs 昆士兰狮队·聚合源
+#EXTINF:-1 tvg-id="普雷斯顿莱恩 vs 昆士兰狮队" tvg-chno="1208" tvg-name="普雷斯顿莱恩 vs 昆士兰狮队" tvg-group="足球" group-title="足球",普雷斯顿莱恩 vs 昆士兰狮队·聚合源
 http://192.168.5.35:44635/play/04cabdd67d2eaf34fa7b651529f64560fa4706b0
-#EXTINF:-1 tvg-id="普雷斯顿莱恩 vs 昆士兰狮队" tvg-chno="1209" tvg-name="普雷斯顿莱恩 vs 昆士兰狮队" tvg-group="足球" group-title="足球",普雷斯顿莱恩 vs 昆士兰狮队·聚合源
+#EXTINF:-1 tvg-id="普雷斯顿莱恩 vs 昆士兰狮队" tvg-chno="1208" tvg-name="普雷斯顿莱恩 vs 昆士兰狮队" tvg-group="足球" group-title="足球",普雷斯顿莱恩 vs 昆士兰狮队·聚合源
 http://192.168.5.35:44635/play/dcdc39714aaf5a569cac2851337141da4d24fc69
-#EXTINF:-1 tvg-id="曼戎市 vs 吉打FA" tvg-chno="1210" tvg-name="曼戎市 vs 吉打FA" tvg-group="足球" group-title="足球",曼戎市 vs 吉打FA·聚合源
+#EXTINF:-1 tvg-id="曼戎市 vs 吉打FA" tvg-chno="1209" tvg-name="曼戎市 vs 吉打FA" tvg-group="足球" group-title="足球",曼戎市 vs 吉打FA·聚合源
 http://192.168.5.35:44635/play/a263c88eb6c294443f500ca84d4b4196463bfd90
-#EXTINF:-1 tvg-id="欧克莱卡诺 vs 马可尼" tvg-chno="1211" tvg-name="欧克莱卡诺 vs 马可尼" tvg-group="足球" group-title="足球",欧克莱卡诺 vs 马可尼·聚合源
+#EXTINF:-1 tvg-id="欧克莱卡诺 vs 马可尼" tvg-chno="1210" tvg-name="欧克莱卡诺 vs 马可尼" tvg-group="足球" group-title="足球",欧克莱卡诺 vs 马可尼·聚合源
 http://192.168.5.35:44635/play/83f260a72c99fc55caffff47d021ad5e5e5dc149
-#EXTINF:-1 tvg-id="欧克莱卡诺 vs 马可尼" tvg-chno="1211" tvg-name="欧克莱卡诺 vs 马可尼" tvg-group="足球" group-title="足球",欧克莱卡诺 vs 马可尼·聚合源
+#EXTINF:-1 tvg-id="欧克莱卡诺 vs 马可尼" tvg-chno="1210" tvg-name="欧克莱卡诺 vs 马可尼" tvg-group="足球" group-title="足球",欧克莱卡诺 vs 马可尼·聚合源
 http://192.168.5.35:44635/play/0fab11e64a67f1188e8bab2053a4cd434be73ed1
-#EXTINF:-1 tvg-id="武装部队 vs 吉兰丹城" tvg-chno="1212" tvg-name="武装部队 vs 吉兰丹城" tvg-group="足球" group-title="足球",武装部队 vs 吉兰丹城·聚合源
+#EXTINF:-1 tvg-id="武装部队 vs 吉兰丹城" tvg-chno="1211" tvg-name="武装部队 vs 吉兰丹城" tvg-group="足球" group-title="足球",武装部队 vs 吉兰丹城·聚合源
 http://192.168.5.35:44635/play/28dfdba051ad8066b8264201c2b87aca6eb3beba
-#EXTINF:-1 tvg-id="波斯科塔格朗 vs 佩西克库宁根" tvg-chno="1213" tvg-name="波斯科塔格朗 vs 佩西克库宁根" tvg-group="足球" group-title="足球",波斯科塔格朗 vs 佩西克库宁根·聚合源
+#EXTINF:-1 tvg-id="波斯科塔格朗 vs 佩西克库宁根" tvg-chno="1212" tvg-name="波斯科塔格朗 vs 佩西克库宁根" tvg-group="足球" group-title="足球",波斯科塔格朗 vs 佩西克库宁根·聚合源
 http://192.168.5.35:44635/play/408d9b7065cbb052d85036d0442a967172d9226b
-#EXTINF:-1 tvg-id="波斯荣耀 vs 佩拉维" tvg-chno="1214" tvg-name="波斯荣耀 vs 佩拉维" tvg-group="足球" group-title="足球",波斯荣耀 vs 佩拉维·聚合源
+#EXTINF:-1 tvg-id="波斯荣耀 vs 佩拉维" tvg-chno="1213" tvg-name="波斯荣耀 vs 佩拉维" tvg-group="足球" group-title="足球",波斯荣耀 vs 佩拉维·聚合源
 http://192.168.5.35:44635/play/74761291a20c4a91c82951b314935cdb1afe5dfd
-#EXTINF:-1 tvg-id="班图尔 vs 格勒斯克联" tvg-chno="1215" tvg-name="班图尔 vs 格勒斯克联" tvg-group="足球" group-title="足球",班图尔 vs 格勒斯克联·聚合源
+#EXTINF:-1 tvg-id="班图尔 vs 格勒斯克联" tvg-chno="1214" tvg-name="班图尔 vs 格勒斯克联" tvg-group="足球" group-title="足球",班图尔 vs 格勒斯克联·聚合源
 http://192.168.5.35:44635/play/eaf15ab0789fa452d26f411d15ecbbe20316d508
-#EXTINF:-1 tvg-id="贝贾亚女足 vs ASE阿尔杰女足" tvg-chno="1216" tvg-name="贝贾亚女足 vs ASE阿尔杰女足" tvg-group="足球" group-title="足球",贝贾亚女足 vs ASE阿尔杰女足·聚合源
+#EXTINF:-1 tvg-id="贝贾亚女足 vs ASE阿尔杰女足" tvg-chno="1215" tvg-name="贝贾亚女足 vs ASE阿尔杰女足" tvg-group="足球" group-title="足球",贝贾亚女足 vs ASE阿尔杰女足·聚合源
 http://192.168.5.35:44635/play/04b119531b5c6eb5702a5c5b77776b245db0fa1d
-#EXTINF:-1 tvg-id="阿克布女足 vs MC奥兰女足" tvg-chno="1217" tvg-name="阿克布女足 vs MC奥兰女足" tvg-group="足球" group-title="足球",阿克布女足 vs MC奥兰女足·聚合源
+#EXTINF:-1 tvg-id="阿克布女足 vs MC奥兰女足" tvg-chno="1216" tvg-name="阿克布女足 vs MC奥兰女足" tvg-group="足球" group-title="足球",阿克布女足 vs MC奥兰女足·聚合源
 http://192.168.5.35:44635/play/407dba11faed6c08b4eeec4216355775ee0e4de1
-#EXTINF:-1 tvg-id="阿达斯女足 vs US比斯克拉女足" tvg-chno="1218" tvg-name="阿达斯女足 vs US比斯克拉女足" tvg-group="足球" group-title="足球",阿达斯女足 vs US比斯克拉女足·聚合源
+#EXTINF:-1 tvg-id="阿达斯女足 vs US比斯克拉女足" tvg-chno="1217" tvg-name="阿达斯女足 vs US比斯克拉女足" tvg-group="足球" group-title="足球",阿达斯女足 vs US比斯克拉女足·聚合源
 http://192.168.5.35:44635/play/60b322dcefee18eba3bf0e4677f58f0e5a4db187
-#EXTINF:-1 tvg-id="雅加达乌达拉 vs 北干巴鲁联" tvg-chno="1219" tvg-name="雅加达乌达拉 vs 北干巴鲁联" tvg-group="足球" group-title="足球",雅加达乌达拉 vs 北干巴鲁联·聚合源
+#EXTINF:-1 tvg-id="雅加达乌达拉 vs 北干巴鲁联" tvg-chno="1218" tvg-name="雅加达乌达拉 vs 北干巴鲁联" tvg-group="足球" group-title="足球",雅加达乌达拉 vs 北干巴鲁联·聚合源
 http://192.168.5.35:44635/play/8a07be9921c4387eb993d5a31bf1853a106ac779
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
