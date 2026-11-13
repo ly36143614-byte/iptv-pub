@@ -4,6 +4,7 @@
   <channel id="ESPN"><display-name>ESPN</display-name></channel>
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
+  <channel id="Z10 vs Xipto"><display-name>Z10 vs Xipto</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <programme start="20261116020000 +0800" stop="20261116051948 +0800" channel="CBS">
@@ -40,6 +41,10 @@
   </programme>
   <programme start="20261116092000 +0800" stop="20261116123948 +0800" channel="NBC">
     <title>Pittsburgh Steelers at Cincinnati Bengals（NFL）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261113170000 +0800" stop="20261113193000 +0800" channel="Z10 vs Xipto">
+    <title>Z10 vs Xipto（EPC Season 3 - Playoffs）</title>
     <category>体育</category>
   </programme>
   <programme start="20261115090000 +0800" stop="20261115114012 +0800" channel="活塞">
