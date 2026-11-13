@@ -240,8 +240,12 @@
     <title>美国：海地 vs 美国</title>
     <category>体育</category>
   </programme>
-  <programme start="20261115080000 +0800" stop="20261115100000 +0800" channel="赛程预告">
+  <programme start="20261115080000 +0800" stop="20261115083000 +0800" channel="赛程预告">
     <title>NBA：鹈鹕 vs 掘金</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261115083000 +0800" stop="20261115103000 +0800" channel="赛程预告">
+    <title>NBA：骑士 vs 独行侠</title>
     <category>体育</category>
   </programme>
 </tv>
