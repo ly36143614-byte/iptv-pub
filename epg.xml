@@ -66,10 +66,6 @@
     <title>NBA：热火 vs 活塞</title>
     <category>体育</category>
   </programme>
-  <programme start="20261113090000 +0800" stop="20261113100000 +0800" channel="赛程预告">
-    <title>NBA：森林狼 vs 独行侠</title>
-    <category>体育</category>
-  </programme>
   <programme start="20261113100000 +0800" stop="20261113120000 +0800" channel="赛程预告">
     <title>NBA：太阳 vs 黄蜂</title>
     <category>体育</category>
@@ -252,6 +248,10 @@
   </programme>
   <programme start="20261115090000 +0800" stop="20261115110000 +0800" channel="赛程预告">
     <title>墨西哥：牙买加 vs 墨西哥；NBA：热火 vs 活塞；NBA：灰熊 vs 篮网；NBA：森林狼 vs 公牛</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261115110000 +0800" stop="20261115130000 +0800" channel="赛程预告">
+    <title>足球：新西兰 vs 印度</title>
     <category>体育</category>
   </programme>
 </tv>
