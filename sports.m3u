@@ -19,24 +19,20 @@ http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1102" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="76人 vs 猛龙" tvg-chno="1103" tvg-name="76人 vs 猛龙" tvg-group="篮球1080" group-title="篮球1080",76人 vs 猛龙·1080P原声
-http://192.168.5.35:35456/jh/76%E4%BA%BA%20vs%20%E7%8C%9B%E9%BE%99%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="76人 vs 猛龙" tvg-chno="1103" tvg-name="76人 vs 猛龙" tvg-group="篮球1080" group-title="篮球1080",76人 vs 猛龙·1080P原声
+#EXTINF:-1 tvg-id="76人 vs 猛龙" tvg-chno="1103" tvg-name="76人 vs 猛龙" tvg-group="篮球" group-title="篮球",76人 vs 猛龙·腾讯直播1·720P
 http://192.168.5.35:35456/jh/76%E4%BA%BA%20vs%20%E7%8C%9B%E9%BE%99%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD1%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="76人 vs 猛龙" tvg-chno="1103" tvg-name="76人 vs 猛龙" tvg-group="篮球1080" group-title="篮球1080",76人 vs 猛龙·1080P原声
+#EXTINF:-1 tvg-id="76人 vs 猛龙" tvg-chno="1103" tvg-name="76人 vs 猛龙" tvg-group="篮球" group-title="篮球",76人 vs 猛龙·腾讯直播1·720P
 http://192.168.5.35:35456/jh/76%E4%BA%BA%20vs%20%E7%8C%9B%E9%BE%99%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="76人 vs 猛龙" tvg-chno="1103" tvg-name="76人 vs 猛龙" tvg-group="篮球1080" group-title="篮球1080",76人 vs 猛龙·1080P原声
+#EXTINF:-1 tvg-id="76人 vs 猛龙" tvg-chno="1103" tvg-name="76人 vs 猛龙" tvg-group="篮球" group-title="篮球",76人 vs 猛龙·腾讯直播1·720P
 http://192.168.5.35:44635/play/3c1eda5f6baf468eafdaebab7a83fe20fd9a0dd4
-#EXTINF:-1 tvg-id="UVAQ莫雷利亚女篮 vs 阿纳瓦克北部女篮" tvg-chno="1104" tvg-name="UVAQ莫雷利亚女篮 vs 阿纳瓦克北部女篮" tvg-group="篮球" group-title="篮球",UVAQ莫雷利亚女篮 vs 阿纳瓦克北部女篮·聚合源
-http://192.168.5.35:44635/play/a1afb2b86379ebf21c82936827db112b30e2f808
-#EXTINF:-1 tvg-id="UVAQ莫雷利亚女篮 vs 阿纳瓦克北部女篮" tvg-chno="1104" tvg-name="UVAQ莫雷利亚女篮 vs 阿纳瓦克北部女篮" tvg-group="篮球" group-title="篮球",UVAQ莫雷利亚女篮 vs 阿纳瓦克北部女篮·聚合源
-http://192.168.5.35:44635/play/095d44db0c3e2146bbe89f60e8b0f393bc42d178
-#EXTINF:-1 tvg-id="加州州立北岭分校 vs 恩典圣经" tvg-chno="1105" tvg-name="加州州立北岭分校 vs 恩典圣经" tvg-group="篮球" group-title="篮球",加州州立北岭分校 vs 恩典圣经·聚合源
+#EXTINF:-1 tvg-id="加州州立北岭分校 vs 恩典圣经" tvg-chno="1104" tvg-name="加州州立北岭分校 vs 恩典圣经" tvg-group="篮球" group-title="篮球",加州州立北岭分校 vs 恩典圣经·聚合源
 http://192.168.5.35:44635/play/13b6dbd592c22d2d4e9cab3b55058b8e287bc4c3
-#EXTINF:-1 tvg-id="南伊利诺大学 vs 里奇蒙德大学" tvg-chno="1106" tvg-name="南伊利诺大学 vs 里奇蒙德大学" tvg-group="篮球" group-title="篮球",南伊利诺大学 vs 里奇蒙德大学·聚合源
+#EXTINF:-1 tvg-id="南伊利诺大学 vs 里奇蒙德大学" tvg-chno="1105" tvg-name="南伊利诺大学 vs 里奇蒙德大学" tvg-group="篮球" group-title="篮球",南伊利诺大学 vs 里奇蒙德大学·聚合源
 http://192.168.5.35:44635/play/23dd5fbbb1aeb44700b10a02eecd5d980ae2d82d
-#EXTINF:-1 tvg-id="南伊利诺大学 vs 里奇蒙德大学" tvg-chno="1106" tvg-name="南伊利诺大学 vs 里奇蒙德大学" tvg-group="篮球" group-title="篮球",南伊利诺大学 vs 里奇蒙德大学·聚合源
+#EXTINF:-1 tvg-id="南伊利诺大学 vs 里奇蒙德大学" tvg-chno="1105" tvg-name="南伊利诺大学 vs 里奇蒙德大学" tvg-group="篮球" group-title="篮球",南伊利诺大学 vs 里奇蒙德大学·聚合源
 http://192.168.5.35:44635/play/6ddc586d904c90d4068d1313c759d0ce87825e50
+#EXTINF:-1 tvg-id="圣何塞州立大学 vs 加州大学河滨分校" tvg-chno="1106" tvg-name="圣何塞州立大学 vs 加州大学河滨分校" tvg-group="篮球" group-title="篮球",圣何塞州立大学 vs 加州大学河滨分校·聚合源
+http://192.168.5.35:44635/play/2a0515820da2e6d5818a8b90e06f1b7326aaa8df
 #EXTINF:-1 tvg-id="太阳 vs 黄蜂" tvg-chno="1107" tvg-name="太阳 vs 黄蜂" tvg-group="篮球1080" group-title="篮球1080",太阳 vs 黄蜂·腾讯直播3·1080P
 http://192.168.5.35:35456/jh/%E5%A4%AA%E9%98%B3%20vs%20%E9%BB%84%E8%9C%82%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD3%C2%B71080P.m3u8
 #EXTINF:-1 tvg-id="太阳 vs 黄蜂" tvg-chno="1107" tvg-name="太阳 vs 黄蜂" tvg-group="篮球1080" group-title="篮球1080",太阳 vs 黄蜂·腾讯直播3·1080P
@@ -93,13 +89,15 @@ http://192.168.5.35:44635/play/29f3836e9a6ee5d5a933d613eb64846401616817
 http://192.168.5.35:44635/play/5064463eac120f4ea7d01f8f195e9ce0980001fe
 #EXTINF:-1 tvg-id="森林狼 vs 独行侠" tvg-chno="1111" tvg-name="森林狼 vs 独行侠" tvg-group="篮球1080" group-title="篮球1080",森林狼 vs 独行侠·腾讯直播3·1080P
 http://192.168.5.35:44635/play/d69879cb060ee0044aa3f2247465344fd7ef8342
-#EXTINF:-1 tvg-id="蝎子UCBL vs UANL" tvg-chno="1112" tvg-name="蝎子UCBL vs UANL" tvg-group="篮球" group-title="篮球",蝎子UCBL vs UANL·聚合源
+#EXTINF:-1 tvg-id="瓜萨维弗雷勒斯 vs 诺加莱斯金达斯" tvg-chno="1112" tvg-name="瓜萨维弗雷勒斯 vs 诺加莱斯金达斯" tvg-group="篮球" group-title="篮球",瓜萨维弗雷勒斯 vs 诺加莱斯金达斯·聚合源
+http://192.168.5.35:44635/play/4fd242f02f94bc06d380dbd2bb97422b07c92888
+#EXTINF:-1 tvg-id="蝎子UCBL vs UANL" tvg-chno="1113" tvg-name="蝎子UCBL vs UANL" tvg-group="篮球" group-title="篮球",蝎子UCBL vs UANL·聚合源
 http://192.168.5.35:44635/play/7765bee0c5d7c55dbde63af1b721cf6bbc7dce40
-#EXTINF:-1 tvg-id="蝎子UCBL vs UANL" tvg-chno="1112" tvg-name="蝎子UCBL vs UANL" tvg-group="篮球" group-title="篮球",蝎子UCBL vs UANL·聚合源
+#EXTINF:-1 tvg-id="蝎子UCBL vs UANL" tvg-chno="1113" tvg-name="蝎子UCBL vs UANL" tvg-group="篮球" group-title="篮球",蝎子UCBL vs UANL·聚合源
 http://192.168.5.35:44635/play/41cd676d68d55c864f8e753f3e08156d46196a8f
-#EXTINF:-1 tvg-id="阿瓜斯卡连特斯公鸡 vs 帕拉尔米拿罗斯" tvg-chno="1113" tvg-name="阿瓜斯卡连特斯公鸡 vs 帕拉尔米拿罗斯" tvg-group="篮球" group-title="篮球",阿瓜斯卡连特斯公鸡 vs 帕拉尔米拿罗斯·聚合源
+#EXTINF:-1 tvg-id="阿瓜斯卡连特斯公鸡 vs 帕拉尔米拿罗斯" tvg-chno="1114" tvg-name="阿瓜斯卡连特斯公鸡 vs 帕拉尔米拿罗斯" tvg-group="篮球" group-title="篮球",阿瓜斯卡连特斯公鸡 vs 帕拉尔米拿罗斯·聚合源
 http://192.168.5.35:44635/play/525183939c6a7f4aac96a7c9476f70bfe3fd773c
-#EXTINF:-1 tvg-id="阿瓜斯卡连特斯公鸡 vs 帕拉尔米拿罗斯" tvg-chno="1113" tvg-name="阿瓜斯卡连特斯公鸡 vs 帕拉尔米拿罗斯" tvg-group="篮球" group-title="篮球",阿瓜斯卡连特斯公鸡 vs 帕拉尔米拿罗斯·聚合源
+#EXTINF:-1 tvg-id="阿瓜斯卡连特斯公鸡 vs 帕拉尔米拿罗斯" tvg-chno="1114" tvg-name="阿瓜斯卡连特斯公鸡 vs 帕拉尔米拿罗斯" tvg-group="篮球" group-title="篮球",阿瓜斯卡连特斯公鸡 vs 帕拉尔米拿罗斯·聚合源
 http://192.168.5.35:44635/play/1608fbd35b8f9181428aebc0837434ee123c31c1
 #EXTINF:-1 tvg-id="ASC北海道 vs 南葛SC" tvg-chno="1201" tvg-name="ASC北海道 vs 南葛SC" tvg-group="足球" group-title="足球",ASC北海道 vs 南葛SC·聚合源
 http://192.168.5.35:44635/play/95b1e876117c1211004af2fe1a0dae17891e0e91
