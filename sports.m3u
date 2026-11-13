@@ -26,8 +26,6 @@ http://192.168.5.35:35456/jh/76%E4%BA%BA%20vs%20%E7%8C%9B%E9%BE%99%C2%B71080P%E5
 #EXTINF:-1 tvg-id="76人 vs 猛龙" tvg-chno="1103" tvg-name="76人 vs 猛龙" tvg-group="篮球1080" group-title="篮球1080",76人 vs 猛龙·腾讯直播3·1080P
 http://192.168.5.35:35456/jh/76%E4%BA%BA%20vs%20%E7%8C%9B%E9%BE%99%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD1%C2%B7720P.m3u8
 #EXTINF:-1 tvg-id="76人 vs 猛龙" tvg-chno="1103" tvg-name="76人 vs 猛龙" tvg-group="篮球1080" group-title="篮球1080",76人 vs 猛龙·腾讯直播3·1080P
-http://192.168.5.35:35456/jh/76%E4%BA%BA%20vs%20%E7%8C%9B%E9%BE%99%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD3%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="76人 vs 猛龙" tvg-chno="1103" tvg-name="76人 vs 猛龙" tvg-group="篮球1080" group-title="篮球1080",76人 vs 猛龙·腾讯直播3·1080P
 http://192.168.5.35:35456/jh/76%E4%BA%BA%20vs%20%E7%8C%9B%E9%BE%99%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P.m3u8
 #EXTINF:-1 tvg-id="奇才 vs 活塞" tvg-chno="1104" tvg-name="奇才 vs 活塞" tvg-group="篮球1080" group-title="篮球1080",奇才 vs 活塞·腾讯直播3·1080P
 http://192.168.5.35:35456/jh/%E5%A5%87%E6%89%8D%20vs%20%E6%B4%BB%E5%A1%9E%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD3%C2%B71080P.m3u8
@@ -75,17 +73,21 @@ http://192.168.5.35:44635/play/a9f1d6f8bb2e80bc72b78c730eeb5f15c9ef4311
 http://192.168.5.35:44635/play/1ff2e873c78f57bdf38c166b134b7ce13a95a4b3
 #EXTINF:-1 tvg-id="科林蒂安 vs 皮涅鲁斯" tvg-chno="1114" tvg-name="科林蒂安 vs 皮涅鲁斯" tvg-group="篮球" group-title="篮球",科林蒂安 vs 皮涅鲁斯·聚合源
 http://192.168.5.35:44635/play/084c82fb2a62541af45ccfe812e01c008d2c365d
-#EXTINF:-1 tvg-id="肯尼索州立 vs 拉格朗日学院" tvg-chno="1115" tvg-name="肯尼索州立 vs 拉格朗日学院" tvg-group="篮球" group-title="篮球",肯尼索州立 vs 拉格朗日学院·聚合源
+#EXTINF:-1 tvg-id="罗德岛大学 vs 马里兰东海岸大学" tvg-chno="1115" tvg-name="罗德岛大学 vs 马里兰东海岸大学" tvg-group="篮球" group-title="篮球",罗德岛大学 vs 马里兰东海岸大学·聚合源
+http://192.168.5.35:44635/play/7d958d614f0e527df501768bc04ae771740d2a4b
+#EXTINF:-1 tvg-id="罗德岛大学 vs 马里兰东海岸大学" tvg-chno="1115" tvg-name="罗德岛大学 vs 马里兰东海岸大学" tvg-group="篮球" group-title="篮球",罗德岛大学 vs 马里兰东海岸大学·聚合源
+http://192.168.5.35:44635/play/b7d9da9cf03c88306a9a71fb07c3bf51d4835b2d
+#EXTINF:-1 tvg-id="肯尼索州立 vs 拉格朗日学院" tvg-chno="1116" tvg-name="肯尼索州立 vs 拉格朗日学院" tvg-group="篮球" group-title="篮球",肯尼索州立 vs 拉格朗日学院·聚合源
 http://192.168.5.35:44635/play/b4916f0ef9f9817097d3ae8fb456294075ecda8d
-#EXTINF:-1 tvg-id="肯尼索州立 vs 拉格朗日学院" tvg-chno="1115" tvg-name="肯尼索州立 vs 拉格朗日学院" tvg-group="篮球" group-title="篮球",肯尼索州立 vs 拉格朗日学院·聚合源
+#EXTINF:-1 tvg-id="肯尼索州立 vs 拉格朗日学院" tvg-chno="1116" tvg-name="肯尼索州立 vs 拉格朗日学院" tvg-group="篮球" group-title="篮球",肯尼索州立 vs 拉格朗日学院·聚合源
 http://192.168.5.35:44635/play/be0cd7f5be7df14eb0631a243c7fb9ccbee82b57
-#EXTINF:-1 tvg-id="阿特纳斯 vs 圣洛伦索" tvg-chno="1116" tvg-name="阿特纳斯 vs 圣洛伦索" tvg-group="篮球" group-title="篮球",阿特纳斯 vs 圣洛伦索·聚合源
+#EXTINF:-1 tvg-id="阿特纳斯 vs 圣洛伦索" tvg-chno="1117" tvg-name="阿特纳斯 vs 圣洛伦索" tvg-group="篮球" group-title="篮球",阿特纳斯 vs 圣洛伦索·聚合源
 http://192.168.5.35:44635/play/a4546f44b8c3ed856c188224b7779cf921a91cb3
-#EXTINF:-1 tvg-id="阿特纳斯 vs 圣洛伦索" tvg-chno="1116" tvg-name="阿特纳斯 vs 圣洛伦索" tvg-group="篮球" group-title="篮球",阿特纳斯 vs 圣洛伦索·聚合源
+#EXTINF:-1 tvg-id="阿特纳斯 vs 圣洛伦索" tvg-chno="1117" tvg-name="阿特纳斯 vs 圣洛伦索" tvg-group="篮球" group-title="篮球",阿特纳斯 vs 圣洛伦索·聚合源
 http://192.168.5.35:44635/play/ea95a00a1a595c453fcd9c2957c332e828dda1a7
-#EXTINF:-1 tvg-id="马里兰巴尔的摩分校 vs 摩根州立大学" tvg-chno="1117" tvg-name="马里兰巴尔的摩分校 vs 摩根州立大学" tvg-group="篮球" group-title="篮球",马里兰巴尔的摩分校 vs 摩根州立大学·聚合源
+#EXTINF:-1 tvg-id="马里兰巴尔的摩分校 vs 摩根州立大学" tvg-chno="1118" tvg-name="马里兰巴尔的摩分校 vs 摩根州立大学" tvg-group="篮球" group-title="篮球",马里兰巴尔的摩分校 vs 摩根州立大学·聚合源
 http://192.168.5.35:44635/play/dac03dc7710baf79b0888ee36b9c0db23ecd32b4
-#EXTINF:-1 tvg-id="马里兰巴尔的摩分校 vs 摩根州立大学" tvg-chno="1117" tvg-name="马里兰巴尔的摩分校 vs 摩根州立大学" tvg-group="篮球" group-title="篮球",马里兰巴尔的摩分校 vs 摩根州立大学·聚合源
+#EXTINF:-1 tvg-id="马里兰巴尔的摩分校 vs 摩根州立大学" tvg-chno="1118" tvg-name="马里兰巴尔的摩分校 vs 摩根州立大学" tvg-group="篮球" group-title="篮球",马里兰巴尔的摩分校 vs 摩根州立大学·聚合源
 http://192.168.5.35:44635/play/1c10b7dba8948037e234dfcbb54962e8056d1595
 #EXTINF:-1 tvg-id="ASC北海道 vs 南葛SC" tvg-chno="1201" tvg-name="ASC北海道 vs 南葛SC" tvg-group="足球" group-title="足球",ASC北海道 vs 南葛SC·聚合源
 http://192.168.5.35:44635/play/f6669b62c54b2f6b2bfb53460195d4e1729d9b51
