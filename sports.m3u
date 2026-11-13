@@ -169,17 +169,19 @@ http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NBC" tvg-chno="1354" tvg-name="NBC" tvg-group="体育综合" group-title="体育综合",NBC
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
-#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1355" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
+#EXTINF:-1 tvg-id="F1·Formula" tvg-chno="1355" tvg-name="F1·Formula" tvg-group="体育综合" group-title="体育综合",F1·Formula
+https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
+#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1356" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1356" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1357" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1357" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1358" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1358" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1359" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="Titanflow vs BO" tvg-chno="1359" tvg-name="Titanflow vs BO" tvg-group="体育综合" group-title="体育综合",Titanflow vs BO·聚合源
+#EXTINF:-1 tvg-id="Titanflow vs BO" tvg-chno="1360" tvg-name="Titanflow vs BO" tvg-group="体育综合" group-title="体育综合",Titanflow vs BO·聚合源
 http://192.168.5.35:44635/play/82198e0dfec190a56d6ea9784f79179eaf6435cc
-#EXTINF:-1 tvg-id="Titanflow vs BO" tvg-chno="1359" tvg-name="Titanflow vs BO" tvg-group="体育综合" group-title="体育综合",Titanflow vs BO·聚合源
+#EXTINF:-1 tvg-id="Titanflow vs BO" tvg-chno="1360" tvg-name="Titanflow vs BO" tvg-group="体育综合" group-title="体育综合",Titanflow vs BO·聚合源
 http://192.168.5.35:44635/play/cffdc0e8d4e5968722839e8f70a1d5dd118acca3
 #EXTINF:-1 tvg-id="COH vs XctN" tvg-chno="1401" tvg-name="COH vs XctN" tvg-group="DOTA2" group-title="DOTA2",COH vs XctN·聚合源
 http://192.168.5.35:44635/play/62bbf2d767e5cc91a69a64fda464a3467831df15
@@ -221,17 +223,19 @@ http://192.168.5.35:44635/play/e683cf9d9909d20e3c5dc9d4c969a1b9d52b270b
 http://192.168.5.35:44635/play/57f950df3c0378229a050c5b7e37a9f154a18494
 #EXTINF:-1 tvg-id="YG vs RE" tvg-chno="1410" tvg-name="YG vs RE" tvg-group="DOTA2" group-title="DOTA2",YG vs RE·聚合源
 http://192.168.5.35:44635/play/53b7eb662b16c6eeef24d293a7a6fe0da0d04ddd
-#EXTINF:-1 tvg-id="11-13 76人 vs 猛龙" tvg-chno="1501" tvg-name="11-13 76人 vs 猛龙" tvg-group="NBA回放" group-title="NBA回放",11-13 76人 vs 猛龙
+#EXTINF:-1 tvg-id="11-13 信州勇士 vs 群马雷鹤" tvg-chno="1501" tvg-name="11-13 信州勇士 vs 群马雷鹤" tvg-group="NBA回放" group-title="NBA回放",11-13 信州勇士 vs 群马雷鹤
+http://192.168.5.35:8098/f/2026-11-13%20%E4%BF%A1%E5%B7%9E%E5%8B%87%E5%A3%AB%20vs%20%E7%BE%A4%E9%A9%AC%E9%9B%B7%E9%B9%A4.mkv
+#EXTINF:-1 tvg-id="11-13 76人 vs 猛龙" tvg-chno="1502" tvg-name="11-13 76人 vs 猛龙" tvg-group="NBA回放" group-title="NBA回放",11-13 76人 vs 猛龙
 http://192.168.5.35:8098/f/2026-11-13%2076%E4%BA%BA%20vs%20%E7%8C%9B%E9%BE%99.mkv
-#EXTINF:-1 tvg-id="11-12 琉球黄金帝王 vs 东京太阳摇滚" tvg-chno="1502" tvg-name="11-12 琉球黄金帝王 vs 东京太阳摇滚" tvg-group="NBA回放" group-title="NBA回放",11-12 琉球黄金帝王 vs 东京太阳摇滚
+#EXTINF:-1 tvg-id="11-12 琉球黄金帝王 vs 东京太阳摇滚" tvg-chno="1503" tvg-name="11-12 琉球黄金帝王 vs 东京太阳摇滚" tvg-group="NBA回放" group-title="NBA回放",11-12 琉球黄金帝王 vs 东京太阳摇滚
 http://192.168.5.35:8098/f/2026-11-12%20%E7%90%89%E7%90%83%E9%BB%84%E9%87%91%E5%B8%9D%E7%8E%8B%20vs%20%E4%B8%9C%E4%BA%AC%E5%A4%AA%E9%98%B3%E6%91%87%E6%BB%9A.mkv
-#EXTINF:-1 tvg-id="11-12 火箭 vs 勇士" tvg-chno="1503" tvg-name="11-12 火箭 vs 勇士" tvg-group="NBA回放" group-title="NBA回放",11-12 火箭 vs 勇士
+#EXTINF:-1 tvg-id="11-12 火箭 vs 勇士" tvg-chno="1504" tvg-name="11-12 火箭 vs 勇士" tvg-group="NBA回放" group-title="NBA回放",11-12 火箭 vs 勇士
 http://192.168.5.35:8098/f/2026-11-12%20%E7%81%AB%E7%AE%AD%20vs%20%E5%8B%87%E5%A3%AB.mkv
-#EXTINF:-1 tvg-id="11-12 开拓者 vs 雷霆" tvg-chno="1504" tvg-name="11-12 开拓者 vs 雷霆" tvg-group="NBA回放" group-title="NBA回放",11-12 开拓者 vs 雷霆
+#EXTINF:-1 tvg-id="11-12 开拓者 vs 雷霆" tvg-chno="1505" tvg-name="11-12 开拓者 vs 雷霆" tvg-group="NBA回放" group-title="NBA回放",11-12 开拓者 vs 雷霆
 http://192.168.5.35:8098/f/2026-11-12%20%E5%BC%80%E6%8B%93%E8%80%85%20vs%20%E9%9B%B7%E9%9C%86.mkv
-#EXTINF:-1 tvg-id="11-12 尼克斯 vs 骑士" tvg-chno="1505" tvg-name="11-12 尼克斯 vs 骑士" tvg-group="NBA回放" group-title="NBA回放",11-12 尼克斯 vs 骑士
+#EXTINF:-1 tvg-id="11-12 尼克斯 vs 骑士" tvg-chno="1506" tvg-name="11-12 尼克斯 vs 骑士" tvg-group="NBA回放" group-title="NBA回放",11-12 尼克斯 vs 骑士
 http://192.168.5.35:8098/f/2026-11-12%20%E5%B0%BC%E5%85%8B%E6%96%AF%20vs%20%E9%AA%91%E5%A3%AB.mkv
-#EXTINF:-1 tvg-id="11-10 活塞 vs 奇才" tvg-chno="1506" tvg-name="11-10 活塞 vs 奇才" tvg-group="NBA回放" group-title="NBA回放",11-10 活塞 vs 奇才
+#EXTINF:-1 tvg-id="11-10 活塞 vs 奇才" tvg-chno="1507" tvg-name="11-10 活塞 vs 奇才" tvg-group="NBA回放" group-title="NBA回放",11-10 活塞 vs 奇才
 http://192.168.5.35:8098/f/2026-11-10%20%E6%B4%BB%E5%A1%9E%20vs%20%E5%A5%87%E6%89%8D.mkv
-#EXTINF:-1 tvg-id="11-09 活塞 vs 湖人" tvg-chno="1507" tvg-name="11-09 活塞 vs 湖人" tvg-group="NBA回放" group-title="NBA回放",11-09 活塞 vs 湖人
+#EXTINF:-1 tvg-id="11-09 活塞 vs 湖人" tvg-chno="1508" tvg-name="11-09 活塞 vs 湖人" tvg-group="NBA回放" group-title="NBA回放",11-09 活塞 vs 湖人
 http://192.168.5.35:8098/f/2026-11-09%20%E6%B4%BB%E5%A1%9E%20vs%20%E6%B9%96%E4%BA%BA.mkv
