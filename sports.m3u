@@ -33,6 +33,10 @@ http://192.168.5.35:44635/play/85aa56e5548c7251b5ebff7a85562d53890deb76
 http://192.168.5.35:44635/play/9511a07a37923b16d301b2cd869b3ced0880fb3f
 #EXTINF:-1 tvg-id="凯恩斯太攀蛇 vs 悉尼国王" tvg-chno="1106" tvg-name="凯恩斯太攀蛇 vs 悉尼国王" tvg-group="篮球" group-title="篮球",凯恩斯太攀蛇 vs 悉尼国王·聚合源
 http://192.168.5.35:44635/play/8c46ac7f9542a40c408ce20bcf5345ed014ce0d0
+#EXTINF:-1 tvg-id="凯恩斯太攀蛇 vs 悉尼国王" tvg-chno="1106" tvg-name="凯恩斯太攀蛇 vs 悉尼国王" tvg-group="篮球" group-title="篮球",凯恩斯太攀蛇 vs 悉尼国王·聚合源
+http://192.168.5.35:44635/play/647f4978cd4a3801285d1ff1f64c24e26166f21d
+#EXTINF:-1 tvg-id="凯恩斯太攀蛇 vs 悉尼国王" tvg-chno="1106" tvg-name="凯恩斯太攀蛇 vs 悉尼国王" tvg-group="篮球" group-title="篮球",凯恩斯太攀蛇 vs 悉尼国王·聚合源
+http://192.168.5.35:44635/play/43252f802f3d589e63dd877bf279b19ed0f88e70
 #EXTINF:-1 tvg-id="北海道风神 vs 神户鹳鸟" tvg-chno="1107" tvg-name="北海道风神 vs 神户鹳鸟" tvg-group="篮球" group-title="篮球",北海道风神 vs 神户鹳鸟·聚合源
 http://192.168.5.35:44635/play/d5064a15e21917ac9a9fc685c023577055f9665f
 #EXTINF:-1 tvg-id="北海道风神 vs 神户鹳鸟" tvg-chno="1107" tvg-name="北海道风神 vs 神户鹳鸟" tvg-group="篮球" group-title="篮球",北海道风神 vs 神户鹳鸟·聚合源
@@ -97,45 +101,35 @@ http://192.168.5.35:44635/play/e804bb506871194087ab1bd790c726249c205f5f
 http://192.168.5.35:44635/play/e15eb4645743347eec45cb4239fb50ad0ee87bc2
 #EXTINF:-1 tvg-id="MC塞达U20 vs 提亚雷特U20" tvg-chno="1203" tvg-name="MC塞达U20 vs 提亚雷特U20" tvg-group="足球" group-title="足球",MC塞达U20 vs 提亚雷特U20·聚合源
 http://192.168.5.35:44635/play/b5c2c9cea1447ac8d050336c38f8fe97f8fd3b49
-#EXTINF:-1 tvg-id="巴达维亚俱乐部 vs 佩西科塔斯" tvg-chno="1204" tvg-name="巴达维亚俱乐部 vs 佩西科塔斯" tvg-group="足球" group-title="足球",巴达维亚俱乐部 vs 佩西科塔斯·聚合源
-http://192.168.5.35:44635/play/731c2c7b42559410d0130ff22410911718e5eece
-#EXTINF:-1 tvg-id="帕庄内格洛 vs 波斯帕蒂" tvg-chno="1205" tvg-name="帕庄内格洛 vs 波斯帕蒂" tvg-group="足球" group-title="足球",帕庄内格洛 vs 波斯帕蒂·聚合源
-http://192.168.5.35:44635/play/79944167b1d5cd365e3176757e9b1ef6a44a64f0
-#EXTINF:-1 tvg-id="帕里克玛 vs 哈尔FC" tvg-chno="1206" tvg-name="帕里克玛 vs 哈尔FC" tvg-group="足球" group-title="足球",帕里克玛 vs 哈尔FC·聚合源
+#EXTINF:-1 tvg-id="帕里克玛 vs 哈尔FC" tvg-chno="1204" tvg-name="帕里克玛 vs 哈尔FC" tvg-group="足球" group-title="足球",帕里克玛 vs 哈尔FC·聚合源
 http://192.168.5.35:44635/play/133ab32c9c26f28b35bcc3e828b495fdfbcbc9f0
-#EXTINF:-1 tvg-id="帕里克玛 vs 哈尔FC" tvg-chno="1206" tvg-name="帕里克玛 vs 哈尔FC" tvg-group="足球" group-title="足球",帕里克玛 vs 哈尔FC·聚合源
+#EXTINF:-1 tvg-id="帕里克玛 vs 哈尔FC" tvg-chno="1204" tvg-name="帕里克玛 vs 哈尔FC" tvg-group="足球" group-title="足球",帕里克玛 vs 哈尔FC·聚合源
 http://192.168.5.35:44635/play/64dc69a414356281a8d68d85cdf168c76f86485f
-#EXTINF:-1 tvg-id="德仁FC vs 中央骏马" tvg-chno="1207" tvg-name="德仁FC vs 中央骏马" tvg-group="足球1080" group-title="足球1080",德仁FC vs 中央骏马·1080P原声
+#EXTINF:-1 tvg-id="德仁FC vs 中央骏马" tvg-chno="1205" tvg-name="德仁FC vs 中央骏马" tvg-group="足球1080" group-title="足球1080",德仁FC vs 中央骏马·1080P原声
 http://192.168.5.35:35456/jh/%E5%BE%B7%E4%BB%81FC%20vs%20%E4%B8%AD%E5%A4%AE%E9%AA%8F%E9%A9%AC%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="德仁FC vs 中央骏马" tvg-chno="1207" tvg-name="德仁FC vs 中央骏马" tvg-group="足球1080" group-title="足球1080",德仁FC vs 中央骏马·1080P原声
+#EXTINF:-1 tvg-id="德仁FC vs 中央骏马" tvg-chno="1205" tvg-name="德仁FC vs 中央骏马" tvg-group="足球1080" group-title="足球1080",德仁FC vs 中央骏马·1080P原声
 http://192.168.5.35:44635/play/73d9b57aae008ab8d98be0c72742f8184e90b1ed
-#EXTINF:-1 tvg-id="德仁FC vs 中央骏马" tvg-chno="1207" tvg-name="德仁FC vs 中央骏马" tvg-group="足球1080" group-title="足球1080",德仁FC vs 中央骏马·1080P原声
+#EXTINF:-1 tvg-id="德仁FC vs 中央骏马" tvg-chno="1205" tvg-name="德仁FC vs 中央骏马" tvg-group="足球1080" group-title="足球1080",德仁FC vs 中央骏马·1080P原声
 http://192.168.5.35:44635/play/d571db09e8795a52a8f646cb1f49385bf7708dc1
-#EXTINF:-1 tvg-id="普雷斯顿莱恩 vs 昆士兰狮队" tvg-chno="1208" tvg-name="普雷斯顿莱恩 vs 昆士兰狮队" tvg-group="足球" group-title="足球",普雷斯顿莱恩 vs 昆士兰狮队·聚合源
+#EXTINF:-1 tvg-id="普雷斯顿莱恩 vs 昆士兰狮队" tvg-chno="1206" tvg-name="普雷斯顿莱恩 vs 昆士兰狮队" tvg-group="足球" group-title="足球",普雷斯顿莱恩 vs 昆士兰狮队·聚合源
 http://192.168.5.35:44635/play/04cabdd67d2eaf34fa7b651529f64560fa4706b0
-#EXTINF:-1 tvg-id="普雷斯顿莱恩 vs 昆士兰狮队" tvg-chno="1208" tvg-name="普雷斯顿莱恩 vs 昆士兰狮队" tvg-group="足球" group-title="足球",普雷斯顿莱恩 vs 昆士兰狮队·聚合源
+#EXTINF:-1 tvg-id="普雷斯顿莱恩 vs 昆士兰狮队" tvg-chno="1206" tvg-name="普雷斯顿莱恩 vs 昆士兰狮队" tvg-group="足球" group-title="足球",普雷斯顿莱恩 vs 昆士兰狮队·聚合源
 http://192.168.5.35:44635/play/dcdc39714aaf5a569cac2851337141da4d24fc69
-#EXTINF:-1 tvg-id="曼戎市 vs 吉打FA" tvg-chno="1209" tvg-name="曼戎市 vs 吉打FA" tvg-group="足球" group-title="足球",曼戎市 vs 吉打FA·聚合源
+#EXTINF:-1 tvg-id="曼戎市 vs 吉打FA" tvg-chno="1207" tvg-name="曼戎市 vs 吉打FA" tvg-group="足球" group-title="足球",曼戎市 vs 吉打FA·聚合源
 http://192.168.5.35:44635/play/a263c88eb6c294443f500ca84d4b4196463bfd90
-#EXTINF:-1 tvg-id="欧克莱卡诺 vs 马可尼" tvg-chno="1210" tvg-name="欧克莱卡诺 vs 马可尼" tvg-group="足球" group-title="足球",欧克莱卡诺 vs 马可尼·聚合源
+#EXTINF:-1 tvg-id="欧克莱卡诺 vs 马可尼" tvg-chno="1208" tvg-name="欧克莱卡诺 vs 马可尼" tvg-group="足球" group-title="足球",欧克莱卡诺 vs 马可尼·聚合源
 http://192.168.5.35:44635/play/83f260a72c99fc55caffff47d021ad5e5e5dc149
-#EXTINF:-1 tvg-id="欧克莱卡诺 vs 马可尼" tvg-chno="1210" tvg-name="欧克莱卡诺 vs 马可尼" tvg-group="足球" group-title="足球",欧克莱卡诺 vs 马可尼·聚合源
+#EXTINF:-1 tvg-id="欧克莱卡诺 vs 马可尼" tvg-chno="1208" tvg-name="欧克莱卡诺 vs 马可尼" tvg-group="足球" group-title="足球",欧克莱卡诺 vs 马可尼·聚合源
 http://192.168.5.35:44635/play/0fab11e64a67f1188e8bab2053a4cd434be73ed1
-#EXTINF:-1 tvg-id="武装部队 vs 吉兰丹城" tvg-chno="1211" tvg-name="武装部队 vs 吉兰丹城" tvg-group="足球" group-title="足球",武装部队 vs 吉兰丹城·聚合源
+#EXTINF:-1 tvg-id="武装部队 vs 吉兰丹城" tvg-chno="1209" tvg-name="武装部队 vs 吉兰丹城" tvg-group="足球" group-title="足球",武装部队 vs 吉兰丹城·聚合源
 http://192.168.5.35:44635/play/28dfdba051ad8066b8264201c2b87aca6eb3beba
-#EXTINF:-1 tvg-id="波斯科塔格朗 vs 佩西克库宁根" tvg-chno="1212" tvg-name="波斯科塔格朗 vs 佩西克库宁根" tvg-group="足球" group-title="足球",波斯科塔格朗 vs 佩西克库宁根·聚合源
-http://192.168.5.35:44635/play/408d9b7065cbb052d85036d0442a967172d9226b
-#EXTINF:-1 tvg-id="波斯荣耀 vs 佩拉维" tvg-chno="1213" tvg-name="波斯荣耀 vs 佩拉维" tvg-group="足球" group-title="足球",波斯荣耀 vs 佩拉维·聚合源
-http://192.168.5.35:44635/play/74761291a20c4a91c82951b314935cdb1afe5dfd
-#EXTINF:-1 tvg-id="班图尔 vs 格勒斯克联" tvg-chno="1214" tvg-name="班图尔 vs 格勒斯克联" tvg-group="足球" group-title="足球",班图尔 vs 格勒斯克联·聚合源
-http://192.168.5.35:44635/play/eaf15ab0789fa452d26f411d15ecbbe20316d508
-#EXTINF:-1 tvg-id="贝贾亚女足 vs ASE阿尔杰女足" tvg-chno="1215" tvg-name="贝贾亚女足 vs ASE阿尔杰女足" tvg-group="足球" group-title="足球",贝贾亚女足 vs ASE阿尔杰女足·聚合源
+#EXTINF:-1 tvg-id="贝贾亚女足 vs ASE阿尔杰女足" tvg-chno="1210" tvg-name="贝贾亚女足 vs ASE阿尔杰女足" tvg-group="足球" group-title="足球",贝贾亚女足 vs ASE阿尔杰女足·聚合源
 http://192.168.5.35:44635/play/04b119531b5c6eb5702a5c5b77776b245db0fa1d
-#EXTINF:-1 tvg-id="阿克布女足 vs MC奥兰女足" tvg-chno="1216" tvg-name="阿克布女足 vs MC奥兰女足" tvg-group="足球" group-title="足球",阿克布女足 vs MC奥兰女足·聚合源
+#EXTINF:-1 tvg-id="阿克布女足 vs MC奥兰女足" tvg-chno="1211" tvg-name="阿克布女足 vs MC奥兰女足" tvg-group="足球" group-title="足球",阿克布女足 vs MC奥兰女足·聚合源
 http://192.168.5.35:44635/play/407dba11faed6c08b4eeec4216355775ee0e4de1
-#EXTINF:-1 tvg-id="阿达斯女足 vs US比斯克拉女足" tvg-chno="1217" tvg-name="阿达斯女足 vs US比斯克拉女足" tvg-group="足球" group-title="足球",阿达斯女足 vs US比斯克拉女足·聚合源
+#EXTINF:-1 tvg-id="阿达斯女足 vs US比斯克拉女足" tvg-chno="1212" tvg-name="阿达斯女足 vs US比斯克拉女足" tvg-group="足球" group-title="足球",阿达斯女足 vs US比斯克拉女足·聚合源
 http://192.168.5.35:44635/play/60b322dcefee18eba3bf0e4677f58f0e5a4db187
-#EXTINF:-1 tvg-id="雅加达乌达拉 vs 北干巴鲁联" tvg-chno="1218" tvg-name="雅加达乌达拉 vs 北干巴鲁联" tvg-group="足球" group-title="足球",雅加达乌达拉 vs 北干巴鲁联·聚合源
+#EXTINF:-1 tvg-id="雅加达乌达拉 vs 北干巴鲁联" tvg-chno="1213" tvg-name="雅加达乌达拉 vs 北干巴鲁联" tvg-group="足球" group-title="足球",雅加达乌达拉 vs 北干巴鲁联·聚合源
 http://192.168.5.35:44635/play/8a07be9921c4387eb993d5a31bf1853a106ac779
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
@@ -147,11 +141,9 @@ http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1305" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1306" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
-http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1307" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1308" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1307" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
@@ -161,19 +153,15 @@ http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NBC" tvg-chno="1354" tvg-name="NBC" tvg-group="体育综合" group-title="体育综合",NBC
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
-#EXTINF:-1 tvg-id="F1·Formula" tvg-chno="1355" tvg-name="F1·Formula" tvg-group="体育综合" group-title="体育综合",F1·Formula
-https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
-#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1356" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
+#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1355" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1357" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
-http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1358" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1356" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1359" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1357" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="Titanflow vs BO" tvg-chno="1360" tvg-name="Titanflow vs BO" tvg-group="体育综合" group-title="体育综合",Titanflow vs BO·聚合源
+#EXTINF:-1 tvg-id="Titanflow vs BO" tvg-chno="1358" tvg-name="Titanflow vs BO" tvg-group="体育综合" group-title="体育综合",Titanflow vs BO·聚合源
 http://192.168.5.35:44635/play/82198e0dfec190a56d6ea9784f79179eaf6435cc
-#EXTINF:-1 tvg-id="Titanflow vs BO" tvg-chno="1360" tvg-name="Titanflow vs BO" tvg-group="体育综合" group-title="体育综合",Titanflow vs BO·聚合源
+#EXTINF:-1 tvg-id="Titanflow vs BO" tvg-chno="1358" tvg-name="Titanflow vs BO" tvg-group="体育综合" group-title="体育综合",Titanflow vs BO·聚合源
 http://192.168.5.35:44635/play/cffdc0e8d4e5968722839e8f70a1d5dd118acca3
 #EXTINF:-1 tvg-id="COH vs XctN" tvg-chno="1401" tvg-name="COH vs XctN" tvg-group="DOTA2" group-title="DOTA2",COH vs XctN·聚合源
 http://192.168.5.35:44635/play/62bbf2d767e5cc91a69a64fda464a3467831df15
@@ -215,6 +203,10 @@ http://192.168.5.35:44635/play/e683cf9d9909d20e3c5dc9d4c969a1b9d52b270b
 http://192.168.5.35:44635/play/57f950df3c0378229a050c5b7e37a9f154a18494
 #EXTINF:-1 tvg-id="YG vs RE" tvg-chno="1410" tvg-name="YG vs RE" tvg-group="DOTA2" group-title="DOTA2",YG vs RE·聚合源
 http://192.168.5.35:44635/play/53b7eb662b16c6eeef24d293a7a6fe0da0d04ddd
+#EXTINF:-1 tvg-id="Z10 vs Xipto" tvg-chno="1411" tvg-name="Z10 vs Xipto" tvg-group="DOTA2" group-title="DOTA2",Z10 vs Xipto·聚合源
+http://192.168.5.35:44635/play/334c34850417510febe757cb81dfd8ccfc3b1861
+#EXTINF:-1 tvg-id="Z10 vs Xipto" tvg-chno="1411" tvg-name="Z10 vs Xipto" tvg-group="DOTA2" group-title="DOTA2",Z10 vs Xipto·聚合源
+http://192.168.5.35:44635/play/60acb39910eaca52706c886524a085d76fb46298
 #EXTINF:-1 tvg-id="11-13 信州勇士 vs 群马雷鹤" tvg-chno="1501" tvg-name="11-13 信州勇士 vs 群马雷鹤" tvg-group="NBA回放" group-title="NBA回放",11-13 信州勇士 vs 群马雷鹤
 http://192.168.5.35:8098/f/2026-11-13%20%E4%BF%A1%E5%B7%9E%E5%8B%87%E5%A3%AB%20vs%20%E7%BE%A4%E9%A9%AC%E9%9B%B7%E9%B9%A4.mkv
 #EXTINF:-1 tvg-id="11-13 76人 vs 猛龙" tvg-chno="1502" tvg-name="11-13 76人 vs 猛龙" tvg-group="NBA回放" group-title="NBA回放",11-13 76人 vs 猛龙
