@@ -91,15 +91,13 @@ http://192.168.5.35:44635/play/29f3836e9a6ee5d5a933d613eb64846401616817
 http://192.168.5.35:44635/play/5064463eac120f4ea7d01f8f195e9ce0980001fe
 #EXTINF:-1 tvg-id="森林狼 vs 独行侠" tvg-chno="1112" tvg-name="森林狼 vs 独行侠" tvg-group="篮球1080" group-title="篮球1080",森林狼 vs 独行侠·腾讯直播3·1080P
 http://192.168.5.35:44635/play/d69879cb060ee0044aa3f2247465344fd7ef8342
-#EXTINF:-1 tvg-id="瓜萨维弗雷勒斯 vs 诺加莱斯金达斯" tvg-chno="1113" tvg-name="瓜萨维弗雷勒斯 vs 诺加莱斯金达斯" tvg-group="篮球" group-title="篮球",瓜萨维弗雷勒斯 vs 诺加莱斯金达斯·聚合源
-http://192.168.5.35:44635/play/4fd242f02f94bc06d380dbd2bb97422b07c92888
-#EXTINF:-1 tvg-id="蝎子UCBL vs UANL" tvg-chno="1114" tvg-name="蝎子UCBL vs UANL" tvg-group="篮球" group-title="篮球",蝎子UCBL vs UANL·聚合源
+#EXTINF:-1 tvg-id="蝎子UCBL vs UANL" tvg-chno="1113" tvg-name="蝎子UCBL vs UANL" tvg-group="篮球" group-title="篮球",蝎子UCBL vs UANL·聚合源
 http://192.168.5.35:44635/play/7765bee0c5d7c55dbde63af1b721cf6bbc7dce40
-#EXTINF:-1 tvg-id="蝎子UCBL vs UANL" tvg-chno="1114" tvg-name="蝎子UCBL vs UANL" tvg-group="篮球" group-title="篮球",蝎子UCBL vs UANL·聚合源
+#EXTINF:-1 tvg-id="蝎子UCBL vs UANL" tvg-chno="1113" tvg-name="蝎子UCBL vs UANL" tvg-group="篮球" group-title="篮球",蝎子UCBL vs UANL·聚合源
 http://192.168.5.35:44635/play/41cd676d68d55c864f8e753f3e08156d46196a8f
-#EXTINF:-1 tvg-id="阿瓜斯卡连特斯公鸡 vs 帕拉尔米拿罗斯" tvg-chno="1115" tvg-name="阿瓜斯卡连特斯公鸡 vs 帕拉尔米拿罗斯" tvg-group="篮球" group-title="篮球",阿瓜斯卡连特斯公鸡 vs 帕拉尔米拿罗斯·聚合源
+#EXTINF:-1 tvg-id="阿瓜斯卡连特斯公鸡 vs 帕拉尔米拿罗斯" tvg-chno="1114" tvg-name="阿瓜斯卡连特斯公鸡 vs 帕拉尔米拿罗斯" tvg-group="篮球" group-title="篮球",阿瓜斯卡连特斯公鸡 vs 帕拉尔米拿罗斯·聚合源
 http://192.168.5.35:44635/play/525183939c6a7f4aac96a7c9476f70bfe3fd773c
-#EXTINF:-1 tvg-id="阿瓜斯卡连特斯公鸡 vs 帕拉尔米拿罗斯" tvg-chno="1115" tvg-name="阿瓜斯卡连特斯公鸡 vs 帕拉尔米拿罗斯" tvg-group="篮球" group-title="篮球",阿瓜斯卡连特斯公鸡 vs 帕拉尔米拿罗斯·聚合源
+#EXTINF:-1 tvg-id="阿瓜斯卡连特斯公鸡 vs 帕拉尔米拿罗斯" tvg-chno="1114" tvg-name="阿瓜斯卡连特斯公鸡 vs 帕拉尔米拿罗斯" tvg-group="篮球" group-title="篮球",阿瓜斯卡连特斯公鸡 vs 帕拉尔米拿罗斯·聚合源
 http://192.168.5.35:44635/play/1608fbd35b8f9181428aebc0837434ee123c31c1
 #EXTINF:-1 tvg-id="ASC北海道 vs 南葛SC" tvg-chno="1201" tvg-name="ASC北海道 vs 南葛SC" tvg-group="足球" group-title="足球",ASC北海道 vs 南葛SC·聚合源
 http://192.168.5.35:44635/play/95b1e876117c1211004af2fe1a0dae17891e0e91
@@ -131,6 +129,8 @@ http://192.168.5.35:44635/play/04cabdd67d2eaf34fa7b651529f64560fa4706b0
 http://192.168.5.35:44635/play/dcdc39714aaf5a569cac2851337141da4d24fc69
 #EXTINF:-1 tvg-id="曼格雷联 vs 汤加" tvg-chno="1210" tvg-name="曼格雷联 vs 汤加" tvg-group="足球" group-title="足球",曼格雷联 vs 汤加·聚合源
 http://192.168.5.35:44635/play/132b3da1f1b53c08c94577289a46e13d551c2eb1
+#EXTINF:-1 tvg-id="曼格雷联 vs 汤加" tvg-chno="1210" tvg-name="曼格雷联 vs 汤加" tvg-group="足球" group-title="足球",曼格雷联 vs 汤加·聚合源
+http://192.168.5.35:44635/play/4ba8516fa9b17efb53aed41f693760f046605ce0
 #EXTINF:-1 tvg-id="查科FC vs 印度兄弟WA" tvg-chno="1211" tvg-name="查科FC vs 印度兄弟WA" tvg-group="足球" group-title="足球",查科FC vs 印度兄弟WA·聚合源
 http://192.168.5.35:44635/play/75495c19ff960e00d68a3c2fe3b60a82086272ba
 #EXTINF:-1 tvg-id="欧克莱卡诺 vs 马可尼" tvg-chno="1212" tvg-name="欧克莱卡诺 vs 马可尼" tvg-group="足球" group-title="足球",欧克莱卡诺 vs 马可尼·聚合源
@@ -155,11 +155,9 @@ http://192.168.5.35:44635/play/b85657bb6f1ae1009ec4de3d7c3ce90848180f6f
 http://192.168.5.35:44635/play/bbc08ace50dd8a04c9a2c855083944e9dd7db2a7
 #EXTINF:-1 tvg-id="阿丽斯东京 vs 福山市FC" tvg-chno="1219" tvg-name="阿丽斯东京 vs 福山市FC" tvg-group="足球" group-title="足球",阿丽斯东京 vs 福山市FC·聚合源
 http://192.168.5.35:44635/play/4de3c78230f89a3c25d27d41134105966df069d8
-#EXTINF:-1 tvg-id="雅加达乌达拉 vs 北干巴鲁联" tvg-chno="1220" tvg-name="雅加达乌达拉 vs 北干巴鲁联" tvg-group="足球" group-title="足球",雅加达乌达拉 vs 北干巴鲁联·聚合源
-http://192.168.5.35:44635/play/8a07be9921c4387eb993d5a31bf1853a106ac779
-#EXTINF:-1 tvg-id="高松SONIO vs 布兰迪厄广崎" tvg-chno="1221" tvg-name="高松SONIO vs 布兰迪厄广崎" tvg-group="足球" group-title="足球",高松SONIO vs 布兰迪厄广崎·聚合源
+#EXTINF:-1 tvg-id="高松SONIO vs 布兰迪厄广崎" tvg-chno="1220" tvg-name="高松SONIO vs 布兰迪厄广崎" tvg-group="足球" group-title="足球",高松SONIO vs 布兰迪厄广崎·聚合源
 http://192.168.5.35:44635/play/9599a7a943e7a41789592cb945d23a095eb47281
-#EXTINF:-1 tvg-id="高松SONIO vs 布兰迪厄广崎" tvg-chno="1221" tvg-name="高松SONIO vs 布兰迪厄广崎" tvg-group="足球" group-title="足球",高松SONIO vs 布兰迪厄广崎·聚合源
+#EXTINF:-1 tvg-id="高松SONIO vs 布兰迪厄广崎" tvg-chno="1220" tvg-name="高松SONIO vs 布兰迪厄广崎" tvg-group="足球" group-title="足球",高松SONIO vs 布兰迪厄广崎·聚合源
 http://192.168.5.35:44635/play/c0e02ba0cc7d10f0a10ea22995375f51521cee31
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
