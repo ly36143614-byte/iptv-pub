@@ -139,7 +139,9 @@ http://192.168.5.35:44635/play/bbc08ace50dd8a04c9a2c855083944e9dd7db2a7
 http://192.168.5.35:44635/play/04b119531b5c6eb5702a5c5b77776b245db0fa1d
 #EXTINF:-1 tvg-id="阿克布女足 vs MC奥兰女足" tvg-chno="1218" tvg-name="阿克布女足 vs MC奥兰女足" tvg-group="足球" group-title="足球",阿克布女足 vs MC奥兰女足·聚合源
 http://192.168.5.35:44635/play/407dba11faed6c08b4eeec4216355775ee0e4de1
-#EXTINF:-1 tvg-id="雅加达乌达拉 vs 北干巴鲁联" tvg-chno="1219" tvg-name="雅加达乌达拉 vs 北干巴鲁联" tvg-group="足球" group-title="足球",雅加达乌达拉 vs 北干巴鲁联·聚合源
+#EXTINF:-1 tvg-id="阿达斯女足 vs US比斯克拉女足" tvg-chno="1219" tvg-name="阿达斯女足 vs US比斯克拉女足" tvg-group="足球" group-title="足球",阿达斯女足 vs US比斯克拉女足·聚合源
+http://192.168.5.35:44635/play/60b322dcefee18eba3bf0e4677f58f0e5a4db187
+#EXTINF:-1 tvg-id="雅加达乌达拉 vs 北干巴鲁联" tvg-chno="1220" tvg-name="雅加达乌达拉 vs 北干巴鲁联" tvg-group="足球" group-title="足球",雅加达乌达拉 vs 北干巴鲁联·聚合源
 http://192.168.5.35:44635/play/8a07be9921c4387eb993d5a31bf1853a106ac779
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
