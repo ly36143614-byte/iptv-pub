@@ -5,7 +5,6 @@
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="太阳 vs 黄蜂"><display-name>太阳 vs 黄蜂</display-name></channel>
-  <channel id="森林狼 vs 独行侠"><display-name>森林狼 vs 独行侠</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <programme start="20261116020000 +0800" stop="20261116051948 +0800" channel="CBS">
@@ -46,10 +45,6 @@
   </programme>
   <programme start="20261113100000 +0800" stop="20261113124012 +0800" channel="太阳 vs 黄蜂">
     <title>Charlotte Hornets at Phoenix Suns 已结束（NBA）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261113090000 +0800" stop="20261113114012 +0800" channel="森林狼 vs 独行侠">
-    <title>Dallas Mavericks at Minnesota Timberwolves 已结束（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261115090000 +0800" stop="20261115114012 +0800" channel="活塞">
