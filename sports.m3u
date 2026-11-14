@@ -15,9 +15,11 @@ http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E9%A6%96%E9%92%A2
 http://192.168.5.35:35456/team/%E6%B4%BB%E5%A1%9E
 #EXTINF:-1 tvg-id="北京国安" tvg-chno="1007" tvg-name="北京国安" tvg-group="关注" group-title="关注",北京国安｜11-20 19:35 上海海港
 http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89
-#EXTINF:-1 tvg-id="ESPN" tvg-chno="1101" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
+#EXTINF:-1 tvg-id="NBA TV" tvg-chno="1101" tvg-name="NBA TV" tvg-group="篮球" group-title="篮球",NBA TV
+http://23.237.104.106:8080/USA_NBA/index.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-chno="1102" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="四川远达美乐女篮 vs 广东奥普特女篮" tvg-chno="1102" tvg-name="四川远达美乐女篮 vs 广东奥普特女篮" tvg-group="篮球" group-title="篮球",四川远达美乐女篮 vs 广东奥普特女篮·咪咕直播·720P
+#EXTINF:-1 tvg-id="四川远达美乐女篮 vs 广东奥普特女篮" tvg-chno="1103" tvg-name="四川远达美乐女篮 vs 广东奥普特女篮" tvg-group="篮球" group-title="篮球",四川远达美乐女篮 vs 广东奥普特女篮·咪咕直播·720P
 http://192.168.5.35:35456/jh/%E5%9B%9B%E5%B7%9D%E8%BF%9C%E8%BE%BE%E7%BE%8E%E4%B9%90%E5%A5%B3%E7%AF%AE%20vs%20%E5%B9%BF%E4%B8%9C%E5%A5%A5%E6%99%AE%E7%89%B9%E5%A5%B3%E7%AF%AE%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P.m3u8
 #EXTINF:-1 tvg-id="中国U19 vs 塔吉克斯坦U19" tvg-chno="1201" tvg-name="中国U19 vs 塔吉克斯坦U19" tvg-group="足球" group-title="足球",中国U19 vs 塔吉克斯坦U19·咪咕直播·720P
 http://192.168.5.35:35456/jh/%E4%B8%AD%E5%9B%BDU19%20vs%20%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6U19%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P.m3u8
@@ -43,9 +45,11 @@ http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1305" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1306" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1307" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1307" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1308" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
@@ -59,9 +63,11 @@ http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 #EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1356" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1357" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1357" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1358" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1358" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1359" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="11-14 珀斯野猫 vs 伊拉瓦拉老鹰" tvg-chno="1501" tvg-name="11-14 珀斯野猫 vs 伊拉瓦拉老鹰" tvg-group="NBA回放" group-title="NBA回放",11-14 珀斯野猫 vs 伊拉瓦拉老鹰
 http://192.168.5.35:8098/f/2026-11-14%20%E7%8F%80%E6%96%AF%E9%87%8E%E7%8C%AB%20vs%20%E4%BC%8A%E6%8B%89%E7%93%A6%E6%8B%89%E8%80%81%E9%B9%B0.mkv
