@@ -26,8 +26,36 @@
     <title>Los Angeles Rams at Arizona Cardinals（NFL）</title>
     <category>体育</category>
   </programme>
+  <programme start="20261123020000 +0800" stop="20261123051948 +0800" channel="CBS">
+    <title>Miami Dolphins at Buffalo Bills（NFL）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261123020000 +0800" stop="20261123051948 +0800" channel="CBS">
+    <title>Arizona Cardinals at Kansas City Chiefs（NFL）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261123020000 +0800" stop="20261123051948 +0800" channel="CBS">
+    <title>Pittsburgh Steelers at Philadelphia Eagles（NFL）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261123052500 +0800" stop="20261123084448 +0800" channel="CBS">
+    <title>Las Vegas Raiders at Denver Broncos（NFL）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261123052500 +0800" stop="20261123084448 +0800" channel="CBS">
+    <title>Jacksonville Jaguars at New York Giants（NFL）</title>
+    <category>体育</category>
+  </programme>
   <programme start="20261117091500 +0800" stop="20261117123448 +0800" channel="ESPN">
     <title>Los Angeles Chargers at Baltimore Ravens（NFL）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261119080000 +0800" stop="20261119104012 +0800" channel="ESPN">
+    <title>Milwaukee Bucks at Miami Heat（NBA）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261119103000 +0800" stop="20261119131012 +0800" channel="ESPN">
+    <title>Boston Celtics at Denver Nuggets（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261115090000 +0800" stop="20261115114012 +0800" channel="NBA TV">
@@ -46,56 +74,16 @@
     <title>Charlotte Hornets at Los Angeles Lakers（NBA）</title>
     <category>体育</category>
   </programme>
+  <programme start="20261123092000 +0800" stop="20261123123948 +0800" channel="NBC">
+    <title>Minnesota Vikings at San Francisco 49ers（NFL）</title>
+    <category>体育</category>
+  </programme>
   <programme start="20261115090000 +0800" stop="20261115114012 +0800" channel="活塞">
     <title>NBA：热火 vs 活塞</title>
     <category>体育</category>
   </programme>
-  <programme start="20261114210000 +0800" stop="20261114220000 +0800" channel="赛程预告">
-    <title>Dota2：Synapse vs RJohn（EPL Season 41）；IAP vs potn9k（Asgard Championship S2）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261114220000 +0800" stop="20261114223000 +0800" channel="赛程预告">
-    <title>足球：科索沃 vs 以色列；Dota2：Liquid vs LEGION（1w Essence III）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261114223000 +0800" stop="20261114230000 +0800" channel="赛程预告">
-    <title>Dota2：Xipto vs Z10（DreamLeague D2 S5）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261114230000 +0800" stop="20261114233000 +0800" channel="赛程预告">
-    <title>伊朗：巴勒斯坦 vs 伊朗</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261114233000 +0800" stop="20261115010000 +0800" channel="赛程预告">
-    <title>荷乙：布雷达 vs 埃门</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261115010000 +0800" stop="20261115020000 +0800" channel="赛程预告">
-    <title>欧国联：格鲁吉亚 vs 匈牙利；欧国联：挪威 vs 威尔士；Dota2：Aurora vs CHero（1w Essence III）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261115020000 +0800" stop="20261115030000 +0800" channel="赛程预告">
-    <title>Dota2：PTime vs PR（DreamLeague D2 S5）；Z10 vs NoHW（EPC Season 3）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261115030000 +0800" stop="20261115034500 +0800" channel="赛程预告">
-    <title>荷乙：罗达JC vs 福伦丹；荷乙：瓦尔韦克 vs 登博思；荷乙：阿尔梅勒 vs 海尔蒙特；非洲杯：阿尔及利亚 vs 多哥；Dota2：Synapse vs Allied（Asgard Championship S2）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261115034500 +0800" stop="20261115040000 +0800" channel="赛程预告">
-    <title>欧国联：奥地利 vs 爱尔兰；欧国联：瑞典 vs 波黑；欧国联：罗马尼亚 vs 波兰；欧国联：葡萄牙 vs 丹麦；乌克兰：北爱尔兰 vs 乌克兰</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261115040000 +0800" stop="20261115053000 +0800" channel="赛程预告">
+  <programme start="20261115061500 +0800" stop="20261115080000 +0800" channel="赛程预告">
     <title>Dota2：1w vs Frogs（1w Essence III）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261115053000 +0800" stop="20261115073000 +0800" channel="赛程预告">
-    <title>巴甲：米拉索尔 vs 米竞技；美国：海地 vs 美国</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261115073000 +0800" stop="20261115080000 +0800" channel="赛程预告">
-    <title>巴甲：沙佩科 vs 达伽马</title>
     <category>体育</category>
   </programme>
   <programme start="20261115080000 +0800" stop="20261115083000 +0800" channel="赛程预告">
@@ -135,7 +123,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261115180000 +0800" stop="20261115200000 +0800" channel="赛程预告">
-    <title>Dota2：PC vs Synapse（DreamLeague D2 S5）；Synapse vs IAP（Asgard Championship S2）；CR vs Ryvex（EPL World SEA S20）；4iki vs ICxI（EPL Season 41）</title>
+    <title>Dota2：PC vs Synapse（DreamLeague D2 S5）；PARI vs GL（1w Essence III）；CR vs Ryvex（EPL World SEA S20）；4iki vs ICxI（EPL Season 41）</title>
     <category>体育</category>
   </programme>
   <programme start="20261115200000 +0800" stop="20261115210000 +0800" channel="赛程预告">
@@ -154,20 +142,32 @@
     <title>足球：塞浦路斯 vs 黑山；拉脱维亚 vs 亚美尼亚</title>
     <category>体育</category>
   </programme>
-  <programme start="20261115223000 +0800" stop="20261116000000 +0800" channel="赛程预告">
+  <programme start="20261115223000 +0800" stop="20261115230000 +0800" channel="赛程预告">
     <title>Dota2：Nemiga vs IAP（DreamLeague D2 S5）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261116000000 +0800" stop="20261116010000 +0800" channel="赛程预告">
-    <title>Dota2：Xipto vs Angry（Asgard Championship S2）；RJohn vs potn9k（EPL Season 41）</title>
+  <programme start="20261115230000 +0800" stop="20261116000000 +0800" channel="赛程预告">
+    <title>足球：中国U17男足 vs 洪都拉斯U17；Dota2：Angry vs Z10（EPC Season 3）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261116000000 +0800" stop="20261116003000 +0800" channel="赛程预告">
+    <title>Dota2：Synapse vs IAP（Asgard Championship S2）；Aurora vs DKONCA（1w Essence III）；RJohn vs potn9k（EPL Season 41）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261116003000 +0800" stop="20261116010000 +0800" channel="赛程预告">
+    <title>足球：拉温纳 vs 福尔利</title>
     <category>体育</category>
   </programme>
   <programme start="20261116010000 +0800" stop="20261116020000 +0800" channel="赛程预告">
-    <title>芬兰：芬兰 vs 圣马力诺；阿尔巴尼亚：白俄罗斯 vs 阿尔巴尼亚</title>
+    <title>阿尔巴尼亚：白俄罗斯 vs 阿尔巴尼亚；芬兰：芬兰 vs 圣马力诺</title>
     <category>体育</category>
   </programme>
-  <programme start="20261116020000 +0800" stop="20261116034500 +0800" channel="赛程预告">
+  <programme start="20261116020000 +0800" stop="20261116030000 +0800" channel="赛程预告">
     <title>NBA：76人 vs 步行者；Dota2：HULI vs CHero（DreamLeague D2 S5）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261116030000 +0800" stop="20261116034500 +0800" channel="赛程预告">
+    <title>Dota2：Xipto vs Angry（Asgard Championship S2）</title>
     <category>体育</category>
   </programme>
   <programme start="20261116034500 +0800" stop="20261116050000 +0800" channel="赛程预告">
@@ -218,8 +218,24 @@
     <title>非洲杯：纳米比亚 vs 喀麦隆；非洲杯：苏丹 vs 塞内加尔；Dota2：IAP vs PR（EPL Season 41）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261116213000 +0800" stop="20261116233000 +0800" channel="赛程预告">
+  <programme start="20261116213000 +0800" stop="20261116230000 +0800" channel="赛程预告">
     <title>Dota2：Frogs vs ICxI（DreamLeague D2 S5）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261116230000 +0800" stop="20261117000000 +0800" channel="赛程预告">
+    <title>足球：法罗群岛 vs 摩尔多瓦；斯洛伐克：哈萨克斯坦 vs 斯洛伐克</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261117000000 +0800" stop="20261117010000 +0800" channel="赛程预告">
+    <title>Dota2：Synapse vs PC（EPL Season 41）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261117010000 +0800" stop="20261117034500 +0800" channel="赛程预告">
+    <title>冰岛：冰岛 vs 卢森堡；足球：立陶宛 vs 列支敦士登；足球：爱沙尼亚 vs 保加利亚；Dota2：PTime vs Z10（DreamLeague D2 S5）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261117034500 +0800" stop="20261117054500 +0800" channel="赛程预告">
+    <title>德国：德国 vs 荷兰；塞尔维亚：希腊 vs 塞尔维亚；瑞士：瑞士 vs 苏格兰；斯洛文尼亚：北马其顿 vs 斯洛文尼亚；足球：直布罗陀 vs 马耳他</title>
     <category>体育</category>
   </programme>
 </tv>
