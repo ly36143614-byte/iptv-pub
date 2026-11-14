@@ -60,10 +60,6 @@
     <title>NBA：热火 vs 活塞</title>
     <category>体育</category>
   </programme>
-  <programme start="20261114070000 +0800" stop="20261114080000 +0800" channel="赛程预告">
-    <title>阿根廷：阿根廷 vs 乌拉圭</title>
-    <category>体育</category>
-  </programme>
   <programme start="20261114080000 +0800" stop="20261114090000 +0800" channel="赛程预告">
     <title>厄瓜多尔：厄瓜多尔 vs 哥斯达黎加；哥伦比亚：哥伦比亚 vs 智利；NBA：步行者 vs 尼克斯；NBA：魔术 vs 雄鹿</title>
     <category>体育</category>
@@ -272,8 +268,12 @@
     <title>巴拿马：巴拿马 vs 库拉索；NBA：凯尔特人 vs 独行侠；NBA：猛龙 vs 尼克斯</title>
     <category>体育</category>
   </programme>
-  <programme start="20261116080000 +0800" stop="20261116100000 +0800" channel="赛程预告">
+  <programme start="20261116080000 +0800" stop="20261116090000 +0800" channel="赛程预告">
     <title>NBA：奇才 vs 火箭</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261116090000 +0800" stop="20261116110000 +0800" channel="赛程预告">
+    <title>NBA：雄鹿 vs 老鹰</title>
     <category>体育</category>
   </programme>
 </tv>
