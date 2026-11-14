@@ -268,8 +268,12 @@
     <title>NBA：爵士 vs 马刺</title>
     <category>体育</category>
   </programme>
-  <programme start="20261116070000 +0800" stop="20261116090000 +0800" channel="赛程预告">
+  <programme start="20261116070000 +0800" stop="20261116080000 +0800" channel="赛程预告">
     <title>巴拿马：巴拿马 vs 库拉索；NBA：凯尔特人 vs 独行侠；NBA：猛龙 vs 尼克斯</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261116080000 +0800" stop="20261116100000 +0800" channel="赛程预告">
+    <title>NBA：奇才 vs 火箭</title>
     <category>体育</category>
   </programme>
 </tv>
