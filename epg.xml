@@ -60,10 +60,6 @@
     <title>NBA：热火 vs 活塞</title>
     <category>体育</category>
   </programme>
-  <programme start="20261114100000 +0800" stop="20261114103000 +0800" channel="赛程预告">
-    <title>加拿大：危地马拉 vs 加拿大</title>
-    <category>体育</category>
-  </programme>
   <programme start="20261114103000 +0800" stop="20261114110000 +0800" channel="赛程预告">
     <title>NBA：马刺 vs 勇士</title>
     <category>体育</category>
@@ -270,6 +266,10 @@
   </programme>
   <programme start="20261116100000 +0800" stop="20261116120000 +0800" channel="赛程预告">
     <title>NBA：国王 vs 雷霆</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261116120000 +0800" stop="20261116140000 +0800" channel="赛程预告">
+    <title>Dota2：CR vs Resp（EPL World SEA S20）</title>
     <category>体育</category>
   </programme>
 </tv>
