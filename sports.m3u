@@ -25,6 +25,8 @@ http://192.168.5.35:35456/jh/%E7%8F%80%E6%96%AF%E9%87%8E%E7%8C%AB%20vs%20%E4%BC%
 http://192.168.5.35:35456/jh/%E5%9B%9B%E5%B7%9D%E8%BF%9C%E8%BE%BE%E7%BE%8E%E4%B9%90%E5%A5%B3%E7%AF%AE%20vs%20%E5%B9%BF%E4%B8%9C%E5%A5%A5%E6%99%AE%E7%89%B9%E5%A5%B3%E7%AF%AE%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P.m3u8
 #EXTINF:-1 tvg-id="中国U19 vs 塔吉克斯坦U19" tvg-chno="1201" tvg-name="中国U19 vs 塔吉克斯坦U19" tvg-group="足球" group-title="足球",中国U19 vs 塔吉克斯坦U19·咪咕直播·720P
 http://192.168.5.35:35456/jh/%E4%B8%AD%E5%9B%BDU19%20vs%20%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6U19%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P.m3u8
+#EXTINF:-1 tvg-id="岳阳队 vs 永州队" tvg-chno="1202" tvg-name="岳阳队 vs 永州队" tvg-group="足球" group-title="足球",岳阳队 vs 永州队·咪咕直播·720P
+http://192.168.5.35:35456/jh/%E5%B2%B3%E9%98%B3%E9%98%9F%20vs%20%E6%B0%B8%E5%B7%9E%E9%98%9F%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P.m3u8
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NFL·NBC" tvg-chno="1302" tvg-name="NFL·NBC" tvg-group="综合体育" group-title="综合体育",NFL·NBC
