@@ -10,7 +10,6 @@
   <channel id="热火 vs 活塞"><display-name>热火 vs 活塞</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <channel id="骑士 vs 独行侠"><display-name>骑士 vs 独行侠</display-name></channel>
-  <channel id="鹈鹕 vs 掘金"><display-name>鹈鹕 vs 掘金</display-name></channel>
   <programme start="20261116020000 +0800" stop="20261116051948 +0800" channel="CBS">
     <title>Kansas City Chiefs at Atlanta Falcons（NFL）</title>
     <category>体育</category>
@@ -261,10 +260,6 @@
   </programme>
   <programme start="20261115083000 +0800" stop="20261115111012 +0800" channel="骑士 vs 独行侠">
     <title>Dallas Mavericks at Cleveland Cavaliers（NBA）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261115080000 +0800" stop="20261115104012 +0800" channel="鹈鹕 vs 掘金">
-    <title>Denver Nuggets at New Orleans Pelicans 已结束（NBA）</title>
     <category>体育</category>
   </programme>
 </tv>
