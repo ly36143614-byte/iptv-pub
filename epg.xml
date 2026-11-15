@@ -5,6 +5,7 @@
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
+  <channel id="热火 vs 活塞"><display-name>热火 vs 活塞</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <channel id="骑士 vs 独行侠"><display-name>骑士 vs 独行侠</display-name></channel>
   <channel id="鹈鹕 vs 掘金"><display-name>鹈鹕 vs 掘金</display-name></channel>
@@ -84,6 +85,10 @@
     <title>NBA：热火 vs 活塞</title>
     <category>体育</category>
   </programme>
+  <programme start="20261115090000 +0800" stop="20261115114012 +0800" channel="热火 vs 活塞">
+    <title>Detroit Pistons at Miami Heat（NBA）</title>
+    <category>体育</category>
+  </programme>
   <programme start="20261115080000 +0800" stop="20261115083000 +0800" channel="赛程预告">
     <title>NBA：鹈鹕 vs 掘金</title>
     <category>体育</category>
@@ -129,7 +134,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261115210000 +0800" stop="20261115213000 +0800" channel="赛程预告">
-    <title>Dota2：Synapse vs CHero（Asgard Championship S2）；Allied vs Z10（EPL Season 41）</title>
+    <title>Dota2：Synapse vs CHero（Asgard Championship S2）；Frogs vs LEGION（1w Essence III）；Allied vs Z10（EPL Season 41）</title>
     <category>体育</category>
   </programme>
   <programme start="20261115213000 +0800" stop="20261115220000 +0800" channel="赛程预告">
@@ -165,7 +170,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261116030000 +0800" stop="20261116034500 +0800" channel="赛程预告">
-    <title>Dota2：Xipto vs Angry（Asgard Championship S2）</title>
+    <title>Dota2：Xipto vs Angry（Asgard Championship S2）；LGD vs TSpirit（1w Essence III）</title>
     <category>体育</category>
   </programme>
   <programme start="20261116034500 +0800" stop="20261116050000 +0800" channel="赛程预告">
