@@ -31,11 +31,9 @@ http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1305" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1306" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
-http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1307" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1308" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1307" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
@@ -49,23 +47,23 @@ http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 #EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1356" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1357" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
-http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1358" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1357" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1359" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1358" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="11-15 悉尼国王 vs 新西兰破坏者" tvg-chno="1501" tvg-name="11-15 悉尼国王 vs 新西兰破坏者" tvg-group="NBA回放" group-title="NBA回放",11-15 悉尼国王 vs 新西兰破坏者
+#EXTINF:-1 tvg-id="11-15 柏太阳神 vs 川崎前锋" tvg-chno="1501" tvg-name="11-15 柏太阳神 vs 川崎前锋" tvg-group="NBA回放" group-title="NBA回放",11-15 柏太阳神 vs 川崎前锋
+http://192.168.5.35:8098/f/2026-11-15%20%E6%9F%8F%E5%A4%AA%E9%98%B3%E7%A5%9E%20vs%20%E5%B7%9D%E5%B4%8E%E5%89%8D%E9%94%8B.mkv
+#EXTINF:-1 tvg-id="11-15 悉尼国王 vs 新西兰破坏者" tvg-chno="1502" tvg-name="11-15 悉尼国王 vs 新西兰破坏者" tvg-group="NBA回放" group-title="NBA回放",11-15 悉尼国王 vs 新西兰破坏者
 http://192.168.5.35:8098/f/2026-11-15%20%E6%82%89%E5%B0%BC%E5%9B%BD%E7%8E%8B%20vs%20%E6%96%B0%E8%A5%BF%E5%85%B0%E7%A0%B4%E5%9D%8F%E8%80%85.mkv
-#EXTINF:-1 tvg-id="11-15 信州勇士 vs 茨城机器人" tvg-chno="1502" tvg-name="11-15 信州勇士 vs 茨城机器人" tvg-group="NBA回放" group-title="NBA回放",11-15 信州勇士 vs 茨城机器人
+#EXTINF:-1 tvg-id="11-15 信州勇士 vs 茨城机器人" tvg-chno="1503" tvg-name="11-15 信州勇士 vs 茨城机器人" tvg-group="NBA回放" group-title="NBA回放",11-15 信州勇士 vs 茨城机器人
 http://192.168.5.35:8098/f/2026-11-15%20%E4%BF%A1%E5%B7%9E%E5%8B%87%E5%A3%AB%20vs%20%E8%8C%A8%E5%9F%8E%E6%9C%BA%E5%99%A8%E4%BA%BA.mkv
-#EXTINF:-1 tvg-id="11-14 珀斯野猫 vs 伊拉瓦拉老鹰" tvg-chno="1503" tvg-name="11-14 珀斯野猫 vs 伊拉瓦拉老鹰" tvg-group="NBA回放" group-title="NBA回放",11-14 珀斯野猫 vs 伊拉瓦拉老鹰
+#EXTINF:-1 tvg-id="11-14 珀斯野猫 vs 伊拉瓦拉老鹰" tvg-chno="1504" tvg-name="11-14 珀斯野猫 vs 伊拉瓦拉老鹰" tvg-group="NBA回放" group-title="NBA回放",11-14 珀斯野猫 vs 伊拉瓦拉老鹰
 http://192.168.5.35:8098/f/2026-11-14%20%E7%8F%80%E6%96%AF%E9%87%8E%E7%8C%AB%20vs%20%E4%BC%8A%E6%8B%89%E7%93%A6%E6%8B%89%E8%80%81%E9%B9%B0.mkv
-#EXTINF:-1 tvg-id="11-14 圣胡安骑士 vs 阿布拉韦弗斯" tvg-chno="1504" tvg-name="11-14 圣胡安骑士 vs 阿布拉韦弗斯" tvg-group="NBA回放" group-title="NBA回放",11-14 圣胡安骑士 vs 阿布拉韦弗斯
+#EXTINF:-1 tvg-id="11-14 圣胡安骑士 vs 阿布拉韦弗斯" tvg-chno="1505" tvg-name="11-14 圣胡安骑士 vs 阿布拉韦弗斯" tvg-group="NBA回放" group-title="NBA回放",11-14 圣胡安骑士 vs 阿布拉韦弗斯
 http://192.168.5.35:8098/f/2026-11-14%20%E5%9C%A3%E8%83%A1%E5%AE%89%E9%AA%91%E5%A3%AB%20vs%20%E9%98%BF%E5%B8%83%E6%8B%89%E9%9F%A6%E5%BC%97%E6%96%AF.mkv
-#EXTINF:-1 tvg-id="11-13 奇才 vs 活塞" tvg-chno="1505" tvg-name="11-13 奇才 vs 活塞" tvg-group="NBA回放" group-title="NBA回放",11-13 奇才 vs 活塞
+#EXTINF:-1 tvg-id="11-13 奇才 vs 活塞" tvg-chno="1506" tvg-name="11-13 奇才 vs 活塞" tvg-group="NBA回放" group-title="NBA回放",11-13 奇才 vs 活塞
 http://192.168.5.35:8098/f/2026-11-13%20%E5%A5%87%E6%89%8D%20vs%20%E6%B4%BB%E5%A1%9E.mkv
-#EXTINF:-1 tvg-id="11-10 活塞 vs 奇才" tvg-chno="1506" tvg-name="11-10 活塞 vs 奇才" tvg-group="NBA回放" group-title="NBA回放",11-10 活塞 vs 奇才
+#EXTINF:-1 tvg-id="11-10 活塞 vs 奇才" tvg-chno="1507" tvg-name="11-10 活塞 vs 奇才" tvg-group="NBA回放" group-title="NBA回放",11-10 活塞 vs 奇才
 http://192.168.5.35:8098/f/2026-11-10%20%E6%B4%BB%E5%A1%9E%20vs%20%E5%A5%87%E6%89%8D.mkv
-#EXTINF:-1 tvg-id="11-09 活塞 vs 湖人" tvg-chno="1507" tvg-name="11-09 活塞 vs 湖人" tvg-group="NBA回放" group-title="NBA回放",11-09 活塞 vs 湖人
+#EXTINF:-1 tvg-id="11-09 活塞 vs 湖人" tvg-chno="1508" tvg-name="11-09 活塞 vs 湖人" tvg-group="NBA回放" group-title="NBA回放",11-09 活塞 vs 湖人
 http://192.168.5.35:8098/f/2026-11-09%20%E6%B4%BB%E5%A1%9E%20vs%20%E6%B9%96%E4%BA%BA.mkv
