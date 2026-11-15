@@ -77,10 +77,6 @@
     <title>Minnesota Vikings at San Francisco 49ers（NFL）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261115200000 +0800" stop="20261115210000 +0800" channel="赛程预告">
-    <title>Dota2：Xipto vs potn9k（EPC Season 3）</title>
-    <category>体育</category>
-  </programme>
   <programme start="20261115210000 +0800" stop="20261115220000 +0800" channel="赛程预告">
     <title>Dota2：Synapse vs CHero（Asgard Championship S2）；Allied vs Z10（EPL Season 41）</title>
     <category>体育</category>
@@ -229,8 +225,12 @@
     <title>非洲杯：马拉维 vs 埃及；非洲杯：坦桑尼亚 vs 尼日利亚；Dota2：Nem.A vs YG（EPL World SEA S20）；Dota2：4iki vs Angry（EPL Season 41）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261117211000 +0800" stop="20261117231000 +0800" channel="赛程预告">
+  <programme start="20261117211000 +0800" stop="20261117220000 +0800" channel="赛程预告">
     <title>日本：日本 vs 巴拉圭</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261117220000 +0800" stop="20261118000000 +0800" channel="赛程预告">
+    <title>韩国：韩国 vs 卡塔尔</title>
     <category>体育</category>
   </programme>
 </tv>
