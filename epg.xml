@@ -225,8 +225,12 @@
     <title>Dota2：Db vs Ryvex（EPL World SEA S20）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261117180000 +0800" stop="20261117200000 +0800" channel="赛程预告">
+  <programme start="20261117180000 +0800" stop="20261117193500 +0800" channel="赛程预告">
     <title>巴西：新加坡 vs 巴西；Dota2：CHope vs CR（EPL World SEA S20）；Dota2：PR vs Synapse（EPL Season 41）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261117193500 +0800" stop="20261117213500 +0800" channel="赛程预告">
+    <title>足球：中国U19男足 vs 韩国U19</title>
     <category>体育</category>
   </programme>
 </tv>
