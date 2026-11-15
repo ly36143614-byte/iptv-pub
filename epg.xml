@@ -221,8 +221,12 @@
     <title>Dota2：Nem.A vs Ryvex（EPL World SEA S20）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261117140000 +0800" stop="20261117160000 +0800" channel="赛程预告">
+  <programme start="20261117140000 +0800" stop="20261117150000 +0800" channel="赛程预告">
     <title>马来西亚：马来西亚 vs 也门</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261117150000 +0800" stop="20261117170000 +0800" channel="赛程预告">
+    <title>Dota2：Db vs Ryvex（EPL World SEA S20）</title>
     <category>体育</category>
   </programme>
 </tv>
