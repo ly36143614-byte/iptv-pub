@@ -19,13 +19,9 @@ http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1102" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="鹿岛鹿角 vs 横滨水手" tvg-chno="1201" tvg-name="鹿岛鹿角 vs 横滨水手" tvg-group="足球1080" group-title="足球1080",鹿岛鹿角 vs 横滨水手·1080P原声
-http://192.168.5.35:35456/jh/%E9%B9%BF%E5%B2%9B%E9%B9%BF%E8%A7%92%20vs%20%E6%A8%AA%E6%BB%A8%E6%B0%B4%E6%89%8B%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="布里斯班子弹 vs 塔斯马尼亚跳伞蚁" tvg-chno="1202" tvg-name="布里斯班子弹 vs 塔斯马尼亚跳伞蚁" tvg-group="足球1080" group-title="足球1080",布里斯班子弹 vs 塔斯马尼亚跳伞蚁·1080P原声
+#EXTINF:-1 tvg-id="布里斯班子弹 vs 塔斯马尼亚跳伞蚁" tvg-chno="1201" tvg-name="布里斯班子弹 vs 塔斯马尼亚跳伞蚁" tvg-group="足球1080" group-title="足球1080",布里斯班子弹 vs 塔斯马尼亚跳伞蚁·1080P原声
 http://192.168.5.35:35456/jh/%E5%B8%83%E9%87%8C%E6%96%AF%E7%8F%AD%E5%AD%90%E5%BC%B9%20vs%20%E5%A1%94%E6%96%AF%E9%A9%AC%E5%B0%BC%E4%BA%9A%E8%B7%B3%E4%BC%9E%E8%9A%81%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="大阪樱花 vs 浦和红钻" tvg-chno="1203" tvg-name="大阪樱花 vs 浦和红钻" tvg-group="足球1080" group-title="足球1080",大阪樱花 vs 浦和红钻·1080P原声
-http://192.168.5.35:35456/jh/%E5%A4%A7%E9%98%AA%E6%A8%B1%E8%8A%B1%20vs%20%E6%B5%A6%E5%92%8C%E7%BA%A2%E9%92%BB%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="昌原LG猎隼 vs 水原KT音速弹" tvg-chno="1204" tvg-name="昌原LG猎隼 vs 水原KT音速弹" tvg-group="足球1080" group-title="足球1080",昌原LG猎隼 vs 水原KT音速弹·1080P原声
+#EXTINF:-1 tvg-id="昌原LG猎隼 vs 水原KT音速弹" tvg-chno="1202" tvg-name="昌原LG猎隼 vs 水原KT音速弹" tvg-group="足球1080" group-title="足球1080",昌原LG猎隼 vs 水原KT音速弹·1080P原声
 http://192.168.5.35:35456/jh/%E6%98%8C%E5%8E%9FLG%E7%8C%8E%E9%9A%BC%20vs%20%E6%B0%B4%E5%8E%9FKT%E9%9F%B3%E9%80%9F%E5%BC%B9%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
