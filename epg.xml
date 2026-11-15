@@ -2,6 +2,7 @@
 <tv generator-info-name="wb-epg">
   <channel id="CBS"><display-name>CBS</display-name></channel>
   <channel id="ESPN"><display-name>ESPN</display-name></channel>
+  <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <programme start="20261116020000 +0800" stop="20261116051948 +0800" channel="CBS">
@@ -54,6 +55,10 @@
   </programme>
   <programme start="20261119103000 +0800" stop="20261119131012 +0800" channel="ESPN">
     <title>Boston Celtics at Denver Nuggets（NBA）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261115090000 +0800" stop="20261115114012 +0800" channel="NBA TV">
+    <title>Detroit Pistons at Miami Heat 已结束（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261116092000 +0800" stop="20261116123948 +0800" channel="NBC">
@@ -176,24 +181,12 @@
     <title>足球：爱沙尼亚 vs 保加利亚；足球：立陶宛 vs 列支敦士登；冰岛：冰岛 vs 卢森堡；Dota2：PTime vs Z10（DreamLeague D2 S5）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261117034500 +0800" stop="20261117080000 +0800" channel="赛程预告">
+  <programme start="20261117034500 +0800" stop="20261117090000 +0800" channel="赛程预告">
     <title>斯洛文尼亚：北马其顿 vs 斯洛文尼亚；足球：直布罗陀 vs 马耳他；塞尔维亚：希腊 vs 塞尔维亚；瑞士：瑞士 vs 苏格兰；德国：德国 vs 荷兰</title>
     <category>体育</category>
   </programme>
-  <programme start="20261117080000 +0800" stop="20261117083000 +0800" channel="赛程预告">
-    <title>NBA：凯尔特人 vs 魔术；骑士 vs 公牛；奇才 vs 灰熊</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261117083000 +0800" stop="20261117090000 +0800" channel="赛程预告">
-    <title>NBA：篮网 vs 76人；热火 vs 火箭</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261117090000 +0800" stop="20261117100000 +0800" channel="赛程预告">
-    <title>加拿大：加拿大 vs 危地马拉；NBA：森林狼 vs 开拓者；NBA：鹈鹕 vs 勇士</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261117100000 +0800" stop="20261117120000 +0800" channel="赛程预告">
-    <title>NBA：掘金 vs 太阳</title>
+  <programme start="20261117090000 +0800" stop="20261117120000 +0800" channel="赛程预告">
+    <title>加拿大：加拿大 vs 危地马拉</title>
     <category>体育</category>
   </programme>
   <programme start="20261117120000 +0800" stop="20261117140000 +0800" channel="赛程预告">
