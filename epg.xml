@@ -4,7 +4,6 @@
   <channel id="ESPN"><display-name>ESPN</display-name></channel>
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
-  <channel id="森林狼 vs 公牛"><display-name>森林狼 vs 公牛</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <programme start="20261116020000 +0800" stop="20261116051948 +0800" channel="CBS">
     <title>Kansas City Chiefs at Atlanta Falcons（NFL）</title>
@@ -76,10 +75,6 @@
   </programme>
   <programme start="20261123092000 +0800" stop="20261123123948 +0800" channel="NBC">
     <title>Minnesota Vikings at San Francisco 49ers（NFL）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261115090000 +0800" stop="20261115114012 +0800" channel="森林狼 vs 公牛">
-    <title>Chicago Bulls at Minnesota Timberwolves 已结束（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261115120000 +0800" stop="20261115140000 +0800" channel="赛程预告">
