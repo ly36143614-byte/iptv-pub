@@ -19,17 +19,13 @@ http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1102" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="山东赤水河酒女篮 vs 新疆天山女篮" tvg-chno="1103" tvg-name="山东赤水河酒女篮 vs 新疆天山女篮" tvg-group="篮球" group-title="篮球",山东赤水河酒女篮 vs 新疆天山女篮·咪咕直播·720P
-http://192.168.5.35:35456/jh/%E5%B1%B1%E4%B8%9C%E8%B5%A4%E6%B0%B4%E6%B2%B3%E9%85%92%E5%A5%B3%E7%AF%AE%20vs%20%E6%96%B0%E7%96%86%E5%A4%A9%E5%B1%B1%E5%A5%B3%E7%AF%AE%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="上海浦发银行女篮 vs 河南豫光金铅女篮" tvg-chno="1201" tvg-name="上海浦发银行女篮 vs 河南豫光金铅女篮" tvg-group="足球" group-title="足球",上海浦发银行女篮 vs 河南豫光金铅女篮·咪咕直播·720P
-http://192.168.5.35:35456/jh/%E4%B8%8A%E6%B5%B7%E6%B5%A6%E5%8F%91%E9%93%B6%E8%A1%8C%E5%A5%B3%E7%AF%AE%20vs%20%E6%B2%B3%E5%8D%97%E8%B1%AB%E5%85%89%E9%87%91%E9%93%85%E5%A5%B3%E7%AF%AE%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="湘潭队 vs 邵阳队" tvg-chno="1202" tvg-name="湘潭队 vs 邵阳队" tvg-group="足球" group-title="足球",湘潭队 vs 邵阳队·咪咕直播·720P
-http://192.168.5.35:35456/jh/%E6%B9%98%E6%BD%AD%E9%98%9F%20vs%20%E9%82%B5%E9%98%B3%E9%98%9F%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="娄底队 vs 衡阳队" tvg-chno="1203" tvg-name="娄底队 vs 衡阳队" tvg-group="足球" group-title="足球",娄底队 vs 衡阳队·咪咕直播·720P
+#EXTINF:-1 tvg-id="阿斯顿维拉女足 vs 伯明翰女足" tvg-chno="1201" tvg-name="阿斯顿维拉女足 vs 伯明翰女足" tvg-group="足球" group-title="足球",阿斯顿维拉女足 vs 伯明翰女足·咪咕直播·720P
+http://192.168.5.35:35456/jh/%E9%98%BF%E6%96%AF%E9%A1%BF%E7%BB%B4%E6%8B%89%E5%A5%B3%E8%B6%B3%20vs%20%E4%BC%AF%E6%98%8E%E7%BF%B0%E5%A5%B3%E8%B6%B3%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P.m3u8
+#EXTINF:-1 tvg-id="娄底队 vs 衡阳队" tvg-chno="1202" tvg-name="娄底队 vs 衡阳队" tvg-group="足球" group-title="足球",娄底队 vs 衡阳队·咪咕直播·720P
 http://192.168.5.35:35456/jh/%E5%A8%84%E5%BA%95%E9%98%9F%20vs%20%E8%A1%A1%E9%98%B3%E9%98%9F%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="迪拜联合 vs 沙迦" tvg-chno="1204" tvg-name="迪拜联合 vs 沙迦" tvg-group="足球1080" group-title="足球1080",迪拜联合 vs 沙迦·1080P原声
+#EXTINF:-1 tvg-id="迪拜联合 vs 沙迦" tvg-chno="1203" tvg-name="迪拜联合 vs 沙迦" tvg-group="足球1080" group-title="足球1080",迪拜联合 vs 沙迦·1080P原声
 http://192.168.5.35:35456/jh/%E8%BF%AA%E6%8B%9C%E8%81%94%E5%90%88%20vs%20%E6%B2%99%E8%BF%A6%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="特内里费 vs 休达" tvg-chno="1205" tvg-name="特内里费 vs 休达" tvg-group="足球1080" group-title="足球1080",特内里费 vs 休达·1080P原声
+#EXTINF:-1 tvg-id="特内里费 vs 休达" tvg-chno="1204" tvg-name="特内里费 vs 休达" tvg-group="足球1080" group-title="足球1080",特内里费 vs 休达·1080P原声
 http://192.168.5.35:35456/jh/%E7%89%B9%E5%86%85%E9%87%8C%E8%B4%B9%20vs%20%E4%BC%91%E8%BE%BE%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
@@ -37,13 +33,15 @@ http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1303" tvg-name="ESPN" tvg-group="综合体育" group-title="综合体育",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1304" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1304" tvg-name="Tennis Channel" tvg-group="综合体育" group-title="综合体育",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1305" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1305" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1306" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1307" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1307" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1308" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
