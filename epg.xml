@@ -6,7 +6,6 @@
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="森林狼 vs 公牛"><display-name>森林狼 vs 公牛</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
-  <channel id="骑士 vs 独行侠"><display-name>骑士 vs 独行侠</display-name></channel>
   <programme start="20261116020000 +0800" stop="20261116051948 +0800" channel="CBS">
     <title>Kansas City Chiefs at Atlanta Falcons（NFL）</title>
     <category>体育</category>
@@ -241,10 +240,6 @@
   </programme>
   <programme start="20261117120000 +0800" stop="20261117140000 +0800" channel="赛程预告">
     <title>Dota2：Nem.A vs Ryvex（EPL World SEA S20）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261115083000 +0800" stop="20261115111012 +0800" channel="骑士 vs 独行侠">
-    <title>Dallas Mavericks at Cleveland Cavaliers 已结束（NBA）</title>
     <category>体育</category>
   </programme>
 </tv>
