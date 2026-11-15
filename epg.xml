@@ -181,12 +181,24 @@
     <title>足球：爱沙尼亚 vs 保加利亚；足球：立陶宛 vs 列支敦士登；冰岛：冰岛 vs 卢森堡；Dota2：PTime vs Z10（DreamLeague D2 S5）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261117034500 +0800" stop="20261117090000 +0800" channel="赛程预告">
+  <programme start="20261117034500 +0800" stop="20261117080000 +0800" channel="赛程预告">
     <title>斯洛文尼亚：北马其顿 vs 斯洛文尼亚；足球：直布罗陀 vs 马耳他；塞尔维亚：希腊 vs 塞尔维亚；瑞士：瑞士 vs 苏格兰；德国：德国 vs 荷兰</title>
     <category>体育</category>
   </programme>
-  <programme start="20261117090000 +0800" stop="20261117120000 +0800" channel="赛程预告">
-    <title>加拿大：加拿大 vs 危地马拉</title>
+  <programme start="20261117080000 +0800" stop="20261117083000 +0800" channel="赛程预告">
+    <title>NBA：凯尔特人 vs 魔术；骑士 vs 公牛；奇才 vs 灰熊</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261117083000 +0800" stop="20261117090000 +0800" channel="赛程预告">
+    <title>NBA：篮网 vs 76人；热火 vs 火箭</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261117090000 +0800" stop="20261117100000 +0800" channel="赛程预告">
+    <title>加拿大：加拿大 vs 危地马拉；NBA：森林狼 vs 开拓者；NBA：鹈鹕 vs 勇士</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261117100000 +0800" stop="20261117120000 +0800" channel="赛程预告">
+    <title>NBA：掘金 vs 太阳</title>
     <category>体育</category>
   </programme>
   <programme start="20261117120000 +0800" stop="20261117140000 +0800" channel="赛程预告">
