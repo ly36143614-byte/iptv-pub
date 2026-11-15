@@ -67,13 +67,15 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannel
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="11-15 悉尼国王 vs 新西兰破坏者" tvg-chno="1501" tvg-name="11-15 悉尼国王 vs 新西兰破坏者" tvg-group="NBA回放" group-title="NBA回放",11-15 悉尼国王 vs 新西兰破坏者
 http://192.168.5.35:8098/f/2026-11-15%20%E6%82%89%E5%B0%BC%E5%9B%BD%E7%8E%8B%20vs%20%E6%96%B0%E8%A5%BF%E5%85%B0%E7%A0%B4%E5%9D%8F%E8%80%85.mkv
-#EXTINF:-1 tvg-id="11-14 珀斯野猫 vs 伊拉瓦拉老鹰" tvg-chno="1502" tvg-name="11-14 珀斯野猫 vs 伊拉瓦拉老鹰" tvg-group="NBA回放" group-title="NBA回放",11-14 珀斯野猫 vs 伊拉瓦拉老鹰
+#EXTINF:-1 tvg-id="11-15 信州勇士 vs 茨城机器人" tvg-chno="1502" tvg-name="11-15 信州勇士 vs 茨城机器人" tvg-group="NBA回放" group-title="NBA回放",11-15 信州勇士 vs 茨城机器人
+http://192.168.5.35:8098/f/2026-11-15%20%E4%BF%A1%E5%B7%9E%E5%8B%87%E5%A3%AB%20vs%20%E8%8C%A8%E5%9F%8E%E6%9C%BA%E5%99%A8%E4%BA%BA.mkv
+#EXTINF:-1 tvg-id="11-14 珀斯野猫 vs 伊拉瓦拉老鹰" tvg-chno="1503" tvg-name="11-14 珀斯野猫 vs 伊拉瓦拉老鹰" tvg-group="NBA回放" group-title="NBA回放",11-14 珀斯野猫 vs 伊拉瓦拉老鹰
 http://192.168.5.35:8098/f/2026-11-14%20%E7%8F%80%E6%96%AF%E9%87%8E%E7%8C%AB%20vs%20%E4%BC%8A%E6%8B%89%E7%93%A6%E6%8B%89%E8%80%81%E9%B9%B0.mkv
-#EXTINF:-1 tvg-id="11-14 圣胡安骑士 vs 阿布拉韦弗斯" tvg-chno="1503" tvg-name="11-14 圣胡安骑士 vs 阿布拉韦弗斯" tvg-group="NBA回放" group-title="NBA回放",11-14 圣胡安骑士 vs 阿布拉韦弗斯
+#EXTINF:-1 tvg-id="11-14 圣胡安骑士 vs 阿布拉韦弗斯" tvg-chno="1504" tvg-name="11-14 圣胡安骑士 vs 阿布拉韦弗斯" tvg-group="NBA回放" group-title="NBA回放",11-14 圣胡安骑士 vs 阿布拉韦弗斯
 http://192.168.5.35:8098/f/2026-11-14%20%E5%9C%A3%E8%83%A1%E5%AE%89%E9%AA%91%E5%A3%AB%20vs%20%E9%98%BF%E5%B8%83%E6%8B%89%E9%9F%A6%E5%BC%97%E6%96%AF.mkv
-#EXTINF:-1 tvg-id="11-13 奇才 vs 活塞" tvg-chno="1504" tvg-name="11-13 奇才 vs 活塞" tvg-group="NBA回放" group-title="NBA回放",11-13 奇才 vs 活塞
+#EXTINF:-1 tvg-id="11-13 奇才 vs 活塞" tvg-chno="1505" tvg-name="11-13 奇才 vs 活塞" tvg-group="NBA回放" group-title="NBA回放",11-13 奇才 vs 活塞
 http://192.168.5.35:8098/f/2026-11-13%20%E5%A5%87%E6%89%8D%20vs%20%E6%B4%BB%E5%A1%9E.mkv
-#EXTINF:-1 tvg-id="11-10 活塞 vs 奇才" tvg-chno="1505" tvg-name="11-10 活塞 vs 奇才" tvg-group="NBA回放" group-title="NBA回放",11-10 活塞 vs 奇才
+#EXTINF:-1 tvg-id="11-10 活塞 vs 奇才" tvg-chno="1506" tvg-name="11-10 活塞 vs 奇才" tvg-group="NBA回放" group-title="NBA回放",11-10 活塞 vs 奇才
 http://192.168.5.35:8098/f/2026-11-10%20%E6%B4%BB%E5%A1%9E%20vs%20%E5%A5%87%E6%89%8D.mkv
-#EXTINF:-1 tvg-id="11-09 活塞 vs 湖人" tvg-chno="1506" tvg-name="11-09 活塞 vs 湖人" tvg-group="NBA回放" group-title="NBA回放",11-09 活塞 vs 湖人
+#EXTINF:-1 tvg-id="11-09 活塞 vs 湖人" tvg-chno="1507" tvg-name="11-09 活塞 vs 湖人" tvg-group="NBA回放" group-title="NBA回放",11-09 活塞 vs 湖人
 http://192.168.5.35:8098/f/2026-11-09%20%E6%B4%BB%E5%A1%9E%20vs%20%E6%B9%96%E4%BA%BA.mkv
