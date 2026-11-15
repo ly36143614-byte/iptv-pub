@@ -99,10 +99,6 @@
     <title>Detroit Pistons at Miami Heat（NBA）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261115080000 +0800" stop="20261115083000 +0800" channel="赛程预告">
-    <title>NBA：鹈鹕 vs 掘金</title>
-    <category>体育</category>
-  </programme>
   <programme start="20261115083000 +0800" stop="20261115090000 +0800" channel="赛程预告">
     <title>NBA：骑士 vs 独行侠</title>
     <category>体育</category>
@@ -172,7 +168,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261116010000 +0800" stop="20261116020000 +0800" channel="赛程预告">
-    <title>阿尔巴尼亚：白俄罗斯 vs 阿尔巴尼亚；芬兰：芬兰 vs 圣马力诺</title>
+    <title>芬兰：芬兰 vs 圣马力诺；阿尔巴尼亚：白俄罗斯 vs 阿尔巴尼亚</title>
     <category>体育</category>
   </programme>
   <programme start="20261116020000 +0800" stop="20261116030000 +0800" channel="赛程预告">
@@ -244,7 +240,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261117010000 +0800" stop="20261117034500 +0800" channel="赛程预告">
-    <title>冰岛：冰岛 vs 卢森堡；足球：立陶宛 vs 列支敦士登；足球：爱沙尼亚 vs 保加利亚；Dota2：PTime vs Z10（DreamLeague D2 S5）</title>
+    <title>足球：爱沙尼亚 vs 保加利亚；足球：立陶宛 vs 列支敦士登；冰岛：冰岛 vs 卢森堡；Dota2：PTime vs Z10（DreamLeague D2 S5）</title>
     <category>体育</category>
   </programme>
   <programme start="20261117034500 +0800" stop="20261117080000 +0800" channel="赛程预告">
@@ -259,8 +255,12 @@
     <title>NBA：篮网 vs 76人；热火 vs 火箭</title>
     <category>体育</category>
   </programme>
-  <programme start="20261117090000 +0800" stop="20261117110000 +0800" channel="赛程预告">
+  <programme start="20261117090000 +0800" stop="20261117100000 +0800" channel="赛程预告">
     <title>加拿大：加拿大 vs 危地马拉；NBA：森林狼 vs 开拓者；NBA：鹈鹕 vs 勇士</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261117100000 +0800" stop="20261117120000 +0800" channel="赛程预告">
+    <title>NBA：掘金 vs 太阳</title>
     <category>体育</category>
   </programme>
   <programme start="20261115083000 +0800" stop="20261115111012 +0800" channel="骑士 vs 独行侠">
