@@ -23,6 +23,14 @@ http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 http://192.168.5.35:35456/jh/%E9%AA%91%E5%A3%AB%20vs%20%E7%8B%AC%E8%A1%8C%E4%BE%A0%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P.m3u8
 #EXTINF:-1 tvg-id="森林狼 vs 公牛" tvg-chno="1104" tvg-name="森林狼 vs 公牛" tvg-group="篮球" group-title="篮球",森林狼 vs 公牛·咪咕直播·720P
 http://192.168.5.35:35456/jh/%E6%A3%AE%E6%9E%97%E7%8B%BC%20vs%20%E5%85%AC%E7%89%9B%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P.m3u8
+#EXTINF:-1 tvg-id="悉尼国王 vs 新西兰破坏者" tvg-chno="1105" tvg-name="悉尼国王 vs 新西兰破坏者" tvg-group="篮球1080" group-title="篮球1080",悉尼国王 vs 新西兰破坏者·1080P原声
+http://192.168.5.35:35456/jh/%E6%82%89%E5%B0%BC%E5%9B%BD%E7%8E%8B%20vs%20%E6%96%B0%E8%A5%BF%E5%85%B0%E7%A0%B4%E5%9D%8F%E8%80%85%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
+#EXTINF:-1 tvg-id="札幌冈萨多 vs 鸟栖砂岩" tvg-chno="1201" tvg-name="札幌冈萨多 vs 鸟栖砂岩" tvg-group="足球1080" group-title="足球1080",札幌冈萨多 vs 鸟栖砂岩·1080P原声
+http://192.168.5.35:35456/jh/%E6%9C%AD%E5%B9%8C%E5%86%88%E8%90%A8%E5%A4%9A%20vs%20%E9%B8%9F%E6%A0%96%E7%A0%82%E5%B2%A9%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
+#EXTINF:-1 tvg-id="八户于南乡 vs 磐城FC" tvg-chno="1202" tvg-name="八户于南乡 vs 磐城FC" tvg-group="足球1080" group-title="足球1080",八户于南乡 vs 磐城FC·1080P原声
+http://192.168.5.35:35456/jh/%E5%85%AB%E6%88%B7%E4%BA%8E%E5%8D%97%E4%B9%A1%20vs%20%E7%A3%90%E5%9F%8EFC%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
+#EXTINF:-1 tvg-id="仙台七夕 vs 秋田蓝闪电" tvg-chno="1203" tvg-name="仙台七夕 vs 秋田蓝闪电" tvg-group="足球1080" group-title="足球1080",仙台七夕 vs 秋田蓝闪电·1080P原声
+http://192.168.5.35:35456/jh/%E4%BB%99%E5%8F%B0%E4%B8%83%E5%A4%95%20vs%20%E7%A7%8B%E7%94%B0%E8%93%9D%E9%97%AA%E7%94%B5%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NFL·NBC" tvg-chno="1302" tvg-name="NFL·NBC" tvg-group="综合体育" group-title="综合体育",NFL·NBC
@@ -49,9 +57,11 @@ http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="F1·Formula" tvg-chno="1355" tvg-name="F1·Formula" tvg-group="体育综合" group-title="体育综合",F1·Formula
 https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1356" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1356" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1357" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1357" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1358" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="11-14 珀斯野猫 vs 伊拉瓦拉老鹰" tvg-chno="1501" tvg-name="11-14 珀斯野猫 vs 伊拉瓦拉老鹰" tvg-group="NBA回放" group-title="NBA回放",11-14 珀斯野猫 vs 伊拉瓦拉老鹰
 http://192.168.5.35:8098/f/2026-11-14%20%E7%8F%80%E6%96%AF%E9%87%8E%E7%8C%AB%20vs%20%E4%BC%8A%E6%8B%89%E7%93%A6%E6%8B%89%E8%80%81%E9%B9%B0.mkv
