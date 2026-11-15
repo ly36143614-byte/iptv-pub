@@ -19,8 +19,6 @@ http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1102" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="悉尼国王 vs 新西兰破坏者" tvg-chno="1103" tvg-name="悉尼国王 vs 新西兰破坏者" tvg-group="篮球1080" group-title="篮球1080",悉尼国王 vs 新西兰破坏者·1080P原声
-http://192.168.5.35:35456/jh/%E6%82%89%E5%B0%BC%E5%9B%BD%E7%8E%8B%20vs%20%E6%96%B0%E8%A5%BF%E5%85%B0%E7%A0%B4%E5%9D%8F%E8%80%85%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
 #EXTINF:-1 tvg-id="FC今治 vs 磐田喜悦" tvg-chno="1201" tvg-name="FC今治 vs 磐田喜悦" tvg-group="足球1080" group-title="足球1080",FC今治 vs 磐田喜悦·1080P原声
 http://192.168.5.35:35456/jh/FC%E4%BB%8A%E6%B2%BB%20vs%20%E7%A3%90%E7%94%B0%E5%96%9C%E6%82%A6%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
 #EXTINF:-1 tvg-id="高阳索诺天枪 vs 原州东浦新世代" tvg-chno="1202" tvg-name="高阳索诺天枪 vs 原州东浦新世代" tvg-group="足球1080" group-title="足球1080",高阳索诺天枪 vs 原州东浦新世代·1080P原声
