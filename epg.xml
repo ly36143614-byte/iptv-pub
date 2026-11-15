@@ -5,10 +5,10 @@
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="森林狼 vs 公牛"><display-name>森林狼 vs 公牛</display-name></channel>
-  <channel id="活塞"><display-name>活塞</display-name></channel>
   <channel id="灰熊 vs 篮网"><display-name>灰熊 vs 篮网</display-name></channel>
   <channel id="热火 vs 活塞"><display-name>热火 vs 活塞</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
+  <channel id="骑士 vs 独行侠"><display-name>骑士 vs 独行侠</display-name></channel>
   <programme start="20261116020000 +0800" stop="20261116051948 +0800" channel="CBS">
     <title>Kansas City Chiefs at Atlanta Falcons（NFL）</title>
     <category>体育</category>
@@ -85,20 +85,12 @@
     <title>Chicago Bulls at Minnesota Timberwolves（NBA）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261115090000 +0800" stop="20261115114012 +0800" channel="活塞">
-    <title>NBA：热火 vs 活塞</title>
-    <category>体育</category>
-  </programme>
   <programme start="20261115090000 +0800" stop="20261115114012 +0800" channel="灰熊 vs 篮网">
     <title>Brooklyn Nets at Memphis Grizzlies（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261115090000 +0800" stop="20261115114012 +0800" channel="热火 vs 活塞">
     <title>Detroit Pistons at Miami Heat（NBA）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261115090000 +0800" stop="20261115111000 +0800" channel="赛程预告">
-    <title>NBA：热火 vs 活塞；灰熊 vs 篮网；森林狼 vs 公牛</title>
     <category>体育</category>
   </programme>
   <programme start="20261115111000 +0800" stop="20261115120000 +0800" channel="赛程预告">
@@ -142,7 +134,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261115220000 +0800" stop="20261115223000 +0800" channel="赛程预告">
-    <title>足球：塞浦路斯 vs 黑山；拉脱维亚 vs 亚美尼亚</title>
+    <title>欧国联：拉脱维亚 vs 亚美尼亚；塞浦路斯 vs 黑山</title>
     <category>体育</category>
   </programme>
   <programme start="20261115223000 +0800" stop="20261115230000 +0800" channel="赛程预告">
@@ -162,7 +154,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261116010000 +0800" stop="20261116020000 +0800" channel="赛程预告">
-    <title>芬兰：芬兰 vs 圣马力诺；阿尔巴尼亚：白俄罗斯 vs 阿尔巴尼亚</title>
+    <title>欧国联：芬兰 vs 圣马力诺；阿尔巴尼亚：白俄罗斯 vs 阿尔巴尼亚</title>
     <category>体育</category>
   </programme>
   <programme start="20261116020000 +0800" stop="20261116030000 +0800" channel="赛程预告">
@@ -174,7 +166,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261116034500 +0800" stop="20261116050000 +0800" channel="赛程预告">
-    <title>英格兰：西班牙 vs 英格兰；克罗地亚：克罗地亚 vs 捷克；比利时：比利时 vs 意大利；法国：法国 vs 土耳其</title>
+    <title>欧国联：克罗地亚 vs 捷克；欧国联：西班牙 vs 英格兰；欧国联：比利时 vs 意大利；法国：法国 vs 土耳其</title>
     <category>体育</category>
   </programme>
   <programme start="20261116050000 +0800" stop="20261116053000 +0800" channel="赛程预告">
@@ -238,7 +230,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261117034500 +0800" stop="20261117080000 +0800" channel="赛程预告">
-    <title>瑞士：瑞士 vs 苏格兰；足球：直布罗陀 vs 马耳他；塞尔维亚：希腊 vs 塞尔维亚；斯洛文尼亚：北马其顿 vs 斯洛文尼亚；德国：德国 vs 荷兰</title>
+    <title>德国：德国 vs 荷兰；塞尔维亚：希腊 vs 塞尔维亚；瑞士：瑞士 vs 苏格兰；斯洛文尼亚：北马其顿 vs 斯洛文尼亚；足球：直布罗陀 vs 马耳他</title>
     <category>体育</category>
   </programme>
   <programme start="20261117080000 +0800" stop="20261117083000 +0800" channel="赛程预告">
@@ -255,6 +247,10 @@
   </programme>
   <programme start="20261117100000 +0800" stop="20261117120000 +0800" channel="赛程预告">
     <title>NBA：掘金 vs 太阳</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261115083000 +0800" stop="20261115111012 +0800" channel="骑士 vs 独行侠">
+    <title>Dallas Mavericks at Cleveland Cavaliers 已结束（NBA）</title>
     <category>体育</category>
   </programme>
 </tv>
