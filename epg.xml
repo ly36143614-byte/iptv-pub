@@ -2,6 +2,7 @@
 <tv generator-info-name="wb-epg">
   <channel id="CBS"><display-name>CBS</display-name></channel>
   <channel id="ESPN"><display-name>ESPN</display-name></channel>
+  <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <programme start="20261116020000 +0800" stop="20261116051948 +0800" channel="CBS">
@@ -54,6 +55,10 @@
   </programme>
   <programme start="20261119103000 +0800" stop="20261119131012 +0800" channel="ESPN">
     <title>Boston Celtics at Denver Nuggets（NBA）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261115090000 +0800" stop="20261115114012 +0800" channel="NBA TV">
+    <title>Detroit Pistons at Miami Heat 已结束（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261116092000 +0800" stop="20261116123948 +0800" channel="NBC">
@@ -117,19 +122,43 @@
     <category>体育</category>
   </programme>
   <programme start="20261116020000 +0800" stop="20261116030000 +0800" channel="赛程预告">
-    <title>Dota2：HULI vs CHero（DreamLeague D2 S5）</title>
+    <title>NBA：76人 vs 步行者；Dota2：HULI vs CHero（DreamLeague D2 S5）</title>
     <category>体育</category>
   </programme>
   <programme start="20261116030000 +0800" stop="20261116034500 +0800" channel="赛程预告">
     <title>Dota2：Xipto vs Angry（Asgard Championship S2）；LGD vs TSpirit（1w Essence III）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261116034500 +0800" stop="20261116070000 +0800" channel="赛程预告">
+  <programme start="20261116034500 +0800" stop="20261116050000 +0800" channel="赛程预告">
     <title>欧国联：克罗地亚 vs 捷克；欧国联：西班牙 vs 英格兰；欧国联：比利时 vs 意大利；法国：法国 vs 土耳其</title>
     <category>体育</category>
   </programme>
-  <programme start="20261116070000 +0800" stop="20261116120000 +0800" channel="赛程预告">
-    <title>巴拿马：巴拿马 vs 库拉索</title>
+  <programme start="20261116050000 +0800" stop="20261116053000 +0800" channel="赛程预告">
+    <title>NBA：太阳 vs 湖人</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261116053000 +0800" stop="20261116060000 +0800" channel="赛程预告">
+    <title>NBA：快船 vs 黄蜂</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261116060000 +0800" stop="20261116070000 +0800" channel="赛程预告">
+    <title>NBA：爵士 vs 马刺</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261116070000 +0800" stop="20261116080000 +0800" channel="赛程预告">
+    <title>巴拿马：巴拿马 vs 库拉索；NBA：凯尔特人 vs 独行侠；NBA：猛龙 vs 尼克斯</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261116080000 +0800" stop="20261116090000 +0800" channel="赛程预告">
+    <title>NBA：奇才 vs 火箭</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261116090000 +0800" stop="20261116100000 +0800" channel="赛程预告">
+    <title>NBA：雄鹿 vs 老鹰</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261116100000 +0800" stop="20261116120000 +0800" channel="赛程预告">
+    <title>NBA：国王 vs 雷霆</title>
     <category>体育</category>
   </programme>
   <programme start="20261116120000 +0800" stop="20261116150000 +0800" channel="赛程预告">
