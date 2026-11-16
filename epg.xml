@@ -96,7 +96,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261116080000 +0800" stop="20261116104012 +0800" channel="奇才 vs 火箭">
-    <title>Houston Rockets at Washington Wizards（NBA）</title>
+    <title>Houston Rockets at Washington Wizards 已结束（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261118090000 +0800" stop="20261118114012 +0800" channel="活塞">
@@ -255,8 +255,12 @@
     <title>NBA：猛龙 vs 尼克斯</title>
     <category>体育</category>
   </programme>
-  <programme start="20261118090000 +0800" stop="20261118110000 +0800" channel="赛程预告">
+  <programme start="20261118090000 +0800" stop="20261118103000 +0800" channel="赛程预告">
     <title>NBA：森林狼 vs 开拓者；马刺 vs 活塞</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261118103000 +0800" stop="20261118123000 +0800" channel="赛程预告">
+    <title>墨西哥：墨西哥 vs 牙买加</title>
     <category>体育</category>
   </programme>
   <programme start="20261116090000 +0800" stop="20261116114012 +0800" channel="雄鹿 vs 老鹰">
