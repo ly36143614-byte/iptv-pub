@@ -94,8 +94,12 @@
     <title>Dota2：Xipto vs Allied（Asgard Championship S2）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261116210000 +0800" stop="20261116213000 +0800" channel="赛程预告">
-    <title>非洲杯：纳米比亚 vs 喀麦隆；非洲杯：苏丹 vs 塞内加尔；Dota2：IAP vs PR（EPL Season 41）</title>
+  <programme start="20261116210000 +0800" stop="20261116211500 +0800" channel="赛程预告">
+    <title>非洲杯：纳米比亚 vs 喀麦隆；苏丹 vs 塞内加尔</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261116211500 +0800" stop="20261116213000 +0800" channel="赛程预告">
+    <title>Dota2：IAP vs PR（EPL Season 41）</title>
     <category>体育</category>
   </programme>
   <programme start="20261116213000 +0800" stop="20261116230000 +0800" channel="赛程预告">
