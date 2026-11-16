@@ -6,7 +6,6 @@
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="凯尔特人 vs 独行侠"><display-name>凯尔特人 vs 独行侠</display-name></channel>
   <channel id="奇才 vs 火箭"><display-name>奇才 vs 火箭</display-name></channel>
-  <channel id="快船 vs 黄蜂"><display-name>快船 vs 黄蜂</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
   <channel id="爵士 vs 马刺"><display-name>爵士 vs 马刺</display-name></channel>
   <channel id="猛龙 vs 尼克斯"><display-name>猛龙 vs 尼克斯</display-name></channel>
@@ -94,10 +93,6 @@
   </programme>
   <programme start="20261116080000 +0800" stop="20261116104012 +0800" channel="奇才 vs 火箭">
     <title>Houston Rockets at Washington Wizards（NBA）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261116053000 +0800" stop="20261116081012 +0800" channel="快船 vs 黄蜂">
-    <title>Charlotte Hornets at LA Clippers 已结束（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261118090000 +0800" stop="20261118114012 +0800" channel="活塞">
