@@ -86,16 +86,20 @@
     <title>NBA：马刺 vs 活塞</title>
     <category>体育</category>
   </programme>
-  <programme start="20261116200000 +0800" stop="20261116210000 +0800" channel="赛程预告">
-    <title>Dota2：potn9k vs Angry（EPC Season 3）；Xipto vs Allied（Asgard Championship S2）</title>
+  <programme start="20261116200000 +0800" stop="20261116201500 +0800" channel="赛程预告">
+    <title>Dota2：potn9k vs Angry（EPC Season 3）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261116201500 +0800" stop="20261116210000 +0800" channel="赛程预告">
+    <title>Dota2：Xipto vs Allied（Asgard Championship S2）</title>
     <category>体育</category>
   </programme>
   <programme start="20261116210000 +0800" stop="20261116213000 +0800" channel="赛程预告">
-    <title>非洲杯：纳米比亚 vs 喀麦隆；非洲杯：苏丹 vs 塞内加尔；Dota2：GL vs LGD（1w Essence III）；Dota2：IAP vs PR（EPL Season 41）</title>
+    <title>非洲杯：纳米比亚 vs 喀麦隆；非洲杯：苏丹 vs 塞内加尔；Dota2：IAP vs PR（EPL Season 41）</title>
     <category>体育</category>
   </programme>
   <programme start="20261116213000 +0800" stop="20261116230000 +0800" channel="赛程预告">
-    <title>Dota2：Frogs vs ICxI（DreamLeague D2 S5）</title>
+    <title>Dota2：Frogs vs ICxI（DreamLeague D2 S5）；GL vs LGD（1w Essence III）</title>
     <category>体育</category>
   </programme>
   <programme start="20261116230000 +0800" stop="20261117000000 +0800" channel="赛程预告">
@@ -135,7 +139,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261117120000 +0800" stop="20261117140000 +0800" channel="赛程预告">
-    <title>Dota2：Nem.A vs Ryvex（EPL World SEA S20）</title>
+    <title>Dota2：Nem.A vs RyVex（EPL World SEA S20）</title>
     <category>体育</category>
   </programme>
   <programme start="20261117140000 +0800" stop="20261117150000 +0800" channel="赛程预告">
@@ -143,7 +147,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261117150000 +0800" stop="20261117180000 +0800" channel="赛程预告">
-    <title>Dota2：Db vs Ryvex（EPL World SEA S20）</title>
+    <title>Dota2：Db vs RyVex（EPL World SEA S20）</title>
     <category>体育</category>
   </programme>
   <programme start="20261117180000 +0800" stop="20261117193500 +0800" channel="赛程预告">
@@ -234,8 +238,12 @@
     <title>Dota2：Nem.A vs Db（EPL World SEA S20）；Angry vs Spirit.A（EPL Season 41）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261118193000 +0800" stop="20261118213000 +0800" channel="赛程预告">
+  <programme start="20261118193000 +0800" stop="20261118210000 +0800" channel="赛程预告">
     <title>足球：武汉联镇 vs 江苏常晋</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261118210000 +0800" stop="20261118230000 +0800" channel="赛程预告">
+    <title>Dota2：PR vs RJohn（EPL Season 41）</title>
     <category>体育</category>
   </programme>
 </tv>
