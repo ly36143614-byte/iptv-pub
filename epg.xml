@@ -234,8 +234,12 @@
     <title>NBA：森林狼 vs 开拓者；马刺 vs 活塞</title>
     <category>体育</category>
   </programme>
-  <programme start="20261118103000 +0800" stop="20261118123000 +0800" channel="赛程预告">
+  <programme start="20261118103000 +0800" stop="20261118113000 +0800" channel="赛程预告">
     <title>墨西哥：墨西哥 vs 牙买加</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261118113000 +0800" stop="20261118133000 +0800" channel="赛程预告">
+    <title>NBA：快船 vs 爵士</title>
     <category>体育</category>
   </programme>
 </tv>
