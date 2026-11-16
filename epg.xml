@@ -5,7 +5,6 @@
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="凯尔特人 vs 独行侠"><display-name>凯尔特人 vs 独行侠</display-name></channel>
-  <channel id="太阳 vs 湖人"><display-name>太阳 vs 湖人</display-name></channel>
   <channel id="奇才 vs 火箭"><display-name>奇才 vs 火箭</display-name></channel>
   <channel id="快船 vs 黄蜂"><display-name>快船 vs 黄蜂</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
@@ -91,10 +90,6 @@
   </programme>
   <programme start="20261116070000 +0800" stop="20261116094012 +0800" channel="凯尔特人 vs 独行侠">
     <title>Dallas Mavericks at Boston Celtics 已结束（NBA）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261116050000 +0800" stop="20261116074012 +0800" channel="太阳 vs 湖人">
-    <title>Los Angeles Lakers at Phoenix Suns 已结束（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261116080000 +0800" stop="20261116104012 +0800" channel="奇才 vs 火箭">
