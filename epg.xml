@@ -8,6 +8,7 @@
   <channel id="太阳 vs 湖人"><display-name>太阳 vs 湖人</display-name></channel>
   <channel id="奇才 vs 火箭"><display-name>奇才 vs 火箭</display-name></channel>
   <channel id="快船 vs 黄蜂"><display-name>快船 vs 黄蜂</display-name></channel>
+  <channel id="活塞"><display-name>活塞</display-name></channel>
   <channel id="爵士 vs 马刺"><display-name>爵士 vs 马刺</display-name></channel>
   <channel id="猛龙 vs 尼克斯"><display-name>猛龙 vs 尼克斯</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
@@ -104,16 +105,16 @@
     <title>Charlotte Hornets at LA Clippers 已结束（NBA）</title>
     <category>体育</category>
   </programme>
+  <programme start="20261118090000 +0800" stop="20261118114012 +0800" channel="活塞">
+    <title>NBA：马刺 vs 活塞</title>
+    <category>体育</category>
+  </programme>
   <programme start="20261116060000 +0800" stop="20261116084012 +0800" channel="爵士 vs 马刺">
     <title>San Antonio Spurs at Utah Jazz 已结束（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261116070000 +0800" stop="20261116094012 +0800" channel="猛龙 vs 尼克斯">
     <title>New York Knicks at Toronto Raptors（NBA）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261116070000 +0800" stop="20261116080000 +0800" channel="赛程预告">
-    <title>巴拿马：巴拿马 vs 库拉索；NBA：凯尔特人 vs 独行侠；NBA：猛龙 vs 尼克斯</title>
     <category>体育</category>
   </programme>
   <programme start="20261116080000 +0800" stop="20261116090000 +0800" channel="赛程预告">
@@ -201,7 +202,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261118034500 +0800" stop="20261118040000 +0800" channel="赛程预告">
-    <title>丹麦：丹麦 vs 挪威；葡萄牙：威尔士 vs 葡萄牙；北爱尔兰：匈牙利 vs 北爱尔兰；罗马尼亚：波黑 vs 罗马尼亚；奥地利：以色列 vs 奥地利；爱尔兰：爱尔兰 vs 科索沃；波兰：波兰 vs 瑞典；乌克兰：乌克兰 vs 格鲁吉亚</title>
+    <title>丹麦：丹麦 vs 挪威；葡萄牙：威尔士 vs 葡萄牙；北爱尔兰：匈牙利 vs 北爱尔兰；罗马尼亚：波黑 vs 罗马尼亚；爱尔兰：爱尔兰 vs 科索沃；奥地利：以色列 vs 奥地利；波兰：波兰 vs 瑞典；乌克兰：乌克兰 vs 格鲁吉亚</title>
     <category>体育</category>
   </programme>
   <programme start="20261118040000 +0800" stop="20261118070000 +0800" channel="赛程预告">
@@ -220,8 +221,12 @@
     <title>美国：美国 vs 海地</title>
     <category>体育</category>
   </programme>
-  <programme start="20261118083000 +0800" stop="20261118103000 +0800" channel="赛程预告">
+  <programme start="20261118083000 +0800" stop="20261118090000 +0800" channel="赛程预告">
     <title>NBA：猛龙 vs 尼克斯</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261118090000 +0800" stop="20261118110000 +0800" channel="赛程预告">
+    <title>NBA：森林狼 vs 开拓者；马刺 vs 活塞</title>
     <category>体育</category>
   </programme>
   <programme start="20261116090000 +0800" stop="20261116114012 +0800" channel="雄鹿 vs 老鹰">
