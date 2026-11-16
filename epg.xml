@@ -234,8 +234,12 @@
     <title>NBA：快船 vs 爵士</title>
     <category>体育</category>
   </programme>
-  <programme start="20261118120000 +0800" stop="20261118140000 +0800" channel="赛程预告">
+  <programme start="20261118120000 +0800" stop="20261118150000 +0800" channel="赛程预告">
     <title>NBA：湖人 vs 黄蜂</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261118150000 +0800" stop="20261118170000 +0800" channel="赛程预告">
+    <title>Dota2：Resp vs CHope（EPL World SEA S20）</title>
     <category>体育</category>
   </programme>
 </tv>
