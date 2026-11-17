@@ -67,7 +67,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261117180000 +0800" stop="20261117193500 +0800" channel="赛程预告">
-    <title>国际赛：新加坡 vs 巴西；Dota2：PARI vs Frogs（1w Essence III）；Dota2：CHope vs CR（EPL World SEA S20）；Dota2：PR vs Synapse（EPL Season 41）；Dota2：Allied vs Nemiga（Asgard Championship S2）</title>
+    <title>巴西：新加坡 vs 巴西；Dota2：PARI vs Frogs（1w Essence III）；Dota2：CHope vs CR（EPL World SEA S20）；Dota2：PR vs Synapse（EPL Season 41）；Dota2：Allied vs Nemiga（Asgard Championship S2）</title>
     <category>体育</category>
   </programme>
   <programme start="20261117193500 +0800" stop="20261117200000 +0800" channel="赛程预告">
@@ -210,8 +210,12 @@
     <title>Dota2：RyVex vs XctN（EPL World SEA S20）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261119150000 +0800" stop="20261119170000 +0800" channel="赛程预告">
+  <programme start="20261119150000 +0800" stop="20261119180000 +0800" channel="赛程预告">
     <title>Dota2：Db vs Resp（EPL World SEA S20）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261119180000 +0800" stop="20261119200000 +0800" channel="赛程预告">
+    <title>Dota2：CR vs Nem.A（EPL World SEA S20）；Synapse vs IAP（EPL Season 41）</title>
     <category>体育</category>
   </programme>
 </tv>
