@@ -61,8 +61,6 @@ http://192.168.5.35:35456/jh/%E6%8E%98%E9%87%91%20vs%20%E5%A4%AA%E9%98%B3%C2%B7%
 http://192.168.5.35:35456/jh/%E6%8E%98%E9%87%91%20vs%20%E5%A4%AA%E9%98%B3%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD1%C2%B7720P.m3u8
 #EXTINF:-1 tvg-id="掘金 vs 太阳·咪咕直播·720P" tvg-chno="1123" tvg-name="掘金 vs 太阳·咪咕直播·720P" tvg-group="篮球" group-title="篮球",掘金 vs 太阳·咪咕直播·720P
 http://192.168.5.35:35456/jh/%E6%8E%98%E9%87%91%20vs%20%E5%A4%AA%E9%98%B3%C2%B7%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="加拿大 vs 危地马拉·1080P原声" tvg-chno="1201" tvg-name="加拿大 vs 危地马拉·1080P原声" tvg-group="足球1080" group-title="足球1080",加拿大 vs 危地马拉·1080P原声
-http://192.168.5.35:35456/jh/%E5%8A%A0%E6%8B%BF%E5%A4%A7%20vs%20%E5%8D%B1%E5%9C%B0%E9%A9%AC%E6%8B%89%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NFL·NBC" tvg-chno="1302" tvg-name="NFL·NBC" tvg-group="综合体育" group-title="综合体育",NFL·NBC
