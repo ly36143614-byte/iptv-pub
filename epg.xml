@@ -214,8 +214,12 @@
     <title>巴甲：科里蒂巴 vs 桑托斯</title>
     <category>体育</category>
   </programme>
-  <programme start="20261119080000 +0800" stop="20261119100000 +0800" channel="赛程预告">
+  <programme start="20261119080000 +0800" stop="20261119083000 +0800" channel="赛程预告">
     <title>NBA：骑士 vs 灰熊；步行者 vs 火箭；热火 vs 雄鹿；魔术 vs 76人</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261119083000 +0800" stop="20261119103000 +0800" channel="赛程预告">
+    <title>NBA：篮网 vs 公牛；猛龙 vs 奇才</title>
     <category>体育</category>
   </programme>
 </tv>
