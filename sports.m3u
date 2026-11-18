@@ -25,25 +25,23 @@ http://192.168.5.35:35456/jh/%E5%B1%B1%E8%A5%BF%E7%AB%B9%E5%8F%B6%E9%9D%92%E9%85
 http://192.168.5.35:35456/jh/%E5%B1%B1%E8%A5%BF%E7%AB%B9%E5%8F%B6%E9%9D%92%E9%85%92%E5%A5%B3%E7%AF%AE%20vs%20%E5%90%88%E8%82%A5%E6%96%87%E6%97%85%E5%A5%B3%E7%AF%AE%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
 #EXTINF:-1 tvg-id="江苏南钢女篮 vs 石家庄英励女篮·咪咕高清·720P" tvg-chno="1105" tvg-name="江苏南钢女篮 vs 石家庄英励女篮·咪咕高清·720P" tvg-group="篮球" group-title="篮球",江苏南钢女篮 vs 石家庄英励女篮·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E6%B1%9F%E8%8B%8F%E5%8D%97%E9%92%A2%E5%A5%B3%E7%AF%AE%20vs%20%E7%9F%B3%E5%AE%B6%E5%BA%84%E8%8B%B1%E5%8A%B1%E5%A5%B3%E7%AF%AE%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="四川 vs 青岛·1080P原声" tvg-chno="1106" tvg-name="四川 vs 青岛·1080P原声" tvg-group="篮球1080" group-title="篮球1080",四川 vs 青岛·1080P原声
-http://192.168.5.35:35456/jh/%E5%9B%9B%E5%B7%9D%20vs%20%E9%9D%92%E5%B2%9B%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="四川 vs 青岛·咪咕高清·720P" tvg-chno="1107" tvg-name="四川 vs 青岛·咪咕高清·720P" tvg-group="篮球" group-title="篮球",四川 vs 青岛·咪咕高清·720P
-http://192.168.5.35:35456/jh/%E5%9B%9B%E5%B7%9D%20vs%20%E9%9D%92%E5%B2%9B%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="宁波 vs 辽宁·1080P原声" tvg-chno="1108" tvg-name="宁波 vs 辽宁·1080P原声" tvg-group="篮球1080" group-title="篮球1080",宁波 vs 辽宁·1080P原声
+#EXTINF:-1 tvg-id="宁波 vs 辽宁·1080P原声" tvg-chno="1106" tvg-name="宁波 vs 辽宁·1080P原声" tvg-group="篮球1080" group-title="篮球1080",宁波 vs 辽宁·1080P原声
 http://192.168.5.35:35456/jh/%E5%AE%81%E6%B3%A2%20vs%20%E8%BE%BD%E5%AE%81%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="宁波 vs 辽宁·咪咕高清·720P" tvg-chno="1109" tvg-name="宁波 vs 辽宁·咪咕高清·720P" tvg-group="篮球" group-title="篮球",宁波 vs 辽宁·咪咕高清·720P
+#EXTINF:-1 tvg-id="宁波 vs 辽宁·咪咕高清·720P" tvg-chno="1107" tvg-name="宁波 vs 辽宁·咪咕高清·720P" tvg-group="篮球" group-title="篮球",宁波 vs 辽宁·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E5%AE%81%E6%B3%A2%20vs%20%E8%BE%BD%E5%AE%81%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="山东 vs 广东·1080P原声" tvg-chno="1110" tvg-name="山东 vs 广东·1080P原声" tvg-group="篮球1080" group-title="篮球1080",山东 vs 广东·1080P原声
+#EXTINF:-1 tvg-id="山东 vs 广东·1080P原声" tvg-chno="1108" tvg-name="山东 vs 广东·1080P原声" tvg-group="篮球1080" group-title="篮球1080",山东 vs 广东·1080P原声
 http://192.168.5.35:35456/jh/%E5%B1%B1%E4%B8%9C%20vs%20%E5%B9%BF%E4%B8%9C%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="山东 vs 广东·咪咕高清·720P" tvg-chno="1111" tvg-name="山东 vs 广东·咪咕高清·720P" tvg-group="篮球" group-title="篮球",山东 vs 广东·咪咕高清·720P
+#EXTINF:-1 tvg-id="山东 vs 广东·咪咕高清·720P" tvg-chno="1109" tvg-name="山东 vs 广东·咪咕高清·720P" tvg-group="篮球" group-title="篮球",山东 vs 广东·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E5%B1%B1%E4%B8%9C%20vs%20%E5%B9%BF%E4%B8%9C%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="江苏 vs 北京·1080P原声" tvg-chno="1112" tvg-name="江苏 vs 北京·1080P原声" tvg-group="篮球1080" group-title="篮球1080",江苏 vs 北京·1080P原声
+#EXTINF:-1 tvg-id="江苏 vs 北京·1080P原声" tvg-chno="1110" tvg-name="江苏 vs 北京·1080P原声" tvg-group="篮球1080" group-title="篮球1080",江苏 vs 北京·1080P原声
 http://192.168.5.35:35456/jh/%E6%B1%9F%E8%8B%8F%20vs%20%E5%8C%97%E4%BA%AC%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="江苏 vs 北京·咪咕高清·720P" tvg-chno="1113" tvg-name="江苏 vs 北京·咪咕高清·720P" tvg-group="篮球" group-title="篮球",江苏 vs 北京·咪咕高清·720P
+#EXTINF:-1 tvg-id="江苏 vs 北京·咪咕高清·720P" tvg-chno="1111" tvg-name="江苏 vs 北京·咪咕高清·720P" tvg-group="篮球" group-title="篮球",江苏 vs 北京·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E6%B1%9F%E8%8B%8F%20vs%20%E5%8C%97%E4%BA%AC%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="淡滨尼流浪者 vs 拉查武里·1080P原声" tvg-chno="1201" tvg-name="淡滨尼流浪者 vs 拉查武里·1080P原声" tvg-group="足球1080" group-title="足球1080",淡滨尼流浪者 vs 拉查武里·1080P原声
-http://192.168.5.35:35456/jh/%E6%B7%A1%E6%BB%A8%E5%B0%BC%E6%B5%81%E6%B5%AA%E8%80%85%20vs%20%E6%8B%89%E6%9F%A5%E6%AD%A6%E9%87%8C%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="婆罗洲FC vs 马尼拉挖掘者·1080P原声" tvg-chno="1202" tvg-name="婆罗洲FC vs 马尼拉挖掘者·1080P原声" tvg-group="足球1080" group-title="足球1080",婆罗洲FC vs 马尼拉挖掘者·1080P原声
+#EXTINF:-1 tvg-id="四川 vs 青岛·1080P原声" tvg-chno="1112" tvg-name="四川 vs 青岛·1080P原声" tvg-group="篮球1080" group-title="篮球1080",四川 vs 青岛·1080P原声
+http://192.168.5.35:35456/jh/%E5%9B%9B%E5%B7%9D%20vs%20%E9%9D%92%E5%B2%9B%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
+#EXTINF:-1 tvg-id="四川 vs 青岛·咪咕高清·720P" tvg-chno="1113" tvg-name="四川 vs 青岛·咪咕高清·720P" tvg-group="篮球" group-title="篮球",四川 vs 青岛·咪咕高清·720P
+http://192.168.5.35:35456/jh/%E5%9B%9B%E5%B7%9D%20vs%20%E9%9D%92%E5%B2%9B%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
+#EXTINF:-1 tvg-id="婆罗洲FC vs 马尼拉挖掘者·1080P原声" tvg-chno="1201" tvg-name="婆罗洲FC vs 马尼拉挖掘者·1080P原声" tvg-group="足球1080" group-title="足球1080",婆罗洲FC vs 马尼拉挖掘者·1080P原声
 http://192.168.5.35:35456/jh/%E5%A9%86%E7%BD%97%E6%B4%B2FC%20vs%20%E9%A9%AC%E5%B0%BC%E6%8B%89%E6%8C%96%E6%8E%98%E8%80%85%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
@@ -69,10 +67,10 @@ http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NBC" tvg-chno="1354" tvg-name="NBC" tvg-group="体育综合" group-title="体育综合",NBC
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
-#EXTINF:-1 tvg-id="F1·Formula" tvg-chno="1355" tvg-name="F1·Formula" tvg-group="体育综合" group-title="体育综合",F1·Formula
-https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
-#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1356" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
+#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1355" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1356" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1357" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1358" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
