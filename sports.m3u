@@ -1,38 +1,30 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="赛程预告" tvg-chno="1" tvg-name="赛程预告" tvg-group="赛程" group-title="赛程",赛程预告
 http://192.168.5.35:35456/sched.m3u8
-#EXTINF:-1 tvg-id="曼联" tvg-chno="1001" tvg-name="曼联" tvg-group="关注" group-title="关注",曼联｜11-23 00:30 利物浦
+#EXTINF:-1 tvg-id="曼联" tvg-chno="1001" tvg-name="曼联" tvg-group="关注" group-title="关注",曼联
 http://192.168.5.35:35456/team/%E6%9B%BC%E8%81%94
-#EXTINF:-1 tvg-id="曼城" tvg-chno="1002" tvg-name="曼城" tvg-group="关注" group-title="关注",曼城｜11-21 20:30 富勒姆
+#EXTINF:-1 tvg-id="曼城" tvg-chno="1002" tvg-name="曼城" tvg-group="关注" group-title="关注",曼城
 http://192.168.5.35:35456/team/%E6%9B%BC%E5%9F%8E
-#EXTINF:-1 tvg-id="拜仁" tvg-chno="1003" tvg-name="拜仁" tvg-group="关注" group-title="关注",拜仁｜11-21 03:30 科隆
+#EXTINF:-1 tvg-id="拜仁" tvg-chno="1003" tvg-name="拜仁" tvg-group="关注" group-title="关注",拜仁
 http://192.168.5.35:35456/team/%E6%8B%9C%E4%BB%81
-#EXTINF:-1 tvg-id="皇马" tvg-chno="1004" tvg-name="皇马" tvg-group="关注" group-title="关注",皇马｜11-19 01:00 贝西克塔
+#EXTINF:-1 tvg-id="皇马" tvg-chno="1004" tvg-name="皇马" tvg-group="关注" group-title="关注",皇马
 http://192.168.5.35:35456/team/%E7%9A%87%E9%A9%AC
-#EXTINF:-1 tvg-id="北京首钢" tvg-chno="1005" tvg-name="北京首钢" tvg-group="关注" group-title="关注",北京首钢｜11-20 19:30 广厦
+#EXTINF:-1 tvg-id="北京首钢" tvg-chno="1005" tvg-name="北京首钢" tvg-group="关注" group-title="关注",北京首钢
 http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E9%A6%96%E9%92%A2
-#EXTINF:-1 tvg-id="活塞" tvg-chno="1006" tvg-name="活塞" tvg-group="关注" group-title="关注",活塞｜11-19 09:00 鹈鹕
+#EXTINF:-1 tvg-id="活塞" tvg-chno="1006" tvg-name="活塞" tvg-group="关注" group-title="关注",活塞
 http://192.168.5.35:35456/team/%E6%B4%BB%E5%A1%9E
-#EXTINF:-1 tvg-id="北京国安" tvg-chno="1007" tvg-name="北京国安" tvg-group="关注" group-title="关注",北京国安｜11-20 19:35 上海海港
+#EXTINF:-1 tvg-id="北京国安" tvg-chno="1007" tvg-name="北京国安" tvg-group="关注" group-title="关注",北京国安
 http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1101" tvg-name="NBA TV" tvg-group="篮球" group-title="篮球",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1102" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="山西竹叶青酒女篮 vs 合肥文旅女篮·咪咕高清·720P" tvg-chno="1103" tvg-name="山西竹叶青酒女篮 vs 合肥文旅女篮·咪咕高清·720P" tvg-group="篮球" group-title="篮球",山西竹叶青酒女篮 vs 合肥文旅女篮·咪咕高清·720P
-http://192.168.5.35:35456/jh/%E5%B1%B1%E8%A5%BF%E7%AB%B9%E5%8F%B6%E9%9D%92%E9%85%92%E5%A5%B3%E7%AF%AE%20vs%20%E5%90%88%E8%82%A5%E6%96%87%E6%97%85%E5%A5%B3%E7%AF%AE%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="江苏南钢女篮 vs 石家庄英励女篮·咪咕高清·720P" tvg-chno="1104" tvg-name="江苏南钢女篮 vs 石家庄英励女篮·咪咕高清·720P" tvg-group="篮球" group-title="篮球",江苏南钢女篮 vs 石家庄英励女篮·咪咕高清·720P
-http://192.168.5.35:35456/jh/%E6%B1%9F%E8%8B%8F%E5%8D%97%E9%92%A2%E5%A5%B3%E7%AF%AE%20vs%20%E7%9F%B3%E5%AE%B6%E5%BA%84%E8%8B%B1%E5%8A%B1%E5%A5%B3%E7%AF%AE%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="宁波 vs 辽宁·咪咕高清·720P" tvg-chno="1105" tvg-name="宁波 vs 辽宁·咪咕高清·720P" tvg-group="篮球" group-title="篮球",宁波 vs 辽宁·咪咕高清·720P
-http://192.168.5.35:35456/jh/%E5%AE%81%E6%B3%A2%20vs%20%E8%BE%BD%E5%AE%81%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="山东 vs 广东·1080P原声" tvg-chno="1106" tvg-name="山东 vs 广东·1080P原声" tvg-group="篮球1080" group-title="篮球1080",山东 vs 广东·1080P原声
-http://192.168.5.35:35456/jh/%E5%B1%B1%E4%B8%9C%20vs%20%E5%B9%BF%E4%B8%9C%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="山东 vs 广东·咪咕高清·720P" tvg-chno="1107" tvg-name="山东 vs 广东·咪咕高清·720P" tvg-group="篮球" group-title="篮球",山东 vs 广东·咪咕高清·720P
-http://192.168.5.35:35456/jh/%E5%B1%B1%E4%B8%9C%20vs%20%E5%B9%BF%E4%B8%9C%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="江苏 vs 北京·咪咕高清·720P" tvg-chno="1108" tvg-name="江苏 vs 北京·咪咕高清·720P" tvg-group="篮球" group-title="篮球",江苏 vs 北京·咪咕高清·720P
-http://192.168.5.35:35456/jh/%E6%B1%9F%E8%8B%8F%20vs%20%E5%8C%97%E4%BA%AC%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="四川 vs 青岛·咪咕高清·720P" tvg-chno="1109" tvg-name="四川 vs 青岛·咪咕高清·720P" tvg-group="篮球" group-title="篮球",四川 vs 青岛·咪咕高清·720P
-http://192.168.5.35:35456/jh/%E5%9B%9B%E5%B7%9D%20vs%20%E9%9D%92%E5%B2%9B%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
+#EXTINF:-1 tvg-id="魔术 vs 76人·咪咕高清·720P" tvg-chno="1103" tvg-name="魔术 vs 76人·咪咕高清·720P" tvg-group="篮球" group-title="篮球",魔术 vs 76人·咪咕高清·720P
+http://192.168.5.35:35456/jh/%E9%AD%94%E6%9C%AF%20vs%2076%E4%BA%BA%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
+#EXTINF:-1 tvg-id="步行者 vs 火箭·咪咕高清·720P" tvg-chno="1104" tvg-name="步行者 vs 火箭·咪咕高清·720P" tvg-group="篮球" group-title="篮球",步行者 vs 火箭·咪咕高清·720P
+http://192.168.5.35:35456/jh/%E6%AD%A5%E8%A1%8C%E8%80%85%20vs%20%E7%81%AB%E7%AE%AD%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
+#EXTINF:-1 tvg-id="科里蒂巴 vs 桑托斯·1080P原声" tvg-chno="1201" tvg-name="科里蒂巴 vs 桑托斯·1080P原声" tvg-group="足球1080" group-title="足球1080",科里蒂巴 vs 桑托斯·1080P原声
+http://192.168.5.35:35456/jh/%E7%A7%91%E9%87%8C%E8%92%82%E5%B7%B4%20vs%20%E6%A1%91%E6%89%98%E6%96%AF%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NFL·NBC" tvg-chno="1302" tvg-name="NFL·NBC" tvg-group="综合体育" group-title="综合体育",NFL·NBC
@@ -57,11 +49,15 @@ http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NBC" tvg-chno="1354" tvg-name="NBC" tvg-group="体育综合" group-title="体育综合",NBC
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1355" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="F1·Formula" tvg-chno="1355" tvg-name="F1·Formula" tvg-group="体育综合" group-title="体育综合",F1·Formula
+https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
+#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1356" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1357" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1356" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1358" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1357" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1359" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="11-18 群马雷鹤 vs 岛根魔术" tvg-chno="1501" tvg-name="11-18 群马雷鹤 vs 岛根魔术" tvg-group="NBA回放" group-title="NBA回放",11-18 群马雷鹤 vs 岛根魔术
 http://192.168.5.35:8098/f/2026-11-18%20%E7%BE%A4%E9%A9%AC%E9%9B%B7%E9%B9%A4%20vs%20%E5%B2%9B%E6%A0%B9%E9%AD%94%E6%9C%AF.mkv
