@@ -178,8 +178,12 @@
     <title>Dota2：CR vs Db（EPL World SEA S20）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261120180000 +0800" stop="20261120200000 +0800" channel="赛程预告">
+  <programme start="20261120180000 +0800" stop="20261120190000 +0800" channel="赛程预告">
     <title>Dota2：ICxI vs Allied（EPL Season 41）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261120190000 +0800" stop="20261120210000 +0800" channel="赛程预告">
+    <title>足球：欧国联 vs 抽签；Dota2：Yandex vs PTime（BLAST SLAM IX）；Dota2：TSpirit vs Nem（BLAST SLAM IX）</title>
     <category>体育</category>
   </programme>
 </tv>
