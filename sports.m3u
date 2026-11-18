@@ -19,6 +19,16 @@ http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1102" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+#EXTINF:-1 tvg-id="东京太阳摇滚 vs 东京电击·1080P原声" tvg-chno="1103" tvg-name="东京太阳摇滚 vs 东京电击·1080P原声" tvg-group="篮球1080" group-title="篮球1080",东京太阳摇滚 vs 东京电击·1080P原声
+http://192.168.5.35:35456/jh/%E4%B8%9C%E4%BA%AC%E5%A4%AA%E9%98%B3%E6%91%87%E6%BB%9A%20vs%20%E4%B8%9C%E4%BA%AC%E7%94%B5%E5%87%BB%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
+#EXTINF:-1 tvg-id="首尔三星雷电 vs 昌原LG猎隼·1080P原声" tvg-chno="1201" tvg-name="首尔三星雷电 vs 昌原LG猎隼·1080P原声" tvg-group="足球1080" group-title="足球1080",首尔三星雷电 vs 昌原LG猎隼·1080P原声
+http://192.168.5.35:35456/jh/%E9%A6%96%E5%B0%94%E4%B8%89%E6%98%9F%E9%9B%B7%E7%94%B5%20vs%20%E6%98%8C%E5%8E%9FLG%E7%8C%8E%E9%9A%BC%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
+#EXTINF:-1 tvg-id="水原FC女足 vs 庆州KHNP女足·1080P原声" tvg-chno="1202" tvg-name="水原FC女足 vs 庆州KHNP女足·1080P原声" tvg-group="足球1080" group-title="足球1080",水原FC女足 vs 庆州KHNP女足·1080P原声
+http://192.168.5.35:35456/jh/%E6%B0%B4%E5%8E%9FFC%E5%A5%B3%E8%B6%B3%20vs%20%E5%BA%86%E5%B7%9EKHNP%E5%A5%B3%E8%B6%B3%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
+#EXTINF:-1 tvg-id="宇都宫皇者 vs 北海道风神·1080P原声" tvg-chno="1203" tvg-name="宇都宫皇者 vs 北海道风神·1080P原声" tvg-group="足球1080" group-title="足球1080",宇都宫皇者 vs 北海道风神·1080P原声
+http://192.168.5.35:35456/jh/%E5%AE%87%E9%83%BD%E5%AE%AB%E7%9A%87%E8%80%85%20vs%20%E5%8C%97%E6%B5%B7%E9%81%93%E9%A3%8E%E7%A5%9E%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
+#EXTINF:-1 tvg-id="名古屋钻石海豚 vs 琉球黄金帝王·1080P原声" tvg-chno="1204" tvg-name="名古屋钻石海豚 vs 琉球黄金帝王·1080P原声" tvg-group="足球1080" group-title="足球1080",名古屋钻石海豚 vs 琉球黄金帝王·1080P原声
+http://192.168.5.35:35456/jh/%E5%90%8D%E5%8F%A4%E5%B1%8B%E9%92%BB%E7%9F%B3%E6%B5%B7%E8%B1%9A%20vs%20%E7%90%89%E7%90%83%E9%BB%84%E9%87%91%E5%B8%9D%E7%8E%8B%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NFL·NBC" tvg-chno="1302" tvg-name="NFL·NBC" tvg-group="综合体育" group-title="综合体育",NFL·NBC
@@ -27,8 +37,8 @@ http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1304" tvg-name="Tennis Channel" tvg-group="综合体育" group-title="综合体育",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1305" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
-http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1305" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
+https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://74.91.26.218:82/live/cctv5p.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
