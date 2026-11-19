@@ -186,8 +186,12 @@
     <title>特鲁瓦：特鲁瓦 vs 勒阿弗尔</title>
     <category>体育</category>
   </programme>
-  <programme start="20261121040000 +0800" stop="20261121060000 +0800" channel="赛程预告">
+  <programme start="20261121040000 +0800" stop="20261121080000 +0800" channel="赛程预告">
     <title>西甲：毕尔巴鄂竞技 vs 西班牙人</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261121080000 +0800" stop="20261121100000 +0800" channel="赛程预告">
+    <title>NBA：老鹰 vs 黄蜂</title>
     <category>体育</category>
   </programme>
 </tv>
