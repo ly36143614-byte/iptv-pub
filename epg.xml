@@ -66,8 +66,8 @@
     <title>NBA：鹈鹕 vs 活塞</title>
     <category>体育</category>
   </programme>
-  <programme start="20261119063000 +0800" stop="20261119080000 +0800" channel="赛程预告">
-    <title>巴甲：科里蒂巴 vs 桑托斯</title>
+  <programme start="20261121083000 +0800" stop="20261121111012 +0800" channel="活塞">
+    <title>NBA：活塞 vs 猛龙</title>
     <category>体育</category>
   </programme>
   <programme start="20261119080000 +0800" stop="20261119083000 +0800" channel="赛程预告">
@@ -75,7 +75,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261119083000 +0800" stop="20261119090000 +0800" channel="赛程预告">
-    <title>巴甲：科林蒂安 vs 博塔弗戈；巴甲：格雷米奥 vs 巴伊亚；NBA：篮网 vs 公牛；NBA：猛龙 vs 奇才</title>
+    <title>NBA：篮网 vs 公牛；猛龙 vs 奇才</title>
     <category>体育</category>
   </programme>
   <programme start="20261119090000 +0800" stop="20261119103000 +0800" channel="赛程预告">
@@ -190,8 +190,12 @@
     <title>西甲：毕尔巴鄂竞技 vs 西班牙人</title>
     <category>体育</category>
   </programme>
-  <programme start="20261121080000 +0800" stop="20261121100000 +0800" channel="赛程预告">
+  <programme start="20261121080000 +0800" stop="20261121083000 +0800" channel="赛程预告">
     <title>NBA：老鹰 vs 黄蜂</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261121083000 +0800" stop="20261121103000 +0800" channel="赛程预告">
+    <title>NBA：篮网 vs 魔术；骑士 vs 步行者；活塞 vs 猛龙</title>
     <category>体育</category>
   </programme>
 </tv>
