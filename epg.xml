@@ -70,10 +70,6 @@
     <title>NBA：活塞 vs 猛龙</title>
     <category>体育</category>
   </programme>
-  <programme start="20261119083000 +0800" stop="20261119090000 +0800" channel="赛程预告">
-    <title>NBA：篮网 vs 公牛；猛龙 vs 奇才</title>
-    <category>体育</category>
-  </programme>
   <programme start="20261119090000 +0800" stop="20261119103000 +0800" channel="赛程预告">
     <title>NBA：鹈鹕 vs 活塞；雷霆 vs 老鹰；独行侠 vs 勇士</title>
     <category>体育</category>
@@ -194,8 +190,12 @@
     <title>NBA：篮网 vs 魔术；骑士 vs 步行者；活塞 vs 猛龙</title>
     <category>体育</category>
   </programme>
-  <programme start="20261121090000 +0800" stop="20261121110000 +0800" channel="赛程预告">
+  <programme start="20261121090000 +0800" stop="20261121103000 +0800" channel="赛程预告">
     <title>NBA：公牛 vs 奇才；雷霆 vs 鹈鹕</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261121103000 +0800" stop="20261121123000 +0800" channel="赛程预告">
+    <title>NBA：爵士 vs 太阳</title>
     <category>体育</category>
   </programme>
 </tv>
