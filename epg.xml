@@ -150,8 +150,12 @@
     <title>英超：曼城 vs 富勒姆</title>
     <category>体育</category>
   </programme>
-  <programme start="20261121210000 +0800" stop="20261121230000 +0800" channel="赛程预告">
+  <programme start="20261121210000 +0800" stop="20261121220000 +0800" channel="赛程预告">
     <title>西甲：阿拉维斯 vs 拉科鲁尼亚</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261121220000 +0800" stop="20261122000000 +0800" channel="赛程预告">
+    <title>科莫：科莫 vs 卡利亚里；意甲：拉齐奥 vs 莱切</title>
     <category>体育</category>
   </programme>
 </tv>
