@@ -186,8 +186,12 @@
     <title>Dota2：PR vs RJohn（EPL Season 41）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261121190000 +0800" stop="20261121210000 +0800" channel="赛程预告">
+  <programme start="20261121190000 +0800" stop="20261121193000 +0800" channel="赛程预告">
     <title>Dota2：Aurora vs Astra（BLAST SLAM IX）；LGD vs 1w（BLAST SLAM IX）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261121193000 +0800" stop="20261121213000 +0800" channel="赛程预告">
+    <title>足球：浔阳区 vs 柴桑区</title>
     <category>体育</category>
   </programme>
 </tv>
