@@ -27,11 +27,9 @@ http://192.168.5.35:35456/jh/%E5%AE%89%E5%85%BB%E8%B5%A4%E7%BA%A2%E7%81%AB%E7%AE
 http://192.168.5.35:35456/jh/%E6%B0%B4%E5%8E%9FKT%E9%9F%B3%E9%80%9F%E5%BC%B9%20vs%20%E9%A6%96%E5%B0%94SK%E9%AA%91%E5%A3%AB%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
 #EXTINF:-1 tvg-id="福建 vs 北控·咪咕高清·720P" tvg-chno="1106" tvg-name="福建 vs 北控·咪咕高清·720P" tvg-group="篮球" group-title="篮球",福建 vs 北控·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E7%A6%8F%E5%BB%BA%20vs%20%E5%8C%97%E6%8E%A7%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="吉林 vs 香港金牛·咪咕高清·720P" tvg-chno="1107" tvg-name="吉林 vs 香港金牛·咪咕高清·720P" tvg-group="篮球" group-title="篮球",吉林 vs 香港金牛·咪咕高清·720P
-http://192.168.5.35:35456/jh/%E5%90%89%E6%9E%97%20vs%20%E9%A6%99%E6%B8%AF%E9%87%91%E7%89%9B%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="深圳 vs 天津·1080P原声" tvg-chno="1108" tvg-name="深圳 vs 天津·1080P原声" tvg-group="篮球1080" group-title="篮球1080",深圳 vs 天津·1080P原声
+#EXTINF:-1 tvg-id="深圳 vs 天津·1080P原声" tvg-chno="1107" tvg-name="深圳 vs 天津·1080P原声" tvg-group="篮球1080" group-title="篮球1080",深圳 vs 天津·1080P原声
 http://192.168.5.35:35456/jh/%E6%B7%B1%E5%9C%B3%20vs%20%E5%A4%A9%E6%B4%A5%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="深圳 vs 天津·咪咕高清·720P" tvg-chno="1109" tvg-name="深圳 vs 天津·咪咕高清·720P" tvg-group="篮球" group-title="篮球",深圳 vs 天津·咪咕高清·720P
+#EXTINF:-1 tvg-id="深圳 vs 天津·咪咕高清·720P" tvg-chno="1108" tvg-name="深圳 vs 天津·咪咕高清·720P" tvg-group="篮球" group-title="篮球",深圳 vs 天津·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E6%B7%B1%E5%9C%B3%20vs%20%E5%A4%A9%E6%B4%A5%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
 #EXTINF:-1 tvg-id="昆士兰狮队 vs 卧龙海岸狼队·1080P原声" tvg-chno="1201" tvg-name="昆士兰狮队 vs 卧龙海岸狼队·1080P原声" tvg-group="足球1080" group-title="足球1080",昆士兰狮队 vs 卧龙海岸狼队·1080P原声
 http://192.168.5.35:35456/jh/%E6%98%86%E5%A3%AB%E5%85%B0%E7%8B%AE%E9%98%9F%20vs%20%E5%8D%A7%E9%BE%99%E6%B5%B7%E5%B2%B8%E7%8B%BC%E9%98%9F%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
