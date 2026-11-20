@@ -206,8 +206,12 @@
     <title>迈阿密国际：迈阿密国际 vs 哥伦布机员</title>
     <category>体育</category>
   </programme>
-  <programme start="20261122083000 +0800" stop="20261122103000 +0800" channel="赛程预告">
+  <programme start="20261122083000 +0800" stop="20261122090000 +0800" channel="赛程预告">
     <title>NBA：尼克斯 vs 开拓者</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261122090000 +0800" stop="20261122110000 +0800" channel="赛程预告">
+    <title>NBA：独行侠 vs 快船；森林狼 vs 灰熊；马刺 vs 鹈鹕</title>
     <category>体育</category>
   </programme>
 </tv>
