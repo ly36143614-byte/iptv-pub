@@ -143,7 +143,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261121230000 +0800" stop="20261121231500 +0800" channel="赛程预告">
-    <title>英超：伯恩茅斯 vs 诺丁汉；英超：热刺 vs 伊普斯；英超：维拉 vs 桑德兰；英超：考文垂 vs 水晶宫；英超：切尔西 vs 利兹联；英超：热刺 vs 伊普斯维奇；阿斯顿维拉：阿斯顿维拉 vs 桑德兰；英超：伯恩茅斯 vs 诺丁汉森林</title>
+    <title>英超：伯恩茅斯 vs 诺丁汉；英超：热刺 vs 伊普斯；英超：维拉 vs 桑德兰；英超：考文垂 vs 水晶宫；英超：切尔西 vs 利兹联；英超：热刺 vs 伊普斯维奇；英超：伯恩茅斯 vs 诺丁汉森林；阿斯顿维拉：阿斯顿维拉 vs 桑德兰</title>
     <category>体育</category>
   </programme>
   <programme start="20261121231500 +0800" stop="20261121233000 +0800" channel="赛程预告">
@@ -226,8 +226,12 @@
     <title>西甲：巴萨 vs 比利亚雷；巴塞罗那 vs 比利亚雷亚尔</title>
     <category>体育</category>
   </programme>
-  <programme start="20261122213000 +0800" stop="20261122233000 +0800" channel="赛程预告">
+  <programme start="20261122213000 +0800" stop="20261122220000 +0800" channel="赛程预告">
     <title>荷甲：鹿斯巴达 vs 阿尔克马；阿贾克斯 vs 海牙</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261122220000 +0800" stop="20261123000000 +0800" channel="赛程预告">
+    <title>意甲：博洛尼亚 vs 乌迪内斯；意甲：萨索洛 vs 热那亚；法甲：巴黎FC vs 昂热；英超：赫尔城 vs 布莱顿</title>
     <category>体育</category>
   </programme>
 </tv>
