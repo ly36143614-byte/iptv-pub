@@ -17,26 +17,26 @@ http://192.168.5.35:35456/team/%E6%B4%BB%E5%A1%9E
 http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1101" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="湖人 vs 国王·纬来1080" tvg-chno="1102" tvg-name="湖人 vs 国王·纬来1080" tvg-group="篮球1080" group-title="篮球1080",湖人 vs 国王·纬来1080
-http://192.168.5.35:35456/jh/%E6%B9%96%E4%BA%BA%20vs%20%E5%9B%BD%E7%8E%8B%C2%B7%E7%BA%AC%E6%9D%A51080.m3u8
-#EXTINF:-1 tvg-id="湖人 vs 国王·咪咕高清·720P" tvg-chno="1103" tvg-name="湖人 vs 国王·咪咕高清·720P" tvg-group="篮球" group-title="篮球",湖人 vs 国王·咪咕高清·720P
-http://192.168.5.35:35456/jh/%E6%B9%96%E4%BA%BA%20vs%20%E5%9B%BD%E7%8E%8B%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="掘金 vs 火箭·咪咕高清·720P" tvg-chno="1104" tvg-name="掘金 vs 火箭·咪咕高清·720P" tvg-group="篮球" group-title="篮球",掘金 vs 火箭·咪咕高清·720P
+#EXTINF:-1 tvg-id="掘金 vs 火箭·咪咕高清·720P" tvg-chno="1102" tvg-name="掘金 vs 火箭·咪咕高清·720P" tvg-group="篮球" group-title="篮球",掘金 vs 火箭·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E6%8E%98%E9%87%91%20vs%20%E7%81%AB%E7%AE%AD%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
+#EXTINF:-1 tvg-id="湖人 vs 国王·纬来1080" tvg-chno="1103" tvg-name="湖人 vs 国王·纬来1080" tvg-group="篮球1080" group-title="篮球1080",湖人 vs 国王·纬来1080
+http://192.168.5.35:35456/jh/%E6%B9%96%E4%BA%BA%20vs%20%E5%9B%BD%E7%8E%8B%C2%B7%E7%BA%AC%E6%9D%A51080.m3u8
+#EXTINF:-1 tvg-id="湖人 vs 国王·咪咕高清·720P" tvg-chno="1104" tvg-name="湖人 vs 国王·咪咕高清·720P" tvg-group="篮球" group-title="篮球",湖人 vs 国王·咪咕高清·720P
+http://192.168.5.35:35456/jh/%E6%B9%96%E4%BA%BA%20vs%20%E5%9B%BD%E7%8E%8B%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
 #EXTINF:-1 tvg-id="塔斯马尼亚跳伞蚁 vs 伊拉瓦拉老鹰·1080P原声" tvg-chno="1105" tvg-name="塔斯马尼亚跳伞蚁 vs 伊拉瓦拉老鹰·1080P原声" tvg-group="篮球1080" group-title="篮球1080",塔斯马尼亚跳伞蚁 vs 伊拉瓦拉老鹰·1080P原声
 http://192.168.5.35:35456/jh/%E5%A1%94%E6%96%AF%E9%A9%AC%E5%B0%BC%E4%BA%9A%E8%B7%B3%E4%BC%9E%E8%9A%81%20vs%20%E4%BC%8A%E6%8B%89%E7%93%A6%E6%8B%89%E8%80%81%E9%B9%B0%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="全北现代 vs FC首尔·1080P原声" tvg-chno="1201" tvg-name="全北现代 vs FC首尔·1080P原声" tvg-group="足球1080" group-title="足球1080",全北现代 vs FC首尔·1080P原声
-http://192.168.5.35:35456/jh/%E5%85%A8%E5%8C%97%E7%8E%B0%E4%BB%A3%20vs%20FC%E9%A6%96%E5%B0%94%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="广岛三箭 vs 横滨水手·1080P原声" tvg-chno="1202" tvg-name="广岛三箭 vs 横滨水手·1080P原声" tvg-group="足球1080" group-title="足球1080",广岛三箭 vs 横滨水手·1080P原声
-http://192.168.5.35:35456/jh/%E5%B9%BF%E5%B2%9B%E4%B8%89%E7%AE%AD%20vs%20%E6%A8%AA%E6%BB%A8%E6%B0%B4%E6%89%8B%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="京都不死鸟 vs 浦和红钻·1080P原声" tvg-chno="1203" tvg-name="京都不死鸟 vs 浦和红钻·1080P原声" tvg-group="足球1080" group-title="足球1080",京都不死鸟 vs 浦和红钻·1080P原声
+#EXTINF:-1 tvg-id="京都不死鸟 vs 浦和红钻·1080P原声" tvg-chno="1201" tvg-name="京都不死鸟 vs 浦和红钻·1080P原声" tvg-group="足球1080" group-title="足球1080",京都不死鸟 vs 浦和红钻·1080P原声
 http://192.168.5.35:35456/jh/%E4%BA%AC%E9%83%BD%E4%B8%8D%E6%AD%BB%E9%B8%9F%20vs%20%E6%B5%A6%E5%92%8C%E7%BA%A2%E9%92%BB%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="浦项铁人 vs 安养FC·1080P原声" tvg-chno="1204" tvg-name="浦项铁人 vs 安养FC·1080P原声" tvg-group="足球1080" group-title="足球1080",浦项铁人 vs 安养FC·1080P原声
+#EXTINF:-1 tvg-id="浦项铁人 vs 安养FC·1080P原声" tvg-chno="1202" tvg-name="浦项铁人 vs 安养FC·1080P原声" tvg-group="足球1080" group-title="足球1080",浦项铁人 vs 安养FC·1080P原声
 http://192.168.5.35:35456/jh/%E6%B5%A6%E9%A1%B9%E9%93%81%E4%BA%BA%20vs%20%E5%AE%89%E5%85%BBFC%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="大阪樱花 vs FC东京·1080P原声" tvg-chno="1205" tvg-name="大阪樱花 vs FC东京·1080P原声" tvg-group="足球1080" group-title="足球1080",大阪樱花 vs FC东京·1080P原声
-http://192.168.5.35:35456/jh/%E5%A4%A7%E9%98%AA%E6%A8%B1%E8%8A%B1%20vs%20FC%E4%B8%9C%E4%BA%AC%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="中央海岸水手 vs 珀斯光荣·1080P原声" tvg-chno="1206" tvg-name="中央海岸水手 vs 珀斯光荣·1080P原声" tvg-group="足球1080" group-title="足球1080",中央海岸水手 vs 珀斯光荣·1080P原声
+#EXTINF:-1 tvg-id="全北现代 vs FC首尔·1080P原声" tvg-chno="1203" tvg-name="全北现代 vs FC首尔·1080P原声" tvg-group="足球1080" group-title="足球1080",全北现代 vs FC首尔·1080P原声
+http://192.168.5.35:35456/jh/%E5%85%A8%E5%8C%97%E7%8E%B0%E4%BB%A3%20vs%20FC%E9%A6%96%E5%B0%94%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
+#EXTINF:-1 tvg-id="广岛三箭 vs 横滨水手·1080P原声" tvg-chno="1204" tvg-name="广岛三箭 vs 横滨水手·1080P原声" tvg-group="足球1080" group-title="足球1080",广岛三箭 vs 横滨水手·1080P原声
+http://192.168.5.35:35456/jh/%E5%B9%BF%E5%B2%9B%E4%B8%89%E7%AE%AD%20vs%20%E6%A8%AA%E6%BB%A8%E6%B0%B4%E6%89%8B%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
+#EXTINF:-1 tvg-id="中央海岸水手 vs 珀斯光荣·1080P原声" tvg-chno="1205" tvg-name="中央海岸水手 vs 珀斯光荣·1080P原声" tvg-group="足球1080" group-title="足球1080",中央海岸水手 vs 珀斯光荣·1080P原声
 http://192.168.5.35:35456/jh/%E4%B8%AD%E5%A4%AE%E6%B5%B7%E5%B2%B8%E6%B0%B4%E6%89%8B%20vs%20%E7%8F%80%E6%96%AF%E5%85%89%E8%8D%A3%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
+#EXTINF:-1 tvg-id="大阪樱花 vs FC东京·1080P原声" tvg-chno="1206" tvg-name="大阪樱花 vs FC东京·1080P原声" tvg-group="足球1080" group-title="足球1080",大阪樱花 vs FC东京·1080P原声
+http://192.168.5.35:35456/jh/%E5%A4%A7%E9%98%AA%E6%A8%B1%E8%8A%B1%20vs%20FC%E4%B8%9C%E4%BA%AC%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NFL·NBC" tvg-chno="1302" tvg-name="NFL·NBC" tvg-group="综合体育" group-title="综合体育",NFL·NBC
@@ -45,13 +45,11 @@ http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1304" tvg-name="Tennis Channel" tvg-group="综合体育" group-title="综合体育",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1305" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
-https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1306" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1305" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1307" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1308" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1307" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1351" tvg-name="ESPN" tvg-group="体育综合" group-title="体育综合",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
@@ -59,14 +57,14 @@ http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NBC" tvg-chno="1353" tvg-name="NBC" tvg-group="体育综合" group-title="体育综合",NBC
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
-#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1354" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
+#EXTINF:-1 tvg-id="F1·Formula" tvg-chno="1354" tvg-name="F1·Formula" tvg-group="体育综合" group-title="体育综合",F1·Formula
+https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
+#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1355" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1355" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1356" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1356" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1357" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1357" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
-https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="11-20 马刺 vs 快船" tvg-chno="1501" tvg-name="11-20 马刺 vs 快船" tvg-group="NBA回放" group-title="NBA回放",11-20 马刺 vs 快船
 http://192.168.5.35:8098/f/2026-11-20%20%E9%A9%AC%E5%88%BA%20vs%20%E5%BF%AB%E8%88%B9.mkv
 #EXTINF:-1 tvg-id="11-20 精英国王FC vs 亚曼亚联合" tvg-chno="1502" tvg-name="11-20 精英国王FC vs 亚曼亚联合" tvg-group="NBA回放" group-title="NBA回放",11-20 精英国王FC vs 亚曼亚联合
