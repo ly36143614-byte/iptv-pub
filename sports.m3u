@@ -19,6 +19,8 @@ http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1102" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+#EXTINF:-1 tvg-id="老鹰 vs 黄蜂·咪咕高清·720P" tvg-chno="1103" tvg-name="老鹰 vs 黄蜂·咪咕高清·720P" tvg-group="篮球" group-title="篮球",老鹰 vs 黄蜂·咪咕高清·720P
+http://192.168.5.35:35456/jh/%E8%80%81%E9%B9%B0%20vs%20%E9%BB%84%E8%9C%82%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NFL·NBC" tvg-chno="1302" tvg-name="NFL·NBC" tvg-group="综合体育" group-title="综合体育",NFL·NBC
