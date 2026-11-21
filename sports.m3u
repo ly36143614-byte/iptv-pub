@@ -27,6 +27,8 @@ http://192.168.5.35:35456/jh/%E6%B2%B3%E5%8D%97%E8%B1%AB%E5%85%89%E9%87%91%E9%93
 http://192.168.5.35:35456/jh/%E6%9B%BC%E5%9F%8E%20vs%20%E5%AF%8C%E5%8B%92%E5%A7%86%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
 #EXTINF:-1 tvg-id="永州队 vs 长沙队·咪咕高清·720P" tvg-chno="1202" tvg-name="永州队 vs 长沙队·咪咕高清·720P" tvg-group="足球" group-title="足球",永州队 vs 长沙队·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E6%B0%B8%E5%B7%9E%E9%98%9F%20vs%20%E9%95%BF%E6%B2%99%E9%98%9F%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
+#EXTINF:-1 tvg-id="纽伦堡 vs 布伦瑞克·1080P原声" tvg-chno="1203" tvg-name="纽伦堡 vs 布伦瑞克·1080P原声" tvg-group="足球1080" group-title="足球1080",纽伦堡 vs 布伦瑞克·1080P原声
+http://192.168.5.35:35456/jh/%E7%BA%BD%E4%BC%A6%E5%A0%A1%20vs%20%E5%B8%83%E4%BC%A6%E7%91%9E%E5%85%8B%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NFL·NBC" tvg-chno="1302" tvg-name="NFL·NBC" tvg-group="综合体育" group-title="综合体育",NFL·NBC
