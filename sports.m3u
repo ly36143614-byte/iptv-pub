@@ -17,11 +17,9 @@ http://192.168.5.35:35456/team/%E6%B4%BB%E5%A1%9E
 http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1101" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="阿德莱德闪电女篮 vs 悉尼火焰女篮·1080P原声" tvg-chno="1201" tvg-name="阿德莱德闪电女篮 vs 悉尼火焰女篮·1080P原声" tvg-group="足球1080" group-title="足球1080",阿德莱德闪电女篮 vs 悉尼火焰女篮·1080P原声
-http://192.168.5.35:35456/jh/%E9%98%BF%E5%BE%B7%E8%8E%B1%E5%BE%B7%E9%97%AA%E7%94%B5%E5%A5%B3%E7%AF%AE%20vs%20%E6%82%89%E5%B0%BC%E7%81%AB%E7%84%B0%E5%A5%B3%E7%AF%AE%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="墨尔本联 vs 新西兰破坏者·1080P原声" tvg-chno="1202" tvg-name="墨尔本联 vs 新西兰破坏者·1080P原声" tvg-group="足球1080" group-title="足球1080",墨尔本联 vs 新西兰破坏者·1080P原声
+#EXTINF:-1 tvg-id="墨尔本联 vs 新西兰破坏者·1080P原声" tvg-chno="1201" tvg-name="墨尔本联 vs 新西兰破坏者·1080P原声" tvg-group="足球1080" group-title="足球1080",墨尔本联 vs 新西兰破坏者·1080P原声
 http://192.168.5.35:35456/jh/%E5%A2%A8%E5%B0%94%E6%9C%AC%E8%81%94%20vs%20%E6%96%B0%E8%A5%BF%E5%85%B0%E7%A0%B4%E5%9D%8F%E8%80%85%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="布里斯班狮吼 vs 悉尼FC·1080P原声" tvg-chno="1203" tvg-name="布里斯班狮吼 vs 悉尼FC·1080P原声" tvg-group="足球1080" group-title="足球1080",布里斯班狮吼 vs 悉尼FC·1080P原声
+#EXTINF:-1 tvg-id="布里斯班狮吼 vs 悉尼FC·1080P原声" tvg-chno="1202" tvg-name="布里斯班狮吼 vs 悉尼FC·1080P原声" tvg-group="足球1080" group-title="足球1080",布里斯班狮吼 vs 悉尼FC·1080P原声
 http://192.168.5.35:35456/jh/%E5%B8%83%E9%87%8C%E6%96%AF%E7%8F%AD%E7%8B%AE%E5%90%BC%20vs%20%E6%82%89%E5%B0%BCFC%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
@@ -49,7 +47,9 @@ https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1356" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1357" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1357" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1358" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="11-21 川崎前锋 vs 福冈黄蜂" tvg-chno="1501" tvg-name="11-21 川崎前锋 vs 福冈黄蜂" tvg-group="NBA回放" group-title="NBA回放",11-21 川崎前锋 vs 福冈黄蜂
 http://192.168.5.35:8098/f/2026-11-21%20%E5%B7%9D%E5%B4%8E%E5%89%8D%E9%94%8B%20vs%20%E7%A6%8F%E5%86%88%E9%BB%84%E8%9C%82.mkv
