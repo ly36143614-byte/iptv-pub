@@ -3,7 +3,7 @@
 http://192.168.5.35:35456/sched.m3u8
 #EXTINF:-1 tvg-id="曼联" tvg-chno="1001" tvg-name="曼联" tvg-group="关注" group-title="关注",曼联｜11-23 00:30 利物浦
 http://192.168.5.35:35456/team/%E6%9B%BC%E8%81%94
-#EXTINF:-1 tvg-id="曼城" tvg-chno="1002" tvg-name="曼城" tvg-group="关注" group-title="关注",曼城｜11-21 20:30 富勒姆
+#EXTINF:-1 tvg-id="曼城" tvg-chno="1002" tvg-name="曼城" tvg-group="关注" group-title="关注",曼城｜直播中 vs 富勒姆
 http://192.168.5.35:35456/team/%E6%9B%BC%E5%9F%8E
 #EXTINF:-1 tvg-id="拜仁" tvg-chno="1003" tvg-name="拜仁" tvg-group="关注" group-title="关注",拜仁｜11-26 04:00 里尔
 http://192.168.5.35:35456/team/%E6%8B%9C%E4%BB%81
@@ -25,9 +25,11 @@ http://192.168.5.35:35456/jh/%E5%B9%BF%E4%B8%9C%E5%A5%A5%E6%99%AE%E7%89%B9%E5%A5
 http://192.168.5.35:35456/jh/%E6%B2%B3%E5%8D%97%E8%B1%AB%E5%85%89%E9%87%91%E9%93%85%E5%A5%B3%E7%AF%AE%20vs%20%E6%B1%9F%E8%8B%8F%E5%8D%97%E9%92%A2%E5%A5%B3%E7%AF%AE%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
 #EXTINF:-1 tvg-id="曼城 vs 富勒姆·咪咕高清·720P" tvg-chno="1201" tvg-name="曼城 vs 富勒姆·咪咕高清·720P" tvg-group="足球" group-title="足球",曼城 vs 富勒姆·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E6%9B%BC%E5%9F%8E%20vs%20%E5%AF%8C%E5%8B%92%E5%A7%86%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="永州队 vs 长沙队·咪咕高清·720P" tvg-chno="1202" tvg-name="永州队 vs 长沙队·咪咕高清·720P" tvg-group="足球" group-title="足球",永州队 vs 长沙队·咪咕高清·720P
+#EXTINF:-1 tvg-id="利物浦女足 vs 切尔西女足·咪咕高清·720P" tvg-chno="1202" tvg-name="利物浦女足 vs 切尔西女足·咪咕高清·720P" tvg-group="足球" group-title="足球",利物浦女足 vs 切尔西女足·咪咕高清·720P
+http://192.168.5.35:35456/jh/%E5%88%A9%E7%89%A9%E6%B5%A6%E5%A5%B3%E8%B6%B3%20vs%20%E5%88%87%E5%B0%94%E8%A5%BF%E5%A5%B3%E8%B6%B3%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
+#EXTINF:-1 tvg-id="永州队 vs 长沙队·咪咕高清·720P" tvg-chno="1203" tvg-name="永州队 vs 长沙队·咪咕高清·720P" tvg-group="足球" group-title="足球",永州队 vs 长沙队·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E6%B0%B8%E5%B7%9E%E9%98%9F%20vs%20%E9%95%BF%E6%B2%99%E9%98%9F%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="纽伦堡 vs 布伦瑞克·1080P原声" tvg-chno="1203" tvg-name="纽伦堡 vs 布伦瑞克·1080P原声" tvg-group="足球1080" group-title="足球1080",纽伦堡 vs 布伦瑞克·1080P原声
+#EXTINF:-1 tvg-id="纽伦堡 vs 布伦瑞克·1080P原声" tvg-chno="1204" tvg-name="纽伦堡 vs 布伦瑞克·1080P原声" tvg-group="足球1080" group-title="足球1080",纽伦堡 vs 布伦瑞克·1080P原声
 http://192.168.5.35:35456/jh/%E7%BA%BD%E4%BC%A6%E5%A0%A1%20vs%20%E5%B8%83%E4%BC%A6%E7%91%9E%E5%85%8B%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
