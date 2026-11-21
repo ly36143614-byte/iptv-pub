@@ -25,12 +25,12 @@ http://192.168.5.35:35456/jh/%E6%8E%98%E9%87%91%20vs%20%E7%81%AB%E7%AE%AD%C2%B7%
 http://192.168.5.35:35456/jh/%E6%B9%96%E4%BA%BA%20vs%20%E5%9B%BD%E7%8E%8B%C2%B7%E7%BA%AC%E6%9D%A51080.m3u8
 #EXTINF:-1 tvg-id="湖人 vs 国王·咪咕高清·720P" tvg-chno="1105" tvg-name="湖人 vs 国王·咪咕高清·720P" tvg-group="篮球" group-title="篮球",湖人 vs 国王·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E6%B9%96%E4%BA%BA%20vs%20%E5%9B%BD%E7%8E%8B%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="广岛三箭 vs 横滨水手·1080P原声" tvg-chno="1201" tvg-name="广岛三箭 vs 横滨水手·1080P原声" tvg-group="足球1080" group-title="足球1080",广岛三箭 vs 横滨水手·1080P原声
-http://192.168.5.35:35456/jh/%E5%B9%BF%E5%B2%9B%E4%B8%89%E7%AE%AD%20vs%20%E6%A8%AA%E6%BB%A8%E6%B0%B4%E6%89%8B%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="京都不死鸟 vs 浦和红钻·1080P原声" tvg-chno="1202" tvg-name="京都不死鸟 vs 浦和红钻·1080P原声" tvg-group="足球1080" group-title="足球1080",京都不死鸟 vs 浦和红钻·1080P原声
-http://192.168.5.35:35456/jh/%E4%BA%AC%E9%83%BD%E4%B8%8D%E6%AD%BB%E9%B8%9F%20vs%20%E6%B5%A6%E5%92%8C%E7%BA%A2%E9%92%BB%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="浦项铁人 vs 安养FC·1080P原声" tvg-chno="1203" tvg-name="浦项铁人 vs 安养FC·1080P原声" tvg-group="足球1080" group-title="足球1080",浦项铁人 vs 安养FC·1080P原声
+#EXTINF:-1 tvg-id="浦项铁人 vs 安养FC·1080P原声" tvg-chno="1201" tvg-name="浦项铁人 vs 安养FC·1080P原声" tvg-group="足球1080" group-title="足球1080",浦项铁人 vs 安养FC·1080P原声
 http://192.168.5.35:35456/jh/%E6%B5%A6%E9%A1%B9%E9%93%81%E4%BA%BA%20vs%20%E5%AE%89%E5%85%BBFC%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
+#EXTINF:-1 tvg-id="全北现代 vs FC首尔·1080P原声" tvg-chno="1202" tvg-name="全北现代 vs FC首尔·1080P原声" tvg-group="足球1080" group-title="足球1080",全北现代 vs FC首尔·1080P原声
+http://192.168.5.35:35456/jh/%E5%85%A8%E5%8C%97%E7%8E%B0%E4%BB%A3%20vs%20FC%E9%A6%96%E5%B0%94%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
+#EXTINF:-1 tvg-id="京都不死鸟 vs 浦和红钻·1080P原声" tvg-chno="1203" tvg-name="京都不死鸟 vs 浦和红钻·1080P原声" tvg-group="足球1080" group-title="足球1080",京都不死鸟 vs 浦和红钻·1080P原声
+http://192.168.5.35:35456/jh/%E4%BA%AC%E9%83%BD%E4%B8%8D%E6%AD%BB%E9%B8%9F%20vs%20%E6%B5%A6%E5%92%8C%E7%BA%A2%E9%92%BB%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
 #EXTINF:-1 tvg-id="中央海岸水手 vs 珀斯光荣·1080P原声" tvg-chno="1204" tvg-name="中央海岸水手 vs 珀斯光荣·1080P原声" tvg-group="足球1080" group-title="足球1080",中央海岸水手 vs 珀斯光荣·1080P原声
 http://192.168.5.35:35456/jh/%E4%B8%AD%E5%A4%AE%E6%B5%B7%E5%B2%B8%E6%B0%B4%E6%89%8B%20vs%20%E7%8F%80%E6%96%AF%E5%85%89%E8%8D%A3%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
 #EXTINF:-1 tvg-id="大阪樱花 vs FC东京·1080P原声" tvg-chno="1205" tvg-name="大阪樱花 vs FC东京·1080P原声" tvg-group="足球1080" group-title="足球1080",大阪樱花 vs FC东京·1080P原声
