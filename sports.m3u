@@ -17,9 +17,7 @@ http://192.168.5.35:35456/team/%E6%B4%BB%E5%A1%9E
 http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1101" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="延世大学 vs 上海交通大学·咪咕高清·720P" tvg-chno="1201" tvg-name="延世大学 vs 上海交通大学·咪咕高清·720P" tvg-group="足球" group-title="足球",延世大学 vs 上海交通大学·咪咕高清·720P
-http://192.168.5.35:35456/jh/%E5%BB%B6%E4%B8%96%E5%A4%A7%E5%AD%A6%20vs%20%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="埃尔祖鲁姆体育 vs 哥兹塔比·1080P原声" tvg-chno="1202" tvg-name="埃尔祖鲁姆体育 vs 哥兹塔比·1080P原声" tvg-group="足球1080" group-title="足球1080",埃尔祖鲁姆体育 vs 哥兹塔比·1080P原声
+#EXTINF:-1 tvg-id="埃尔祖鲁姆体育 vs 哥兹塔比·1080P原声" tvg-chno="1201" tvg-name="埃尔祖鲁姆体育 vs 哥兹塔比·1080P原声" tvg-group="足球1080" group-title="足球1080",埃尔祖鲁姆体育 vs 哥兹塔比·1080P原声
 http://192.168.5.35:35456/jh/%E5%9F%83%E5%B0%94%E7%A5%96%E9%B2%81%E5%A7%86%E4%BD%93%E8%82%B2%20vs%20%E5%93%A5%E5%85%B9%E5%A1%94%E6%AF%94%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
@@ -45,11 +43,13 @@ http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="F1·Formula" tvg-chno="1354" tvg-name="F1·Formula" tvg-group="体育综合" group-title="体育综合",F1·Formula
 https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1355" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1355" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1356" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1356" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1357" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1357" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1358" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="11-22 布里斯班子弹 vs 悉尼国王" tvg-chno="1501" tvg-name="11-22 布里斯班子弹 vs 悉尼国王" tvg-group="NBA回放" group-title="NBA回放",11-22 布里斯班子弹 vs 悉尼国王
 http://192.168.5.35:8098/f/2026-11-22%20%E5%B8%83%E9%87%8C%E6%96%AF%E7%8F%AD%E5%AD%90%E5%BC%B9%20vs%20%E6%82%89%E5%B0%BC%E5%9B%BD%E7%8E%8B.mkv
