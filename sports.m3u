@@ -71,6 +71,8 @@ http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1358" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
+#EXTINF:-1 tvg-id="Dota2中文·完美世界" tvg-chno="1401" tvg-name="Dota2中文·完美世界" tvg-group="DOTA2" group-title="DOTA2",Dota2中文·完美世界
+http://127.0.0.1:35455/douyu/6829849
 #EXTINF:-1 tvg-id="11-22 76人 vs 雄鹿" tvg-chno="1501" tvg-name="11-22 76人 vs 雄鹿" tvg-group="NBA回放" group-title="NBA回放",11-22 76人 vs 雄鹿
 http://192.168.5.35:8098/f/2026-11-22%2076%E4%BA%BA%20vs%20%E9%9B%84%E9%B9%BF.mkv
 #EXTINF:-1 tvg-id="11-21 川崎前锋 vs 福冈黄蜂" tvg-chno="1502" tvg-name="11-21 川崎前锋 vs 福冈黄蜂" tvg-group="NBA回放" group-title="NBA回放",11-21 川崎前锋 vs 福冈黄蜂
