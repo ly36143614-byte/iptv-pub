@@ -9,7 +9,7 @@ http://192.168.5.35:35456/team/%E6%9B%BC%E5%9F%8E
 http://192.168.5.35:35456/team/%E6%8B%9C%E4%BB%81
 #EXTINF:-1 tvg-id="皇马" tvg-chno="1004" tvg-name="皇马" tvg-group="关注" group-title="关注",皇马｜11-23 02:00 约文图特
 http://192.168.5.35:35456/team/%E7%9A%87%E9%A9%AC
-#EXTINF:-1 tvg-id="北京首钢" tvg-chno="1005" tvg-name="北京首钢" tvg-group="关注" group-title="关注",北京首钢｜11-22 15:30 深圳
+#EXTINF:-1 tvg-id="北京首钢" tvg-chno="1005" tvg-name="北京首钢" tvg-group="关注" group-title="关注",北京首钢｜直播中 vs 深圳
 http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E9%A6%96%E9%92%A2
 #EXTINF:-1 tvg-id="活塞" tvg-chno="1006" tvg-name="活塞" tvg-group="关注" group-title="关注",活塞｜11-23 04:30 老鹰
 http://192.168.5.35:35456/team/%E6%B4%BB%E5%A1%9E
@@ -17,15 +17,13 @@ http://192.168.5.35:35456/team/%E6%B4%BB%E5%A1%9E
 http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1101" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="国王 vs 凯尔特人·纬来1080" tvg-chno="1102" tvg-name="国王 vs 凯尔特人·纬来1080" tvg-group="篮球1080" group-title="篮球1080",国王 vs 凯尔特人·纬来1080
-http://192.168.5.35:35456/jh/%E5%9B%BD%E7%8E%8B%20vs%20%E5%87%AF%E5%B0%94%E7%89%B9%E4%BA%BA%C2%B7%E7%BA%AC%E6%9D%A51080.m3u8
-#EXTINF:-1 tvg-id="布里斯班子弹 vs 悉尼国王·1080P原声" tvg-chno="1103" tvg-name="布里斯班子弹 vs 悉尼国王·1080P原声" tvg-group="篮球1080" group-title="篮球1080",布里斯班子弹 vs 悉尼国王·1080P原声
+#EXTINF:-1 tvg-id="布里斯班子弹 vs 悉尼国王·1080P原声" tvg-chno="1102" tvg-name="布里斯班子弹 vs 悉尼国王·1080P原声" tvg-group="篮球1080" group-title="篮球1080",布里斯班子弹 vs 悉尼国王·1080P原声
 http://192.168.5.35:35456/jh/%E5%B8%83%E9%87%8C%E6%96%AF%E7%8F%AD%E5%AD%90%E5%BC%B9%20vs%20%E6%82%89%E5%B0%BC%E5%9B%BD%E7%8E%8B%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="青岛 vs 福建·咪咕高清·720P" tvg-chno="1104" tvg-name="青岛 vs 福建·咪咕高清·720P" tvg-group="篮球" group-title="篮球",青岛 vs 福建·咪咕高清·720P
+#EXTINF:-1 tvg-id="青岛 vs 福建·咪咕高清·720P" tvg-chno="1103" tvg-name="青岛 vs 福建·咪咕高清·720P" tvg-group="篮球" group-title="篮球",青岛 vs 福建·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E9%9D%92%E5%B2%9B%20vs%20%E7%A6%8F%E5%BB%BA%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="山西 vs 宁波·咪咕高清·720P" tvg-chno="1105" tvg-name="山西 vs 宁波·咪咕高清·720P" tvg-group="篮球" group-title="篮球",山西 vs 宁波·咪咕高清·720P
+#EXTINF:-1 tvg-id="山西 vs 宁波·咪咕高清·720P" tvg-chno="1104" tvg-name="山西 vs 宁波·咪咕高清·720P" tvg-group="篮球" group-title="篮球",山西 vs 宁波·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E5%B1%B1%E8%A5%BF%20vs%20%E5%AE%81%E6%B3%A2%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="山东 vs 浙江·咪咕高清·720P" tvg-chno="1106" tvg-name="山东 vs 浙江·咪咕高清·720P" tvg-group="篮球" group-title="篮球",山东 vs 浙江·咪咕高清·720P
+#EXTINF:-1 tvg-id="山东 vs 浙江·咪咕高清·720P" tvg-chno="1105" tvg-name="山东 vs 浙江·咪咕高清·720P" tvg-group="篮球" group-title="篮球",山东 vs 浙江·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E5%B1%B1%E4%B8%9C%20vs%20%E6%B5%99%E6%B1%9F%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
 #EXTINF:-1 tvg-id="北京 vs 深圳·咪咕高清·720P" tvg-chno="1201" tvg-name="北京 vs 深圳·咪咕高清·720P" tvg-group="足球" group-title="足球",北京 vs 深圳·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E5%8C%97%E4%BA%AC%20vs%20%E6%B7%B1%E5%9C%B3%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
