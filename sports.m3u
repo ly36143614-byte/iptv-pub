@@ -73,9 +73,11 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannel
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="Dota2中文·完美世界" tvg-chno="1401" tvg-name="Dota2中文·完美世界" tvg-group="DOTA2" group-title="DOTA2",Dota2中文·完美世界
 http://127.0.0.1:35455/douyu/6829849
-#EXTINF:-1 tvg-id="11-22 76人 vs 雄鹿" tvg-chno="1501" tvg-name="11-22 76人 vs 雄鹿" tvg-group="NBA回放" group-title="NBA回放",11-22 76人 vs 雄鹿
+#EXTINF:-1 tvg-id="11-22 布里斯班子弹 vs 悉尼国王" tvg-chno="1501" tvg-name="11-22 布里斯班子弹 vs 悉尼国王" tvg-group="NBA回放" group-title="NBA回放",11-22 布里斯班子弹 vs 悉尼国王
+http://192.168.5.35:8098/f/2026-11-22%20%E5%B8%83%E9%87%8C%E6%96%AF%E7%8F%AD%E5%AD%90%E5%BC%B9%20vs%20%E6%82%89%E5%B0%BC%E5%9B%BD%E7%8E%8B.mkv
+#EXTINF:-1 tvg-id="11-22 76人 vs 雄鹿" tvg-chno="1502" tvg-name="11-22 76人 vs 雄鹿" tvg-group="NBA回放" group-title="NBA回放",11-22 76人 vs 雄鹿
 http://192.168.5.35:8098/f/2026-11-22%2076%E4%BA%BA%20vs%20%E9%9B%84%E9%B9%BF.mkv
-#EXTINF:-1 tvg-id="11-21 川崎前锋 vs 福冈黄蜂" tvg-chno="1502" tvg-name="11-21 川崎前锋 vs 福冈黄蜂" tvg-group="NBA回放" group-title="NBA回放",11-21 川崎前锋 vs 福冈黄蜂
+#EXTINF:-1 tvg-id="11-21 川崎前锋 vs 福冈黄蜂" tvg-chno="1503" tvg-name="11-21 川崎前锋 vs 福冈黄蜂" tvg-group="NBA回放" group-title="NBA回放",11-21 川崎前锋 vs 福冈黄蜂
 http://192.168.5.35:8098/f/2026-11-21%20%E5%B7%9D%E5%B4%8E%E5%89%8D%E9%94%8B%20vs%20%E7%A6%8F%E5%86%88%E9%BB%84%E8%9C%82.mkv
-#EXTINF:-1 tvg-id="11-21 塔斯马尼亚跳伞蚁 vs 伊拉瓦拉老鹰" tvg-chno="1503" tvg-name="11-21 塔斯马尼亚跳伞蚁 vs 伊拉瓦拉老鹰" tvg-group="NBA回放" group-title="NBA回放",11-21 塔斯马尼亚跳伞蚁 vs 伊拉瓦拉老鹰
+#EXTINF:-1 tvg-id="11-21 塔斯马尼亚跳伞蚁 vs 伊拉瓦拉老鹰" tvg-chno="1504" tvg-name="11-21 塔斯马尼亚跳伞蚁 vs 伊拉瓦拉老鹰" tvg-group="NBA回放" group-title="NBA回放",11-21 塔斯马尼亚跳伞蚁 vs 伊拉瓦拉老鹰
 http://192.168.5.35:8098/f/2026-11-21%20%E5%A1%94%E6%96%AF%E9%A9%AC%E5%B0%BC%E4%BA%9A%E8%B7%B3%E4%BC%9E%E8%9A%81%20vs%20%E4%BC%8A%E6%8B%89%E7%93%A6%E6%8B%89%E8%80%81%E9%B9%B0.mkv
