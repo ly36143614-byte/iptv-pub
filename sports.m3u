@@ -27,8 +27,6 @@ http://192.168.5.35:35456/jh/%E5%B8%83%E9%87%8C%E6%96%AF%E7%8F%AD%E5%AD%90%E5%BC
 http://192.168.5.35:35456/jh/%E9%87%91%E6%B3%89%E5%B0%9A%E6%AD%A6%20vs%20%E6%B5%8E%E5%B7%9ESK%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
 #EXTINF:-1 tvg-id="光州FC vs 富川FC·1080P原声" tvg-chno="1202" tvg-name="光州FC vs 富川FC·1080P原声" tvg-group="足球1080" group-title="足球1080",光州FC vs 富川FC·1080P原声
 http://192.168.5.35:35456/jh/%E5%85%89%E5%B7%9EFC%20vs%20%E5%AF%8C%E5%B7%9DFC%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="德岛漩涡 vs 湘南丽海·1080P原声" tvg-chno="1203" tvg-name="德岛漩涡 vs 湘南丽海·1080P原声" tvg-group="足球1080" group-title="足球1080",德岛漩涡 vs 湘南丽海·1080P原声
-http://192.168.5.35:35456/jh/%E5%BE%B7%E5%B2%9B%E6%BC%A9%E6%B6%A1%20vs%20%E6%B9%98%E5%8D%97%E4%B8%BD%E6%B5%B7%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NFL·NBC" tvg-chno="1302" tvg-name="NFL·NBC" tvg-group="综合体育" group-title="综合体育",NFL·NBC
