@@ -27,11 +27,9 @@ http://192.168.5.35:35456/jh/%E5%B1%B1%E4%B8%9C%20vs%20%E6%B5%99%E6%B1%9F%C2%B7%
 http://192.168.5.35:35456/jh/%E5%8C%97%E4%BA%AC%20vs%20%E6%B7%B1%E5%9C%B3%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
 #EXTINF:-1 tvg-id="坡州前线 vs 天安城·1080P原声" tvg-chno="1202" tvg-name="坡州前线 vs 天安城·1080P原声" tvg-group="足球1080" group-title="足球1080",坡州前线 vs 天安城·1080P原声
 http://192.168.5.35:35456/jh/%E5%9D%A1%E5%B7%9E%E5%89%8D%E7%BA%BF%20vs%20%E5%A4%A9%E5%AE%89%E5%9F%8E%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="首尔衣恋 vs 忠南牙山·1080P原声" tvg-chno="1203" tvg-name="首尔衣恋 vs 忠南牙山·1080P原声" tvg-group="足球1080" group-title="足球1080",首尔衣恋 vs 忠南牙山·1080P原声
-http://192.168.5.35:35456/jh/%E9%A6%96%E5%B0%94%E8%A1%A3%E6%81%8B%20vs%20%E5%BF%A0%E5%8D%97%E7%89%99%E5%B1%B1%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="延世大学 vs 上海交通大学·咪咕高清·720P" tvg-chno="1204" tvg-name="延世大学 vs 上海交通大学·咪咕高清·720P" tvg-group="足球" group-title="足球",延世大学 vs 上海交通大学·咪咕高清·720P
+#EXTINF:-1 tvg-id="延世大学 vs 上海交通大学·咪咕高清·720P" tvg-chno="1203" tvg-name="延世大学 vs 上海交通大学·咪咕高清·720P" tvg-group="足球" group-title="足球",延世大学 vs 上海交通大学·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E5%BB%B6%E4%B8%96%E5%A4%A7%E5%AD%A6%20vs%20%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="伊森穆朗 vs 婆罗洲FC·1080P原声" tvg-chno="1205" tvg-name="伊森穆朗 vs 婆罗洲FC·1080P原声" tvg-group="足球1080" group-title="足球1080",伊森穆朗 vs 婆罗洲FC·1080P原声
+#EXTINF:-1 tvg-id="伊森穆朗 vs 婆罗洲FC·1080P原声" tvg-chno="1204" tvg-name="伊森穆朗 vs 婆罗洲FC·1080P原声" tvg-group="足球1080" group-title="足球1080",伊森穆朗 vs 婆罗洲FC·1080P原声
 http://192.168.5.35:35456/jh/%E4%BC%8A%E6%A3%AE%E7%A9%86%E6%9C%97%20vs%20%E5%A9%86%E7%BD%97%E6%B4%B2FC%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
@@ -43,9 +41,11 @@ http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1305" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1306" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1307" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1307" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1308" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1351" tvg-name="ESPN" tvg-group="体育综合" group-title="体育综合",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
@@ -57,9 +57,11 @@ http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 #EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1355" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1356" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1356" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1357" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1357" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1358" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="Dota2中文·完美世界" tvg-chno="1401" tvg-name="Dota2中文·完美世界" tvg-group="DOTA2" group-title="DOTA2",Dota2中文·完美世界
 http://127.0.0.1:35455/douyu/6829849
