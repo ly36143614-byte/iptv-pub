@@ -3,18 +3,17 @@
   <channel id="CBS"><display-name>CBS</display-name></channel>
   <channel id="ESPN"><display-name>ESPN</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
-  <channel id="活塞"><display-name>活塞</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <programme start="20261123020000 +0800" stop="20261123051948 +0800" channel="CBS">
-    <title>Miami Dolphins at Buffalo Bills（NFL）</title>
+    <title>Miami Dolphins at Buffalo Bills 已结束（NFL）</title>
     <category>体育</category>
   </programme>
   <programme start="20261123020000 +0800" stop="20261123051948 +0800" channel="CBS">
-    <title>Arizona Cardinals at Kansas City Chiefs（NFL）</title>
+    <title>Arizona Cardinals at Kansas City Chiefs 已结束（NFL）</title>
     <category>体育</category>
   </programme>
   <programme start="20261123020000 +0800" stop="20261123051948 +0800" channel="CBS">
-    <title>Pittsburgh Steelers at Philadelphia Eagles（NFL）</title>
+    <title>Pittsburgh Steelers at Philadelphia Eagles 已结束（NFL）</title>
     <category>体育</category>
   </programme>
   <programme start="20261123052500 +0800" stop="20261123084448 +0800" channel="CBS">
@@ -61,6 +60,10 @@
     <title>San Antonio Spurs at Portland Trail Blazers（NBA）</title>
     <category>体育</category>
   </programme>
+  <programme start="20261201091500 +0800" stop="20261201123448 +0800" channel="ESPN">
+    <title>Carolina Panthers at Tampa Bay Buccaneers（NFL）</title>
+    <category>体育</category>
+  </programme>
   <programme start="20261123092000 +0800" stop="20261123123948 +0800" channel="NBC">
     <title>Minnesota Vikings at San Francisco 49ers（NFL）</title>
     <category>体育</category>
@@ -79,70 +82,6 @@
   </programme>
   <programme start="20261130092000 +0800" stop="20261130123948 +0800" channel="NBC">
     <title>Las Vegas Raiders at Cleveland Browns（NFL）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261123043000 +0800" stop="20261123071012 +0800" channel="活塞">
-    <title>NBA：老鹰 vs 活塞</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261122210000 +0800" stop="20261122213000 +0800" channel="赛程预告">
-    <title>西甲：巴塞罗那 vs 比利亚雷亚尔</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261122213000 +0800" stop="20261122220000 +0800" channel="赛程预告">
-    <title>荷甲：阿贾克斯 vs 海牙</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261122220000 +0800" stop="20261122223000 +0800" channel="赛程预告">
-    <title>法甲：巴黎FC vs 昂热；意甲：博洛尼亚 vs 乌迪内斯；意甲：萨索洛 vs 热那亚；英超：赫尔城 vs 布莱顿</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261122223000 +0800" stop="20261122231500 +0800" channel="赛程预告">
-    <title>德甲：奥格斯堡 vs 美因茨</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261122231500 +0800" stop="20261123000000 +0800" channel="赛程预告">
-    <title>西甲：桑坦德 vs 皇家社会；桑坦德竞技 vs 皇家社会</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261123000000 +0800" stop="20261123001500 +0800" channel="赛程预告">
-    <title>足球：特拉布宗 vs 埃尤普体育</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261123001500 +0800" stop="20261123003000 +0800" channel="赛程预告">
-    <title>法甲：洛里昂 vs 雷恩</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261123003000 +0800" stop="20261123010000 +0800" channel="赛程预告">
-    <title>英超：利物浦 vs 曼联；德甲：不来梅 vs 汉堡；德甲：不莱梅 vs 汉堡</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261123010000 +0800" stop="20261123013000 +0800" channel="赛程预告">
-    <title>意甲：AC米兰 vs 弗洛西诺；AC米兰 vs 弗洛西诺内</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261123013000 +0800" stop="20261123021500 +0800" channel="赛程预告">
-    <title>西甲：奥萨苏纳 vs 马拉加</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261123021500 +0800" stop="20261123034500 +0800" channel="赛程预告">
-    <title>挪超：萨普斯堡 vs 利勒斯特</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261123034500 +0800" stop="20261123040000 +0800" channel="赛程预告">
-    <title>意甲：亚特兰大 vs 国际米兰；法甲：马赛 vs 勒芒</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261123040000 +0800" stop="20261123043000 +0800" channel="赛程预告">
-    <title>西甲：赫塔费 vs 马竞；赫塔费 vs 马德里竞技</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261123043000 +0800" stop="20261123044500 +0800" channel="赛程预告">
-    <title>NBA：老鹰 vs 活塞</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261123044500 +0800" stop="20261123070000 +0800" channel="赛程预告">
-    <title>本菲卡：杜连斯 vs 本菲卡</title>
     <category>体育</category>
   </programme>
   <programme start="20261123070000 +0800" stop="20261123080000 +0800" channel="赛程预告">
@@ -170,7 +109,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261124000000 +0800" stop="20261124020000 +0800" channel="赛程预告">
-    <title>亚冠精英：艾因 vs 德黑兰独立；大不里士拖拉机 vs 迪拜祈祷；北方体育 vs 吉达国民</title>
+    <title>亚冠精英：北方体育 vs 吉达国民；大不里士拖拉机 vs 迪拜祈祷；艾因 vs 德黑兰独立</title>
     <category>体育</category>
   </programme>
   <programme start="20261124020000 +0800" stop="20261124021500 +0800" channel="赛程预告">
@@ -225,8 +164,24 @@
     <title>足球：浙江队U20 vs 江苏常晋</title>
     <category>体育</category>
   </programme>
-  <programme start="20261124201500 +0800" stop="20261124221500 +0800" channel="赛程预告">
+  <programme start="20261124201500 +0800" stop="20261125000000 +0800" channel="赛程预告">
     <title>亚冠精英：上海海港 vs 武里南联；河内公安 vs 神户胜利船；拉查武里 vs 柔佛新山</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261125000000 +0800" stop="20261125014500 +0800" channel="赛程预告">
+    <title>亚冠精英：迪拜国民 vs 胡拜尔库迪西亚</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261125014500 +0800" stop="20261125021500 +0800" channel="赛程预告">
+    <title>欧冠：博德闪耀 vs LASK林茨；加拉塔萨雷 vs 阿斯顿维拉</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261125021500 +0800" stop="20261125040000 +0800" channel="赛程预告">
+    <title>亚冠精英：利雅得胜利 vs 多哈萨德</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261125040000 +0800" stop="20261125060000 +0800" channel="赛程预告">
+    <title>欧冠：曼城 vs 那不勒斯；阿森纳 vs 多特蒙德；皇家马德里 vs 埃因霍温；费耶诺德 vs 波尔图；RB莱比锡 vs 朗斯；科莫 vs 雅典AEK；布拉迪斯拉发 vs 皇家贝蒂斯</title>
     <category>体育</category>
   </programme>
 </tv>
