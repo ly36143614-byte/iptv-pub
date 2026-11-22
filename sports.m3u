@@ -21,11 +21,21 @@ http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 http://192.168.5.35:35456/jh/%E5%B8%83%E9%87%8C%E6%96%AF%E7%8F%AD%E5%AD%90%E5%BC%B9%20vs%20%E6%82%89%E5%B0%BC%E5%9B%BD%E7%8E%8B%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
 #EXTINF:-1 tvg-id="青岛 vs 福建·咪咕高清·720P" tvg-chno="1103" tvg-name="青岛 vs 福建·咪咕高清·720P" tvg-group="篮球" group-title="篮球",青岛 vs 福建·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E9%9D%92%E5%B2%9B%20vs%20%E7%A6%8F%E5%BB%BA%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="山西 vs 宁波·咪咕高清·720P" tvg-chno="1104" tvg-name="山西 vs 宁波·咪咕高清·720P" tvg-group="篮球" group-title="篮球",山西 vs 宁波·咪咕高清·720P
+#EXTINF:-1 tvg-id="山西 vs 宁波·1080P原声" tvg-chno="1104" tvg-name="山西 vs 宁波·1080P原声" tvg-group="篮球1080" group-title="篮球1080",山西 vs 宁波·1080P原声
+http://192.168.5.35:35456/jh/%E5%B1%B1%E8%A5%BF%20vs%20%E5%AE%81%E6%B3%A2%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
+#EXTINF:-1 tvg-id="山西 vs 宁波·咪咕高清·720P" tvg-chno="1105" tvg-name="山西 vs 宁波·咪咕高清·720P" tvg-group="篮球" group-title="篮球",山西 vs 宁波·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E5%B1%B1%E8%A5%BF%20vs%20%E5%AE%81%E6%B3%A2%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="山东 vs 浙江·咪咕高清·720P" tvg-chno="1105" tvg-name="山东 vs 浙江·咪咕高清·720P" tvg-group="篮球" group-title="篮球",山东 vs 浙江·咪咕高清·720P
+#EXTINF:-1 tvg-id="山东 vs 浙江·1080P原声" tvg-chno="1106" tvg-name="山东 vs 浙江·1080P原声" tvg-group="篮球1080" group-title="篮球1080",山东 vs 浙江·1080P原声
+http://192.168.5.35:35456/jh/%E5%B1%B1%E4%B8%9C%20vs%20%E6%B5%99%E6%B1%9F%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
+#EXTINF:-1 tvg-id="山东 vs 浙江·咪咕高清·720P" tvg-chno="1107" tvg-name="山东 vs 浙江·咪咕高清·720P" tvg-group="篮球" group-title="篮球",山东 vs 浙江·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E5%B1%B1%E4%B8%9C%20vs%20%E6%B5%99%E6%B1%9F%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="北京 vs 深圳·咪咕高清·720P" tvg-chno="1201" tvg-name="北京 vs 深圳·咪咕高清·720P" tvg-group="足球" group-title="足球",北京 vs 深圳·咪咕高清·720P
+#EXTINF:-1 tvg-id="坡州前线 vs 天安城·1080P原声" tvg-chno="1201" tvg-name="坡州前线 vs 天安城·1080P原声" tvg-group="足球1080" group-title="足球1080",坡州前线 vs 天安城·1080P原声
+http://192.168.5.35:35456/jh/%E5%9D%A1%E5%B7%9E%E5%89%8D%E7%BA%BF%20vs%20%E5%A4%A9%E5%AE%89%E5%9F%8E%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
+#EXTINF:-1 tvg-id="首尔衣恋 vs 忠南牙山·1080P原声" tvg-chno="1202" tvg-name="首尔衣恋 vs 忠南牙山·1080P原声" tvg-group="足球1080" group-title="足球1080",首尔衣恋 vs 忠南牙山·1080P原声
+http://192.168.5.35:35456/jh/%E9%A6%96%E5%B0%94%E8%A1%A3%E6%81%8B%20vs%20%E5%BF%A0%E5%8D%97%E7%89%99%E5%B1%B1%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
+#EXTINF:-1 tvg-id="北京 vs 深圳·1080P原声" tvg-chno="1203" tvg-name="北京 vs 深圳·1080P原声" tvg-group="足球1080" group-title="足球1080",北京 vs 深圳·1080P原声
+http://192.168.5.35:35456/jh/%E5%8C%97%E4%BA%AC%20vs%20%E6%B7%B1%E5%9C%B3%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
+#EXTINF:-1 tvg-id="北京 vs 深圳·咪咕高清·720P" tvg-chno="1204" tvg-name="北京 vs 深圳·咪咕高清·720P" tvg-group="足球" group-title="足球",北京 vs 深圳·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E5%8C%97%E4%BA%AC%20vs%20%E6%B7%B1%E5%9C%B3%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
