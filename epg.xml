@@ -89,6 +89,10 @@
     <title>NBA：魔术 vs 活塞</title>
     <category>体育</category>
   </programme>
+  <programme start="20261123203000 +0800" stop="20261123214500 +0800" channel="赛程预告">
+    <title>足球：西班牙U17 vs 斐济U17</title>
+    <category>体育</category>
+  </programme>
   <programme start="20261123214500 +0800" stop="20261123230000 +0800" channel="赛程预告">
     <title>亚冠精英：费尔干纳油工 vs 利雅得新月</title>
     <category>体育</category>
@@ -106,7 +110,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261124021500 +0800" stop="20261124034500 +0800" channel="赛程预告">
-    <title>亚冠精英：巴格达空军 vs 加拉法；吉达联合 vs 塔什干棉农</title>
+    <title>亚冠精英：吉达联合 vs 塔什干棉农；巴格达空军 vs 加拉法</title>
     <category>体育</category>
   </programme>
   <programme start="20261124034500 +0800" stop="20261124040000 +0800" channel="赛程预告">
@@ -153,8 +157,16 @@
     <title>足球：浙江队U20 vs 江苏常晋</title>
     <category>体育</category>
   </programme>
-  <programme start="20261124201500 +0800" stop="20261125000000 +0800" channel="赛程预告">
-    <title>亚冠精英：上海海港 vs 武里南联；河内公安 vs 神户胜利船；拉查武里 vs 柔佛新山</title>
+  <programme start="20261124201500 +0800" stop="20261124203000 +0800" channel="赛程预告">
+    <title>亚冠精英：拉查武里 vs 柔佛新山；上海海港 vs 武里南联；河内公安 vs 神户胜利船</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261124203000 +0800" stop="20261124230000 +0800" channel="赛程预告">
+    <title>足球：委内瑞拉U17 vs 罗马尼亚U17</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261124230000 +0800" stop="20261125000000 +0800" channel="赛程预告">
+    <title>足球：巴西U17 vs 坦桑尼亚U17</title>
     <category>体育</category>
   </programme>
   <programme start="20261125000000 +0800" stop="20261125014500 +0800" channel="赛程预告">
@@ -170,7 +182,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261125040000 +0800" stop="20261125080000 +0800" channel="赛程预告">
-    <title>欧冠：科莫 vs 雅典AEK；莱红牛 vs 朗斯；阿森纳 vs 多特蒙德；曼城 vs 那不勒斯；布拉迪斯 vs 贝蒂斯；费耶诺德 vs 波尔图；RB莱比锡 vs 朗斯；布拉迪斯拉发 vs 皇家贝蒂斯；皇家马德里 vs 埃因霍温</title>
+    <title>欧冠：科莫 vs 雅典AEK；莱红牛 vs 朗斯；阿森纳 vs 多特蒙德；曼城 vs 那不勒斯；布拉迪斯 vs 贝蒂斯；费耶诺德 vs 波尔图；皇家马德里 vs 埃因霍温；RB莱比锡 vs 朗斯；布拉迪斯拉发 vs 皇家贝蒂斯</title>
     <category>体育</category>
   </programme>
   <programme start="20261125080000 +0800" stop="20261125090000 +0800" channel="赛程预告">
