@@ -19,6 +19,8 @@ http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="长野帕塞罗女足 vs 浦和红钻女足·1080P原声" tvg-chno="1201" tvg-name="长野帕塞罗女足 vs 浦和红钻女足·1080P原声" tvg-group="足球1080" group-title="足球1080",长野帕塞罗女足 vs 浦和红钻女足·1080P原声
 http://192.168.5.35:35456/jh/%E9%95%BF%E9%87%8E%E5%B8%95%E5%A1%9E%E7%BD%97%E5%A5%B3%E8%B6%B3%20vs%20%E6%B5%A6%E5%92%8C%E7%BA%A2%E9%92%BB%E5%A5%B3%E8%B6%B3%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
+#EXTINF:-1 tvg-id="东京日视美人女足 vs 神户雌狮女足·1080P原声" tvg-chno="1202" tvg-name="东京日视美人女足 vs 神户雌狮女足·1080P原声" tvg-group="足球1080" group-title="足球1080",东京日视美人女足 vs 神户雌狮女足·1080P原声
+http://192.168.5.35:35456/jh/%E4%B8%9C%E4%BA%AC%E6%97%A5%E8%A7%86%E7%BE%8E%E4%BA%BA%E5%A5%B3%E8%B6%B3%20vs%20%E7%A5%9E%E6%88%B7%E9%9B%8C%E7%8B%AE%E5%A5%B3%E8%B6%B3%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NFL·NBC" tvg-chno="1302" tvg-name="NFL·NBC" tvg-group="综合体育" group-title="综合体育",NFL·NBC
