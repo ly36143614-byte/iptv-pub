@@ -3,6 +3,7 @@
   <channel id="CBS"><display-name>CBS</display-name></channel>
   <channel id="ESPN"><display-name>ESPN</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
+  <channel id="活塞"><display-name>活塞</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <programme start="20261123020000 +0800" stop="20261123051948 +0800" channel="CBS">
     <title>Miami Dolphins at Buffalo Bills 已结束（NFL）</title>
@@ -82,6 +83,10 @@
   </programme>
   <programme start="20261130092000 +0800" stop="20261130123948 +0800" channel="NBC">
     <title>Las Vegas Raiders at Cleveland Browns（NFL）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261125080000 +0800" stop="20261125104012 +0800" channel="活塞">
+    <title>NBA：魔术 vs 活塞</title>
     <category>体育</category>
   </programme>
   <programme start="20261123070000 +0800" stop="20261123080000 +0800" channel="赛程预告">
@@ -180,8 +185,12 @@
     <title>亚冠精英：利雅得胜利 vs 多哈萨德</title>
     <category>体育</category>
   </programme>
-  <programme start="20261125040000 +0800" stop="20261125060000 +0800" channel="赛程预告">
+  <programme start="20261125040000 +0800" stop="20261125080000 +0800" channel="赛程预告">
     <title>欧冠：曼城 vs 那不勒斯；阿森纳 vs 多特蒙德；皇家马德里 vs 埃因霍温；费耶诺德 vs 波尔图；RB莱比锡 vs 朗斯；科莫 vs 雅典AEK；布拉迪斯拉发 vs 皇家贝蒂斯</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261125080000 +0800" stop="20261125100000 +0800" channel="赛程预告">
+    <title>NBA：魔术 vs 活塞</title>
     <category>体育</category>
   </programme>
 </tv>
