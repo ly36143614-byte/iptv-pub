@@ -17,13 +17,17 @@ http://192.168.5.35:35456/team/%E6%B4%BB%E5%A1%9E
 http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1101" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="上海浦发银行女篮 vs 江苏南钢女篮·1080P原声" tvg-chno="1102" tvg-name="上海浦发银行女篮 vs 江苏南钢女篮·1080P原声" tvg-group="篮球1080" group-title="篮球1080",上海浦发银行女篮 vs 江苏南钢女篮·1080P原声
+#EXTINF:-1 tvg-id="山东赤水河酒女篮 vs 四川远达美乐女篮·1080P原声" tvg-chno="1102" tvg-name="山东赤水河酒女篮 vs 四川远达美乐女篮·1080P原声" tvg-group="篮球1080" group-title="篮球1080",山东赤水河酒女篮 vs 四川远达美乐女篮·1080P原声
+http://192.168.5.35:35456/jh/%E5%B1%B1%E4%B8%9C%E8%B5%A4%E6%B0%B4%E6%B2%B3%E9%85%92%E5%A5%B3%E7%AF%AE%20vs%20%E5%9B%9B%E5%B7%9D%E8%BF%9C%E8%BE%BE%E7%BE%8E%E4%B9%90%E5%A5%B3%E7%AF%AE%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
+#EXTINF:-1 tvg-id="山东赤水河酒女篮 vs 四川远达美乐女篮·咪咕高清·720P" tvg-chno="1103" tvg-name="山东赤水河酒女篮 vs 四川远达美乐女篮·咪咕高清·720P" tvg-group="篮球" group-title="篮球",山东赤水河酒女篮 vs 四川远达美乐女篮·咪咕高清·720P
+http://192.168.5.35:35456/jh/%E5%B1%B1%E4%B8%9C%E8%B5%A4%E6%B0%B4%E6%B2%B3%E9%85%92%E5%A5%B3%E7%AF%AE%20vs%20%E5%9B%9B%E5%B7%9D%E8%BF%9C%E8%BE%BE%E7%BE%8E%E4%B9%90%E5%A5%B3%E7%AF%AE%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
+#EXTINF:-1 tvg-id="上海浦发银行女篮 vs 江苏南钢女篮·1080P原声" tvg-chno="1104" tvg-name="上海浦发银行女篮 vs 江苏南钢女篮·1080P原声" tvg-group="篮球1080" group-title="篮球1080",上海浦发银行女篮 vs 江苏南钢女篮·1080P原声
 http://192.168.5.35:35456/jh/%E4%B8%8A%E6%B5%B7%E6%B5%A6%E5%8F%91%E9%93%B6%E8%A1%8C%E5%A5%B3%E7%AF%AE%20vs%20%E6%B1%9F%E8%8B%8F%E5%8D%97%E9%92%A2%E5%A5%B3%E7%AF%AE%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="上海浦发银行女篮 vs 江苏南钢女篮·咪咕高清·720P" tvg-chno="1103" tvg-name="上海浦发银行女篮 vs 江苏南钢女篮·咪咕高清·720P" tvg-group="篮球" group-title="篮球",上海浦发银行女篮 vs 江苏南钢女篮·咪咕高清·720P
+#EXTINF:-1 tvg-id="上海浦发银行女篮 vs 江苏南钢女篮·咪咕高清·720P" tvg-chno="1105" tvg-name="上海浦发银行女篮 vs 江苏南钢女篮·咪咕高清·720P" tvg-group="篮球" group-title="篮球",上海浦发银行女篮 vs 江苏南钢女篮·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E4%B8%8A%E6%B5%B7%E6%B5%A6%E5%8F%91%E9%93%B6%E8%A1%8C%E5%A5%B3%E7%AF%AE%20vs%20%E6%B1%9F%E8%8B%8F%E5%8D%97%E9%92%A2%E5%A5%B3%E7%AF%AE%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="新疆天山女篮 vs 石家庄英励女篮·1080P原声" tvg-chno="1104" tvg-name="新疆天山女篮 vs 石家庄英励女篮·1080P原声" tvg-group="篮球1080" group-title="篮球1080",新疆天山女篮 vs 石家庄英励女篮·1080P原声
+#EXTINF:-1 tvg-id="新疆天山女篮 vs 石家庄英励女篮·1080P原声" tvg-chno="1106" tvg-name="新疆天山女篮 vs 石家庄英励女篮·1080P原声" tvg-group="篮球1080" group-title="篮球1080",新疆天山女篮 vs 石家庄英励女篮·1080P原声
 http://192.168.5.35:35456/jh/%E6%96%B0%E7%96%86%E5%A4%A9%E5%B1%B1%E5%A5%B3%E7%AF%AE%20vs%20%E7%9F%B3%E5%AE%B6%E5%BA%84%E8%8B%B1%E5%8A%B1%E5%A5%B3%E7%AF%AE%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="新疆天山女篮 vs 石家庄英励女篮·咪咕高清·720P" tvg-chno="1105" tvg-name="新疆天山女篮 vs 石家庄英励女篮·咪咕高清·720P" tvg-group="篮球" group-title="篮球",新疆天山女篮 vs 石家庄英励女篮·咪咕高清·720P
+#EXTINF:-1 tvg-id="新疆天山女篮 vs 石家庄英励女篮·咪咕高清·720P" tvg-chno="1107" tvg-name="新疆天山女篮 vs 石家庄英励女篮·咪咕高清·720P" tvg-group="篮球" group-title="篮球",新疆天山女篮 vs 石家庄英励女篮·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E6%96%B0%E7%96%86%E5%A4%A9%E5%B1%B1%E5%A5%B3%E7%AF%AE%20vs%20%E7%9F%B3%E5%AE%B6%E5%BA%84%E8%8B%B1%E5%8A%B1%E5%A5%B3%E7%AF%AE%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
 #EXTINF:-1 tvg-id="费尔干纳石油工人 vs 利雅得新月·咪咕高清·720P" tvg-chno="1201" tvg-name="费尔干纳石油工人 vs 利雅得新月·咪咕高清·720P" tvg-group="足球" group-title="足球",费尔干纳石油工人 vs 利雅得新月·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E8%B4%B9%E5%B0%94%E5%B9%B2%E7%BA%B3%E7%9F%B3%E6%B2%B9%E5%B7%A5%E4%BA%BA%20vs%20%E5%88%A9%E9%9B%85%E5%BE%97%E6%96%B0%E6%9C%88%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
@@ -33,13 +37,15 @@ http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1303" tvg-name="ESPN" tvg-group="综合体育" group-title="综合体育",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1304" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1304" tvg-name="Tennis Channel" tvg-group="综合体育" group-title="综合体育",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1305" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1305" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1306" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1307" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1307" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1308" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1351" tvg-name="ESPN" tvg-group="体育综合" group-title="体育综合",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
@@ -55,13 +61,15 @@ https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1357" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1358" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
-https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="11-22 马刺 vs 鹈鹕" tvg-chno="1501" tvg-name="11-22 马刺 vs 鹈鹕" tvg-group="NBA回放" group-title="NBA回放",11-22 马刺 vs 鹈鹕
+#EXTINF:-1 tvg-id="11-23 爵士 vs 独行侠" tvg-chno="1501" tvg-name="11-23 爵士 vs 独行侠" tvg-group="NBA回放" group-title="NBA回放",11-23 爵士 vs 独行侠
+http://192.168.5.35:8098/f/2026-11-23%20%E7%88%B5%E5%A3%AB%20vs%20%E7%8B%AC%E8%A1%8C%E4%BE%A0.mkv
+#EXTINF:-1 tvg-id="11-23 热火 vs 雷霆" tvg-chno="1502" tvg-name="11-23 热火 vs 雷霆" tvg-group="NBA回放" group-title="NBA回放",11-23 热火 vs 雷霆
+http://192.168.5.35:8098/f/2026-11-23%20%E7%83%AD%E7%81%AB%20vs%20%E9%9B%B7%E9%9C%86.mkv
+#EXTINF:-1 tvg-id="11-22 马刺 vs 鹈鹕" tvg-chno="1503" tvg-name="11-22 马刺 vs 鹈鹕" tvg-group="NBA回放" group-title="NBA回放",11-22 马刺 vs 鹈鹕
 http://192.168.5.35:8098/f/2026-11-22%20%E9%A9%AC%E5%88%BA%20vs%20%E9%B9%88%E9%B9%95.mkv
-#EXTINF:-1 tvg-id="11-22 莫斯科中央陆军 vs 喀山尤尼克斯" tvg-chno="1502" tvg-name="11-22 莫斯科中央陆军 vs 喀山尤尼克斯" tvg-group="NBA回放" group-title="NBA回放",11-22 莫斯科中央陆军 vs 喀山尤尼克斯
+#EXTINF:-1 tvg-id="11-22 莫斯科中央陆军 vs 喀山尤尼克斯" tvg-chno="1504" tvg-name="11-22 莫斯科中央陆军 vs 喀山尤尼克斯" tvg-group="NBA回放" group-title="NBA回放",11-22 莫斯科中央陆军 vs 喀山尤尼克斯
 http://192.168.5.35:8098/f/2026-11-22%20%E8%8E%AB%E6%96%AF%E7%A7%91%E4%B8%AD%E5%A4%AE%E9%99%86%E5%86%9B%20vs%20%E5%96%80%E5%B1%B1%E5%B0%A4%E5%B0%BC%E5%85%8B%E6%96%AF.mkv
-#EXTINF:-1 tvg-id="11-22 布里斯班子弹 vs 悉尼国王" tvg-chno="1503" tvg-name="11-22 布里斯班子弹 vs 悉尼国王" tvg-group="NBA回放" group-title="NBA回放",11-22 布里斯班子弹 vs 悉尼国王
+#EXTINF:-1 tvg-id="11-22 布里斯班子弹 vs 悉尼国王" tvg-chno="1505" tvg-name="11-22 布里斯班子弹 vs 悉尼国王" tvg-group="NBA回放" group-title="NBA回放",11-22 布里斯班子弹 vs 悉尼国王
 http://192.168.5.35:8098/f/2026-11-22%20%E5%B8%83%E9%87%8C%E6%96%AF%E7%8F%AD%E5%AD%90%E5%BC%B9%20vs%20%E6%82%89%E5%B0%BC%E5%9B%BD%E7%8E%8B.mkv
-#EXTINF:-1 tvg-id="11-22 76人 vs 雄鹿" tvg-chno="1504" tvg-name="11-22 76人 vs 雄鹿" tvg-group="NBA回放" group-title="NBA回放",11-22 76人 vs 雄鹿
+#EXTINF:-1 tvg-id="11-22 76人 vs 雄鹿" tvg-chno="1506" tvg-name="11-22 76人 vs 雄鹿" tvg-group="NBA回放" group-title="NBA回放",11-22 76人 vs 雄鹿
 http://192.168.5.35:8098/f/2026-11-22%2076%E4%BA%BA%20vs%20%E9%9B%84%E9%B9%BF.mkv
