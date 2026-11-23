@@ -19,6 +19,8 @@ http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="马德拉斯工兵 vs 斯图拉德·1080P原声" tvg-chno="1201" tvg-name="马德拉斯工兵 vs 斯图拉德·1080P原声" tvg-group="足球1080" group-title="足球1080",马德拉斯工兵 vs 斯图拉德·1080P原声
 http://192.168.5.35:35456/jh/%E9%A9%AC%E5%BE%B7%E6%8B%89%E6%96%AF%E5%B7%A5%E5%85%B5%20vs%20%E6%96%AF%E5%9B%BE%E6%8B%89%E5%BE%B7%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
+#EXTINF:-1 tvg-id="治尼兰德 vs 伊洛瓦底联·1080P原声" tvg-chno="1202" tvg-name="治尼兰德 vs 伊洛瓦底联·1080P原声" tvg-group="足球1080" group-title="足球1080",治尼兰德 vs 伊洛瓦底联·1080P原声
+http://192.168.5.35:35456/jh/%E6%B2%BB%E5%B0%BC%E5%85%B0%E5%BE%B7%20vs%20%E4%BC%8A%E6%B4%9B%E7%93%A6%E5%BA%95%E8%81%94%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NFL·NBC" tvg-chno="1302" tvg-name="NFL·NBC" tvg-group="综合体育" group-title="综合体育",NFL·NBC
