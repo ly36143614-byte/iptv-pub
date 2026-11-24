@@ -39,39 +39,35 @@ http://192.168.5.35:35456/jh/%E7%8C%9B%E9%BE%99%20vs%20%E9%9B%84%E9%B9%BF%C2%B7%
 http://192.168.5.35:35456/jh/%E7%8C%9B%E9%BE%99%20vs%20%E9%9B%84%E9%B9%BF%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
 #EXTINF:-1 tvg-id="森林狼 vs 篮网·1080P原声" tvg-chno="1112" tvg-name="森林狼 vs 篮网·1080P原声" tvg-group="篮球1080" group-title="篮球1080",森林狼 vs 篮网·1080P原声
 http://192.168.5.35:35456/jh/%E6%A3%AE%E6%9E%97%E7%8B%BC%20vs%20%E7%AF%AE%E7%BD%91%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="森林狼 vs 篮网·腾讯直播3·1080P" tvg-chno="1113" tvg-name="森林狼 vs 篮网·腾讯直播3·1080P" tvg-group="篮球1080" group-title="篮球1080",森林狼 vs 篮网·腾讯直播3·1080P
-http://192.168.5.35:35456/jh/%E6%A3%AE%E6%9E%97%E7%8B%BC%20vs%20%E7%AF%AE%E7%BD%91%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD3%C2%B71080P.m3u8
-#EXTINF:-1 tvg-id="森林狼 vs 篮网·腾讯直播1·720P" tvg-chno="1114" tvg-name="森林狼 vs 篮网·腾讯直播1·720P" tvg-group="篮球" group-title="篮球",森林狼 vs 篮网·腾讯直播1·720P
+#EXTINF:-1 tvg-id="森林狼 vs 篮网·腾讯直播1·720P" tvg-chno="1113" tvg-name="森林狼 vs 篮网·腾讯直播1·720P" tvg-group="篮球" group-title="篮球",森林狼 vs 篮网·腾讯直播1·720P
 http://192.168.5.35:35456/jh/%E6%A3%AE%E6%9E%97%E7%8B%BC%20vs%20%E7%AF%AE%E7%BD%91%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD1%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="森林狼 vs 篮网·腾讯直播2·720P" tvg-chno="1115" tvg-name="森林狼 vs 篮网·腾讯直播2·720P" tvg-group="篮球" group-title="篮球",森林狼 vs 篮网·腾讯直播2·720P
-http://192.168.5.35:35456/jh/%E6%A3%AE%E6%9E%97%E7%8B%BC%20vs%20%E7%AF%AE%E7%BD%91%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD2%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="森林狼 vs 篮网·咪咕高清·720P" tvg-chno="1116" tvg-name="森林狼 vs 篮网·咪咕高清·720P" tvg-group="篮球" group-title="篮球",森林狼 vs 篮网·咪咕高清·720P
+#EXTINF:-1 tvg-id="森林狼 vs 篮网·咪咕高清·720P" tvg-chno="1114" tvg-name="森林狼 vs 篮网·咪咕高清·720P" tvg-group="篮球" group-title="篮球",森林狼 vs 篮网·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E6%A3%AE%E6%9E%97%E7%8B%BC%20vs%20%E7%AF%AE%E7%BD%91%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="公牛 vs 骑士·1080P原声" tvg-chno="1117" tvg-name="公牛 vs 骑士·1080P原声" tvg-group="篮球1080" group-title="篮球1080",公牛 vs 骑士·1080P原声
+#EXTINF:-1 tvg-id="公牛 vs 骑士·1080P原声" tvg-chno="1115" tvg-name="公牛 vs 骑士·1080P原声" tvg-group="篮球1080" group-title="篮球1080",公牛 vs 骑士·1080P原声
 http://192.168.5.35:35456/jh/%E5%85%AC%E7%89%9B%20vs%20%E9%AA%91%E5%A3%AB%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="公牛 vs 骑士·腾讯直播3·1080P" tvg-chno="1118" tvg-name="公牛 vs 骑士·腾讯直播3·1080P" tvg-group="篮球1080" group-title="篮球1080",公牛 vs 骑士·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="公牛 vs 骑士·腾讯直播3·1080P" tvg-chno="1116" tvg-name="公牛 vs 骑士·腾讯直播3·1080P" tvg-group="篮球1080" group-title="篮球1080",公牛 vs 骑士·腾讯直播3·1080P
 http://192.168.5.35:35456/jh/%E5%85%AC%E7%89%9B%20vs%20%E9%AA%91%E5%A3%AB%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD3%C2%B71080P.m3u8
-#EXTINF:-1 tvg-id="公牛 vs 骑士·腾讯直播1·720P" tvg-chno="1119" tvg-name="公牛 vs 骑士·腾讯直播1·720P" tvg-group="篮球" group-title="篮球",公牛 vs 骑士·腾讯直播1·720P
+#EXTINF:-1 tvg-id="公牛 vs 骑士·腾讯直播1·720P" tvg-chno="1117" tvg-name="公牛 vs 骑士·腾讯直播1·720P" tvg-group="篮球" group-title="篮球",公牛 vs 骑士·腾讯直播1·720P
 http://192.168.5.35:35456/jh/%E5%85%AC%E7%89%9B%20vs%20%E9%AA%91%E5%A3%AB%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD1%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="公牛 vs 骑士·咪咕高清·720P" tvg-chno="1120" tvg-name="公牛 vs 骑士·咪咕高清·720P" tvg-group="篮球" group-title="篮球",公牛 vs 骑士·咪咕高清·720P
+#EXTINF:-1 tvg-id="公牛 vs 骑士·咪咕高清·720P" tvg-chno="1118" tvg-name="公牛 vs 骑士·咪咕高清·720P" tvg-group="篮球" group-title="篮球",公牛 vs 骑士·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E5%85%AC%E7%89%9B%20vs%20%E9%AA%91%E5%A3%AB%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="鹈鹕 vs 太阳·1080P原声" tvg-chno="1121" tvg-name="鹈鹕 vs 太阳·1080P原声" tvg-group="篮球1080" group-title="篮球1080",鹈鹕 vs 太阳·1080P原声
+#EXTINF:-1 tvg-id="鹈鹕 vs 太阳·1080P原声" tvg-chno="1119" tvg-name="鹈鹕 vs 太阳·1080P原声" tvg-group="篮球1080" group-title="篮球1080",鹈鹕 vs 太阳·1080P原声
 http://192.168.5.35:35456/jh/%E9%B9%88%E9%B9%95%20vs%20%E5%A4%AA%E9%98%B3%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="鹈鹕 vs 太阳·腾讯直播3·1080P" tvg-chno="1122" tvg-name="鹈鹕 vs 太阳·腾讯直播3·1080P" tvg-group="篮球1080" group-title="篮球1080",鹈鹕 vs 太阳·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="鹈鹕 vs 太阳·腾讯直播3·1080P" tvg-chno="1120" tvg-name="鹈鹕 vs 太阳·腾讯直播3·1080P" tvg-group="篮球1080" group-title="篮球1080",鹈鹕 vs 太阳·腾讯直播3·1080P
 http://192.168.5.35:35456/jh/%E9%B9%88%E9%B9%95%20vs%20%E5%A4%AA%E9%98%B3%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD3%C2%B71080P.m3u8
-#EXTINF:-1 tvg-id="鹈鹕 vs 太阳·腾讯直播1·720P" tvg-chno="1123" tvg-name="鹈鹕 vs 太阳·腾讯直播1·720P" tvg-group="篮球" group-title="篮球",鹈鹕 vs 太阳·腾讯直播1·720P
+#EXTINF:-1 tvg-id="鹈鹕 vs 太阳·腾讯直播1·720P" tvg-chno="1121" tvg-name="鹈鹕 vs 太阳·腾讯直播1·720P" tvg-group="篮球" group-title="篮球",鹈鹕 vs 太阳·腾讯直播1·720P
 http://192.168.5.35:35456/jh/%E9%B9%88%E9%B9%95%20vs%20%E5%A4%AA%E9%98%B3%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD1%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="鹈鹕 vs 太阳·咪咕高清·720P" tvg-chno="1124" tvg-name="鹈鹕 vs 太阳·咪咕高清·720P" tvg-group="篮球" group-title="篮球",鹈鹕 vs 太阳·咪咕高清·720P
+#EXTINF:-1 tvg-id="鹈鹕 vs 太阳·咪咕高清·720P" tvg-chno="1122" tvg-name="鹈鹕 vs 太阳·咪咕高清·720P" tvg-group="篮球" group-title="篮球",鹈鹕 vs 太阳·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E9%B9%88%E9%B9%95%20vs%20%E5%A4%AA%E9%98%B3%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="火箭 vs 快船·1080P原声" tvg-chno="1125" tvg-name="火箭 vs 快船·1080P原声" tvg-group="篮球1080" group-title="篮球1080",火箭 vs 快船·1080P原声
+#EXTINF:-1 tvg-id="火箭 vs 快船·1080P原声" tvg-chno="1123" tvg-name="火箭 vs 快船·1080P原声" tvg-group="篮球1080" group-title="篮球1080",火箭 vs 快船·1080P原声
 http://192.168.5.35:35456/jh/%E7%81%AB%E7%AE%AD%20vs%20%E5%BF%AB%E8%88%B9%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="火箭 vs 快船·腾讯直播3·1080P" tvg-chno="1126" tvg-name="火箭 vs 快船·腾讯直播3·1080P" tvg-group="篮球1080" group-title="篮球1080",火箭 vs 快船·腾讯直播3·1080P
+#EXTINF:-1 tvg-id="火箭 vs 快船·腾讯直播3·1080P" tvg-chno="1124" tvg-name="火箭 vs 快船·腾讯直播3·1080P" tvg-group="篮球1080" group-title="篮球1080",火箭 vs 快船·腾讯直播3·1080P
 http://192.168.5.35:35456/jh/%E7%81%AB%E7%AE%AD%20vs%20%E5%BF%AB%E8%88%B9%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD3%C2%B71080P.m3u8
-#EXTINF:-1 tvg-id="火箭 vs 快船·腾讯直播1·720P" tvg-chno="1127" tvg-name="火箭 vs 快船·腾讯直播1·720P" tvg-group="篮球" group-title="篮球",火箭 vs 快船·腾讯直播1·720P
+#EXTINF:-1 tvg-id="火箭 vs 快船·腾讯直播1·720P" tvg-chno="1125" tvg-name="火箭 vs 快船·腾讯直播1·720P" tvg-group="篮球" group-title="篮球",火箭 vs 快船·腾讯直播1·720P
 http://192.168.5.35:35456/jh/%E7%81%AB%E7%AE%AD%20vs%20%E5%BF%AB%E8%88%B9%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD1%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="火箭 vs 快船·腾讯直播2·720P" tvg-chno="1128" tvg-name="火箭 vs 快船·腾讯直播2·720P" tvg-group="篮球" group-title="篮球",火箭 vs 快船·腾讯直播2·720P
+#EXTINF:-1 tvg-id="火箭 vs 快船·腾讯直播2·720P" tvg-chno="1126" tvg-name="火箭 vs 快船·腾讯直播2·720P" tvg-group="篮球" group-title="篮球",火箭 vs 快船·腾讯直播2·720P
 http://192.168.5.35:35456/jh/%E7%81%AB%E7%AE%AD%20vs%20%E5%BF%AB%E8%88%B9%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD2%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="火箭 vs 快船·咪咕高清·720P" tvg-chno="1129" tvg-name="火箭 vs 快船·咪咕高清·720P" tvg-group="篮球" group-title="篮球",火箭 vs 快船·咪咕高清·720P
+#EXTINF:-1 tvg-id="火箭 vs 快船·咪咕高清·720P" tvg-chno="1127" tvg-name="火箭 vs 快船·咪咕高清·720P" tvg-group="篮球" group-title="篮球",火箭 vs 快船·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E7%81%AB%E7%AE%AD%20vs%20%E5%BF%AB%E8%88%B9%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
 #EXTINF:-1 tvg-id="圣路易斯城 vs 洛杉矶FC·1080P原声" tvg-chno="1201" tvg-name="圣路易斯城 vs 洛杉矶FC·1080P原声" tvg-group="足球1080" group-title="足球1080",圣路易斯城 vs 洛杉矶FC·1080P原声
 http://192.168.5.35:35456/jh/%E5%9C%A3%E8%B7%AF%E6%98%93%E6%96%AF%E5%9F%8E%20vs%20%E6%B4%9B%E6%9D%89%E7%9F%B6FC%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
