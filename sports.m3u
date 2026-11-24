@@ -1,19 +1,19 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="赛程预告" tvg-chno="1" tvg-name="赛程预告" tvg-group="赛程" group-title="赛程",赛程预告
 http://192.168.5.35:35456/sched.m3u8
-#EXTINF:-1 tvg-id="曼联" tvg-chno="1001" tvg-name="曼联" tvg-group="关注" group-title="关注",曼联
+#EXTINF:-1 tvg-id="曼联" tvg-chno="1001" tvg-name="曼联" tvg-group="关注" group-title="关注",曼联｜11-26 04:00 里斯本
 http://192.168.5.35:35456/team/%E6%9B%BC%E8%81%94
-#EXTINF:-1 tvg-id="曼城" tvg-chno="1002" tvg-name="曼城" tvg-group="关注" group-title="关注",曼城
+#EXTINF:-1 tvg-id="曼城" tvg-chno="1002" tvg-name="曼城" tvg-group="关注" group-title="关注",曼城｜11-30 00:30 阿森纳
 http://192.168.5.35:35456/team/%E6%9B%BC%E5%9F%8E
-#EXTINF:-1 tvg-id="拜仁" tvg-chno="1003" tvg-name="拜仁" tvg-group="关注" group-title="关注",拜仁
+#EXTINF:-1 tvg-id="拜仁" tvg-chno="1003" tvg-name="拜仁" tvg-group="关注" group-title="关注",拜仁｜11-26 04:00 里尔
 http://192.168.5.35:35456/team/%E6%8B%9C%E4%BB%81
-#EXTINF:-1 tvg-id="皇马" tvg-chno="1004" tvg-name="皇马" tvg-group="关注" group-title="关注",皇马
+#EXTINF:-1 tvg-id="皇马" tvg-chno="1004" tvg-name="皇马" tvg-group="关注" group-title="关注",皇马｜赛程更新中
 http://192.168.5.35:35456/team/%E7%9A%87%E9%A9%AC
-#EXTINF:-1 tvg-id="北京首钢" tvg-chno="1005" tvg-name="北京首钢" tvg-group="关注" group-title="关注",北京首钢
+#EXTINF:-1 tvg-id="北京首钢" tvg-chno="1005" tvg-name="北京首钢" tvg-group="关注" group-title="关注",北京首钢｜12-05 19:35 北控
 http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E9%A6%96%E9%92%A2
-#EXTINF:-1 tvg-id="活塞" tvg-chno="1006" tvg-name="活塞" tvg-group="关注" group-title="关注",活塞
+#EXTINF:-1 tvg-id="活塞" tvg-chno="1006" tvg-name="活塞" tvg-group="关注" group-title="关注",活塞｜11-25 08:00 魔术
 http://192.168.5.35:35456/team/%E6%B4%BB%E5%A1%9E
-#EXTINF:-1 tvg-id="北京国安" tvg-chno="1007" tvg-name="北京国安" tvg-group="关注" group-title="关注",北京国安
+#EXTINF:-1 tvg-id="北京国安" tvg-chno="1007" tvg-name="北京国安" tvg-group="关注" group-title="关注",北京国安｜12-01 20:15 拉查武里
 http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1101" tvg-name="NBA TV" tvg-group="篮球" group-title="篮球",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
@@ -61,9 +61,3 @@ http://127.0.0.1:35455/douyu/6829849
 http://192.168.5.35:8098/f/2026-11-24%20%E6%B9%96%E4%BA%BA%20vs%20%E7%88%B5%E5%A3%AB.mkv
 #EXTINF:-1 tvg-id="11-24 76人 vs 开拓者" tvg-chno="1502" tvg-name="11-24 76人 vs 开拓者" tvg-group="NBA回放" group-title="NBA回放",11-24 76人 vs 开拓者
 http://192.168.5.35:8098/f/2026-11-24%2076%E4%BA%BA%20vs%20%E5%BC%80%E6%8B%93%E8%80%85.mkv
-#EXTINF:-1 tvg-id="11-23 爵士 vs 独行侠" tvg-chno="1503" tvg-name="11-23 爵士 vs 独行侠" tvg-group="NBA回放" group-title="NBA回放",11-23 爵士 vs 独行侠
-http://192.168.5.35:8098/f/2026-11-23%20%E7%88%B5%E5%A3%AB%20vs%20%E7%8B%AC%E8%A1%8C%E4%BE%A0.mkv
-#EXTINF:-1 tvg-id="11-23 热火 vs 雷霆" tvg-chno="1504" tvg-name="11-23 热火 vs 雷霆" tvg-group="NBA回放" group-title="NBA回放",11-23 热火 vs 雷霆
-http://192.168.5.35:8098/f/2026-11-23%20%E7%83%AD%E7%81%AB%20vs%20%E9%9B%B7%E9%9C%86.mkv
-#EXTINF:-1 tvg-id="11-23 勇士 vs 凯尔特人" tvg-chno="1505" tvg-name="11-23 勇士 vs 凯尔特人" tvg-group="NBA回放" group-title="NBA回放",11-23 勇士 vs 凯尔特人
-http://192.168.5.35:8098/f/2026-11-23%20%E5%8B%87%E5%A3%AB%20vs%20%E5%87%AF%E5%B0%94%E7%89%B9%E4%BA%BA.mkv
