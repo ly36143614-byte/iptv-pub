@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="wb-epg">
   <channel id="CBS"><display-name>CBS</display-name></channel>
+  <channel id="Dota2中文·TI赛事"><display-name>Dota2中文·TI赛事</display-name></channel>
+  <channel id="Dota2中文·完美世界"><display-name>Dota2中文·完美世界</display-name></channel>
   <channel id="ESPN"><display-name>ESPN</display-name></channel>
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
@@ -24,6 +26,14 @@
   </programme>
   <programme start="20261130050500 +0800" stop="20261130082448 +0800" channel="CBS">
     <title>New England Patriots at Los Angeles Chargers（NFL）</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261124113317 +0800" stop="20261124153317 +0800" channel="Dota2中文·TI赛事">
+    <title>【直播】PGL新加坡Major B舞台</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261124113055 +0800" stop="20261124153055 +0800" channel="Dota2中文·完美世界">
+    <title>【直播】PGL新加坡Major A舞台</title>
     <category>体育</category>
   </programme>
   <programme start="20261124091500 +0800" stop="20261124123448 +0800" channel="ESPN">
@@ -68,10 +78,6 @@
   </programme>
   <programme start="20261125080000 +0800" stop="20261125104012 +0800" channel="活塞">
     <title>NBA：魔术 vs 活塞</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261124093000 +0800" stop="20261124110000 +0800" channel="赛程预告">
-    <title>NBA：火箭 vs 快船</title>
     <category>体育</category>
   </programme>
   <programme start="20261124110000 +0800" stop="20261124154500 +0800" channel="赛程预告">
