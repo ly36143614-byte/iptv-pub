@@ -43,6 +43,8 @@ http://192.168.5.35:35456/jh/%E6%B2%B3%E5%86%85%E5%85%AC%E5%AE%89%20vs%20%E7%A5%
 http://192.168.5.35:35456/jh/%E6%8B%89%E6%9F%A5%E6%AD%A6%E9%87%8C%20vs%20%E6%9F%94%E4%BD%9B%E6%96%B0%E5%B1%B1%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
 #EXTINF:-1 tvg-id="拉查武里 vs 柔佛新山·咪咕高清·720P" tvg-chno="1208" tvg-name="拉查武里 vs 柔佛新山·咪咕高清·720P" tvg-group="足球" group-title="足球",拉查武里 vs 柔佛新山·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E6%8B%89%E6%9F%A5%E6%AD%A6%E9%87%8C%20vs%20%E6%9F%94%E4%BD%9B%E6%96%B0%E5%B1%B1%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
+#EXTINF:-1 tvg-id="东孟加拉 vs 胡塞因·咪咕高清·720P" tvg-chno="1209" tvg-name="东孟加拉 vs 胡塞因·咪咕高清·720P" tvg-group="足球" group-title="足球",东孟加拉 vs 胡塞因·咪咕高清·720P
+http://192.168.5.35:35456/jh/%E4%B8%9C%E5%AD%9F%E5%8A%A0%E6%8B%89%20vs%20%E8%83%A1%E5%A1%9E%E5%9B%A0%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NFL·NBC" tvg-chno="1302" tvg-name="NFL·NBC" tvg-group="综合体育" group-title="综合体育",NFL·NBC
