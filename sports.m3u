@@ -23,6 +23,8 @@ http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 http://192.168.5.35:35456/jh/%E4%B8%87%E9%9A%86%20vs%20FC%E9%A6%96%E5%B0%94%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
 #EXTINF:-1 tvg-id="万隆 vs FC首尔·咪咕高清·720P" tvg-chno="1202" tvg-name="万隆 vs FC首尔·咪咕高清·720P" tvg-group="足球" group-title="足球",万隆 vs FC首尔·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E4%B8%87%E9%9A%86%20vs%20FC%E9%A6%96%E5%B0%94%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
+#EXTINF:-1 tvg-id="纳萨夫 vs 哈尔迪亚·咪咕高清·720P" tvg-chno="1203" tvg-name="纳萨夫 vs 哈尔迪亚·咪咕高清·720P" tvg-group="足球" group-title="足球",纳萨夫 vs 哈尔迪亚·咪咕高清·720P
+http://192.168.5.35:35456/jh/%E7%BA%B3%E8%90%A8%E5%A4%AB%20vs%20%E5%93%88%E5%B0%94%E8%BF%AA%E4%BA%9A%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NFL·NBC" tvg-chno="1302" tvg-name="NFL·NBC" tvg-group="综合体育" group-title="综合体育",NFL·NBC
