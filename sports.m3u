@@ -31,15 +31,13 @@ http://192.168.5.35:35456/jh/FC%E4%B8%9C%E4%BA%AC%20vs%20%E5%B9%BF%E5%B2%9B%E4%B
 http://192.168.5.35:35456/jh/%E5%A4%A7%E9%98%AA%E9%92%A2%E5%B7%B4%20vs%20%E6%B3%B0%E6%B8%AF%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
 #EXTINF:-1 tvg-id="大阪钢巴 vs 泰港·咪咕高清·720P" tvg-chno="1205" tvg-name="大阪钢巴 vs 泰港·咪咕高清·720P" tvg-group="足球" group-title="足球",大阪钢巴 vs 泰港·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E5%A4%A7%E9%98%AA%E9%92%A2%E5%B7%B4%20vs%20%E6%B3%B0%E6%B8%AF%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="鹿岛鹿角 vs 全北现代·1080P原声" tvg-chno="1206" tvg-name="鹿岛鹿角 vs 全北现代·1080P原声" tvg-group="足球1080" group-title="足球1080",鹿岛鹿角 vs 全北现代·1080P原声
-http://192.168.5.35:35456/jh/%E9%B9%BF%E5%B2%9B%E9%B9%BF%E8%A7%92%20vs%20%E5%85%A8%E5%8C%97%E7%8E%B0%E4%BB%A3%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="鹿岛鹿角 vs 全北现代·咪咕高清·720P" tvg-chno="1207" tvg-name="鹿岛鹿角 vs 全北现代·咪咕高清·720P" tvg-group="足球" group-title="足球",鹿岛鹿角 vs 全北现代·咪咕高清·720P
+#EXTINF:-1 tvg-id="鹿岛鹿角 vs 全北现代·咪咕高清·720P" tvg-chno="1206" tvg-name="鹿岛鹿角 vs 全北现代·咪咕高清·720P" tvg-group="足球" group-title="足球",鹿岛鹿角 vs 全北现代·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E9%B9%BF%E5%B2%9B%E9%B9%BF%E8%A7%92%20vs%20%E5%85%A8%E5%8C%97%E7%8E%B0%E4%BB%A3%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="千叶市原 vs 名古屋鲸鱼·1080P原声" tvg-chno="1208" tvg-name="千叶市原 vs 名古屋鲸鱼·1080P原声" tvg-group="足球1080" group-title="足球1080",千叶市原 vs 名古屋鲸鱼·1080P原声
+#EXTINF:-1 tvg-id="千叶市原 vs 名古屋鲸鱼·1080P原声" tvg-chno="1207" tvg-name="千叶市原 vs 名古屋鲸鱼·1080P原声" tvg-group="足球1080" group-title="足球1080",千叶市原 vs 名古屋鲸鱼·1080P原声
 http://192.168.5.35:35456/jh/%E5%8D%83%E5%8F%B6%E5%B8%82%E5%8E%9F%20vs%20%E5%90%8D%E5%8F%A4%E5%B1%8B%E9%B2%B8%E9%B1%BC%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="浦和红钻 vs 大阪樱花·1080P原声" tvg-chno="1209" tvg-name="浦和红钻 vs 大阪樱花·1080P原声" tvg-group="足球1080" group-title="足球1080",浦和红钻 vs 大阪樱花·1080P原声
+#EXTINF:-1 tvg-id="浦和红钻 vs 大阪樱花·1080P原声" tvg-chno="1208" tvg-name="浦和红钻 vs 大阪樱花·1080P原声" tvg-group="足球1080" group-title="足球1080",浦和红钻 vs 大阪樱花·1080P原声
 http://192.168.5.35:35456/jh/%E6%B5%A6%E5%92%8C%E7%BA%A2%E9%92%BB%20vs%20%E5%A4%A7%E9%98%AA%E6%A8%B1%E8%8A%B1%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="万隆 vs FC首尔·咪咕高清·720P" tvg-chno="1210" tvg-name="万隆 vs FC首尔·咪咕高清·720P" tvg-group="足球" group-title="足球",万隆 vs FC首尔·咪咕高清·720P
+#EXTINF:-1 tvg-id="万隆 vs FC首尔·咪咕高清·720P" tvg-chno="1209" tvg-name="万隆 vs FC首尔·咪咕高清·720P" tvg-group="足球" group-title="足球",万隆 vs FC首尔·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E4%B8%87%E9%9A%86%20vs%20FC%E9%A6%96%E5%B0%94%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
@@ -71,9 +69,7 @@ https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1357" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1358" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1359" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1358" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="Dota2中文·完美世界" tvg-chno="1401" tvg-name="Dota2中文·完美世界" tvg-group="DOTA2" group-title="DOTA2",Dota2中文·完美世界
 http://127.0.0.1:35455/douyu/6829849
@@ -81,7 +77,9 @@ http://127.0.0.1:35455/douyu/6829849
 http://127.0.0.1:35455/bililive/21495949
 #EXTINF:-1 tvg-id="11-25 魔术 vs 活塞" tvg-chno="1501" tvg-name="11-25 魔术 vs 活塞" tvg-group="NBA回放" group-title="NBA回放",11-25 魔术 vs 活塞
 http://192.168.5.35:8098/f/2026-11-25%20%E9%AD%94%E6%9C%AF%20vs%20%E6%B4%BB%E5%A1%9E.mkv
-#EXTINF:-1 tvg-id="11-24 湖人 vs 爵士" tvg-chno="1502" tvg-name="11-24 湖人 vs 爵士" tvg-group="NBA回放" group-title="NBA回放",11-24 湖人 vs 爵士
+#EXTINF:-1 tvg-id="11-25 福冈黄蜂 vs 横滨水手" tvg-chno="1502" tvg-name="11-25 福冈黄蜂 vs 横滨水手" tvg-group="NBA回放" group-title="NBA回放",11-25 福冈黄蜂 vs 横滨水手
+http://192.168.5.35:8098/f/2026-11-25%20%E7%A6%8F%E5%86%88%E9%BB%84%E8%9C%82%20vs%20%E6%A8%AA%E6%BB%A8%E6%B0%B4%E6%89%8B.mkv
+#EXTINF:-1 tvg-id="11-24 湖人 vs 爵士" tvg-chno="1503" tvg-name="11-24 湖人 vs 爵士" tvg-group="NBA回放" group-title="NBA回放",11-24 湖人 vs 爵士
 http://192.168.5.35:8098/f/2026-11-24%20%E6%B9%96%E4%BA%BA%20vs%20%E7%88%B5%E5%A3%AB.mkv
-#EXTINF:-1 tvg-id="11-24 76人 vs 开拓者" tvg-chno="1503" tvg-name="11-24 76人 vs 开拓者" tvg-group="NBA回放" group-title="NBA回放",11-24 76人 vs 开拓者
+#EXTINF:-1 tvg-id="11-24 76人 vs 开拓者" tvg-chno="1504" tvg-name="11-24 76人 vs 开拓者" tvg-group="NBA回放" group-title="NBA回放",11-24 76人 vs 开拓者
 http://192.168.5.35:8098/f/2026-11-24%2076%E4%BA%BA%20vs%20%E5%BC%80%E6%8B%93%E8%80%85.mkv
