@@ -59,8 +59,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannel
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="Dota2中文·完美世界" tvg-chno="1401" tvg-name="Dota2中文·完美世界" tvg-group="DOTA2" group-title="DOTA2",Dota2中文·完美世界
 http://127.0.0.1:35455/douyu/6829849
-#EXTINF:-1 tvg-id="Dota2中文·TI赛事" tvg-chno="1402" tvg-name="Dota2中文·TI赛事" tvg-group="DOTA2" group-title="DOTA2",Dota2中文·TI赛事
-http://127.0.0.1:35455/bililive/21495949
 #EXTINF:-1 tvg-id="11-25 魔术 vs 活塞" tvg-chno="1501" tvg-name="11-25 魔术 vs 活塞" tvg-group="NBA回放" group-title="NBA回放",11-25 魔术 vs 活塞
 http://192.168.5.35:8098/f/2026-11-25%20%E9%AD%94%E6%9C%AF%20vs%20%E6%B4%BB%E5%A1%9E.mkv
 #EXTINF:-1 tvg-id="11-25 福冈黄蜂 vs 横滨水手" tvg-chno="1502" tvg-name="11-25 福冈黄蜂 vs 横滨水手" tvg-group="NBA回放" group-title="NBA回放",11-25 福冈黄蜂 vs 横滨水手
