@@ -28,7 +28,7 @@
     <title>New England Patriots at Los Angeles Chargers（NFL）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261126134859 +0800" stop="20261126174859 +0800" channel="Dota2中文·TI赛事">
+  <programme start="20261126135835 +0800" stop="20261126175835 +0800" channel="Dota2中文·TI赛事">
     <title>【直播】PGL新加坡Major B舞台</title>
     <category>体育</category>
   </programme>
@@ -92,8 +92,12 @@
     <title>欧罗巴：萨迪纳摩 vs 勒沃库森；欧罗巴：奥林匹亚 vs AC米兰；欧罗巴：比尔森 vs 本菲卡；欧罗巴：塞尔塔 vs 伯恩茅斯；萨布塔洛：萨布塔洛 vs 赫塔费；布莱顿：布莱顿 vs 克拉约瓦大学；哈茨：哈茨 vs 摩纳哥；欧联杯：奥林匹亚科斯 vs AC米兰；欧联杯：萨格勒布迪纳摩 vs 勒沃库森；欧联杯：马赛 vs 索菲亚列夫斯基；欧联杯：圣吉罗斯 vs 波兹南莱赫；本菲卡：比尔森胜利 vs 本菲卡；欧联杯：贝西克塔斯 vs 贝尔谢巴夏普尔；欧联杯：萨尔茨堡红牛 vs 亚拉腊-亚美尼亚</title>
     <category>体育</category>
   </programme>
-  <programme start="20261127040000 +0800" stop="20261127220000 +0800" channel="赛程预告">
+  <programme start="20261127040000 +0800" stop="20261127164000 +0800" channel="赛程预告">
     <title>欧罗巴：布斯巴达 vs 阿尔克马；欧罗巴：水晶宫 vs 皇家社会；欧罗巴：桑德兰 vs 比亚韦；欧罗巴：霍芬海姆 vs 格风暴；欧罗巴：奈梅亨 vs 雷恩；欧协联：弗赖堡 vs 特温特；欧协联：布拉加 vs 库奥皮奥；亚特兰大：巴尼亚卢卡战士 vs 亚特兰大；欧联杯：里昂 vs 利勒斯特罗姆；欧联杯：费伦茨瓦罗斯 vs 采列；欧联杯：霍芬海姆 vs 格拉茨风暴；欧联杯：布拉格斯巴达 vs 阿尔克马尔；欧联杯：OFI克里特 vs 安德莱赫特；欧联杯：尤文图斯 vs 奥莫尼亚；欧联杯：桑德兰 vs 乔治罗尼亚；欧联杯：杜连斯 vs 凯尔特人</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261127164000 +0800" stop="20261127220000 +0800" channel="赛程预告">
+    <title>澳超：麦克阿瑟 vs 墨尔本城</title>
     <category>体育</category>
   </programme>
   <programme start="20261127220000 +0800" stop="20261128000000 +0800" channel="赛程预告">
@@ -104,20 +108,24 @@
     <title>足球：罗马尼亚U17 vs 喀麦隆U17；委内瑞拉U17 vs 墨西哥U17</title>
     <category>体育</category>
   </programme>
-  <programme start="20261128013000 +0800" stop="20261128033000 +0800" channel="赛程预告">
-    <title>足球：吉达联合 vs 新未来城体育</title>
+  <programme start="20261128013000 +0800" stop="20261128030000 +0800" channel="赛程预告">
+    <title>德乙：海登海姆 vs 纽伦堡；足球：吉达联合 vs 新未来城体育</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261128030000 +0800" stop="20261128033000 +0800" channel="赛程预告">
+    <title>荷甲：格罗宁根 vs 威廉二世；荷乙：芬洛 vs 瓦尔韦克</title>
     <category>体育</category>
   </programme>
   <programme start="20261128033000 +0800" stop="20261128034500 +0800" channel="赛程预告">
-    <title>不莱梅：不莱梅 vs 门兴</title>
+    <title>德甲：不来梅 vs 门兴；不莱梅：不莱梅 vs 门兴</title>
     <category>体育</category>
   </programme>
   <programme start="20261128034500 +0800" stop="20261128040000 +0800" channel="赛程预告">
-    <title>布雷斯特：布雷斯特 vs 巴黎FC；威尼斯：威尼斯 vs 博洛尼亚</title>
+    <title>意甲：威尼斯 vs 博洛尼亚；法甲：布雷斯特 vs 巴黎FC</title>
     <category>体育</category>
   </programme>
   <programme start="20261128040000 +0800" stop="20261128080000 +0800" channel="赛程预告">
-    <title>西甲：莱万特 vs 桑坦德竞技；英超：诺丁汉森林 vs 切尔西</title>
+    <title>英超：诺丁汉 vs 切尔西；英冠：南安普敦 vs 米堡；西甲：莱万特 vs 桑坦德；西甲：莱万特 vs 桑坦德竞技；英超：诺丁汉森林 vs 切尔西</title>
     <category>体育</category>
   </programme>
   <programme start="20261128080000 +0800" stop="20261128083000 +0800" channel="赛程预告">
@@ -129,7 +137,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261128090000 +0800" stop="20261128093000 +0800" channel="赛程预告">
-    <title>迈阿密国际：哥伦布机员 vs 迈阿密国际；NBA：凯尔特人 vs 老鹰</title>
+    <title>美职：哥伦布 vs 迈国际；迈阿密国际：哥伦布机员 vs 迈阿密国际；NBA：凯尔特人 vs 老鹰</title>
     <category>体育</category>
   </programme>
   <programme start="20261128093000 +0800" stop="20261128100000 +0800" channel="赛程预告">
