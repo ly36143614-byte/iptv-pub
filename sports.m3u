@@ -23,15 +23,9 @@ http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 http://192.168.5.35:35456/jh/%E5%9B%9B%E5%B7%9D%E8%BF%9C%E8%BE%BE%E7%BE%8E%E4%B9%90%E5%A5%B3%E7%AF%AE%20vs%20%E6%B1%9F%E8%8B%8F%E5%8D%97%E9%92%A2%E5%A5%B3%E7%AF%AE%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
 #EXTINF:-1 tvg-id="山西竹叶青酒女篮 vs 上海浦发银行女篮·1080P原声" tvg-chno="1104" tvg-name="山西竹叶青酒女篮 vs 上海浦发银行女篮·1080P原声" tvg-group="篮球1080" group-title="篮球1080",山西竹叶青酒女篮 vs 上海浦发银行女篮·1080P原声
 http://192.168.5.35:35456/jh/%E5%B1%B1%E8%A5%BF%E7%AB%B9%E5%8F%B6%E9%9D%92%E9%85%92%E5%A5%B3%E7%AF%AE%20vs%20%E4%B8%8A%E6%B5%B7%E6%B5%A6%E5%8F%91%E9%93%B6%E8%A1%8C%E5%A5%B3%E7%AF%AE%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="淡滨尼流浪者 vs 上海申花·1080P原声" tvg-chno="1201" tvg-name="淡滨尼流浪者 vs 上海申花·1080P原声" tvg-group="足球1080" group-title="足球1080",淡滨尼流浪者 vs 上海申花·1080P原声
-http://192.168.5.35:35456/jh/%E6%B7%A1%E6%BB%A8%E5%B0%BC%E6%B5%81%E6%B5%AA%E8%80%85%20vs%20%E4%B8%8A%E6%B5%B7%E7%94%B3%E8%8A%B1%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="江原FC vs 杰志·1080P原声" tvg-chno="1202" tvg-name="江原FC vs 杰志·1080P原声" tvg-group="足球1080" group-title="足球1080",江原FC vs 杰志·1080P原声
-http://192.168.5.35:35456/jh/%E6%B1%9F%E5%8E%9FFC%20vs%20%E6%9D%B0%E5%BF%97%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="古晋城 vs 金边皇冠·1080P原声" tvg-chno="1203" tvg-name="古晋城 vs 金边皇冠·1080P原声" tvg-group="足球1080" group-title="足球1080",古晋城 vs 金边皇冠·1080P原声
-http://192.168.5.35:35456/jh/%E5%8F%A4%E6%99%8B%E5%9F%8E%20vs%20%E9%87%91%E8%BE%B9%E7%9A%87%E5%86%A0%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="蒙古 vs 印尼·1080P原声" tvg-chno="1204" tvg-name="蒙古 vs 印尼·1080P原声" tvg-group="足球1080" group-title="足球1080",蒙古 vs 印尼·1080P原声
+#EXTINF:-1 tvg-id="蒙古 vs 印尼·1080P原声" tvg-chno="1201" tvg-name="蒙古 vs 印尼·1080P原声" tvg-group="足球1080" group-title="足球1080",蒙古 vs 印尼·1080P原声
 http://192.168.5.35:35456/jh/%E8%92%99%E5%8F%A4%20vs%20%E5%8D%B0%E5%B0%BC%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="武汉盛帆黄鹤女篮 vs 石家庄英励女篮·1080P原声" tvg-chno="1205" tvg-name="武汉盛帆黄鹤女篮 vs 石家庄英励女篮·1080P原声" tvg-group="足球1080" group-title="足球1080",武汉盛帆黄鹤女篮 vs 石家庄英励女篮·1080P原声
+#EXTINF:-1 tvg-id="武汉盛帆黄鹤女篮 vs 石家庄英励女篮·1080P原声" tvg-chno="1202" tvg-name="武汉盛帆黄鹤女篮 vs 石家庄英励女篮·1080P原声" tvg-group="足球1080" group-title="足球1080",武汉盛帆黄鹤女篮 vs 石家庄英励女篮·1080P原声
 http://192.168.5.35:35456/jh/%E6%AD%A6%E6%B1%89%E7%9B%9B%E5%B8%86%E9%BB%84%E9%B9%A4%E5%A5%B3%E7%AF%AE%20vs%20%E7%9F%B3%E5%AE%B6%E5%BA%84%E8%8B%B1%E5%8A%B1%E5%A5%B3%E7%AF%AE%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
@@ -43,9 +37,11 @@ http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1305" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1306" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1307" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1307" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1308" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
@@ -59,9 +55,11 @@ http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 #EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1356" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1357" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1357" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1358" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1358" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1359" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="Dota2中文·完美世界" tvg-chno="1401" tvg-name="Dota2中文·完美世界" tvg-group="DOTA2" group-title="DOTA2",Dota2中文·完美世界
 http://127.0.0.1:35455/douyu/6829849
