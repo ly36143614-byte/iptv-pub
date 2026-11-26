@@ -19,12 +19,16 @@ http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1102" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="本迪高精灵女篮 vs 塔斯马尼亚珍宝女篮·1080P原声" tvg-chno="1201" tvg-name="本迪高精灵女篮 vs 塔斯马尼亚珍宝女篮·1080P原声" tvg-group="足球1080" group-title="足球1080",本迪高精灵女篮 vs 塔斯马尼亚珍宝女篮·1080P原声
-http://192.168.5.35:35456/jh/%E6%9C%AC%E8%BF%AA%E9%AB%98%E7%B2%BE%E7%81%B5%E5%A5%B3%E7%AF%AE%20vs%20%E5%A1%94%E6%96%AF%E9%A9%AC%E5%B0%BC%E4%BA%9A%E7%8F%8D%E5%AE%9D%E5%A5%B3%E7%AF%AE%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
+#EXTINF:-1 tvg-id="淡滨尼流浪者 vs 上海申花·1080P原声" tvg-chno="1201" tvg-name="淡滨尼流浪者 vs 上海申花·1080P原声" tvg-group="足球1080" group-title="足球1080",淡滨尼流浪者 vs 上海申花·1080P原声
+http://192.168.5.35:35456/jh/%E6%B7%A1%E6%BB%A8%E5%B0%BC%E6%B5%81%E6%B5%AA%E8%80%85%20vs%20%E4%B8%8A%E6%B5%B7%E7%94%B3%E8%8A%B1%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
 #EXTINF:-1 tvg-id="婆罗洲FC vs 培斯塔坦格朗·1080P原声" tvg-chno="1202" tvg-name="婆罗洲FC vs 培斯塔坦格朗·1080P原声" tvg-group="足球1080" group-title="足球1080",婆罗洲FC vs 培斯塔坦格朗·1080P原声
 http://192.168.5.35:35456/jh/%E5%A9%86%E7%BD%97%E6%B4%B2FC%20vs%20%E5%9F%B9%E6%96%AF%E5%A1%94%E5%9D%A6%E6%A0%BC%E6%9C%97%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
 #EXTINF:-1 tvg-id="南墨尔本 vs 欧克莱卡诺·1080P原声" tvg-chno="1203" tvg-name="南墨尔本 vs 欧克莱卡诺·1080P原声" tvg-group="足球1080" group-title="足球1080",南墨尔本 vs 欧克莱卡诺·1080P原声
 http://192.168.5.35:35456/jh/%E5%8D%97%E5%A2%A8%E5%B0%94%E6%9C%AC%20vs%20%E6%AC%A7%E5%85%8B%E8%8E%B1%E5%8D%A1%E8%AF%BA%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
+#EXTINF:-1 tvg-id="江原FC vs 杰志·1080P原声" tvg-chno="1204" tvg-name="江原FC vs 杰志·1080P原声" tvg-group="足球1080" group-title="足球1080",江原FC vs 杰志·1080P原声
+http://192.168.5.35:35456/jh/%E6%B1%9F%E5%8E%9FFC%20vs%20%E6%9D%B0%E5%BF%97%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
+#EXTINF:-1 tvg-id="古晋城 vs 金边皇冠·1080P原声" tvg-chno="1205" tvg-name="古晋城 vs 金边皇冠·1080P原声" tvg-group="足球1080" group-title="足球1080",古晋城 vs 金边皇冠·1080P原声
+http://192.168.5.35:35456/jh/%E5%8F%A4%E6%99%8B%E5%9F%8E%20vs%20%E9%87%91%E8%BE%B9%E7%9A%87%E5%86%A0%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NFL·NBC" tvg-chno="1302" tvg-name="NFL·NBC" tvg-group="综合体育" group-title="综合体育",NFL·NBC
