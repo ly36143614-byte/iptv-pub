@@ -21,8 +21,6 @@ http://23.237.104.106:8080/USA_NBA/index.m3u8
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="山西竹叶青酒女篮 vs 上海浦发银行女篮·1080P原声" tvg-chno="1103" tvg-name="山西竹叶青酒女篮 vs 上海浦发银行女篮·1080P原声" tvg-group="篮球1080" group-title="篮球1080",山西竹叶青酒女篮 vs 上海浦发银行女篮·1080P原声
 http://192.168.5.35:35456/jh/%E5%B1%B1%E8%A5%BF%E7%AB%B9%E5%8F%B6%E9%9D%92%E9%85%92%E5%A5%B3%E7%AF%AE%20vs%20%E4%B8%8A%E6%B5%B7%E6%B5%A6%E5%8F%91%E9%93%B6%E8%A1%8C%E5%A5%B3%E7%AF%AE%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="武汉盛帆黄鹤女篮 vs 石家庄英励女篮·1080P原声" tvg-chno="1201" tvg-name="武汉盛帆黄鹤女篮 vs 石家庄英励女篮·1080P原声" tvg-group="足球1080" group-title="足球1080",武汉盛帆黄鹤女篮 vs 石家庄英励女篮·1080P原声
-http://192.168.5.35:35456/jh/%E6%AD%A6%E6%B1%89%E7%9B%9B%E5%B8%86%E9%BB%84%E9%B9%A4%E5%A5%B3%E7%AF%AE%20vs%20%E7%9F%B3%E5%AE%B6%E5%BA%84%E8%8B%B1%E5%8A%B1%E5%A5%B3%E7%AF%AE%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NFL·NBC" tvg-chno="1302" tvg-name="NFL·NBC" tvg-group="综合体育" group-title="综合体育",NFL·NBC
