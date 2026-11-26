@@ -62,10 +62,6 @@
     <title>Las Vegas Raiders at Cleveland Browns（NFL）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261126060000 +0800" stop="20261126080000 +0800" channel="赛程预告">
-    <title>NBA：76人 vs 热火</title>
-    <category>体育</category>
-  </programme>
   <programme start="20261126080000 +0800" stop="20261126083000 +0800" channel="赛程预告">
     <title>NBA：黄蜂 vs 公牛</title>
     <category>体育</category>
@@ -122,8 +118,12 @@
     <title>布雷斯特：布雷斯特 vs 巴黎FC；威尼斯：威尼斯 vs 博洛尼亚</title>
     <category>体育</category>
   </programme>
-  <programme start="20261128040000 +0800" stop="20261128060000 +0800" channel="赛程预告">
+  <programme start="20261128040000 +0800" stop="20261128080000 +0800" channel="赛程预告">
     <title>西甲：莱万特 vs 桑坦德竞技；英超：诺丁汉森林 vs 切尔西</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261128080000 +0800" stop="20261128100000 +0800" channel="赛程预告">
+    <title>NBA：尼克斯 vs 热火</title>
     <category>体育</category>
   </programme>
 </tv>
