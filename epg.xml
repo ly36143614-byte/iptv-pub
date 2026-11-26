@@ -6,7 +6,6 @@
   <channel id="ESPN"><display-name>ESPN</display-name></channel>
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
   <channel id="NBC"><display-name>NBC</display-name></channel>
-  <channel id="活塞"><display-name>活塞</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
   <programme start="20261127020000 +0800" stop="20261127051948 +0800" channel="CBS">
     <title>Chicago Bears at Detroit Lions（NFL）</title>
@@ -28,7 +27,7 @@
     <title>New England Patriots at Los Angeles Chargers（NFL）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261126185829 +0800" stop="20261126225829 +0800" channel="Dota2中文·TI赛事">
+  <programme start="20261126190103 +0800" stop="20261126230103 +0800" channel="Dota2中文·TI赛事">
     <title>【直播】PGL新加坡Major B舞台</title>
     <category>体育</category>
   </programme>
@@ -36,24 +35,8 @@
     <title>【直播】PGL新加坡Major A舞台</title>
     <category>体育</category>
   </programme>
-  <programme start="20261126060000 +0800" stop="20261126084012 +0800" channel="ESPN">
-    <title>Miami Heat at Philadelphia 76ers 已结束（NBA）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261126083000 +0800" stop="20261126111012 +0800" channel="ESPN">
-    <title>Minnesota Timberwolves at Oklahoma City Thunder 已结束（NBA）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261126110000 +0800" stop="20261126134012 +0800" channel="ESPN">
-    <title>San Antonio Spurs at Portland Trail Blazers 已结束（NBA）</title>
-    <category>体育</category>
-  </programme>
   <programme start="20261201091500 +0800" stop="20261201123448 +0800" channel="ESPN">
     <title>Carolina Panthers at Tampa Bay Buccaneers（NFL）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261129093000 +0800" stop="20261129121012 +0800" channel="NBA TV">
-    <title>Philadelphia 76ers at Houston Rockets（NBA）</title>
     <category>体育</category>
   </programme>
   <programme start="20261130050000 +0800" stop="20261130074012 +0800" channel="NBA TV">
@@ -66,10 +49,6 @@
   </programme>
   <programme start="20261130092000 +0800" stop="20261130123948 +0800" channel="NBC">
     <title>Las Vegas Raiders at Cleveland Browns（NFL）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261128083000 +0800" stop="20261128111012 +0800" channel="活塞">
-    <title>NBA：活塞 vs 雄鹿</title>
     <category>体育</category>
   </programme>
   <programme start="20261126180000 +0800" stop="20261126210000 +0800" channel="赛程预告">
@@ -124,32 +103,12 @@
     <title>意甲：威尼斯 vs 博洛尼亚；法甲：布雷斯特 vs 巴黎FC</title>
     <category>体育</category>
   </programme>
-  <programme start="20261128040000 +0800" stop="20261128080000 +0800" channel="赛程预告">
+  <programme start="20261128040000 +0800" stop="20261128090000 +0800" channel="赛程预告">
     <title>英超：诺丁汉 vs 切尔西；英冠：南安普敦 vs 米堡；西甲：莱万特 vs 桑坦德；西甲：莱万特 vs 桑坦德竞技；英超：诺丁汉森林 vs 切尔西</title>
     <category>体育</category>
   </programme>
-  <programme start="20261128080000 +0800" stop="20261128083000 +0800" channel="赛程预告">
-    <title>NBA：尼克斯 vs 热火</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261128083000 +0800" stop="20261128090000 +0800" channel="赛程预告">
-    <title>NBA：活塞 vs 雄鹿；步行者 vs 76人；猛龙 vs 篮网</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261128090000 +0800" stop="20261128093000 +0800" channel="赛程预告">
-    <title>美职：哥伦布 vs 迈国际；迈阿密国际：哥伦布机员 vs 迈阿密国际；NBA：凯尔特人 vs 老鹰</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261128093000 +0800" stop="20261128100000 +0800" channel="赛程预告">
-    <title>NBA：森林狼 vs 灰熊</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261128100000 +0800" stop="20261128103000 +0800" channel="赛程预告">
-    <title>NBA：太阳 vs 独行侠</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261128103000 +0800" stop="20261128123000 +0800" channel="赛程预告">
-    <title>NBA：马刺 vs 湖人；爵士 vs 掘金；快船 vs 鹈鹕；开拓者 vs 勇士</title>
+  <programme start="20261128090000 +0800" stop="20261128110000 +0800" channel="赛程预告">
+    <title>美职：哥伦布 vs 迈国际；迈阿密国际：哥伦布机员 vs 迈阿密国际</title>
     <category>体育</category>
   </programme>
 </tv>
