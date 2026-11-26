@@ -139,8 +139,12 @@
     <title>NBA：活塞 vs 雄鹿；步行者 vs 76人；猛龙 vs 篮网</title>
     <category>体育</category>
   </programme>
-  <programme start="20261128090000 +0800" stop="20261128110000 +0800" channel="赛程预告">
+  <programme start="20261128090000 +0800" stop="20261128093000 +0800" channel="赛程预告">
     <title>迈阿密国际：哥伦布机员 vs 迈阿密国际；NBA：凯尔特人 vs 老鹰</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261128093000 +0800" stop="20261128113000 +0800" channel="赛程预告">
+    <title>NBA：森林狼 vs 灰熊</title>
     <category>体育</category>
   </programme>
 </tv>
