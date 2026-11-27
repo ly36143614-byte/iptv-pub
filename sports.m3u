@@ -29,15 +29,13 @@ http://192.168.5.35:35456/jh/%E5%B9%BF%E4%B8%9C%E5%A5%A5%E6%99%AE%E7%89%B9%E5%A5
 http://192.168.5.35:35456/jh/%E5%B9%BF%E4%B8%9C%E5%A5%A5%E6%99%AE%E7%89%B9%E5%A5%B3%E7%AF%AE%20vs%20%E5%A4%A7%E8%BF%9E%E6%96%87%E4%BD%93%E6%97%85%E5%A5%B3%E7%AF%AE%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
 #EXTINF:-1 tvg-id="合肥文旅女篮 vs 新疆天山女篮·咪咕高清·720P" tvg-chno="1107" tvg-name="合肥文旅女篮 vs 新疆天山女篮·咪咕高清·720P" tvg-group="篮球" group-title="篮球",合肥文旅女篮 vs 新疆天山女篮·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E5%90%88%E8%82%A5%E6%96%87%E6%97%85%E5%A5%B3%E7%AF%AE%20vs%20%E6%96%B0%E7%96%86%E5%A4%A9%E5%B1%B1%E5%A5%B3%E7%AF%AE%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="中国香港 vs 蒙古·1080P原声" tvg-chno="1201" tvg-name="中国香港 vs 蒙古·1080P原声" tvg-group="足球1080" group-title="足球1080",中国香港 vs 蒙古·1080P原声
-http://192.168.5.35:35456/jh/%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF%20vs%20%E8%92%99%E5%8F%A4%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="乂安蓝江 vs 宁平FC·1080P原声" tvg-chno="1202" tvg-name="乂安蓝江 vs 宁平FC·1080P原声" tvg-group="足球1080" group-title="足球1080",乂安蓝江 vs 宁平FC·1080P原声
+#EXTINF:-1 tvg-id="乂安蓝江 vs 宁平FC·1080P原声" tvg-chno="1201" tvg-name="乂安蓝江 vs 宁平FC·1080P原声" tvg-group="足球1080" group-title="足球1080",乂安蓝江 vs 宁平FC·1080P原声
 http://192.168.5.35:35456/jh/%E4%B9%82%E5%AE%89%E8%93%9D%E6%B1%9F%20vs%20%E5%AE%81%E5%B9%B3FC%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="叙利亚 vs 菲律宾·1080P原声" tvg-chno="1203" tvg-name="叙利亚 vs 菲律宾·1080P原声" tvg-group="足球1080" group-title="足球1080",叙利亚 vs 菲律宾·1080P原声
+#EXTINF:-1 tvg-id="叙利亚 vs 菲律宾·1080P原声" tvg-chno="1202" tvg-name="叙利亚 vs 菲律宾·1080P原声" tvg-group="足球1080" group-title="足球1080",叙利亚 vs 菲律宾·1080P原声
 http://192.168.5.35:35456/jh/%E5%8F%99%E5%88%A9%E4%BA%9A%20vs%20%E8%8F%B2%E5%BE%8B%E5%AE%BE%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="叙利亚 vs 菲律宾·咪咕高清·720P" tvg-chno="1204" tvg-name="叙利亚 vs 菲律宾·咪咕高清·720P" tvg-group="足球" group-title="足球",叙利亚 vs 菲律宾·咪咕高清·720P
+#EXTINF:-1 tvg-id="叙利亚 vs 菲律宾·咪咕高清·720P" tvg-chno="1203" tvg-name="叙利亚 vs 菲律宾·咪咕高清·720P" tvg-group="足球" group-title="足球",叙利亚 vs 菲律宾·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E5%8F%99%E5%88%A9%E4%BA%9A%20vs%20%E8%8F%B2%E5%BE%8B%E5%AE%BE%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="拉斯永恒 vs 塞哈特海湾·1080P原声" tvg-chno="1205" tvg-name="拉斯永恒 vs 塞哈特海湾·1080P原声" tvg-group="足球1080" group-title="足球1080",拉斯永恒 vs 塞哈特海湾·1080P原声
+#EXTINF:-1 tvg-id="拉斯永恒 vs 塞哈特海湾·1080P原声" tvg-chno="1204" tvg-name="拉斯永恒 vs 塞哈特海湾·1080P原声" tvg-group="足球1080" group-title="足球1080",拉斯永恒 vs 塞哈特海湾·1080P原声
 http://192.168.5.35:35456/jh/%E6%8B%89%E6%96%AF%E6%B0%B8%E6%81%92%20vs%20%E5%A1%9E%E5%93%88%E7%89%B9%E6%B5%B7%E6%B9%BE%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
