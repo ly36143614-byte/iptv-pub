@@ -227,8 +227,12 @@
     <title>西甲：巴伦西亚 vs 奥萨苏纳；瓦伦西亚 vs 奥萨苏纳</title>
     <category>体育</category>
   </programme>
-  <programme start="20261129213000 +0800" stop="20261129233000 +0800" channel="赛程预告">
+  <programme start="20261129213000 +0800" stop="20261129220000 +0800" channel="赛程预告">
     <title>荷甲：费耶诺德 vs 阿贾克斯</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261129220000 +0800" stop="20261130000000 +0800" channel="赛程预告">
+    <title>意甲：萨索洛 vs 那不勒斯；足球：IFK哥德堡 vs 天狼星；足球：瓦斯特拉斯 vs 哈马比；法甲：欧塞尔 vs 马赛</title>
     <category>体育</category>
   </programme>
 </tv>
