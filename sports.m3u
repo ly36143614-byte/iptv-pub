@@ -21,11 +21,9 @@ http://23.237.104.106:8080/USA_NBA/index.m3u8
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="阿根廷 vs 巴哈马·咪咕高清·720P" tvg-chno="1201" tvg-name="阿根廷 vs 巴哈马·咪咕高清·720P" tvg-group="足球" group-title="足球",阿根廷 vs 巴哈马·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E9%98%BF%E6%A0%B9%E5%BB%B7%20vs%20%E5%B7%B4%E5%93%88%E9%A9%AC%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="帕丘卡 vs 瓜达拉哈拉·1080P原声" tvg-chno="1202" tvg-name="帕丘卡 vs 瓜达拉哈拉·1080P原声" tvg-group="足球1080" group-title="足球1080",帕丘卡 vs 瓜达拉哈拉·1080P原声
-http://192.168.5.35:35456/jh/%E5%B8%95%E4%B8%98%E5%8D%A1%20vs%20%E7%93%9C%E8%BE%BE%E6%8B%89%E5%93%88%E6%8B%89%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="巴拿马 vs 波多黎各·1080P原声" tvg-chno="1203" tvg-name="巴拿马 vs 波多黎各·1080P原声" tvg-group="足球1080" group-title="足球1080",巴拿马 vs 波多黎各·1080P原声
+#EXTINF:-1 tvg-id="巴拿马 vs 波多黎各·1080P原声" tvg-chno="1202" tvg-name="巴拿马 vs 波多黎各·1080P原声" tvg-group="足球1080" group-title="足球1080",巴拿马 vs 波多黎各·1080P原声
 http://192.168.5.35:35456/jh/%E5%B7%B4%E6%8B%BF%E9%A9%AC%20vs%20%E6%B3%A2%E5%A4%9A%E9%BB%8E%E5%90%84%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="巴拿马 vs 波多黎各·咪咕高清·720P" tvg-chno="1204" tvg-name="巴拿马 vs 波多黎各·咪咕高清·720P" tvg-group="足球" group-title="足球",巴拿马 vs 波多黎各·咪咕高清·720P
+#EXTINF:-1 tvg-id="巴拿马 vs 波多黎各·咪咕高清·720P" tvg-chno="1203" tvg-name="巴拿马 vs 波多黎各·咪咕高清·720P" tvg-group="足球" group-title="足球",巴拿马 vs 波多黎各·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E5%B7%B4%E6%8B%BF%E9%A9%AC%20vs%20%E6%B3%A2%E5%A4%9A%E9%BB%8E%E5%90%84%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
