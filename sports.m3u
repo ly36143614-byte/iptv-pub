@@ -37,14 +37,16 @@ http://192.168.5.35:35456/jh/%E6%97%A9%E7%A8%BB%E7%94%B0%E5%A4%A7%E5%AD%A6%20vs%
 http://192.168.5.35:35456/jh/%E9%BE%99%E4%BB%81%E4%B8%89%E6%98%9F%E5%A5%B3%E7%AF%AE%20vs%20%E6%96%B0%E9%9F%A9%E9%93%B6%E8%A1%8C%E5%A4%A7%E9%B8%9F%E5%A5%B3%E7%AF%AE%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
 #EXTINF:-1 tvg-id="乂安蓝江 vs 宁平FC·1080P原声" tvg-chno="1204" tvg-name="乂安蓝江 vs 宁平FC·1080P原声" tvg-group="足球1080" group-title="足球1080",乂安蓝江 vs 宁平FC·1080P原声
 http://192.168.5.35:35456/jh/%E4%B9%82%E5%AE%89%E8%93%9D%E6%B1%9F%20vs%20%E5%AE%81%E5%B9%B3FC%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
+#EXTINF:-1 tvg-id="叙利亚 vs 菲律宾·咪咕高清·720P" tvg-chno="1205" tvg-name="叙利亚 vs 菲律宾·咪咕高清·720P" tvg-group="足球" group-title="足球",叙利亚 vs 菲律宾·咪咕高清·720P
+http://192.168.5.35:35456/jh/%E5%8F%99%E5%88%A9%E4%BA%9A%20vs%20%E8%8F%B2%E5%BE%8B%E5%AE%BE%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
 #EXTINF:-1 tvg-id="NFL·NBC" tvg-chno="1302" tvg-name="NFL·NBC" tvg-group="综合体育" group-title="综合体育",NFL·NBC
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1303" tvg-name="ESPN" tvg-group="综合体育" group-title="综合体育",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1304" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
-https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1304" tvg-name="Tennis Channel" tvg-group="综合体育" group-title="综合体育",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1305" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
