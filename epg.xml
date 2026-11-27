@@ -1,38 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="wb-epg">
-  <channel id="CBS"><display-name>CBS</display-name></channel>
   <channel id="Dota2中文·完美世界"><display-name>Dota2中文·完美世界</display-name></channel>
-  <channel id="ESPN"><display-name>ESPN</display-name></channel>
   <channel id="NBA TV"><display-name>NBA TV</display-name></channel>
-  <channel id="NBC"><display-name>NBC</display-name></channel>
   <channel id="活塞"><display-name>活塞</display-name></channel>
   <channel id="赛程预告"><display-name>赛程预告</display-name></channel>
-  <programme start="20261127020000 +0800" stop="20261127051948 +0800" channel="CBS">
-    <title>Chicago Bears at Detroit Lions 已结束（NFL）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261130020000 +0800" stop="20261130051948 +0800" channel="CBS">
-    <title>New Orleans Saints at Cincinnati Bengals（NFL）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261130020000 +0800" stop="20261130051948 +0800" channel="CBS">
-    <title>New York Jets at Miami Dolphins（NFL）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261130020000 +0800" stop="20261130051948 +0800" channel="CBS">
-    <title>Baltimore Ravens at Houston Texans（NFL）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261130050500 +0800" stop="20261130082448 +0800" channel="CBS">
-    <title>New England Patriots at Los Angeles Chargers（NFL）</title>
-    <category>体育</category>
-  </programme>
   <programme start="20261124210221 +0800" stop="20261125010221 +0800" channel="Dota2中文·完美世界">
     <title>【预告】27日14点新加坡Major</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261201091500 +0800" stop="20261201123448 +0800" channel="ESPN">
-    <title>Carolina Panthers at Tampa Bay Buccaneers（NFL）</title>
     <category>体育</category>
   </programme>
   <programme start="20261129093000 +0800" stop="20261129121012 +0800" channel="NBA TV">
@@ -41,14 +14,6 @@
   </programme>
   <programme start="20261130050000 +0800" stop="20261130074012 +0800" channel="NBA TV">
     <title>Boston Celtics at San Antonio Spurs（NBA）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261127092000 +0800" stop="20261127123948 +0800" channel="NBC">
-    <title>Kansas City Chiefs at Buffalo Bills（NFL）</title>
-    <category>体育</category>
-  </programme>
-  <programme start="20261130092000 +0800" stop="20261130123948 +0800" channel="NBC">
-    <title>Las Vegas Raiders at Cleveland Browns（NFL）</title>
     <category>体育</category>
   </programme>
   <programme start="20261128083000 +0800" stop="20261128111012 +0800" channel="活塞">
