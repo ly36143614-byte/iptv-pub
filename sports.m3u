@@ -19,18 +19,18 @@ http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1102" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="合肥文旅女篮 vs 新疆天山女篮·咪咕高清·720P" tvg-chno="1103" tvg-name="合肥文旅女篮 vs 新疆天山女篮·咪咕高清·720P" tvg-group="篮球" group-title="篮球",合肥文旅女篮 vs 新疆天山女篮·咪咕高清·720P
-http://192.168.5.35:35456/jh/%E5%90%88%E8%82%A5%E6%96%87%E6%97%85%E5%A5%B3%E7%AF%AE%20vs%20%E6%96%B0%E7%96%86%E5%A4%A9%E5%B1%B1%E5%A5%B3%E7%AF%AE%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="河南豫光金铅女篮 vs 山东赤水河酒女篮·咪咕高清·720P" tvg-chno="1104" tvg-name="河南豫光金铅女篮 vs 山东赤水河酒女篮·咪咕高清·720P" tvg-group="篮球" group-title="篮球",河南豫光金铅女篮 vs 山东赤水河酒女篮·咪咕高清·720P
+#EXTINF:-1 tvg-id="河南豫光金铅女篮 vs 山东赤水河酒女篮·咪咕高清·720P" tvg-chno="1103" tvg-name="河南豫光金铅女篮 vs 山东赤水河酒女篮·咪咕高清·720P" tvg-group="篮球" group-title="篮球",河南豫光金铅女篮 vs 山东赤水河酒女篮·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E6%B2%B3%E5%8D%97%E8%B1%AB%E5%85%89%E9%87%91%E9%93%85%E5%A5%B3%E7%AF%AE%20vs%20%E5%B1%B1%E4%B8%9C%E8%B5%A4%E6%B0%B4%E6%B2%B3%E9%85%92%E5%A5%B3%E7%AF%AE%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="广东奥普特女篮 vs 大连文体旅女篮·咪咕高清·720P" tvg-chno="1105" tvg-name="广东奥普特女篮 vs 大连文体旅女篮·咪咕高清·720P" tvg-group="篮球" group-title="篮球",广东奥普特女篮 vs 大连文体旅女篮·咪咕高清·720P
+#EXTINF:-1 tvg-id="广东奥普特女篮 vs 大连文体旅女篮·咪咕高清·720P" tvg-chno="1104" tvg-name="广东奥普特女篮 vs 大连文体旅女篮·咪咕高清·720P" tvg-group="篮球" group-title="篮球",广东奥普特女篮 vs 大连文体旅女篮·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E5%B9%BF%E4%B8%9C%E5%A5%A5%E6%99%AE%E7%89%B9%E5%A5%B3%E7%AF%AE%20vs%20%E5%A4%A7%E8%BF%9E%E6%96%87%E4%BD%93%E6%97%85%E5%A5%B3%E7%AF%AE%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
+#EXTINF:-1 tvg-id="合肥文旅女篮 vs 新疆天山女篮·咪咕高清·720P" tvg-chno="1105" tvg-name="合肥文旅女篮 vs 新疆天山女篮·咪咕高清·720P" tvg-group="篮球" group-title="篮球",合肥文旅女篮 vs 新疆天山女篮·咪咕高清·720P
+http://192.168.5.35:35456/jh/%E5%90%88%E8%82%A5%E6%96%87%E6%97%85%E5%A5%B3%E7%AF%AE%20vs%20%E6%96%B0%E7%96%86%E5%A4%A9%E5%B1%B1%E5%A5%B3%E7%AF%AE%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
 #EXTINF:-1 tvg-id="中国香港 vs 蒙古·1080P原声" tvg-chno="1201" tvg-name="中国香港 vs 蒙古·1080P原声" tvg-group="足球1080" group-title="足球1080",中国香港 vs 蒙古·1080P原声
 http://192.168.5.35:35456/jh/%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF%20vs%20%E8%92%99%E5%8F%A4%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="龙仁三星女篮 vs 新韩银行大鸟女篮·1080P原声" tvg-chno="1202" tvg-name="龙仁三星女篮 vs 新韩银行大鸟女篮·1080P原声" tvg-group="足球1080" group-title="足球1080",龙仁三星女篮 vs 新韩银行大鸟女篮·1080P原声
-http://192.168.5.35:35456/jh/%E9%BE%99%E4%BB%81%E4%B8%89%E6%98%9F%E5%A5%B3%E7%AF%AE%20vs%20%E6%96%B0%E9%9F%A9%E9%93%B6%E8%A1%8C%E5%A4%A7%E9%B8%9F%E5%A5%B3%E7%AF%AE%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="早稻田大学 vs 蒙古财经大学·咪咕高清·720P" tvg-chno="1203" tvg-name="早稻田大学 vs 蒙古财经大学·咪咕高清·720P" tvg-group="足球" group-title="足球",早稻田大学 vs 蒙古财经大学·咪咕高清·720P
+#EXTINF:-1 tvg-id="早稻田大学 vs 蒙古财经大学·咪咕高清·720P" tvg-chno="1202" tvg-name="早稻田大学 vs 蒙古财经大学·咪咕高清·720P" tvg-group="足球" group-title="足球",早稻田大学 vs 蒙古财经大学·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E6%97%A9%E7%A8%BB%E7%94%B0%E5%A4%A7%E5%AD%A6%20vs%20%E8%92%99%E5%8F%A4%E8%B4%A2%E7%BB%8F%E5%A4%A7%E5%AD%A6%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
+#EXTINF:-1 tvg-id="龙仁三星女篮 vs 新韩银行大鸟女篮·1080P原声" tvg-chno="1203" tvg-name="龙仁三星女篮 vs 新韩银行大鸟女篮·1080P原声" tvg-group="足球1080" group-title="足球1080",龙仁三星女篮 vs 新韩银行大鸟女篮·1080P原声
+http://192.168.5.35:35456/jh/%E9%BE%99%E4%BB%81%E4%B8%89%E6%98%9F%E5%A5%B3%E7%AF%AE%20vs%20%E6%96%B0%E9%9F%A9%E9%93%B6%E8%A1%8C%E5%A4%A7%E9%B8%9F%E5%A5%B3%E7%AF%AE%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
 #EXTINF:-1 tvg-id="乂安蓝江 vs 宁平FC·1080P原声" tvg-chno="1204" tvg-name="乂安蓝江 vs 宁平FC·1080P原声" tvg-group="足球1080" group-title="足球1080",乂安蓝江 vs 宁平FC·1080P原声
 http://192.168.5.35:35456/jh/%E4%B9%82%E5%AE%89%E8%93%9D%E6%B1%9F%20vs%20%E5%AE%81%E5%B9%B3FC%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
@@ -43,11 +43,9 @@ http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1305" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1306" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
-http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1307" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1308" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1307" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
@@ -61,11 +59,9 @@ http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 #EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1356" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1357" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
-http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1358" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1357" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1359" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1358" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="Dota2中文·完美世界" tvg-chno="1401" tvg-name="Dota2中文·完美世界" tvg-group="DOTA2" group-title="DOTA2",Dota2中文·完美世界
 http://127.0.0.1:35455/douyu/6829849
