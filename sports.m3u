@@ -19,17 +19,15 @@ http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1102" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="UC首都女篮 vs 吉朗毒液女篮·1080P原声" tvg-chno="1201" tvg-name="UC首都女篮 vs 吉朗毒液女篮·1080P原声" tvg-group="足球1080" group-title="足球1080",UC首都女篮 vs 吉朗毒液女篮·1080P原声
-http://192.168.5.35:35456/jh/UC%E9%A6%96%E9%83%BD%E5%A5%B3%E7%AF%AE%20vs%20%E5%90%89%E6%9C%97%E6%AF%92%E6%B6%B2%E5%A5%B3%E7%AF%AE%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="布罗德美度兰 vs 昆士兰狮队·1080P原声" tvg-chno="1202" tvg-name="布罗德美度兰 vs 昆士兰狮队·1080P原声" tvg-group="足球1080" group-title="足球1080",布罗德美度兰 vs 昆士兰狮队·1080P原声
+#EXTINF:-1 tvg-id="布罗德美度兰 vs 昆士兰狮队·1080P原声" tvg-chno="1201" tvg-name="布罗德美度兰 vs 昆士兰狮队·1080P原声" tvg-group="足球1080" group-title="足球1080",布罗德美度兰 vs 昆士兰狮队·1080P原声
 http://192.168.5.35:35456/jh/%E5%B8%83%E7%BD%97%E5%BE%B7%E7%BE%8E%E5%BA%A6%E5%85%B0%20vs%20%E6%98%86%E5%A3%AB%E5%85%B0%E7%8B%AE%E9%98%9F%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="麦克阿瑟FC vs 墨尔本城·1080P原声" tvg-chno="1203" tvg-name="麦克阿瑟FC vs 墨尔本城·1080P原声" tvg-group="足球1080" group-title="足球1080",麦克阿瑟FC vs 墨尔本城·1080P原声
+#EXTINF:-1 tvg-id="麦克阿瑟FC vs 墨尔本城·1080P原声" tvg-chno="1202" tvg-name="麦克阿瑟FC vs 墨尔本城·1080P原声" tvg-group="足球1080" group-title="足球1080",麦克阿瑟FC vs 墨尔本城·1080P原声
 http://192.168.5.35:35456/jh/%E9%BA%A6%E5%85%8B%E9%98%BF%E7%91%9FFC%20vs%20%E5%A2%A8%E5%B0%94%E6%9C%AC%E5%9F%8E%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="伊朗 vs 澳大利亚·1080P原声" tvg-chno="1204" tvg-name="伊朗 vs 澳大利亚·1080P原声" tvg-group="足球1080" group-title="足球1080",伊朗 vs 澳大利亚·1080P原声
+#EXTINF:-1 tvg-id="伊朗 vs 澳大利亚·1080P原声" tvg-chno="1203" tvg-name="伊朗 vs 澳大利亚·1080P原声" tvg-group="足球1080" group-title="足球1080",伊朗 vs 澳大利亚·1080P原声
 http://192.168.5.35:35456/jh/%E4%BC%8A%E6%9C%97%20vs%20%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="伊朗 vs 澳大利亚·咪咕高清·720P" tvg-chno="1205" tvg-name="伊朗 vs 澳大利亚·咪咕高清·720P" tvg-group="足球" group-title="足球",伊朗 vs 澳大利亚·咪咕高清·720P
+#EXTINF:-1 tvg-id="伊朗 vs 澳大利亚·咪咕高清·720P" tvg-chno="1204" tvg-name="伊朗 vs 澳大利亚·咪咕高清·720P" tvg-group="足球" group-title="足球",伊朗 vs 澳大利亚·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E4%BC%8A%E6%9C%97%20vs%20%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="早稻田大学 vs 蒙古财经大学·咪咕高清·720P" tvg-chno="1206" tvg-name="早稻田大学 vs 蒙古财经大学·咪咕高清·720P" tvg-group="足球" group-title="足球",早稻田大学 vs 蒙古财经大学·咪咕高清·720P
+#EXTINF:-1 tvg-id="早稻田大学 vs 蒙古财经大学·咪咕高清·720P" tvg-chno="1205" tvg-name="早稻田大学 vs 蒙古财经大学·咪咕高清·720P" tvg-group="足球" group-title="足球",早稻田大学 vs 蒙古财经大学·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E6%97%A9%E7%A8%BB%E7%94%B0%E5%A4%A7%E5%AD%A6%20vs%20%E8%92%99%E5%8F%A4%E8%B4%A2%E7%BB%8F%E5%A4%A7%E5%AD%A6%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
