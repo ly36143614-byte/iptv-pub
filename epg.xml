@@ -159,12 +159,16 @@
     <title>意甲：都灵 vs 拉齐奥</title>
     <category>体育</category>
   </programme>
-  <programme start="20261129013000 +0800" stop="20261129034500 +0800" channel="赛程预告">
+  <programme start="20261129013000 +0800" stop="20261129014500 +0800" channel="赛程预告">
     <title>足球：吉达国民 vs 布赖代合作；斯图加特：斯图加特 vs 法兰克福；西甲：埃尔切 vs 马德里竞技；英超：伊普斯维奇 vs 阿斯顿维拉</title>
     <category>体育</category>
   </programme>
+  <programme start="20261129014500 +0800" stop="20261129034500 +0800" channel="赛程预告">
+    <title>荷甲：埃因霍温 vs 前进之鹰</title>
+    <category>体育</category>
+  </programme>
   <programme start="20261129034500 +0800" stop="20261129040000 +0800" channel="赛程预告">
-    <title>法甲：巴黎圣日耳曼 vs 洛里昂；尼斯：尼斯 vs 特鲁瓦；勒芒：勒芒 vs 里尔；勒阿弗尔：勒阿弗尔 vs 斯特拉斯堡；意甲：国际米兰 vs 热那亚</title>
+    <title>法甲：巴黎圣日耳曼 vs 洛里昂；勒芒：勒芒 vs 里尔；尼斯：尼斯 vs 特鲁瓦；勒阿弗尔：勒阿弗尔 vs 斯特拉斯堡；意甲：国际米兰 vs 热那亚</title>
     <category>体育</category>
   </programme>
   <programme start="20261129040000 +0800" stop="20261129060000 +0800" channel="赛程预告">
