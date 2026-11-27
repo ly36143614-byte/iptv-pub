@@ -21,7 +21,9 @@ http://23.237.104.106:8080/USA_NBA/index.m3u8
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="马来西亚 vs 斐济·1080P原声" tvg-chno="1201" tvg-name="马来西亚 vs 斐济·1080P原声" tvg-group="足球1080" group-title="足球1080",马来西亚 vs 斐济·1080P原声
 http://192.168.5.35:35456/jh/%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%20vs%20%E6%96%90%E6%B5%8E%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="约旦 vs 新西兰·咪咕高清·720P" tvg-chno="1202" tvg-name="约旦 vs 新西兰·咪咕高清·720P" tvg-group="足球" group-title="足球",约旦 vs 新西兰·咪咕高清·720P
+#EXTINF:-1 tvg-id="约旦 vs 新西兰·1080P原声" tvg-chno="1202" tvg-name="约旦 vs 新西兰·1080P原声" tvg-group="足球1080" group-title="足球1080",约旦 vs 新西兰·1080P原声
+http://192.168.5.35:35456/jh/%E7%BA%A6%E6%97%A6%20vs%20%E6%96%B0%E8%A5%BF%E5%85%B0%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
+#EXTINF:-1 tvg-id="约旦 vs 新西兰·咪咕高清·720P" tvg-chno="1203" tvg-name="约旦 vs 新西兰·咪咕高清·720P" tvg-group="足球" group-title="足球",约旦 vs 新西兰·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E7%BA%A6%E6%97%A6%20vs%20%E6%96%B0%E8%A5%BF%E5%85%B0%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
@@ -33,9 +35,11 @@ http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1305" tvg-name="Tennis Channel 2" tvg-group="综合体育" group-title="综合体育",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1306" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1306" tvg-name="CCTV高尔夫·网球" tvg-group="综合体育" group-title="综合体育",CCTV高尔夫·网球
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="CCTV5+" tvg-chno="1307" tvg-name="CCTV5+" tvg-group="综合体育" group-title="综合体育",CCTV5+
 http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1307" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-chno="1308" tvg-name="CCTV16" tvg-group="综合体育" group-title="综合体育",CCTV16
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-chno="1351" tvg-name="NBA TV" tvg-group="体育综合" group-title="体育综合",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
@@ -49,9 +53,11 @@ http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 #EXTINF:-1 tvg-id="F1·TeleFormula" tvg-chno="1356" tvg-name="F1·TeleFormula" tvg-group="体育综合" group-title="体育综合",F1·TeleFormula
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1357" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
+#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-chno="1357" tvg-name="CCTV高尔夫·网球" tvg-group="体育综合" group-title="体育综合",CCTV高尔夫·网球
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-chno="1358" tvg-name="Tennis Channel" tvg-group="体育综合" group-title="体育综合",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1358" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-chno="1359" tvg-name="Tennis Channel 2" tvg-group="体育综合" group-title="体育综合",Tennis Channel 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="Dota2中文·完美世界" tvg-chno="1401" tvg-name="Dota2中文·完美世界" tvg-group="DOTA2" group-title="DOTA2",Dota2中文·完美世界
 http://127.0.0.1:35455/douyu/6829849
