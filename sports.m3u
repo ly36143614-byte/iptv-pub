@@ -19,9 +19,7 @@ http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1102" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="圣保罗 vs 雷莫·1080P原声" tvg-chno="1201" tvg-name="圣保罗 vs 雷莫·1080P原声" tvg-group="足球1080" group-title="足球1080",圣保罗 vs 雷莫·1080P原声
-http://192.168.5.35:35456/jh/%E5%9C%A3%E4%BF%9D%E7%BD%97%20vs%20%E9%9B%B7%E8%8E%AB%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="阿根廷 vs 巴哈马·咪咕高清·720P" tvg-chno="1202" tvg-name="阿根廷 vs 巴哈马·咪咕高清·720P" tvg-group="足球" group-title="足球",阿根廷 vs 巴哈马·咪咕高清·720P
+#EXTINF:-1 tvg-id="阿根廷 vs 巴哈马·咪咕高清·720P" tvg-chno="1201" tvg-name="阿根廷 vs 巴哈马·咪咕高清·720P" tvg-group="足球" group-title="足球",阿根廷 vs 巴哈马·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E9%98%BF%E6%A0%B9%E5%BB%B7%20vs%20%E5%B7%B4%E5%93%88%E9%A9%AC%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
