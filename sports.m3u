@@ -19,23 +19,21 @@ http://192.168.5.35:35456/team/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-chno="1102" tvg-name="ESPN" tvg-group="篮球" group-title="篮球",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="山西竹叶青酒女篮 vs 上海浦发银行女篮·1080P原声" tvg-chno="1103" tvg-name="山西竹叶青酒女篮 vs 上海浦发银行女篮·1080P原声" tvg-group="篮球1080" group-title="篮球1080",山西竹叶青酒女篮 vs 上海浦发银行女篮·1080P原声
-http://192.168.5.35:35456/jh/%E5%B1%B1%E8%A5%BF%E7%AB%B9%E5%8F%B6%E9%9D%92%E9%85%92%E5%A5%B3%E7%AF%AE%20vs%20%E4%B8%8A%E6%B5%B7%E6%B5%A6%E5%8F%91%E9%93%B6%E8%A1%8C%E5%A5%B3%E7%AF%AE%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="山西竹叶青酒女篮 vs 上海浦发银行女篮·咪咕高清·720P" tvg-chno="1104" tvg-name="山西竹叶青酒女篮 vs 上海浦发银行女篮·咪咕高清·720P" tvg-group="篮球" group-title="篮球",山西竹叶青酒女篮 vs 上海浦发银行女篮·咪咕高清·720P
-http://192.168.5.35:35456/jh/%E5%B1%B1%E8%A5%BF%E7%AB%B9%E5%8F%B6%E9%9D%92%E9%85%92%E5%A5%B3%E7%AF%AE%20vs%20%E4%B8%8A%E6%B5%B7%E6%B5%A6%E5%8F%91%E9%93%B6%E8%A1%8C%E5%A5%B3%E7%AF%AE%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="四川远达美乐女篮 vs 江苏南钢女篮·咪咕高清·720P" tvg-chno="1105" tvg-name="四川远达美乐女篮 vs 江苏南钢女篮·咪咕高清·720P" tvg-group="篮球" group-title="篮球",四川远达美乐女篮 vs 江苏南钢女篮·咪咕高清·720P
+#EXTINF:-1 tvg-id="四川远达美乐女篮 vs 江苏南钢女篮·咪咕高清·720P" tvg-chno="1103" tvg-name="四川远达美乐女篮 vs 江苏南钢女篮·咪咕高清·720P" tvg-group="篮球" group-title="篮球",四川远达美乐女篮 vs 江苏南钢女篮·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E5%9B%9B%E5%B7%9D%E8%BF%9C%E8%BE%BE%E7%BE%8E%E4%B9%90%E5%A5%B3%E7%AF%AE%20vs%20%E6%B1%9F%E8%8B%8F%E5%8D%97%E9%92%A2%E5%A5%B3%E7%AF%AE%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
+#EXTINF:-1 tvg-id="山西竹叶青酒女篮 vs 上海浦发银行女篮·1080P原声" tvg-chno="1104" tvg-name="山西竹叶青酒女篮 vs 上海浦发银行女篮·1080P原声" tvg-group="篮球1080" group-title="篮球1080",山西竹叶青酒女篮 vs 上海浦发银行女篮·1080P原声
+http://192.168.5.35:35456/jh/%E5%B1%B1%E8%A5%BF%E7%AB%B9%E5%8F%B6%E9%9D%92%E9%85%92%E5%A5%B3%E7%AF%AE%20vs%20%E4%B8%8A%E6%B5%B7%E6%B5%A6%E5%8F%91%E9%93%B6%E8%A1%8C%E5%A5%B3%E7%AF%AE%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
+#EXTINF:-1 tvg-id="山西竹叶青酒女篮 vs 上海浦发银行女篮·咪咕高清·720P" tvg-chno="1105" tvg-name="山西竹叶青酒女篮 vs 上海浦发银行女篮·咪咕高清·720P" tvg-group="篮球" group-title="篮球",山西竹叶青酒女篮 vs 上海浦发银行女篮·咪咕高清·720P
+http://192.168.5.35:35456/jh/%E5%B1%B1%E8%A5%BF%E7%AB%B9%E5%8F%B6%E9%9D%92%E9%85%92%E5%A5%B3%E7%AF%AE%20vs%20%E4%B8%8A%E6%B5%B7%E6%B5%A6%E5%8F%91%E9%93%B6%E8%A1%8C%E5%A5%B3%E7%AF%AE%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
 #EXTINF:-1 tvg-id="中国女足 vs 泰国女足·1080P原声" tvg-chno="1201" tvg-name="中国女足 vs 泰国女足·1080P原声" tvg-group="足球1080" group-title="足球1080",中国女足 vs 泰国女足·1080P原声
 http://192.168.5.35:35456/jh/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%20vs%20%E6%B3%B0%E5%9B%BD%E5%A5%B3%E8%B6%B3%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
 #EXTINF:-1 tvg-id="中国女足 vs 泰国女足·咪咕高清·720P" tvg-chno="1202" tvg-name="中国女足 vs 泰国女足·咪咕高清·720P" tvg-group="足球" group-title="足球",中国女足 vs 泰国女足·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%20vs%20%E6%B3%B0%E5%9B%BD%E5%A5%B3%E8%B6%B3%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="喀山红宝石 vs 阿克隆陶里亚蒂·1080P原声" tvg-chno="1203" tvg-name="喀山红宝石 vs 阿克隆陶里亚蒂·1080P原声" tvg-group="足球1080" group-title="足球1080",喀山红宝石 vs 阿克隆陶里亚蒂·1080P原声
-http://192.168.5.35:35456/jh/%E5%96%80%E5%B1%B1%E7%BA%A2%E5%AE%9D%E7%9F%B3%20vs%20%E9%98%BF%E5%85%8B%E9%9A%86%E9%99%B6%E9%87%8C%E4%BA%9A%E8%92%82%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="武汉盛帆黄鹤女篮 vs 石家庄英励女篮·咪咕高清·720P" tvg-chno="1204" tvg-name="武汉盛帆黄鹤女篮 vs 石家庄英励女篮·咪咕高清·720P" tvg-group="足球" group-title="足球",武汉盛帆黄鹤女篮 vs 石家庄英励女篮·咪咕高清·720P
+#EXTINF:-1 tvg-id="武汉盛帆黄鹤女篮 vs 石家庄英励女篮·咪咕高清·720P" tvg-chno="1203" tvg-name="武汉盛帆黄鹤女篮 vs 石家庄英励女篮·咪咕高清·720P" tvg-group="足球" group-title="足球",武汉盛帆黄鹤女篮 vs 石家庄英励女篮·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E6%AD%A6%E6%B1%89%E7%9B%9B%E5%B8%86%E9%BB%84%E9%B9%A4%E5%A5%B3%E7%AF%AE%20vs%20%E7%9F%B3%E5%AE%B6%E5%BA%84%E8%8B%B1%E5%8A%B1%E5%A5%B3%E7%AF%AE%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="林肯城 vs 狼队·1080P原声" tvg-chno="1205" tvg-name="林肯城 vs 狼队·1080P原声" tvg-group="足球1080" group-title="足球1080",林肯城 vs 狼队·1080P原声
+#EXTINF:-1 tvg-id="林肯城 vs 狼队·1080P原声" tvg-chno="1204" tvg-name="林肯城 vs 狼队·1080P原声" tvg-group="足球1080" group-title="足球1080",林肯城 vs 狼队·1080P原声
 http://192.168.5.35:35456/jh/%E6%9E%97%E8%82%AF%E5%9F%8E%20vs%20%E7%8B%BC%E9%98%9F%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
-#EXTINF:-1 tvg-id="贝蒂斯 vs 巴列卡诺·咪咕高清·720P" tvg-chno="1206" tvg-name="贝蒂斯 vs 巴列卡诺·咪咕高清·720P" tvg-group="足球" group-title="足球",贝蒂斯 vs 巴列卡诺·咪咕高清·720P
+#EXTINF:-1 tvg-id="贝蒂斯 vs 巴列卡诺·咪咕高清·720P" tvg-chno="1205" tvg-name="贝蒂斯 vs 巴列卡诺·咪咕高清·720P" tvg-group="足球" group-title="足球",贝蒂斯 vs 巴列卡诺·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E8%B4%9D%E8%92%82%E6%96%AF%20vs%20%E5%B7%B4%E5%88%97%E5%8D%A1%E8%AF%BA%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
 #EXTINF:-1 tvg-id="NFL·CBS" tvg-chno="1301" tvg-name="NFL·CBS" tvg-group="综合体育" group-title="综合体育",NFL·CBS
 http://85.237.89.160:9590/usa-s/CBS/index.m3u8
