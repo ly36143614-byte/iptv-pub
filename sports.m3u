@@ -59,8 +59,14 @@ http://192.168.5.35:35456/jh/%E6%A3%AE%E6%9E%97%E7%8B%BC%20vs%20%E7%81%B0%E7%86%
 http://192.168.5.35:35456/jh/%E6%A3%AE%E6%9E%97%E7%8B%BC%20vs%20%E7%81%B0%E7%86%8A%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD1%C2%B7720P.m3u8
 #EXTINF:-1 tvg-id="森林狼 vs 灰熊·咪咕高清·720P" tvg-chno="1122" tvg-name="森林狼 vs 灰熊·咪咕高清·720P" tvg-group="篮球" group-title="篮球",森林狼 vs 灰熊·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E6%A3%AE%E6%9E%97%E7%8B%BC%20vs%20%E7%81%B0%E7%86%8A%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
-#EXTINF:-1 tvg-id="太阳 vs 独行侠·咪咕高清·720P" tvg-chno="1123" tvg-name="太阳 vs 独行侠·咪咕高清·720P" tvg-group="篮球" group-title="篮球",太阳 vs 独行侠·咪咕高清·720P
+#EXTINF:-1 tvg-id="太阳 vs 独行侠·腾讯直播3·1080P" tvg-chno="1123" tvg-name="太阳 vs 独行侠·腾讯直播3·1080P" tvg-group="篮球1080" group-title="篮球1080",太阳 vs 独行侠·腾讯直播3·1080P
+http://192.168.5.35:35456/jh/%E5%A4%AA%E9%98%B3%20vs%20%E7%8B%AC%E8%A1%8C%E4%BE%A0%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD3%C2%B71080P.m3u8
+#EXTINF:-1 tvg-id="太阳 vs 独行侠·腾讯直播1·720P" tvg-chno="1124" tvg-name="太阳 vs 独行侠·腾讯直播1·720P" tvg-group="篮球" group-title="篮球",太阳 vs 独行侠·腾讯直播1·720P
+http://192.168.5.35:35456/jh/%E5%A4%AA%E9%98%B3%20vs%20%E7%8B%AC%E8%A1%8C%E4%BE%A0%C2%B7%E8%85%BE%E8%AE%AF%E7%9B%B4%E6%92%AD1%C2%B7720P.m3u8
+#EXTINF:-1 tvg-id="太阳 vs 独行侠·咪咕高清·720P" tvg-chno="1125" tvg-name="太阳 vs 独行侠·咪咕高清·720P" tvg-group="篮球" group-title="篮球",太阳 vs 独行侠·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E5%A4%AA%E9%98%B3%20vs%20%E7%8B%AC%E8%A1%8C%E4%BE%A0%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
+#EXTINF:-1 tvg-id="开拓者 vs 勇士·咪咕高清·720P" tvg-chno="1126" tvg-name="开拓者 vs 勇士·咪咕高清·720P" tvg-group="篮球" group-title="篮球",开拓者 vs 勇士·咪咕高清·720P
+http://192.168.5.35:35456/jh/%E5%BC%80%E6%8B%93%E8%80%85%20vs%20%E5%8B%87%E5%A3%AB%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
 #EXTINF:-1 tvg-id="哥伦布机员 vs 迈阿密国际·1080P原声" tvg-chno="1201" tvg-name="哥伦布机员 vs 迈阿密国际·1080P原声" tvg-group="足球1080" group-title="足球1080",哥伦布机员 vs 迈阿密国际·1080P原声
 http://192.168.5.35:35456/jh/%E5%93%A5%E4%BC%A6%E5%B8%83%E6%9C%BA%E5%91%98%20vs%20%E8%BF%88%E9%98%BF%E5%AF%86%E5%9B%BD%E9%99%85%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
 #EXTINF:-1 tvg-id="哥伦比亚 vs 多米尼加·咪咕高清·720P" tvg-chno="1202" tvg-name="哥伦比亚 vs 多米尼加·咪咕高清·720P" tvg-group="足球" group-title="足球",哥伦比亚 vs 多米尼加·咪咕高清·720P
