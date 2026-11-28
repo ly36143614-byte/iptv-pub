@@ -91,8 +91,12 @@
     <title>中国女足：中国女足 vs 泰国女足</title>
     <category>体育</category>
   </programme>
-  <programme start="20261128201500 +0800" stop="20261128210000 +0800" channel="赛程预告">
+  <programme start="20261128201500 +0800" stop="20261128203000 +0800" channel="赛程预告">
     <title>利雅得胜利：哈森姆 vs 利雅得胜利</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261128203000 +0800" stop="20261128210000 +0800" channel="赛程预告">
+    <title>英冠：布莱克本 vs 查尔顿</title>
     <category>体育</category>
   </programme>
   <programme start="20261128210000 +0800" stop="20261128220000 +0800" channel="赛程预告">
@@ -108,11 +112,11 @@
     <category>体育</category>
   </programme>
   <programme start="20261128223000 +0800" stop="20261128230000 +0800" channel="赛程预告">
-    <title>德甲：帕德博恩 vs 沙尔克04；科隆 vs 埃沃斯堡；美因茨 vs 柏林联合；汉堡 vs 拜仁慕尼黑；科隆 vs 埃尔沃斯贝格</title>
+    <title>德甲：帕德博恩 vs 沙尔克04；科隆 vs 埃沃斯堡；汉堡 vs 拜仁；美因茨 vs 柏林联合；汉堡 vs 拜仁慕尼黑；科隆 vs 埃尔沃斯贝格</title>
     <category>体育</category>
   </programme>
   <programme start="20261128230000 +0800" stop="20261128231500 +0800" channel="赛程预告">
-    <title>英超：曼联 vs 布伦特；利兹联 vs 考文垂；曼联 vs 布伦特福德</title>
+    <title>英超：曼联 vs 布伦特；英超：利兹联 vs 考文垂；英冠：女王巡游 vs 谢菲联；英超：曼联 vs 布伦特福德</title>
     <category>体育</category>
   </programme>
   <programme start="20261128231500 +0800" stop="20261128233000 +0800" channel="赛程预告">
@@ -128,7 +132,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261129010000 +0800" stop="20261129013000 +0800" channel="赛程预告">
-    <title>意甲：都灵 vs 拉齐奥</title>
+    <title>意甲：都灵 vs 拉齐奥；挪超：罗森博格 vs 莫尔德</title>
     <category>体育</category>
   </programme>
   <programme start="20261129013000 +0800" stop="20261129014500 +0800" channel="赛程预告">
@@ -163,8 +167,16 @@
     <title>NBA：火箭 vs 76人</title>
     <category>体育</category>
   </programme>
-  <programme start="20261129130000 +0800" stop="20261129190000 +0800" channel="赛程预告">
-    <title>韩职：蔚山现代 vs 全北现代</title>
+  <programme start="20261129130000 +0800" stop="20261129150000 +0800" channel="赛程预告">
+    <title>日乙：湘南海洋 vs 富山胜利；韩职：蔚山现代 vs 全北现代</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261129150000 +0800" stop="20261129153000 +0800" channel="赛程预告">
+    <title>日职：町田泽维 vs 东京绿茵</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261129153000 +0800" stop="20261129190000 +0800" channel="赛程预告">
+    <title>韩职：仁川联 vs 江原FC</title>
     <category>体育</category>
   </programme>
   <programme start="20261129190000 +0800" stop="20261129191500 +0800" channel="赛程预告">
@@ -192,15 +204,15 @@
     <category>体育</category>
   </programme>
   <programme start="20261129220000 +0800" stop="20261129220500 +0800" channel="赛程预告">
-    <title>意甲：萨索洛 vs 那不勒斯；足球：IFK哥德堡 vs 天狼星；足球：瓦斯特拉斯 vs 哈马比；法甲：欧塞尔 vs 马赛</title>
+    <title>意甲：萨索洛 vs 那不勒斯；瑞超：佐加顿斯 vs 赫根；足球：IFK哥德堡 vs 天狼星；足球：瓦斯特拉斯 vs 哈马比；法甲：欧塞尔 vs 马赛</title>
     <category>体育</category>
   </programme>
   <programme start="20261129220500 +0800" stop="20261129223000 +0800" channel="赛程预告">
-    <title>英超：布莱顿 vs 纽卡斯尔联；水晶宫 vs 赫尔城；桑德兰 vs 热刺；富勒姆 vs 伯恩茅斯</title>
+    <title>英超：富勒姆 vs 伯恩茅斯；桑德兰 vs 热刺；水晶宫 vs 赫尔城；布莱顿 vs 纽卡斯尔联</title>
     <category>体育</category>
   </programme>
   <programme start="20261129223000 +0800" stop="20261129231500 +0800" channel="赛程预告">
-    <title>德甲：弗赖堡 vs RB莱比锡</title>
+    <title>德甲：弗赖堡 vs 莱红牛；弗赖堡 vs RB莱比锡</title>
     <category>体育</category>
   </programme>
   <programme start="20261129231500 +0800" stop="20261130001500 +0800" channel="赛程预告">
@@ -232,7 +244,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261130034500 +0800" stop="20261130040000 +0800" channel="赛程预告">
-    <title>法甲：里昂 vs 摩纳哥；意甲：科莫 vs 尤文图斯</title>
+    <title>意甲：科莫 vs 尤文图斯；法甲：里昂 vs 摩纳哥</title>
     <category>体育</category>
   </programme>
   <programme start="20261130040000 +0800" stop="20261130043000 +0800" channel="赛程预告">
@@ -243,8 +255,12 @@
     <title>葡超：波尔图 vs 里斯本；葡超：波尔图 vs 葡萄牙体育；NBA：骑士 vs 热火</title>
     <category>体育</category>
   </programme>
-  <programme start="20261130050000 +0800" stop="20261130060000 +0800" channel="赛程预告">
+  <programme start="20261130050000 +0800" stop="20261130053000 +0800" channel="赛程预告">
     <title>NBA：灰熊 vs 湖人；马刺 vs 凯尔特人</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261130053000 +0800" stop="20261130060000 +0800" channel="赛程预告">
+    <title>巴甲：科林蒂安 vs 格雷米奥</title>
     <category>体育</category>
   </programme>
   <programme start="20261130060000 +0800" stop="20261130070000 +0800" channel="赛程预告">
