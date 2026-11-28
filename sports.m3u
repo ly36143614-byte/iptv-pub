@@ -23,6 +23,8 @@ http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 http://192.168.5.35:35456/jh/%E5%B0%BC%E5%85%8B%E6%96%AF%20vs%20%E7%83%AD%E7%81%AB%C2%B7%E7%BA%AC%E6%9D%A51080.m3u8
 #EXTINF:-1 tvg-id="尼克斯 vs 热火·咪咕高清·720P" tvg-chno="1104" tvg-name="尼克斯 vs 热火·咪咕高清·720P" tvg-group="篮球" group-title="篮球",尼克斯 vs 热火·咪咕高清·720P
 http://192.168.5.35:35456/jh/%E5%B0%BC%E5%85%8B%E6%96%AF%20vs%20%E7%83%AD%E7%81%AB%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
+#EXTINF:-1 tvg-id="步行者 vs 76人·咪咕高清·720P" tvg-chno="1105" tvg-name="步行者 vs 76人·咪咕高清·720P" tvg-group="篮球" group-title="篮球",步行者 vs 76人·咪咕高清·720P
+http://192.168.5.35:35456/jh/%E6%AD%A5%E8%A1%8C%E8%80%85%20vs%2076%E4%BA%BA%C2%B7%E5%92%AA%E5%92%95%E9%AB%98%E6%B8%85%C2%B7720P.m3u8
 #EXTINF:-1 tvg-id="智利 vs 墨西哥·1080P原声" tvg-chno="1201" tvg-name="智利 vs 墨西哥·1080P原声" tvg-group="足球1080" group-title="足球1080",智利 vs 墨西哥·1080P原声
 http://192.168.5.35:35456/jh/%E6%99%BA%E5%88%A9%20vs%20%E5%A2%A8%E8%A5%BF%E5%93%A5%C2%B71080P%E5%8E%9F%E5%A3%B0.m3u8
 #EXTINF:-1 tvg-id="智利 vs 墨西哥·咪咕高清·720P" tvg-chno="1202" tvg-name="智利 vs 墨西哥·咪咕高清·720P" tvg-group="足球" group-title="足球",智利 vs 墨西哥·咪咕高清·720P
