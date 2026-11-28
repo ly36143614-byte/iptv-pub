@@ -24,7 +24,7 @@
     <title>New England Patriots at Los Angeles Chargers（NFL）</title>
     <category>体育</category>
   </programme>
-  <programme start="20261128205940 +0800" stop="20261129005940 +0800" channel="Dota2中文·TI赛事">
+  <programme start="20261128210334 +0800" stop="20261129010334 +0800" channel="Dota2中文·TI赛事">
     <title>【直播】PGL新加坡Major B舞台</title>
     <category>体育</category>
   </programme>
@@ -73,7 +73,7 @@
     <category>体育</category>
   </programme>
   <programme start="20261128210000 +0800" stop="20261128220000 +0800" channel="赛程预告">
-    <title>西甲：贝蒂斯 vs 巴列卡诺；皇家贝蒂斯 vs 巴列卡诺</title>
+    <title>西甲：皇家贝蒂斯 vs 巴列卡诺</title>
     <category>体育</category>
   </programme>
   <programme start="20261128220000 +0800" stop="20261128222000 +0800" channel="赛程预告">
@@ -252,8 +252,12 @@
     <title>NBA：国王 vs 森林狼</title>
     <category>体育</category>
   </programme>
-  <programme start="20261130203000 +0800" stop="20261130223000 +0800" channel="赛程预告">
+  <programme start="20261130203000 +0800" stop="20261130210000 +0800" channel="赛程预告">
     <title>足球：意大利U17 vs 塔吉克斯坦U17；克罗地亚U17 vs 乌拉圭U17</title>
+    <category>体育</category>
+  </programme>
+  <programme start="20261130210000 +0800" stop="20261130230000 +0800" channel="赛程预告">
+    <title>足球：巴西U17 vs 莫桑比克U17</title>
     <category>体育</category>
   </programme>
 </tv>
